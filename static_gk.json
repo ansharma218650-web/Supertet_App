@@ -1,0 +1,2405 @@
+{
+  "subject": "Static GK",
+  "questions": [
+    {
+      "id": "2c4ae9af",
+      "question": "Who was the founder of the Maurya Empire? / मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "options": [
+        "Chandragupta Maurya / चंद्रगुप्त मौर्य",
+        "Ashoka / अशोक",
+        "Bindusara / बिन्दुसार",
+        "Brihadratha / बृहद्रथ"
+      ],
+      "answer": 0,
+      "explanation": "Chandragupta Maurya founded the Maurya Empire with the help of Chanakya. / चंद्रगुप्त मौर्य ने चाणक्य की सहायता से मौर्य साम्राज्य की स्थापना की थी।"
+    },
+    {
+      "id": "ccc2a375",
+      "question": "Which Veda is known as the 'Veda of Melodies and Chants'? / किस वेद को 'संगीत का वेद' कहा जाता है?",
+      "options": [
+        "Rigveda / ऋग्वेद",
+        "Samaveda / सामवेद",
+        "Yajurveda / यजुर्वेद",
+        "Atharvaveda / अथर्ववेद"
+      ],
+      "answer": 1,
+      "explanation": "Samaveda is considered the root of Indian classical music. / सामवेद को भारतीय शास्त्रीय संगीत का मूल माना जाता है।"
+    },
+    {
+      "id": "97ed05b8",
+      "question": "The Indus Valley Civilisation site 'Lothal' is located in which state? / सिंधु घाटी सभ्यता का स्थल 'लोथल' किस राज्य में स्थित है?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Gujarat / गुजरात",
+        "Punjab / पंजाब",
+        "Haryana / हरियाणा"
+      ],
+      "answer": 1,
+      "explanation": "Lothal was an ancient dockyard city of the Indus Valley Civilisation located in Gujarat. / लोथल गुजरात में स्थित सिंधु घाटी सभ्यता का एक प्राचीन बंदरगाह शहर था।"
+    },
+    {
+      "id": "7a54761c",
+      "question": "Who amongst the following built the famous Sun Temple of Konark? / कोणार्क का प्रसिद्ध सूर्य मंदिर किसने बनवाया था?",
+      "options": [
+        "Narasimhadeva I / नरसिंहदेव प्रथम",
+        "Rajaraja Chola / राजराज चोल",
+        "Anantavarman / अनंतवर्मन",
+        "Kharavela / खारवेल"
+      ],
+      "answer": 0,
+      "explanation": "Konark Sun Temple in Odisha was built by King Narasimhadeva I of the Eastern Ganga dynasty. / ओडिशा में कोणार्क सूर्य मंदिर का निर्माण पूर्वी गंगा राजवंश के राजा नरसिंहदेव प्रथम ने करवाया था।"
+    },
+    {
+      "id": "a7124797",
+      "question": "The First Battle of Panipat was fought in which year? / पानीपत का प्रथम युद्ध किस वर्ष लड़ा गया था?",
+      "options": [
+        "1526",
+        "1556",
+        "1761",
+        "1539"
+      ],
+      "answer": 0,
+      "explanation": "The First Battle of Panipat was fought in 1526 between Babur and Ibrahim Lodi. / पानीपत की पहली लड़ाई 1526 में बाबर और इब्राहिम लोदी के बीच लड़ी गई थी।"
+    },
+    {
+      "id": "415ae658",
+      "question": "Who introduced the Permanent Settlement system in Bengal in 1793? / 1793 में बंगाल में स्थायी बंदोबस्त प्रणाली की शुरुआत किसने की?",
+      "options": [
+        "Lord Dalhousie / लॉर्ड डलहौजी",
+        "Lord Cornwallis / लॉर्ड कॉर्नवालिस",
+        "Lord Wellesley / लॉर्ड वेलेस्ली",
+        "Warren Hastings / वॉरेन हेस्टिंग्स"
+      ],
+      "answer": 1,
+      "explanation": "Lord Cornwallis introduced the Permanent Settlement system in Bengal. / लॉर्ड कॉर्नवालिस ने बंगाल में स्थायी बंदोबस्त (Permanent Settlement) लागू किया था।"
+    },
+    {
+      "id": "8db4e0c9",
+      "question": "Who was the founder of the 'Brahmo Samaj'? / 'ब्रह्म समाज' के संस्थापक कौन थे?",
+      "options": [
+        "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती",
+        "Raja Ram Mohan Roy / राजा राममोहन राय",
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Ishwar Chandra Vidyasagar / ईश्वर चंद्र विद्यासागर"
+      ],
+      "answer": 1,
+      "explanation": "Raja Ram Mohan Roy founded Brahmo Samaj in 1828 in Kolkata. / राजा राममोहन राय ने 1828 में कोलकाता में ब्रह्म समाज की स्थापना की थी।"
+    },
+    {
+      "id": "0497c4c1",
+      "question": "In which session of the Indian National Congress was 'Purna Swaraj' declared as the goal? / भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में 'पूर्ण स्वराज' को लक्ष्य घोषित किया गया था?",
+      "options": [
+        "Lahore Session (1929) / लाहौर अधिवेशन (1929)",
+        "Surat Session (1907) / सूरत अधिवेशन (1907)",
+        "Lucknow Session (1916) / लखनऊ अधिवेशन (1916)",
+        "Calcutta Session (1920) / कलकत्ता अधिवेशन (1920)"
+      ],
+      "answer": 0,
+      "explanation": "Purna Swaraj declaration was made in the 1929 Lahore Session presided over by Jawaharlal Nehru. / जवाहरलाल नेहरू की अध्यक्षता में 1929 के लाहौर अधिवेशन में पूर्ण स्वराज की घोषणा की गई थी।"
+    },
+    {
+      "id": "17cdeea3",
+      "question": "Who gave the famous slogan 'Swaraj is my birthright and I shall have it'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूंगा' का नारा किसने दिया था?",
+      "options": [
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Subhash Chandra Bose / सुभाष चंद्र बोस",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Lala Lajpat Rai / लाला लाजपत राय"
+      ],
+      "answer": 2,
+      "explanation": "Bal Gangadhar Tilak gave this famous slogan. / बाल गंगाधर तिलक ने यह प्रसिद्ध नारा दिया था।"
+    },
+    {
+      "id": "3a73869d",
+      "question": "The 'Jallianwala Bagh' massacre took place in which city and year? / 'जलियांवाला बाग' हत्याकांड किस शहर में और किस वर्ष हुआ था?",
+      "options": [
+        "Amritsar, 1919 / अमृतसर, 1919",
+        "Lahore, 1920 / लाहौर, 1920",
+        "Delhi, 1918 / दिल्ली, 1918",
+        "Gorakhpur, 1922 / गोरखपुर, 1922"
+      ],
+      "answer": 0,
+      "explanation": "It took place on April 13, 1919 in Amritsar, Punjab. / यह 13 अप्रैल 1919 को पंजाब के अमृतसर में हुआ था।"
+    },
+    {
+      "id": "23667a78",
+      "question": "Who was known as the 'Frontier Gandhi' (Simant Gandhi)? / 'सीमांत गांधी' के नाम से किसे जाना जाता था?",
+      "options": [
+        "Khan Abdul Ghaffar Khan / खान अब्दुल गफ्फार खान",
+        "Maulana Abul Kalam Azad / मौलाना अबुल कलाम आजाद",
+        "Muhammad Ali Jinnah / मोहम्मद अली जिन्ना",
+        "Sheikh Abdullah / शेख अब्दुल्ला"
+      ],
+      "answer": 0,
+      "explanation": "Khan Abdul Ghaffar Khan was known as Frontier Gandhi. / खान अब्दुल गफ्फार खान को सीमांत गांधी के नाम से जाना जाता था।"
+    },
+    {
+      "id": "0e051ddd",
+      "question": "Which Governor General abolished the practice of Sati in India? / भारत में सती प्रथा का अंत किस गवर्नर जनरल ने किया था?",
+      "options": [
+        "Lord William Bentinck / लॉर्ड विलियम बैंटिंक",
+        "Lord Canning / लॉर्ड कैनिंग",
+        "Lord Ripon / लॉर्ड रिपन",
+        "Lord Curzon / लॉर्ड कर्जन"
+      ],
+      "answer": 0,
+      "explanation": "Lord William Bentinck passed the Sati Regulation Act in 1829 with Raja Ram Mohan Roy's efforts. / लॉर्ड विलियम बैंटिंक ने 1829 में सती प्रथा पर प्रतिबंध लगाया था।"
+    },
+    {
+      "id": "8be6839d",
+      "question": "Who was the author of the book 'Gulamgiri'? / 'गुलामगिरी' पुस्तक के लेखक कौन थे?",
+      "options": [
+        "Jyotirao Phule / ज्योतिराव फुले",
+        "B.R. Ambedkar / बी.आर. अंबेडकर",
+        "E.V. Ramasamy / ई.वी. रामासामी",
+        "Mahatma Gandhi / महात्मा गांधी"
+      ],
+      "answer": 0,
+      "explanation": "Jyotirao Phule wrote 'Gulamgiri' in 1873. / ज्योतिराव फुले ने 1873 में 'गुलामगिरी' पुस्तक लिखी थी।"
+    },
+    {
+      "id": "0e072da7",
+      "question": "Which Mughal Emperor built the Red Fort in Delhi? / दिल्ली के लाल किले का निर्माण किस मुगल सम्राट ने करवाया था?",
+      "options": [
+        "Akbar / अकबर",
+        "Shah Jahan / शाहजहाँ",
+        "Jahangir / जहाँगीर",
+        "Humayun / हुमायूँ"
+      ],
+      "answer": 1,
+      "explanation": "Shah Jahan built the Red Fort (Lal Qila) in Delhi. / शाहजहाँ ने दिल्ली के लाल किले का निर्माण करवाया था।"
+    },
+    {
+      "id": "56068695",
+      "question": "Who was the Chinese traveler who visited India during Harsha's reign? / सम्राट हर्षवर्धन के शासनकाल में भारत आने वाला चीनी यात्री कौन था?",
+      "options": [
+        "Hiuen Tsang (Xuanzang) / ह्वेनसांग",
+        "Fa-Hien / फाह्यान",
+        "I-Tsing / इत्सिंग",
+        "Megasthenes / मेगस्थनीज"
+      ],
+      "answer": 0,
+      "explanation": "Hiuen Tsang visited India during the reign of Harshavardhana. / ह्वेनसांग हर्षवर्धन के शासनकाल में भारत आया था।"
+    },
+    {
+      "id": "0369b58a",
+      "question": "Which is the longest river in India? / भारत की सबसे लंबी नदी कौन सी है?",
+      "options": [
+        "Ganga / गंगा",
+        "Godavari / गोदावरी",
+        "Yamuna / यमुना",
+        "Narmada / नर्मदा"
+      ],
+      "answer": 0,
+      "explanation": "The Ganga is the longest river in India with a length of 2,525 km. / गंगा भारत की सबसे लंबी नदी है जिसकी लंबाई 2525 किमी है।"
+    },
+    {
+      "id": "85c2b985",
+      "question": "Which river is known as the 'Sorrow of Bengal'? / किस नदी को 'बंगाल का शोक' कहा जाता है?",
+      "options": [
+        "Damodar River / दामोदर नदी",
+        "Kosi River / कोसी नदी",
+        "Hooghly River / हुगली नदी",
+        "Brahmaputra / ब्रह्मपुत्र नदी"
+      ],
+      "answer": 0,
+      "explanation": "Damodar river was historically known as the Sorrow of Bengal due to frequent floods. / दामोदर नदी को बार-बार आने वाली बाढ़ के कारण 'बंगाल का शोक' कहा जाता था।"
+    },
+    {
+      "id": "14e6e912",
+      "question": "Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Kosi River / कोसी नदी",
+        "Gandak River / गंडक नदी",
+        "Son River / सोन नदी",
+        "Ganga / गंगा नदी"
+      ],
+      "answer": 0,
+      "explanation": "Kosi river is called the Sorrow of Bihar due to its frequent course shifts and flooding. / कोसी नदी को अपना मार्ग बदलने और बाढ़ लाने के लिए 'बिहार का शोक' कहा जाता है।"
+    },
+    {
+      "id": "8ca60bb8",
+      "question": "Which state in India has the longest coastline? / भारत के किस राज्य की तटरेखा (Coastline) सबसे लंबी है?",
+      "options": [
+        "Gujarat / गुजरात",
+        "Andhra Pradesh / आंध्र प्रदेश",
+        "Tamil Nadu / तमिलनाडु",
+        "Maharashtra / महाराष्ट्र"
+      ],
+      "answer": 0,
+      "explanation": "Gujarat has the longest coastline in India (~1,600 km). / गुजरात राज्य की तटरेखा भारत में सबसे लंबी (लगभग 1600 किमी) है।"
+    },
+    {
+      "id": "e008193c",
+      "question": "Which pass connects Srinagar to Leh? / श्रीनगर को लेह से जोड़ने वाला दर्रा कौन सा है?",
+      "options": [
+        "Zoji La Pass / ज़ोजी ला दर्रा",
+        "Nathu La Pass / नाथू ला दर्रा",
+        "Shipki La Pass / शिपकी ला दर्रा",
+        "Rohtang Pass / रोहतांग दर्रा"
+      ],
+      "answer": 0,
+      "explanation": "Zoji La Pass connects Srinagar to Leh in Ladakh. / ज़ोजी ला दर्रा श्रीनगर को लद्दाख के लेह से जोड़ता है।"
+    },
+    {
+      "id": "b5f52c49",
+      "question": "The 'Tropic of Cancer' passes through how many Indian states? / 'कर्क रेखा' भारत के कितने राज्यों से होकर गुजरती है?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explanation": "Tropic of Cancer passes through 8 Indian states (Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram). / कर्क रेखा भारत के 8 राज्यों से होकर गुजरती है।"
+    },
+    {
+      "id": "ec49ed6e",
+      "question": "Which is the highest peak in South India? / दक्षिण भारत की सबसे ऊंची चोटी कौन सी है?",
+      "options": [
+        "Anamudi / अनामुडी",
+        "Doddabetta / दोड्डाबेट्टा",
+        "Kalsubai / कलसुबाई",
+        "Mahendragiri / महेंद्रगिरि"
+      ],
+      "answer": 0,
+      "explanation": "Anamudi (2,695 m) in Anaimalai Hills, Kerala is the highest peak in South India. / अनामुडी (2695 मीटर) दक्षिण भारत की सबसे ऊंची चोटी है।"
+    },
+    {
+      "id": "4781bcbf",
+      "question": "Where is the 'Kaziranga National Park' located? / 'काजीरंगा राष्ट्रीय उद्यान' कहाँ स्थित है?",
+      "options": [
+        "Assam / असम",
+        "West Bengal / पश्चिम बंगाल",
+        "Uttarakhand / उत्तराखंड",
+        "Madhya Pradesh / मध्य प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Kaziranga National Park in Assam is famous for one-horned rhinoceros. / असम स्थित काजीरंगा राष्ट्रीय उद्यान एक सींग वाले गैंडे के लिए प्रसिद्ध है।"
+    },
+    {
+      "id": "c62e72eb",
+      "question": "In which state is the 'Keoladeo Ghana National Park' situated? / 'केवलादेव घाना राष्ट्रीय उद्यान' किस राज्य में स्थित है?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Gujarat / गुजरात",
+        "Uttar Pradesh / उत्तर प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Keoladeo Ghana National Park (Bharatpur Bird Sanctuary) is in Rajasthan. / केवलादेव घाना राष्ट्रीय उद्यान (भरतपुर पक्षी अभयारण्य) राजस्थान में स्थित है।"
+    },
+    {
+      "id": "9bef1bbc",
+      "question": "The 'Sunderbans' Delta is formed by which rivers? / 'सुंदरवन' डेल्टा किन नदियों द्वारा निर्मित है?",
+      "options": [
+        "Ganga and Brahmaputra / गंगा और ब्रह्मपुत्र",
+        "Narmada and Tapti / नर्मदा और ताप्ती",
+        "Godavari and Krishna / गोदावरी और कृष्णा",
+        "Mahanadi and Indus / महानदी और सिंधु"
+      ],
+      "answer": 0,
+      "explanation": "Sunderbans delta is formed by the Ganga and Brahmaputra rivers in West Bengal and Bangladesh. / सुंदरवन डेल्टा गंगा और ब्रह्मपुत्र नदियों द्वारा निर्मित है।"
+    },
+    {
+      "id": "3ca20dd2",
+      "question": "Which state is known as the 'Spice Garden of India'? / भारत का 'मसालों का बगीचा' किस राज्य को कहा जाता है?",
+      "options": [
+        "Kerala / केरल",
+        "Karnataka / कर्नाटक",
+        "Tamil Nadu / तमिलनाडु",
+        "Assam / असम"
+      ],
+      "answer": 0,
+      "explanation": "Kerala is known as the Spice Garden of India. / केरल को भारत का मसालों का बगीचा कहा जाता है।"
+    },
+    {
+      "id": "d2f0c0ee",
+      "question": "Which line separates India and China? / भारत और चीन को अलग करने वाली रेखा कौन सी है?",
+      "options": [
+        "McMahon Line / मैकमोहन रेखा",
+        "Radcliffe Line / रेडक्लिफ रेखा",
+        "Durand Line / डुरंड रेखा",
+        "49th Parallel / 49वीं समानांतर रेखा"
+      ],
+      "answer": 0,
+      "explanation": "McMahon Line is the effective boundary between India and China. / मैकमोहन रेखा भारत और चीन के बीच की सीमा रेखा है।"
+    },
+    {
+      "id": "e16d067f",
+      "question": "Which line separates India and Pakistan? / भारत और पाकिस्तान को अलग करने वाली सीमा रेखा कौन सी है?",
+      "options": [
+        "Radcliffe Line / रेडक्लिफ रेखा",
+        "McMahon Line / मैकमोहन रेखा",
+        "Durand Line / डुरंड रेखा",
+        "17th Parallel / 17वीं समानांतर रेखा"
+      ],
+      "answer": 0,
+      "explanation": "Radcliffe Line was demarcated in 1947 between India and Pakistan. / रेडक्लिफ रेखा भारत और पाकिस्तान के बीच की अंतरराष्ट्रीय सीमा है।"
+    },
+    {
+      "id": "75b18a94",
+      "question": "What is the capital of Lakshadweep? / लक्षद्वीप की राजधानी क्या है?",
+      "options": [
+        "Kavaratti / कवारत्ती",
+        "Port Blair / पोर्ट ब्लेयर",
+        "Silvassa / सिलवासा",
+        "Daman / दमन"
+      ],
+      "answer": 0,
+      "explanation": "Kavaratti is the capital of the Union Territory of Lakshadweep. / कवारत्ती केंद्र शासित प्रदेश लक्षद्वीप की राजधानी है।"
+    },
+    {
+      "id": "6910f1a8",
+      "question": "Where is the headquarters of the 'Indian Space Research Organisation' (ISRO) located? / 'भारतीय अंतरिक्ष अनुसंधान संगठन' (ISRO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Bengaluru / बेंगलुरु",
+        "New Delhi / नई दिल्ली",
+        "Hyderabad / हैदराबाद",
+        "Mumbai / मुंबई"
+      ],
+      "answer": 0,
+      "explanation": "ISRO headquarters is located in Bengaluru, Karnataka. / इसरो (ISRO) का मुख्यालय बेंगलुरु, कर्नाटक में स्थित है।"
+    },
+    {
+      "id": "86fbd380",
+      "question": "Who was the Chairman of the Drafting Committee of the Indian Constitution? / भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल"
+      ],
+      "answer": 0,
+      "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee. / डॉ. बी.आर. अंबेडकर प्रारूप समिति (Drafting Committee) के अध्यक्ष थे।"
+    },
+    {
+      "id": "41c32fd8",
+      "question": "Who was the permanent President of the Constituent Assembly? / संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+        "Dr. Sachchidananda Sinha / डॉ. सच्चिदानंद सिन्हा",
+        "Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+        "Pt. Jawaharlal Nehru / पं. जवाहरलाल नेहरू"
+      ],
+      "answer": 0,
+      "explanation": "Dr. Rajendra Prasad was elected as the permanent President on Dec 11, 1946. / डॉ. राजेंद्र प्रसाद को 11 दिसंबर 1946 को संविधान सभा का स्थायी अध्यक्ष चुना गया था।"
+    },
+    {
+      "id": "39ab5a07",
+      "question": "Which Article of the Indian Constitution is known as the 'Heart and Soul of the Constitution'? / भारतीय संविधान के किस अनुच्छेद को 'संविधान की आत्मा और हृदय' कहा जाता है?",
+      "options": [
+        "Article 32 / अनुच्छेद 32",
+        "Article 21 / अनुच्छेद 21",
+        "Article 14 / अनुच्छेद 14",
+        "Article 370 / अनुच्छेद 370"
+      ],
+      "answer": 0,
+      "explanation": "Dr. B.R. Ambedkar called Article 32 (Right to Constitutional Remedies) the heart and soul of the Constitution. / डॉ. बी.आर. अंबेडकर ने अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को संविधान का हृदय और आत्मा कहा था।"
+    },
+    {
+      "id": "20a3ece6",
+      "question": "Which Article prohibits 'Untouchability' in India? / किस अनुच्छेद द्वारा भारत में 'अस्पृश्यता' का अंत किया गया है?",
+      "options": [
+        "Article 17 / अनुच्छेद 17",
+        "Article 15 / अनुच्छेद 15",
+        "Article 18 / अनुच्छेद 18",
+        "Article 19 / अनुच्छेद 19"
+      ],
+      "answer": 0,
+      "explanation": "Article 17 of the Indian Constitution abolishes untouchability. / भारतीय संविधान का अनुच्छेद 17 अस्पृश्यता के उन्मूलन से संबंधित है।"
+    },
+    {
+      "id": "b26f57ba",
+      "question": "Fundamental Duties were added to the Constitution by which Amendment Act? / मौलिक कर्तव्यों को किस संविधान संशोधन द्वारा जोड़ा गया था?",
+      "options": [
+        "42nd Amendment (1976) / 42वां संशोधन",
+        "44th Amendment (1978) / 44वां संशोधन",
+        "86th Amendment (2002) / 86वां संशोधन",
+        "73rd Amendment (1992) / 73वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "42nd Constitutional Amendment Act 1976 added Fundamental Duties under Article 51A. / 42वें संविधान संशोधन 1976 द्वारा अनुच्छेद 51A के तहत मौलिक कर्तव्यों को जोड़ा गया।"
+    },
+    {
+      "id": "12d5516c",
+      "question": "Right to Education (RTE) was added under which Article? / शिक्षा का अधिकार (RTE) किस अनुच्छेद के तहत जोड़ा गया था?",
+      "options": [
+        "Article 21A / अनुच्छेद 21A",
+        "Article 19A / अनुच्छेद 19A",
+        "Article 45 / अनुच्छेद 45",
+        "Article 51A / अनुच्छेद 51A"
+      ],
+      "answer": 0,
+      "explanation": "86th Amendment Act 2002 inserted Article 21A making free and compulsory education a fundamental right. / 86वें संविधान संशोधन 2002 द्वारा अनुच्छेद 21A जोड़ा गया।"
+    },
+    {
+      "id": "d20e9d47",
+      "question": "What is the minimum age required to become the President of India? / भारत का राष्ट्रपति बनने के लिए न्यूनतम आयु कितनी होनी चाहिए?",
+      "options": [
+        "35 years / 35 वर्ष",
+        "30 years / 30 वर्ष",
+        "25 years / 25 वर्ष",
+        "18 years / 18 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "The minimum age to become the President of India is 35 years. / भारत का राष्ट्रपति बनने के लिए न्यूनतम आयु 35 वर्ष है।"
+    },
+    {
+      "id": "0609fb78",
+      "question": "What is the minimum age required to become a member of Lok Sabha? / लोकसभा का सदस्य बनने के लिए न्यूनतम आयु कितनी होनी चाहिए?",
+      "options": [
+        "25 years / 25 वर्ष",
+        "30 years / 30 वर्ष",
+        "35 years / 35 वर्ष",
+        "21 years / 21 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "Minimum age for Lok Sabha MP is 25 years, while for Rajya Sabha it is 30 years. / लोकसभा सदस्य के लिए न्यूनतम आयु 25 वर्ष और राज्यसभा के लिए 30 वर्ष होती है।"
+    },
+    {
+      "id": "55b1c1e1",
+      "question": "Which Constitutional Amendment is related to Panchayati Raj System in India? / भारत में पंचायती राज व्यवस्था से संबंधित कौन सा संविधान संशोधन है?",
+      "options": [
+        "73rd Amendment / 73वां संशोधन",
+        "74th Amendment / 74वां संशोधन",
+        "42nd Amendment / 42वां संशोधन",
+        "61st Amendment / 61वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "73rd Constitutional Amendment Act (1992) introduced Part IX and Schedule 11 for Panchayati Raj. / 73वां संविधान संशोधन पंचायती राज व्यवस्था से संबंधित है।"
+    },
+    {
+      "id": "565fdc03",
+      "question": "Who is the Ex-Officio Chairman of Rajya Sabha? / राज्यसभा का पदेन अध्यक्ष (Ex-Officio Chairman) कौन होता है?",
+      "options": [
+        "Vice President of India / भारत का उपराष्ट्रपति",
+        "President of India / भारत का राष्ट्रपति",
+        "Prime Minister / प्रधानमंत्री",
+        "Speaker of Lok Sabha / लोकसभा अध्यक्ष"
+      ],
+      "answer": 0,
+      "explanation": "The Vice President of India is the Ex-Officio Chairman of Rajya Sabha. / भारत का उपराष्ट्रपति राज्यसभा का पदेन सभापति होता है।"
+    },
+    {
+      "id": "df1da89d",
+      "question": "Where is the headquarters of UNESCO situated? / यूनेस्को (UNESCO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Paris, France / पेरिस, फ्रांस",
+        "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड",
+        "New York, USA / न्यूयॉर्क, अमेरिका",
+        "Vienna, Austria / वियना, ऑस्ट्रिया"
+      ],
+      "answer": 0,
+      "explanation": "UNESCO headquarters is located in Paris, France. / यूनेस्को का मुख्यालय पेरिस (फ्रांस) में स्थित है।"
+    },
+    {
+      "id": "d88cb292",
+      "question": "Where is the headquarters of WHO (World Health Organization)? / विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड",
+        "Washington D.C. / वाशिंगटन डी.सी.",
+        "Rome, Italy / रोम, इटली",
+        "London, UK / लंदन, यूके"
+      ],
+      "answer": 0,
+      "explanation": "WHO headquarters is located in Geneva, Switzerland. / विश्व स्वास्थ्य संगठन (WHO) का मुख्यालय जेनेवा (स्विट्जरलैंड) में है।"
+    },
+    {
+      "id": "f8538d5e",
+      "question": "International Yoga Day is celebrated every year on which date? / अंतर्राष्ट्रीय योग दिवस हर साल किस तिथि को मनाया जाता है?",
+      "options": [
+        "June 21 / 21 जून",
+        "June 5 / 5 जून",
+        "July 11 / 11 जुलाई",
+        "March 8 / 8 मार्च"
+      ],
+      "answer": 0,
+      "explanation": "International Yoga Day is celebrated on June 21. / अंतर्राष्ट्रीय योग दिवस प्रतिवर्ष 21 जून को मनाया जाता है।"
+    },
+    {
+      "id": "28e8df54",
+      "question": "World Environment Day is observed on: / विश्व पर्यावरण दिवस कब मनाया जाता है?",
+      "options": [
+        "June 5 / 5 जून",
+        "April 22 / 22 अप्रैल",
+        "September 16 / 16 सितंबर",
+        "December 1 / 1 दिसंबर"
+      ],
+      "answer": 0,
+      "explanation": "World Environment Day is celebrated on June 5. / विश्व पर्यावरण दिवस 5 जून को मनाया जाता है।"
+    },
+    {
+      "id": "58be613d",
+      "question": "National Science Day in India is celebrated on: / भारत में राष्ट्रीय विज्ञान दिवस कब मनाया जाता है?",
+      "options": [
+        "February 28 / 28 फरवरी",
+        "January 12 / 12 जनवरी",
+        "September 5 / 5 सितंबर",
+        "November 14 / 14 नवंबर"
+      ],
+      "answer": 0,
+      "explanation": "National Science Day is celebrated on Feb 28 to mark the discovery of the Raman Effect by Sir C.V. Raman. / सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज के उपलक्ष्य में 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाया जाता है।"
+    },
+    {
+      "id": "68353547",
+      "question": "Which Classical Dance form belongs to Kerala? / 'कथकली' किस राज्य का शास्त्रीय नृत्य है?",
+      "options": [
+        "Kerala / केरल",
+        "Tamil Nadu / तमिलनाडु",
+        "Andhra Pradesh / आंध्र प्रदेश",
+        "Uttar Pradesh / उत्तर प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Kathakali and Mohiniyattam are classical dances of Kerala. / कथकली और मोहिनीअट्टम केरल के शास्त्रीय नृत्य हैं।"
+    },
+    {
+      "id": "8bfc65e4",
+      "question": "Kuchipudi is the classical dance form of which Indian state? / कुचिपुड़ी किस राज्य का शास्त्रीय नृत्य है?",
+      "options": [
+        "Andhra Pradesh / आंध्र प्रदेश",
+        "Tamil Nadu / तमिलनाडु",
+        "Odisha / ओडिशा",
+        "Karnataka / कर्नाटक"
+      ],
+      "answer": 0,
+      "explanation": "Kuchipudi originated in Andhra Pradesh. / कुचिपुड़ी आंध्र प्रदेश का शास्त्रीय नृत्य है।"
+    },
+    {
+      "id": "00d66403",
+      "question": "Sattriya is a traditional classical dance of which state? / 'सत्रिया' किस राज्य का पारंपरिक शास्त्रीय नृत्य है?",
+      "options": [
+        "Assam / असम",
+        "Manipur / मणिपुर",
+        "West Bengal / पश्चिम बंगाल",
+        "Nagaland / नागालैंड"
+      ],
+      "answer": 0,
+      "explanation": "Sattriya is a classical dance form of Assam recognized in 2000. / सत्रिया असम का शास्त्रीय नृत्य है।"
+    },
+    {
+      "id": "6db8a9f0",
+      "question": "Who was the first Indian to win a Nobel Prize? / नोबेल पुरस्कार जीतने वाले पहले भारतीय कौन थे?",
+      "options": [
+        "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+        "C.V. Raman / सी.वी. रमन",
+        "Mother Teresa / मदर टेरेसा",
+        "Amartya Sen / अमर्त्य सेन"
+      ],
+      "answer": 0,
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali. / रवींद्रनाथ टैगोर को 1913 में 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार मिला था।"
+    },
+    {
+      "id": "a6590b44",
+      "question": "Where is the 'Niti Aayog' headquarters located? / नीति आयोग का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "New Delhi / नई दिल्ली",
+        "Mumbai / मुंबई",
+        "Kolkata / कोलकाता",
+        "Bengaluru / बेंगलुरु"
+      ],
+      "answer": 0,
+      "explanation": "NITI Aayog headquarters is in New Delhi. / नीति आयोग का मुख्यालय नई दिल्ली में है।"
+    },
+    {
+      "id": "9e5bbc98",
+      "question": "Which bank is known as the 'Banker's Bank' in India? / भारत में किस बैंक को 'बैंकों का बैंक' कहा जाता है?",
+      "options": [
+        "Reserve Bank of India (RBI) / भारतीय रिजर्व बैंक",
+        "State Bank of India (SBI) / भारतीय स्टेट बैंक",
+        "NABARD / नाबार्ड",
+        "Punjab National Bank / पंजाब नेशनल बैंक"
+      ],
+      "answer": 0,
+      "explanation": "Reserve Bank of India (RBI) regulates all banks and acts as the Banker's Bank. / भारतीय रिजर्व बैंक (RBI) भारत का केंद्रीय बैंक है।"
+    },
+    {
+      "id": "c0c6edd5",
+      "question": "Where are the headquarters of the Reserve Bank of India (RBI) located? / भारतीय रिजर्व बैंक (RBI) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Mumbai / मुंबई",
+        "New Delhi / नई दिल्ली",
+        "Kolkata / कोलकाता",
+        "Chennai / चेन्नई"
+      ],
+      "answer": 0,
+      "explanation": "RBI headquarters was moved from Kolkata to Mumbai in 1937. / RBI का मुख्यालय मुंबई में स्थित है।"
+    },
+    {
+      "id": "780f2c83",
+      "question": "NABARD was established in which year? / नाबार्ड (NABARD) की स्थापना किस वर्ष हुई थी?",
+      "options": [
+        "1982",
+        "1975",
+        "1990",
+        "1969"
+      ],
+      "answer": 0,
+      "explanation": "NABARD was established on July 12, 1982 for agricultural development. / नाबार्ड की स्थापना 12 जुलाई 1982 को कृषि विकास हेतु की गई थी।"
+    },
+    {
+      "id": "6fd4e812",
+      "question": "Which five-year plan in India was based on the Mahalanobis Model? / भारत की कौन सी पंचवर्षीय योजना महालनोबिस मॉडल पर आधारित थी?",
+      "options": [
+        "Second Five-Year Plan / दूसरी पंचवर्षीय योजना",
+        "First Five-Year Plan / पहली पंचवर्षीय योजना",
+        "Third Five-Year Plan / तीसरी पंचवर्षीय योजना",
+        "Fifth Five-Year Plan / पांचवीं पंचवर्षीय योजना"
+      ],
+      "answer": 0,
+      "explanation": "The Second Five-Year Plan (1956-61) was based on PC Mahalanobis Model focusing on rapid industrialization. / दूसरी पंचवर्षीय योजना महालनोबिस मॉडल पर आधारित थी।"
+    },
+    {
+      "id": "22b7499c",
+      "question": "The First Five-Year Plan was based on which model? / पहली पंचवर्षीय योजना किस मॉडल पर आधारित थी?",
+      "options": [
+        "Harrod-Domar Model / हैरोड-डोमर मॉडल",
+        "Mahalanobis Model / महालनोबिस मॉडल",
+        "Gadgil Model / गाडगिल मॉडल",
+        "Bombay Plan / बॉम्बे प्लान"
+      ],
+      "answer": 0,
+      "explanation": "The First Five-Year Plan (1951-56) was based on the Harrod-Domar Model. / पहली पंचवर्षीय योजना हैरोड-डोमर मॉडल पर आधारित थी।"
+    },
+    {
+      "id": "14a140bd",
+      "question": "Which is the state animal of Uttar Pradesh? / उत्तर प्रदेश का राज्य पशु कौन सा है?",
+      "options": [
+        "Swamp Deer (Barasingha) / बारहसिंघा",
+        "Tiger / बाघ",
+        "Elephant / हाथी",
+        "One-horned Rhino / एक सींग वाला गैंडा"
+      ],
+      "answer": 0,
+      "explanation": "Swamp Deer (Barasingha) is the state animal of UP. / बारहसिंघा उत्तर प्रदेश का राज्य पशु है।"
+    },
+    {
+      "id": "055ab81d",
+      "question": "Which is the state bird of Uttar Pradesh? / उत्तर प्रदेश का राज्य पक्षी कौन सा है?",
+      "options": [
+        "Sarus Crane / सारस (क्रेन)",
+        "Peacock / मोर",
+        "House Sparrow / गौरैया",
+        "Parrot / तोता"
+      ],
+      "answer": 0,
+      "explanation": "Sarus Crane is the state bird of UP. / सारस (Sarus Crane) उत्तर प्रदेश का राज्य पक्षी है।"
+    },
+    {
+      "id": "86ea3ace",
+      "question": "Which is the state tree of Uttar Pradesh? / उत्तर प्रदेश का राज्य वृक्ष कौन सा है?",
+      "options": [
+        "Ashoka / अशोक",
+        "Banyan / बरगद",
+        "Peepal / पीपल",
+        "Neem / नीम"
+      ],
+      "answer": 0,
+      "explanation": "Ashoka tree is the official state tree of UP. / अशोक उत्तर प्रदेश का आधिकारिक राज्य वृक्ष है।"
+    },
+    {
+      "id": "34593ea8",
+      "question": "Which is the state flower of Uttar Pradesh? / उत्तर प्रदेश का राज्य पुष्प कौन सा है?",
+      "options": [
+        "Palash (Flame of the Forest) / पलाश",
+        "Lotus / कमल",
+        "Rose / गुलाब",
+        "Jasmine / चमेली"
+      ],
+      "answer": 0,
+      "explanation": "Palash (Butea monosperma) is the state flower of UP. / पलाश (ढाक) उत्तर प्रदेश का राज्य पुष्प है।"
+    },
+    {
+      "id": "c892e002",
+      "question": "Dudhwa National Park is situated in which district of Uttar Pradesh? / दुधवा राष्ट्रीय उद्यान उत्तर प्रदेश के किस जिले में स्थित है?",
+      "options": [
+        "Lakhimpur Kheri / लखीमपुर खीरी",
+        "Sonbhadra / सोनभद्र",
+        "Varanasi / वाराणसी",
+        "Gorakhpur / गोरखपुर"
+      ],
+      "answer": 0,
+      "explanation": "Dudhwa National Park is in Lakhimpur Kheri district of UP. / दुधवा राष्ट्रीय उद्यान लखीमपुर खीरी जिले में स्थित है।"
+    },
+    {
+      "id": "ebaeab10",
+      "question": "Classical dance form 'Kathak' originated in which state? / 'कत्थक' शास्त्रीय नृत्य की उत्पत्ति किस राज्य में हुई थी?",
+      "options": [
+        "Uttar Pradesh / उत्तर प्रदेश",
+        "Kerala / केरल",
+        "Tamil Nadu / तमिलनाडु",
+        "Odisha / ओडिशा"
+      ],
+      "answer": 0,
+      "explanation": "Kathak is the traditional classical dance form of North India, specifically Uttar Pradesh. / कत्थक उत्तर प्रदेश का शास्त्रीय नृत्य है।"
+    },
+    {
+      "id": "bf38f424",
+      "question": "Where is the 'Central Drug Research Institute' (CDRI) located in UP? / उत्तर प्रदेश में 'केंद्रीय औषधि अनुसंधान संस्थान' (CDRI) कहाँ स्थित है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Kanpur / कानपुर",
+        "Varanasi / वाराणसी",
+        "Agra / आगरा"
+      ],
+      "answer": 0,
+      "explanation": "CDRI is located in Lucknow, Uttar Pradesh. / सीडीआरआई (CDRI) लखनऊ में स्थित है।"
+    },
+    {
+      "id": "ef348176",
+      "question": "Which district of UP is famous for its 'Brassware' industry? / उत्तर प्रदेश का कौन सा जिला पीतल उद्योग (Brassware) के लिए प्रसिद्ध है?",
+      "options": [
+        "Moradabad / मुरादाबाद",
+        "Firozabad / फिरोजाबाद",
+        "Kannauj / कन्नौज",
+        "Aligarh / अलीगढ़"
+      ],
+      "answer": 0,
+      "explanation": "Moradabad is known as 'Peetal Nagari' (Brass City). / मुरादाबाद को पीतल नगरी कहा जाता है।"
+    },
+    {
+      "id": "c0e0d6f9",
+      "question": "Which district in UP is famous for Glassware and Bangles industry? / उत्तर प्रदेश का कौन सा शहर कांच की चूड़ियों के लिए प्रसिद्ध है?",
+      "options": [
+        "Firozabad / फिरोजाबाद",
+        "Kannauj / कन्नौज",
+        "Bhadohi / भदोही",
+        "Saharanpur / सहारनपुर"
+      ],
+      "answer": 0,
+      "explanation": "Firozabad is famous for glass bangles and glassware. / फिरोजाबाद कांच उद्योग और चूड़ियों के लिए प्रसिद्ध है।"
+    },
+    {
+      "id": "41779e49",
+      "question": "Which district in UP is known as the 'Perfume Capital of India'? / उत्तर प्रदेश के किस जिले को 'इत्र नगरी' (Perfume Capital) कहा जाता है?",
+      "options": [
+        "Kannauj / कन्नौज",
+        "Jaunpur / जौनपुर",
+        "Barabanki / बाराबंकी",
+        "Mirzapur / मिर्जापुर"
+      ],
+      "answer": 0,
+      "explanation": "Kannauj is famous worldwide for its attar and perfume industry. / कन्नौज इत्र निर्माण के लिए जाना जाता है।"
+    },
+    {
+      "id": "7f6ae0ec",
+      "question": "How many players are there in a Cricket team on the field? / क्रिकेट टीम में मैदान पर कितने खिलाड़ी होते हैं?",
+      "options": [
+        "11",
+        "9",
+        "7",
+        "6"
+      ],
+      "answer": 0,
+      "explanation": "Each cricket team consists of 11 players. / प्रत्येक क्रिकेट टीम में 11 खिलाड़ी होते हैं।"
+    },
+    {
+      "id": "f72772b7",
+      "question": "Dhyan Chand Trophy is associated with which sport? / ध्यानचंद ट्रॉफी किस खेल से संबंधित है?",
+      "options": [
+        "Hockey / हॉकी",
+        "Football / फुटबॉल",
+        "Cricket / क्रिकेट",
+        "Badminton / बैडमिंटन"
+      ],
+      "answer": 0,
+      "explanation": "Dhyan Chand Trophy is awarded in Hockey. / ध्यानचंद ट्रॉफी हॉकी खेल से संबंधित है।"
+    },
+    {
+      "id": "6ad2d553",
+      "question": "Santosh Trophy is associated with which sport? / संतोष ट्रॉफी का संबंध किस खेल से है?",
+      "options": [
+        "Football / फुटबॉल",
+        "Hockey / हॉकी",
+        "Basketball / बास्केटबॉल",
+        "Volleyball / वॉलीबॉल"
+      ],
+      "answer": 0,
+      "explanation": "Santosh Trophy is a premier national football competition in India. / संतोष ट्रॉफी फुटबॉल से संबंधित राष्ट्रीय प्रतियोगिता है।"
+    },
+    {
+      "id": "70384cb0",
+      "question": "Durand Cup is related to which sport? / डूरंड कप किस खेल से संबंधित है?",
+      "options": [
+        "Football / फुटबॉल",
+        "Cricket / क्रिकेट",
+        "Tennis / टेनिस",
+        "Golf / गोल्फ"
+      ],
+      "answer": 0,
+      "explanation": "Durand Cup is the oldest football tournament in Asia. / डूरंड कप एशिया का सबसे पुराना फुटबॉल टूर्नामेंट है।"
+    },
+    {
+      "id": "860ef782",
+      "question": "Thomas Cup and Uber Cup are associated with: / थॉमस कप और उबेर कप किस खेल से संबंधित हैं?",
+      "options": [
+        "Badminton / बैडमिंटन",
+        "Table Tennis / टेबल टेनिस",
+        "Lawn Tennis / लॉन टेनिस",
+        "Squash / स्क्वैश"
+      ],
+      "answer": 0,
+      "explanation": "Thomas Cup (Men) and Uber Cup (Women) belong to Badminton. / थॉमस कप (पुरुष) और उबेर कप (महिला) बैडमिंटन से संबंधित हैं।"
+    },
+    {
+      "id": "0520ef4f",
+      "question": "Rider Cup is associated with which sport? / राइडर कप किस खेल से संबंधित है?",
+      "options": [
+        "Golf / गोल्फ",
+        "Polo / पोलो",
+        "Rowing / रोइंग",
+        "Yachting / नौकायन"
+      ],
+      "answer": 0,
+      "explanation": "Rider Cup is a prestigious golf tournament. / राइडर कप गोल्फ खेल से संबंधित है।"
+    },
+    {
+      "id": "98fc30fa",
+      "question": "Headquarters of the International Olympic Committee (IOC) is located in: / अंतर्राष्ट्रीय ओलंपिक समिति (IOC) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Lausanne, Switzerland / लुसाने, स्विट्जरलैंड",
+        "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड",
+        "Paris, France / पेरिस, फ्रांस",
+        "Athens, Greece / एथेंस, ग्रीस"
+      ],
+      "answer": 0,
+      "explanation": "IOC headquarters is situated in Lausanne, Switzerland. / अंतर्राष्ट्रीय ओलंपिक समिति का मुख्यालय लुसाने में स्थित है।"
+    },
+    {
+      "id": "c7ee18c5",
+      "question": "Where were the First Modern Olympic Games held in 1896? / 1896 में प्रथम आधुनिक ओलंपिक खेल कहाँ आयोजित किए गए थे?",
+      "options": [
+        "Athens, Greece / एथेंस, ग्रीस",
+        "Paris, France / पेरिस, फ्रांस",
+        "London, UK / लंदन, यूके",
+        "Rome, Italy / रोम, इटली"
+      ],
+      "answer": 0,
+      "explanation": "The first modern Olympic games took place in Athens, Greece in 1896. / पहले आधुनिक ओलंपिक खेल 1896 में एथेंस (ग्रीस) में हुए थे।"
+    },
+    {
+      "id": "a6a27e3f",
+      "question": "Who invented the Telephone? / टेलीफोन का आविष्कार किसने किया था?",
+      "options": [
+        "Alexander Graham Bell / अलेक्जेंडर ग्राहम बेल",
+        "Thomas Edison / थॉमस एडिसन",
+        "Guglielmo Marconi / गुग्लिल्मो मार्कोनी",
+        "James Watt / जेम्स वाट"
+      ],
+      "answer": 0,
+      "explanation": "Alexander Graham Bell invented the telephone in 1876. / अलेक्जेंडर ग्राहम बेल ने टेलीफोन का आविष्कार किया था।"
+    },
+    {
+      "id": "c4310ef1",
+      "question": "Who discovered Penicillin? / पेनिसिलिन की खोज किसने की थी?",
+      "options": [
+        "Alexander Fleming / अलेक्जेंडर फ्लेमिंग",
+        "Louis Pasteur / लुई पाश्चर",
+        "Robert Koch / रॉबर्ट कोच",
+        "Edward Jenner / एडवर्ड जेनर"
+      ],
+      "answer": 0,
+      "explanation": "Alexander Fleming discovered penicillin in 1928. / अलेक्जेंडर फ्लेमिंग ने 1928 में पेनिसिलिन की खोज की थी।"
+    },
+    {
+      "id": "32d7abb3",
+      "question": "Who developed the Smallpox vaccine? / चेचक के टीके का आविष्कार किसने किया था?",
+      "options": [
+        "Edward Jenner / एडवर्ड जेनर",
+        "Louis Pasteur / लुई पाश्चर",
+        "Jonas Salk / जोनास साल्क",
+        "Robert Hooke / रॉबर्ट हुक"
+      ],
+      "answer": 0,
+      "explanation": "Edward Jenner created the world's first vaccine (for smallpox). / एडवर्ड जेनर ने चेचक का टीका बनाया था।"
+    },
+    {
+      "id": "6b9ee154",
+      "question": "Who discovered the Blood Group system in humans? / मानव रक्त समूह (Blood Group) की खोज किसने की थी?",
+      "options": [
+        "Karl Landsteiner / कार्ल लैंडस्टीनर",
+        "William Harvey / विलियम हार्वे",
+        "Gregor Mendel / ग्रेगर मेंडेल",
+        "Robert Brown / रॉबर्ट ब्राउन"
+      ],
+      "answer": 0,
+      "explanation": "Karl Landsteiner discovered ABO blood groups. / कार्ल लैंडस्टीनर ने ABO रक्त समूह की खोज की थी।"
+    },
+    {
+      "id": "a2a92d3c",
+      "question": "Who discovered Circulation of Blood? / रक्त परिसंचरण (Blood Circulation) की खोज किसने की?",
+      "options": [
+        "William Harvey / विलियम हार्वे",
+        "Karl Landsteiner / कार्ल लैंडस्टीनर",
+        "Louis Pasteur / लुई पाश्चर",
+        "Robert Hooke / रॉबर्ट हुक"
+      ],
+      "answer": 0,
+      "explanation": "William Harvey discovered the blood circulatory system. / विलियम हार्वे ने रक्त परिसंचरण तंत्र की खोज की थी।"
+    },
+    {
+      "id": "4f5071e4",
+      "question": "Who is known as the 'Father of Genetics'? / 'आनुवंशिकी का पिता' किसे कहा जाता है?",
+      "options": [
+        "Gregor Mendel / ग्रेगर मेंडेल",
+        "Charles Darwin / चार्ल्स डार्विन",
+        "Lamarck / लैमार्क",
+        "Aristotle / अरस्तू"
+      ],
+      "answer": 0,
+      "explanation": "Gregor Mendel is known as the Father of Genetics. / ग्रेगर मेंडेल को आनुवंशिकी का जनक कहा जाता है।"
+    },
+    {
+      "id": "e8b13280",
+      "question": "Who discovered the Cell? / कोशिका की खोज किसने की थी?",
+      "options": [
+        "Robert Hooke / रॉबर्ट हुक",
+        "Robert Brown / रॉबर्ट ब्राउन",
+        "Antonie van Leeuwenhoek / एंटोनी वॉन ल्यूवेनहॉक",
+        "Schleiden / श्लीडेन"
+      ],
+      "answer": 0,
+      "explanation": "Robert Hooke discovered cells in cork slice in 1665. / रॉबर्ट हुक ने 1665 में कोशिका की खोज की थी।"
+    },
+    {
+      "id": "d93325f9",
+      "question": "Who discovered the Nucleus in a cell? / कोशिका के केंद्रक (Nucleus) की खोज किसने की थी?",
+      "options": [
+        "Robert Brown / रॉबर्ट ब्राउन",
+        "Robert Hooke / रॉबर्ट हुक",
+        "Purkinje / पुरकिंजे",
+        "Watson / वाटसन"
+      ],
+      "answer": 0,
+      "explanation": "Robert Brown discovered the cell nucleus in 1831. / रॉबर्ट ब्राउन ने कोशिका केंद्रक की खोज की थी।"
+    },
+    {
+      "id": "6d6ef5f7",
+      "question": "What is the capital of Japan? / जापान की राजधानी क्या है?",
+      "options": [
+        "Tokyo / टोक्यो",
+        "Beijing / बीजिंग",
+        "Seoul / सियोल",
+        "Bangkok / बैंकॉक"
+      ],
+      "answer": 0,
+      "explanation": "Tokyo is the capital of Japan. / टोक्यो जापान की राजधानी है।"
+    },
+    {
+      "id": "642648f6",
+      "question": "What is the currency of Japan? / जापान की मुद्रा क्या है?",
+      "options": [
+        "Yen / येन",
+        "Yuan / युआन",
+        "Won / वोन",
+        "Ringgit / रिंगित"
+      ],
+      "answer": 0,
+      "explanation": "Japanese Yen is the official currency of Japan. / येन जापान की मुद्रा है।"
+    },
+    {
+      "id": "18fc48cd",
+      "question": "What is the capital of Australia? / ऑस्ट्रेलिया की राजधानी क्या है?",
+      "options": [
+        "Canberra / कैनबरा",
+        "Sydney / सिडनी",
+        "Melbourne / मेलबर्न",
+        "Perth / पर्थ"
+      ],
+      "answer": 0,
+      "explanation": "Canberra is the capital of Australia. / कैनबरा ऑस्ट्रेलिया की राजधानी है।"
+    },
+    {
+      "id": "cb849738",
+      "question": "What is the currency of China? / चीन की आधिकारिक मुद्रा क्या है?",
+      "options": [
+        "Renminbi (Yuan) / रेन्मिन्बी (युआन)",
+        "Yen / येन",
+        "Baht / बाहत",
+        "Taka / टका"
+      ],
+      "answer": 0,
+      "explanation": "Renminbi (Yuan) is the official currency of China. / रेन्मिन्बी (युआन) चीन की मुद्रा है।"
+    },
+    {
+      "id": "89d9e863",
+      "question": "What is the capital of Canada? / कनाडा की राजधानी क्या है?",
+      "options": [
+        "Ottawa / ओटावा",
+        "Toronto / टोरंटो",
+        "Vancouver / वैंकूवर",
+        "Montreal / मॉन्ट्रियल"
+      ],
+      "answer": 0,
+      "explanation": "Ottawa is the capital of Canada. / ओटावा कनाडा की राजधानी है।"
+    },
+    {
+      "id": "7a44d5c0",
+      "question": "What is the capital of Bangladesh? / बांग्लादेश की राजधानी क्या है?",
+      "options": [
+        "Dhaka / ढाका",
+        "Chittagong / चटगांव",
+        "Khulna / खुलना",
+        "Sylhet / सिलहट"
+      ],
+      "answer": 0,
+      "explanation": "Dhaka is the capital and Taka is the currency of Bangladesh. / ढाका बांग्लादेश की राजधानी है।"
+    },
+    {
+      "id": "29ba3ce6",
+      "question": "Which country is known as the 'Land of the Rising Sun'? / किस देश को 'उगते सूर्य की भूमि' कहा जाता है?",
+      "options": [
+        "Japan / जापान",
+        "Norway / नॉर्वे",
+        "Finland / फिनलैंड",
+        "Thailand / थाईलैंड"
+      ],
+      "answer": 0,
+      "explanation": "Japan is called the Land of the Rising Sun. / जापान को उगते सूर्य का देश कहा जाता है।"
+    },
+    {
+      "id": "5bb95767",
+      "question": "Which country is known as the 'Land of Midnight Sun'? / किस देश को 'मध्यरात्रि के सूर्य का देश' कहा जाता है?",
+      "options": [
+        "Norway / नॉर्वे",
+        "Japan / जापान",
+        "Canada / कनाडा",
+        "Denmark / डेनमार्क"
+      ],
+      "answer": 0,
+      "explanation": "Norway is called the Land of Midnight Sun. / नॉर्वे को मध्यरात्रि के सूर्य का देश कहा जाता है।"
+    },
+    {
+      "id": "176b9b38",
+      "question": "Which country is known as the 'Land of White Elephants'? / किस देश को 'सफेद हाथियों की भूमि' कहा जाता है?",
+      "options": [
+        "Thailand / थाईलैंड",
+        "Laos / लाओस",
+        "India / भारत",
+        "Kenya / केन्या"
+      ],
+      "answer": 0,
+      "explanation": "Thailand is called the Land of White Elephants. / थाईलैंड को सफेद हाथियों की भूमि कहा जाता है।"
+    },
+    {
+      "id": "5d086381",
+      "question": "Which city is known as the 'City of Seven Hills'? / किस शहर को 'सात पहाड़ियों का नगर' कहा जाता है?",
+      "options": [
+        "Rome, Italy / रोम, इटली",
+        "Athens, Greece / एथेंस, ग्रीस",
+        "Paris, France / पेरिस, फ्रांस",
+        "Prague, Czechia / प्राग"
+      ],
+      "answer": 0,
+      "explanation": "Rome is called the City of Seven Hills. / रोम को सात पहाड़ियों का नगर कहा जाता है।"
+    },
+    {
+      "id": "850f2c0a",
+      "question": "Jim Corbett National Park (now Ramganga NP) is located in: / जिम कॉर्बेट राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        "Uttarakhand / उत्तराखंड",
+        "Himachal Pradesh / हिमाचल प्रदेश",
+        "Assam / असम",
+        "Uttar Pradesh / उत्तर प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Jim Corbett NP (India's first national park, est. 1936) is in Uttarakhand. / भारत का पहला राष्ट्रीय उद्यान जिम कॉर्बेट उत्तराखंड में स्थित है।"
+    },
+    {
+      "id": "02e72f73",
+      "question": "Gir National Park in Gujarat is famous for: / गुजरात का गिर राष्ट्रीय उद्यान किसके लिए प्रसिद्ध है?",
+      "options": [
+        "Asiatic Lions / एशियाई शेर",
+        "Royal Bengal Tiger / बंगाल टाइगर",
+        "One-horned Rhino / एक सींग वाला गैंडा",
+        "Snow Leopard / हिम तेंदुआ"
+      ],
+      "answer": 0,
+      "explanation": "Gir National Park is the only natural habitat of Asiatic Lions. / गिर राष्ट्रीय उद्यान एशियाई शेरों के लिए जाना जाता है।"
+    },
+    {
+      "id": "f73ecea9",
+      "question": "Kanha National Park is located in which state? / कान्हा राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Maharashtra / महाराष्ट्र",
+        "Rajasthan / राजस्थान",
+        "Chhattisgarh / छत्तीसगढ़"
+      ],
+      "answer": 0,
+      "explanation": "Kanha National Park is in Madhya Pradesh. / कान्हा राष्ट्रीय उद्यान मध्य प्रदेश में है।"
+    },
+    {
+      "id": "9f48cb20",
+      "question": "Periyar National Park and Wildlife Sanctuary is located in: / पेरियार राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        "Kerala / केरल",
+        "Tamil Nadu / तमिलनाडु",
+        "Karnataka / कर्नाटक",
+        "Andhra Pradesh / आंध्र प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Periyar National Park is famous for elephants and tigers in Kerala. / पेरियार राष्ट्रीय उद्यान केरल में स्थित है।"
+    },
+    {
+      "id": "b4510799",
+      "question": "Sariska Tiger Reserve is located in which state? / सरिस्का टाइगर रिजर्व किस राज्य में स्थित है?",
+      "options": [
+        "Rajasthan / राजस्थान",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Gujarat / गुजरात",
+        "Haryana / हरियाणा"
+      ],
+      "answer": 0,
+      "explanation": "Sariska Tiger Reserve is located in Alwar district, Rajasthan. / सरिस्का टाइगर रिजर्व राजस्थान में स्थित है।"
+    },
+    {
+      "id": "b2623dca",
+      "question": "Where is the headquarters of the International Court of Justice (ICJ) located? / अंतर्राष्ट्रीय न्यायालय (ICJ) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "The Hague, Netherlands / द हेग, नीदरलैंड",
+        "Geneva / जेनेवा",
+        "New York / न्यूयॉर्क",
+        "Paris / पेरिस"
+      ],
+      "answer": 0,
+      "explanation": "The ICJ is situated at Peace Palace in The Hague, Netherlands. / अंतर्राष्ट्रीय न्यायालय द हेग (नीदरलैंड) में स्थित है।"
+    },
+    {
+      "id": "5c32fcff",
+      "question": "Which river crosses the Equator twice? / कौन सी नदी भूमध्य रेखा (Equator) को दो बार काटती है?",
+      "options": [
+        "Congo River / कांगो नदी",
+        "Amazon River / अमेज़न नदी",
+        "Nile River / नील नदी",
+        "Mississippi River / मिसिसिपी नदी"
+      ],
+      "answer": 0,
+      "explanation": "Congo (Zaire) River in Africa crosses the Equator twice. / कांगो नदी भूमध्य रेखा को दो बार पार करती है।"
+    },
+    {
+      "id": "2c0c3ae5",
+      "question": "Which river crosses the Tropic of Capricorn twice? / कौन सी नदी मकर रेखा को दो बार काटती है?",
+      "options": [
+        "Limpopo River / लिम्पोपो नदी",
+        "Zambezi River / जाम्बेजी नदी",
+        "Orange River / ऑरेंज नदी",
+        "Niger River / नाइजर नदी"
+      ],
+      "answer": 0,
+      "explanation": "Limpopo River in southern Africa cuts Tropic of Capricorn twice. / लिम्पोपो नदी मकर रेखा को दो बार काटती है।"
+    },
+    {
+      "id": "7ad28713",
+      "question": "Which river crosses the Tropic of Cancer twice in India? / भारत की कौन सी नदी कर्क रेखा को दो बार काटती है?",
+      "options": [
+        "Mahi River / माही नदी",
+        "Narmada River / नर्मदा नदी",
+        "Tapti River / ताप्ती नदी",
+        "Sabarmati River / साबरमती नदी"
+      ],
+      "answer": 0,
+      "explanation": "Mahi river in India cuts the Tropic of Cancer twice. / भारत की माही नदी कर्क रेखा को दो बार काटती है।"
+    },
+    {
+      "id": "e7bd3796",
+      "question": "Which is the largest freshwater lake in India? / भारत में मीठे पानी की सबसे बड़ी झील कौन सी है?",
+      "options": [
+        "Wular Lake / वुलर झील",
+        "Chilika Lake / चिल्का झील",
+        "Loktak Lake / लोकटक झील",
+        "Dal Lake / डल झील"
+      ],
+      "answer": 0,
+      "explanation": "Wular Lake in Jammu & Kashmir is the largest freshwater lake in India. / जम्मू और कश्मीर में स्थित वुलर झील भारत की सबसे बड़ी मीठे पानी की झील है।"
+    },
+    {
+      "id": "540a38b0",
+      "question": "Which is the largest brackish water (saltwater) lake in India? / भारत की सबसे बड़ी खारे पानी की झील (लैटून) कौन सी है?",
+      "options": [
+        "Chilika Lake / चिल्का झील",
+        "Sambhar Lake / सांभर झील",
+        "Pulicat Lake / पुलिकट झील",
+        "Vembanad Lake / वेम्बनाड झील"
+      ],
+      "answer": 0,
+      "explanation": "Chilika Lake in Odisha is the largest brackish water lagoon in India. / ओडिशा की चिल्का झील भारत की सबसे बड़ी खारे पानी की झील है।"
+    },
+    {
+      "id": "ce854d53",
+      "question": "Which is the only floating national park in the world? / विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान कौन सा है?",
+      "options": [
+        "Keibul Lamjao National Park / केबुल लामजाओ",
+        "Kaziranga NP / काजीरंगा",
+        "Namdapha NP / नामदफा",
+        "Manas NP / मानस"
+      ],
+      "answer": 0,
+      "explanation": "Keibul Lamjao National Park on Loktak Lake in Manipur is the only floating park. / मणिपुर में लोकटक झील पर स्थित केबुल लामजाओ विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है।"
+    },
+    {
+      "id": "9dd4cc24",
+      "question": "Loktak Lake is situated in which state? / लोकटक झील किस राज्य में स्थित है?",
+      "options": [
+        "Manipur / मणिपुर",
+        "Meghalaya / मेघालय",
+        "Mizoram / मिजोरम",
+        "Tripura / त्रिपुरा"
+      ],
+      "answer": 0,
+      "explanation": "Loktak Lake is located in Manipur. / लोकटक झील मणिपुर राज्य में स्थित है।"
+    },
+    {
+      "id": "8af7ffe9",
+      "question": "Where is the 'Bhakra Nangal Dam' located? / 'भाखड़ा नांगल बांध' किस नदी पर स्थित है?",
+      "options": [
+        "Satluj River / सतलुज नदी",
+        "Ravi River / रावी नदी",
+        "Beas River / व्यास नदी",
+        "Jhelum River / झेलम नदी"
+      ],
+      "answer": 0,
+      "explanation": "Bhakra Nangal Dam is constructed across Satluj River in HP & Punjab. / भाखड़ा नांगल बांध सतलुज नदी पर बनाया गया है।"
+    },
+    {
+      "id": "c7b624ed",
+      "question": "Which is the longest dam in India? / भारत का सबसे लंबा बांध कौन सा है?",
+      "options": [
+        "Hirakud Dam / हीराकुंड बांध",
+        "Tehri Dam / टिहरी बांध",
+        "Bhakra Dam / भाखड़ा बांध",
+        "Sardar Sarovar Dam / सरदार सरोवर बांध"
+      ],
+      "answer": 0,
+      "explanation": "Hirakud Dam across Mahanadi in Odisha is the longest dam in India. / ओडिशा में महानदी पर बना हीराकुंड बांध भारत का सबसे लंबा बांध है।"
+    },
+    {
+      "id": "9a0b2de3",
+      "question": "Which is the highest dam in India? / भारत का सबसे ऊंचा बांध कौन सा है?",
+      "options": [
+        "Tehri Dam / टिहरी बांध",
+        "Bhakra Dam / भाखड़ा बांध",
+        "Hirakud Dam / हीराकुंड बांध",
+        "Nagarjuna Sagar Dam / नागार्जुन सागर बांध"
+      ],
+      "answer": 0,
+      "explanation": "Tehri Dam on Bhagirathi river in Uttarakhand is the highest dam in India. / उत्तराखंड में भागीरथी नदी पर बना टिहरी बांध भारत का सबसे ऊंचा बांध है।"
+    },
+    {
+      "id": "9c6e1697",
+      "question": "Dandi March (Salt Satyagraha) was launched in which year? / दांडी मार्च (नमक सत्याग्रह) किस वर्ष शुरू किया गया था?",
+      "options": [
+        "1930",
+        "1920",
+        "1942",
+        "1919"
+      ],
+      "answer": 0,
+      "explanation": "Mahatma Gandhi began Dandi March on March 12, 1930. / महात्मा गांधी ने 12 मार्च 1930 को दांडी यात्रा शुरू की थी।"
+    },
+    {
+      "id": "8d943271",
+      "question": "Quit India Movement was started in which year? / 'भारत छोड़ो आंदोलन' किस वर्ष प्रारंभ हुआ था?",
+      "options": [
+        "1942",
+        "1930",
+        "1920",
+        "1905"
+      ],
+      "answer": 0,
+      "explanation": "Quit India Movement was launched on August 8, 1942 from Bombay. / भारत छोड़ो आंदोलन 8 अगस्त 1942 को शुरू हुआ था।"
+    },
+    {
+      "id": "ef1b0e83",
+      "question": "Non-Cooperation Movement was launched in which year? / असहयोग आंदोलन किस वर्ष शुरू हुआ था?",
+      "options": [
+        "1920",
+        "1930",
+        "1915",
+        "1922"
+      ],
+      "answer": 0,
+      "explanation": "Non-Cooperation Movement was launched by Mahatma Gandhi in 1920. / महात्मा गांधी द्वारा 1920 में असहयोग आंदोलन शुरू किया गया था।"
+    },
+    {
+      "id": "9a4b78da",
+      "question": "Who was known as 'Punjab Kesari'? / 'पंजाब केसरी' के नाम से किसे जाना जाता था?",
+      "options": [
+        "Lala Lajpat Rai / लाला लाजपत राय",
+        "Bhagat Singh / भगत सिंह",
+        "Sardar Patel / सरदार पटेल",
+        "Subhash Chandra Bose / सुभाष चंद्र बोस"
+      ],
+      "answer": 0,
+      "explanation": "Lala Lajpat Rai was popularly called Punjab Kesari. / लाला लाजपत राय को पंजाब केसरी कहा जाता था।"
+    },
+    {
+      "id": "e8c43312",
+      "question": "Who founded the 'Azad Hind Fauj' (Indian National Army)? / 'आज़ाद हिंद फ़ौज' की स्थापना का श्रेय किसे दिया जाता है?",
+      "options": [
+        "Rash Behari Bose / रास बिहारी बोस",
+        "Subhash Chandra Bose / सुभाष चंद्र बोस",
+        "Captain Mohan Singh / कैप्टन मोहन सिंह",
+        "Both A and C / A और C दोनों"
+      ],
+      "answer": 3,
+      "explanation": "Initial setup by Mohan Singh / Rash Behari Bose in 1942, later revived by Netaji Subhash Chandra Bose. / कैप्टन मोहन सिंह और रास बिहारी बोस द्वारा स्थापित, बाद में नेताजी ने पुनर्गठित किया।"
+    },
+    {
+      "id": "7a703d59",
+      "question": "Who gave the slogan 'Jai Jawan, Jai Kisan'? / 'जय जवान, जय किसान' का नारा किसने दिया था?",
+      "options": [
+        "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+        "Atal Bihari Vajpayee / अटल बिहारी वाजपेयी",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू"
+      ],
+      "answer": 0,
+      "explanation": "Lal Bahadur Shastri gave this slogan in 1965. / 1965 में लाल बहादुर शास्त्री ने यह नारा दिया था।"
+    },
+    {
+      "id": "58d009f0",
+      "question": "Who added 'Jai Vigyan' to 'Jai Jawan, Jai Kisan'? / 'जय जवान, जय किसान' में 'जय विज्ञान' किसने जोड़ा?",
+      "options": [
+        "Atal Bihari Vajpayee / अटल बिहारी वाजपेयी",
+        "Narendra Modi / नरेंद्र मोदी",
+        "Lal Bahadur Shastri / लाल बहादुर शास्त्री",
+        "APJ Abdul Kalam / एपीजे अब्दुल कलाम"
+      ],
+      "answer": 0,
+      "explanation": "Atal Bihari Vajpayee added 'Jai Vigyan' after Pokhran-II tests in 1998. / पोखरण परमाणु परीक्षण के बाद अटल बिहारी वाजपेयी ने 'जय विज्ञान' जोड़ा था।"
+    },
+    {
+      "id": "b255e3f3",
+      "question": "Who was known as the 'Iron Man of India'? / भारत का 'लौह पुरुष' किसे कहा जाता है?",
+      "options": [
+        "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+        "Subhash Chandra Bose / सुभाष चंद्र बोस",
+        "B.R. Ambedkar / बी.आर. अंबेडकर",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू"
+      ],
+      "answer": 0,
+      "explanation": "Sardar Vallabhbhai Patel is known as the Iron Man of India. / सरदार वल्लभभाई पटेल को भारत का लौह पुरुष कहा जाता है।"
+    },
+    {
+      "id": "7b138e63",
+      "question": "The 'Statue of Unity' is dedicated to which Indian leader? / 'स्टैच्यू ऑफ यूनिटी' किस भारतीय नेता को समर्पित है?",
+      "options": [
+        "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "B.R. Ambedkar / बी.आर. अंबेडकर",
+        "Netaji Subhash Chandra Bose / सुभाष चंद्र बोस"
+      ],
+      "answer": 0,
+      "explanation": "Statue of Unity in Gujarat (182m) is dedicated to Sardar Patel. / गुजरात में स्थित स्टैच्यू ऑफ यूनिटी सरदार पटेल की प्रतिमा है।"
+    },
+    {
+      "id": "d3d30a6e",
+      "question": "Who was the first Chief Justice of Independent India? / स्वतंत्र भारत के प्रथम मुख्य न्यायाधीश कौन थे?",
+      "options": [
+        "H.J. Kania / एच. जे. कानिया",
+        "M. Patanjali Sastri / एम. पतंजलि शास्त्री",
+        "SR Das / एस.आर. दास",
+        "A.N. Ray / ए.एन. राय"
+      ],
+      "answer": 0,
+      "explanation": "Justice H.J. Kania was the first Chief Justice of India. / जस्टिस एच. जे. कानिया भारत के पहले मुख्य न्यायाधीश थे।"
+    },
+    {
+      "id": "6977d132",
+      "question": "Who was the first Election Commissioner of India? / भारत के प्रथम मुख्य चुनाव आयुक्त कौन थे?",
+      "options": [
+        "Sukumar Sen / सुकुमार सेन",
+        "T.N. Seshan / टी.एन. शेषन",
+        "K.V.K. Sundaram / के.वी.के. सुंदरम",
+        "Sunil Arora / सुनील अरोड़ा"
+      ],
+      "answer": 0,
+      "explanation": "Sukumar Sen was the first Chief Election Commissioner of India. / सुकुमार सेन भारत के पहले मुख्य चुनाव आयुक्त थे।"
+    },
+    {
+      "id": "4054200b",
+      "question": "Who was the first female Speaker of Lok Sabha? / लोकसभा की पहली महिला अध्यक्ष कौन थीं?",
+      "options": [
+        "Meira Kumar / मीरा कुमार",
+        "Sumitra Mahajan / सुमित्रा महाजन",
+        "Pratibha Patil / प्रतिभा पाटिल",
+        "Sarojini Naidu / सरोजिनी नायडू"
+      ],
+      "answer": 0,
+      "explanation": "Meira Kumar served as the first female Lok Sabha Speaker from 2009 to 2014. / मीरा कुमार लोकसभा की प्रथम महिला अध्यक्ष थीं।"
+    },
+    {
+      "id": "925bb63b",
+      "question": "Who was the first female Governor of an Indian state? / भारत के किसी राज्य की पहली महिला राज्यपाल कौन थीं?",
+      "options": [
+        "Sarojini Naidu / सरोजिनी नायडू",
+        "Sucheta Kripalani / सुचेता कृपलानी",
+        "Vijaya Lakshmi Pandit / विजया लक्ष्मी पंडित",
+        "Padmaja Naidu / पदमजा नायडू"
+      ],
+      "answer": 0,
+      "explanation": "Sarojini Naidu was the Governor of United Provinces (UP). / सरोजिनी नायडू उत्तर प्रदेश (संयुक्त प्रांत) की पहली महिला राज्यपाल थीं।"
+    },
+    {
+      "id": "139f3ccd",
+      "question": "Who was the first female Chief Minister of an Indian state? / भारत के किसी राज्य की पहली महिला मुख्यमंत्री कौन थीं?",
+      "options": [
+        "Sucheta Kripalani / सुचेता कृपलानी",
+        "Sarojini Naidu / सरोजिनी नायडू",
+        "Mayawati / मायावती",
+        "Jayalalithaa / जयललिता"
+      ],
+      "answer": 0,
+      "explanation": "Sucheta Kripalani became Chief Minister of UP in 1963. / सुचेता कृपलानी 1963 में उत्तर प्रदेश की पहली महिला मुख्यमंत्री बनीं।"
+    },
+    {
+      "id": "649dfd10",
+      "question": "Which chemical is used for Cloud Seeding (Artificial Rain)? / कृत्रिम वर्षा (Cloud Seeding) के लिए किस रसायन का प्रयोग किया जाता है?",
+      "options": [
+        "Silver Iodide / सिल्वर आयोडाइड",
+        "Silver Nitrate / सिल्वर नाइट्रेट",
+        "Sodium Chloride / सोडियम क्लोराइड",
+        "Potassium Permanganate / पोटेशियम परमैंगनेट"
+      ],
+      "answer": 0,
+      "explanation": "Silver Iodide (AgI) is commonly used for cloud seeding. / सिल्वर आयोडाइड का उपयोग कृत्रिम वर्षा कराने के लिए किया जाता है।"
+    },
+    {
+      "id": "9f3b03bc",
+      "question": "Which chemical is used in Voter's Ink? / मतदान की स्याही (Voter's Ink) में किस रसायन का प्रयोग होता है?",
+      "options": [
+        "Silver Nitrate / सिल्वर नाइट्रेट",
+        "Silver Chloride / सिल्वर क्लोराइड",
+        "Silver Bromide / सिल्वर ब्रोमाइड",
+        "Silver Iodide / सिल्वर आयोडाइड"
+      ],
+      "answer": 0,
+      "explanation": "Silver Nitrate (AgNO3) stains the skin upon exposure to light. / सिल्वर नाइट्रेट का प्रयोग चुनाव में लगाई जाने वाली स्याही में होता है।"
+    },
+    {
+      "id": "fe2fcadd",
+      "question": "Chemical used in photography is: / फोटोग्राफी में किस रसायन का प्रयोग किया जाता है?",
+      "options": [
+        "Silver Bromide / सिल्वर ब्रोमाइड",
+        "Silver Nitrate / सिल्वर नाइट्रेट",
+        "Sodium Carbonate / सोडियम कार्बोनेट",
+        "Copper Sulfate / कॉपर सल्फेट"
+      ],
+      "answer": 0,
+      "explanation": "Silver Bromide (AgBr) is used in black & white photography. / फोटोग्राफी में सिल्वर ब्रोमाइड का उपयोग किया जाता है।"
+    },
+    {
+      "id": "0abc6408",
+      "question": "Who was the founder of 'Arya Samaj'? / 'आर्य समाज' के संस्थापक कौन थे?",
+      "options": [
+        "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती",
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Raja Ram Mohan Roy / राजा राममोहन राय",
+        "Ramakrishna Paramahamsa / रामकृष्ण परमहंस"
+      ],
+      "answer": 0,
+      "explanation": "Swami Dayanand Saraswati founded Arya Samaj in 1875. / स्वामी दयानंद सरस्वती ने 1875 में आर्य समाज की स्थापना की थी।"
+    },
+    {
+      "id": "0b946e6b",
+      "question": "Who wrote the famous slogan 'Go back to the Vedas'? / 'वेदों की ओर लौटो' का नारा किसने दिया था?",
+      "options": [
+        "Swami Dayanand Saraswati / स्वामी दयानंद सरस्वती",
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Guru Nanak / गुरु नानक",
+        "Kabir / कबीर"
+      ],
+      "answer": 0,
+      "explanation": "Swami Dayanand Saraswati gave the call 'Back to the Vedas'. / स्वामी दयानंद सरस्वती ने 'वेदों की ओर लौटो' का नारा दिया।"
+    },
+    {
+      "id": "cbfcf904",
+      "question": "Who was the founder of 'Ramakrishna Mission'? / 'रामकृष्ण मिशन' की स्थापना किसने की थी?",
+      "options": [
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Swami Dayanand / स्वामी दयानंद",
+        "Ramakrishna Paramahamsa / रामकृष्ण परमहंस",
+        "Keshab Chandra Sen / केशव चंद्र सेन"
+      ],
+      "answer": 0,
+      "explanation": "Swami Vivekananda established Ramakrishna Mission in 1897. / स्वामी विवेकानंद ने 1897 में रामकृष्ण मिशन की स्थापना की थी।"
+    },
+    {
+      "id": "9ff82697",
+      "question": "Where did Mahatma Gandhi start his first Satyagraha in India? / भारत में महात्मा गांधी ने अपना पहला सत्याग्रह कहाँ शुरू किया था?",
+      "options": [
+        "Champaran (1917) / चंपारण (1917)",
+        "Kheda (1918) / खेड़ा (1918)",
+        "Ahmedabad (1918) / अहमदाबाद (1918)",
+        "Bardoli (1928) / बारडोली (1928)"
+      ],
+      "answer": 0,
+      "explanation": "Champaran Satyagraha in 1917 against Indigo plantation system. / 1917 में चंपारण (बिहार) में गांधीजी का भारत में पहला सत्याग्रह हुआ था।"
+    },
+    {
+      "id": "c931bfe1",
+      "question": "Who led the Bardoli Satyagraha in 1928? / 1928 के बारडोली सत्याग्रह का नेतृत्व किसने किया था?",
+      "options": [
+        "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+        "Mahatma Gandhi / महात्मा गांधी",
+        "Morarji Desai / मोरारजी देसाई",
+        "Mahadev Desai / महादेव देसाई"
+      ],
+      "answer": 0,
+      "explanation": "Vallabhbhai Patel led Bardoli Satyagraha and earned the title 'Sardar' from women there. / सरदार पटेल ने बारडोली सत्याग्रह का सफल नेतृत्व किया था।"
+    },
+    {
+      "id": "632cd40c",
+      "question": "Which fundamental right was removed by the 44th Constitutional Amendment Act? / 44वें संविधान संशोधन द्वारा किस मौलिक अधिकार को हटा दिया गया था?",
+      "options": [
+        "Right to Property / संपत्ति का अधिकार",
+        "Right to Education / शिक्षा का अधिकार",
+        "Right to Freedom / स्वतंत्रता का अधिकार",
+        "Right to Equality / समानता का अधिकार"
+      ],
+      "answer": 0,
+      "explanation": "Right to Property was removed from Fundamental Rights and made a legal right under Article 300A in 1978. / 1978 में संपत्ति के अधिकार को मौलिक अधिकारों से हटाकर कानूनी अधिकार बनाया गया।"
+    },
+    {
+      "id": "3240790c",
+      "question": "Who appoints the Chief Election Commissioner of India? / भारत के मुख्य चुनाव आयुक्त की नियुक्ति कौन करता है?",
+      "options": [
+        "President of India / भारत का राष्ट्रपति",
+        "Prime Minister / प्रधानमंत्री",
+        "Chief Justice of India / भारत का मुख्य न्यायाधीश",
+        "Parliament / संसद"
+      ],
+      "answer": 0,
+      "explanation": "The President of India appoints the CEC and Election Commissioners. / मुख्य चुनाव आयुक्त की नियुक्ति राष्ट्रपति द्वारा की जाती है।"
+    },
+    {
+      "id": "15a3f425",
+      "question": "Who was the first Governor-General of Independent India? / स्वतंत्र भारत के प्रथम गवर्नर-जनरल कौन थे?",
+      "options": [
+        "Lord Mountbatten / लॉर्ड माउंटबेटन",
+        "C. Rajagopalachari / सी. राजगोपालाचारी",
+        "Lord Wavell / लॉर्ड वेवेल",
+        "Lord Linlithgow / लॉर्ड लिनलिथगो"
+      ],
+      "answer": 0,
+      "explanation": "Lord Mountbatten was the last Viceroy and first Governor-General of independent India. / लॉर्ड माउंटबेटन स्वतंत्र भारत के पहले गवर्नर जनरल थे।"
+    },
+    {
+      "id": "d91d5152",
+      "question": "Who was the first and last Indian Governor-General of Independent India? / स्वतंत्र भारत के पहले और अंतिम भारतीय गवर्नर-जनरल कौन थे?",
+      "options": [
+        "C. Rajagopalachari / सी. राजगोपालाचारी",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+        "Sardar Patel / सरदार पटेल",
+        "Dr. S. Radhakrishnan / डॉ. एस. राधाकृष्णन"
+      ],
+      "answer": 0,
+      "explanation": "C. Rajagopalachari served as Indian Governor-General from 1948 to 1950. / सी. राजगोपालाचारी स्वतंत्र भारत के एकमात्र भारतीय गवर्नर जनरल थे।"
+    },
+    {
+      "id": "4a48bd57",
+      "question": "In which state is the 'Nanda Devi' peak situated? / 'नंदा देवी' पर्वत चोटी किस राज्य में स्थित है?",
+      "options": [
+        "Uttarakhand / उत्तराखंड",
+        "Sikkim / सिक्किम",
+        "Himachal Pradesh / हिमाचल प्रदेश",
+        "Arunachal Pradesh / अरुणाचल प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Nanda Devi peak is located in Chamoli, Uttarakhand. / नंदा देवी चोटी उत्तराखंड राज्य में स्थित है।"
+    },
+    {
+      "id": "8f7cef5d",
+      "question": "Which is the highest peak located entirely within India? / पूरी तरह से भारत में स्थित सबसे ऊंची पर्वत चोटी कौन सी है?",
+      "options": [
+        "Nanda Devi / नंदा देवी",
+        "K2 (Godwin Austen) / के2",
+        "Kanchenjunga / कंचनजंगा",
+        "Anamudi / अनामुडी"
+      ],
+      "answer": 0,
+      "explanation": "Nanda Devi is the highest peak completely within India. / नंदा देवी पूरी तरह से भारत में स्थित सबसे ऊंची चोटी है।"
+    },
+    {
+      "id": "f4904c7c",
+      "question": "Kanchenjunga, the 3rd highest mountain in the world, is on the border of: / कंचनजंगा पर्वत श्रेणी भारत के किस राज्य और नेपाल की सीमा पर है?",
+      "options": [
+        "Sikkim / सिक्किम",
+        "Uttarakhand / उत्तराखंड",
+        "Assam / असम",
+        "Arunachal Pradesh / अरुणाचल प्रदेश"
+      ],
+      "answer": 0,
+      "explanation": "Kanchenjunga is located on the border between Sikkim (India) and Nepal. / कंचनजंगा सिक्किम और नेपाल की सीमा पर स्थित है।"
+    },
+    {
+      "id": "26c0a7cb",
+      "question": "Where is the 'Sardar Sarovar Dam' constructed? / 'सरदार सरोवर बांध' किस नदी पर निर्मित है?",
+      "options": [
+        "Narmada River / नर्मदा नदी",
+        "Tapti River / ताप्ती नदी",
+        "Mahi River / माही नदी",
+        "Godavari River / गोदावरी नदी"
+      ],
+      "answer": 0,
+      "explanation": "Sardar Sarovar Dam is built on the Narmada River in Gujarat. / सरदार सरोवर बांध गुजरात में नर्मदा नदी पर बना है।"
+    },
+    {
+      "id": "6850ef40",
+      "question": "Where is the 'Nagarjuna Sagar Dam' located? / 'नागार्जुन सागर बांध' किस नदी पर स्थित है?",
+      "options": [
+        "Krishna River / कृष्णा नदी",
+        "Kaveri River / कावेरी नदी",
+        "Godavari River / गोदावरी नदी",
+        "Tungabhadra River / तुंगभद्रा नदी"
+      ],
+      "answer": 0,
+      "explanation": "Nagarjuna Sagar Dam is built across Krishna River on Telangana/Andhra border. / नागार्जुन सागर बांध कृष्णा नदी पर स्थित है।"
+    },
+    {
+      "id": "3afd4d8b",
+      "question": "Which is the largest organ in the human body? / मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "options": [
+        "Skin / त्वचा",
+        "Liver / यकृत",
+        "Brain / मस्तिष्क",
+        "Heart / हृदय"
+      ],
+      "answer": 0,
+      "explanation": "Skin is the largest external organ in the human body. / त्वचा मानव शरीर का सबसे बड़ा बाहरी अंग है।"
+    },
+    {
+      "id": "60bb8660",
+      "question": "Which gland is known as the 'Master Gland'? / किस ग्रंथि को 'मास्टर ग्रंथि' कहा जाता है?",
+      "options": [
+        "Pituitary Gland / पीयूष ग्रंथि",
+        "Thyroid Gland / थायराइड ग्रंथि",
+        "Adrenal Gland / एड्रेनल ग्रंथि",
+        "Pancreas / अग्न्याशय"
+      ],
+      "answer": 0,
+      "explanation": "Pituitary gland controls other endocrine glands, hence called Master Gland. / पीयूष ग्रंथि अन्य ग्रंथियों को नियंत्रित करती है, इसलिए इसे मास्टर ग्रंथि कहते हैं।"
+    },
+    {
+      "id": "b6316e41",
+      "question": "Which instrument is used to record Earthquake waves? / भूकंपीय तरंगों को रिकॉर्ड करने के लिए किस यंत्र का प्रयोग किया जाता है?",
+      "options": [
+        "Seismograph / सिस्मोग्राफ",
+        "Barometer / बैरोमीटर",
+        "Hygrometer / हाइग्रोमीटर",
+        "Anemometer / एनीमोमीटर"
+      ],
+      "answer": 0,
+      "explanation": "Seismograph measures seismic waves produced by earthquakes. / सिस्मोग्राफ द्वारा भूकंप की तीव्रता/तरंगें मापी जाती हैं।"
+    },
+    {
+      "id": "82c76e5a",
+      "question": "Richter Scale measures: / रिक्टर स्केल किसकी तीव्रता मापता है?",
+      "options": [
+        "Intensity/Magnitude of Earthquake / भूकंप की तीव्रता",
+        "Wind Velocity / पवन का वेग",
+        "Ocean Depth / समुद्र की गहराई",
+        "Atmospheric Pressure / वायुमंडलीय दाब"
+      ],
+      "answer": 0,
+      "explanation": "Richter scale quantifies the magnitude of an earthquake. / रिक्टर स्केल से भूकंप की तीव्रता मापी जाती है।"
+    },
+    {
+      "id": "421e970c",
+      "question": "Which instrument is used to measure the depth of ocean? / समुद्र की गहराई मापने के लिए किस यंत्र का उपयोग किया जाता है?",
+      "options": [
+        "Fathometer / फ़ैदोमीटर",
+        "Altometer / अल्टीमीटर",
+        "Chronometer / क्रोनोमीटर",
+        "Hydrometer / हाइड्रोमीटर"
+      ],
+      "answer": 0,
+      "explanation": "Fathometer measures ocean depth using sound waves. / फ़ैदोमीटर का उपयोग समुद्र की गहराई मापने के लिए किया जाता है।"
+    },
+    {
+      "id": "705b967a",
+      "question": "What is the SI unit of Pressure? / दाब का SI मात्रक क्या है?",
+      "options": [
+        "Pascal / पास्कल",
+        "Joule / जूल",
+        "Newton / न्यूटन",
+        "Watt / वाट"
+      ],
+      "answer": 0,
+      "explanation": "Pascal (Pa) is the SI unit of pressure. / पास्कल (Pascal) दाब का SI मात्रक है।"
+    },
+    {
+      "id": "402d01bb",
+      "question": "Which gas is primarily responsible for the depletion of Ozone layer? / ओजोन परत के क्षरण के लिए मुख्य रूप से कौन सी गैस जिम्मेदार है?",
+      "options": [
+        "Chlorofluorocarbons (CFCs) / क्लोरोफ्लोरोकार्बन (CFC)",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Methane / मीथेन",
+        "Nitrous Oxide / नाइट्रस ऑक्साइड"
+      ],
+      "answer": 0,
+      "explanation": "CFCs released from refrigerants damage the ozone layer. / क्लोरोफ्लोरोकार्बन (CFC) ओजोन परत के क्षय के लिए मुख्य जिम्मेदार है।"
+    },
+    {
+      "id": "6ff50c6e",
+      "question": "Which is the main gas found in LPG cylinders? / रसोई गैस (LPG) सिलेंडरों में मुख्य रूप से कौन सी गैस होती है?",
+      "options": [
+        "Butane and Propane / ब्यूटेन और प्रोपेन",
+        "Methane and Ethane / मीथेन और एथेन",
+        "Ethylene / एथिलीन",
+        "Hydrogen / हाइड्रोजन"
+      ],
+      "answer": 0,
+      "explanation": "LPG is primarily composed of Butane and Propane. / एलपीजी में मुख्य रूप से ब्यूटेन और प्रोपेन होती हैं।"
+    },
+    {
+      "id": "bc8da0d6",
+      "question": "Which odorant is added to LPG to detect leaks? / एलपीजी रिसाव का पता लगाने के लिए कौन सा गंधयुक्त पदार्थ मिलाया जाता है?",
+      "options": [
+        "Ethyl Mercaptan / एथिल मर्कैप्टन",
+        "Methyl Isocyanate / मिथाइल आइसोसाइनेट",
+        "Sulfur Dioxide / सल्फर डाइऑक्साइड",
+        "Ammonia / अमोनिया"
+      ],
+      "answer": 0,
+      "explanation": "Ethyl Mercaptan gives distinct foul odor to odorless LPG. / एथिल मर्कैप्टन एलपीजी में रिसाव की पहचान के लिए मिलाया जाता है।"
+    },
+    {
+      "id": "afd7f85c",
+      "question": "Bhopal Gas Tragedy (1984) was caused by the leakage of which gas? / भोपाल गैस त्रासदी (1984) में किस विषैली गैस का रिसाव हुआ था?",
+      "options": [
+        "Methyl Isocyanate (MIC) / मिथाइल आइसोसाइनेट",
+        "Sodium Cyanide / सोडियम साइनाइड",
+        "Phosgene / फॉसजीन",
+        "Carbon Monoxide / कार्बन मोनोऑक्साइड"
+      ],
+      "answer": 0,
+      "explanation": "MIC leaked from Union Carbide plant on Dec 2-3, 1984. / 1984 में भोपाल यूनियन कार्बाइड संयंत्र से मिथाइल आइसोसाइनेट गैस लीक हुई थी।"
+    },
+    {
+      "id": "82bda306",
+      "question": "Where is the 'National Botanical Research Institute' (NBRI) located? / 'राष्ट्रीय वनस्पति अनुसंधान संस्थान' (NBRI) कहाँ स्थित है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Dehradun / देहरादून",
+        "Kolkata / कोलकाता",
+        "New Delhi / नई दिल्ली"
+      ],
+      "answer": 0,
+      "explanation": "NBRI is situated in Lucknow, UP. / एनबीआरआई (NBRI) लखनऊ में स्थित है।"
+    },
+    {
+      "id": "8bb9111f",
+      "question": "Where is the 'Forest Research Institute' (FRI) located? / 'वन अनुसंधान संस्थान' (FRI) कहाँ स्थित है?",
+      "options": [
+        "Dehradun / देहरादून",
+        "Shimla / शिमला",
+        "Jorhat / जोरहाट",
+        "Bhopal / भोपाल"
+      ],
+      "answer": 0,
+      "explanation": "Forest Research Institute is located in Dehradun, Uttarakhand. / वन अनुसंधान संस्थान देहरादून में स्थित है।"
+    },
+    {
+      "id": "8332337c",
+      "question": "Where is the 'Indian Veterinary Research Institute' (IVRI) located in UP? / उत्तर प्रदेश में 'भारतीय पशु चिकित्सा अनुसंधान संस्थान' (IVRI) कहाँ स्थित है?",
+      "options": [
+        "Izatnagar, Bareilly / इज्जतनगर, बरेली",
+        "Mathura / मथुरा",
+        "Kanpur / कानपुर",
+        "Meerut / मेरठ"
+      ],
+      "answer": 0,
+      "explanation": "IVRI is located in Izatnagar, Bareilly. / आईवीआरआई बरेली के इज्जतनगर में स्थित है।"
+    },
+    {
+      "id": "4fe42245",
+      "question": "Which state in India has the highest percentage of forest cover? / भारत के किस राज्य में प्रतिशतता की दृष्टि से सर्वाधिक वनावरण है?",
+      "options": [
+        "Mizoram / मिजोरम",
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Arunachal Pradesh / अरुणाचल प्रदेश",
+        "Chhattisgarh / छत्तीसगढ़"
+      ],
+      "answer": 0,
+      "explanation": "Mizoram has highest forest cover percentage (>84%), while MP has highest total area. / प्रतिशत के मामले में मिजोरम और क्षेत्रफल के मामले में मध्य प्रदेश आगे है।"
+    },
+    {
+      "id": "e7a3713f",
+      "question": "Which state in India has the largest area under forest cover? / क्षेत्रफल की दृष्टि से किस राज्य में सर्वाधिक वन क्षेत्र है?",
+      "options": [
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Arunachal Pradesh / अरुणाचल प्रदेश",
+        "Chhattisgarh / छत्तीसगढ़",
+        "Odisha / ओडिशा"
+      ],
+      "answer": 0,
+      "explanation": "Madhya Pradesh has the largest area covered by forests in India. / क्षेत्रफल के हिसाब से मध्य प्रदेश में सबसे ज्यादा वन हैं।"
+    },
+    {
+      "id": "95302946",
+      "question": "Where is the headquarters of the 'Asian Development Bank' (ADB)? / 'एशियाई विकास बैंक' (ADB) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Manila, Philippines / मनीला, फिलीपींस",
+        "Tokyo, Japan / टोक्यो, जापान",
+        "Beijing, China / बीजिंग, चीन",
+        "Singapore / सिंगापुर"
+      ],
+      "answer": 0,
+      "explanation": "ADB headquarters is in Mandaluyong, Manila, Philippines. / एशियाई विकास बैंक का मुख्यालय मनीला (फिलीपींस) में है।"
+    },
+    {
+      "id": "dd1df34e",
+      "question": "Where is the headquarters of SAARC? / 'सार्क' (SAARC) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Kathmandu, Nepal / काठमांडू, नेपाल",
+        "New Delhi, India / नई दिल्ली, भारत",
+        "Dhaka, Bangladesh / ढाका, बांग्लादेश",
+        "Colombo, Sri Lanka / कोलंबो, श्रीलंका"
+      ],
+      "answer": 0,
+      "explanation": "SAARC secretariat is established in Kathmandu, Nepal. / सार्क (SAARC) का सचिवालय काठमांडू (नेपाल) में स्थित है।"
+    },
+    {
+      "id": "bc5d5f3f",
+      "question": "Where is the headquarters of the 'United Nations General Assembly'? / संयुक्त राष्ट्र संघ (UNO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "New York, USA / न्यूयॉर्क, अमेरिका",
+        "Geneva, Switzerland / जेनेवा",
+        "Paris, France / पेरिस",
+        "Vienna, Austria / वियना"
+      ],
+      "answer": 0,
+      "explanation": "UN Headquarters is located in New York City. / संयुक्त राष्ट्र संघ का मुख्यालय न्यूयॉर्क में स्थित है।"
+    },
+    {
+      "id": "a7cca8a6",
+      "question": "Which element is used as a moderator in Nuclear Reactors? / परमाणु रिएक्टर में मंदक (Moderator) के रूप में किसका प्रयोग होता है?",
+      "options": [
+        "Heavy Water (D2O) and Graphite / भारी जल और ग्रेफाइट",
+        "Uranium / यूरेनियम",
+        "Plutonium / प्लूटोनियम",
+        "Beryllium / बेरिलियम"
+      ],
+      "answer": 0,
+      "explanation": "Heavy Water (D2O) and Graphite slow down fast neutrons in nuclear reactors. / भारी जल (D2O) और ग्रेफाइट का प्रयोग मंदक के रूप में होता है।"
+    },
+    {
+      "id": "197bdc10",
+      "question": "Which is the light gas filled in weather observation balloons? / मौसम संबंधी गुब्बारों में कौन सी हल्की गैस भरी जाती है?",
+      "options": [
+        "Helium / हीलियम",
+        "Hydrogen / हाइड्रोजन",
+        "Nitrogen / नाइट्रोजन",
+        "Argon / ऑर्गन"
+      ],
+      "answer": 0,
+      "explanation": "Helium gas is non-flammable and lightweight, ideal for balloons. / हीलियम गैस गुब्बारों में भरी जाती है।"
+    },
+    {
+      "id": "2f27a368",
+      "question": "Which pigment determines skin color in human beings? / मानव शरीर में त्वचा के रंग के लिए कौन सा वर्णक जिम्मेदार होता है?",
+      "options": [
+        "Melanin / मेलेनिन",
+        "Hemoglobin / हिमोग्लोबिन",
+        "Carotene / कैरोटीन",
+        "Bilirubin / बिलीरुबिन"
+      ],
+      "answer": 0,
+      "explanation": "Melanin pigment determines human skin tone. / मेलेनिन वर्णक त्वचा के रंग को निर्धारित करता है।"
+    },
+    {
+      "id": "b8cdfbb1",
+      "question": "Which blood cells are called 'Soldiers of the Body'? / शरीर के 'सैनिक' किन रक्त कोशिकाओं को कहा जाता है?",
+      "options": [
+        "White Blood Cells (WBC) / श्वेत रक्त कोशिकाएं",
+        "Red Blood Cells (RBC) / लाल रक्त कोशिकाएं",
+        "Platelets / प्लेटलेट्स",
+        "Plasma / प्लाज्मा"
+      ],
+      "answer": 0,
+      "explanation": "WBCs protect the body against infectious diseases. / WBCs को शरीर की प्रतिरक्षा प्रणाली का 'सैनिक' कहा जाता है।"
+    },
+    {
+      "id": "c6dc41a6",
+      "question": "Life span of Red Blood Cells (RBC) is approximately: / लाल रक्त कोशिकाओं (RBC) का जीवनकाल लगभग कितना होता है?",
+      "options": [
+        "120 days / 120 दिन",
+        "10 days / 10 दिन",
+        "60 days / 60 दिन",
+        "180 days / 180 दिन"
+      ],
+      "answer": 0,
+      "explanation": "Average life span of human RBCs is 120 days. / RBCs का औसत जीवनकाल 120 दिन होता है।"
+    },
+    {
+      "id": "92044701",
+      "question": "Where are Red Blood Cells produced in adult humans? / वयस्क मानव में लाल रक्त कोशिकाओं का निर्माण कहाँ होता है?",
+      "options": [
+        "Bone Marrow / अस्थि मज्जा",
+        "Liver / यकृत",
+        "Spleen / प्लीहा",
+        "Kidney / वृक्क"
+      ],
+      "answer": 0,
+      "explanation": "RBCs are manufactured in the red bone marrow. / RBCs का निर्माण लाल अस्थि मज्जा में होता है।"
+    },
+    {
+      "id": "d277b620",
+      "question": "Which organ is known as the 'Graveyard of RBCs'? / RBCs का 'कब्रिस्तान' किसे कहा जाता है?",
+      "options": [
+        "Spleen / प्लीहा (तिल्ली)",
+        "Liver / यकृत",
+        "Kidney / गुर्दा",
+        "Heart / हृदय"
+      ],
+      "answer": 0,
+      "explanation": "Spleen filters out old RBCs and is called graveyard of RBCs. / प्लीहा को RBC का कब्रिस्तान कहा जाता है।"
+    },
+    {
+      "id": "99ee9da4",
+      "question": "Which layer of atmosphere reflects Radio Waves back to Earth? / वायुमंडल की कौन सी परत रेडियो तरंगों को परावर्तित करती है?",
+      "options": [
+        "Ionosphere / आयनमंडल",
+        "Troposphere / क्षोभमंडल",
+        "Stratosphere / समतापमंडल",
+        "Exosphere / बहिर्मंडल"
+      ],
+      "answer": 0,
+      "explanation": "Ionosphere reflects high-frequency radio waves. / आयनमंडल रेडियो तरंगों को परावर्तित करता है।"
+    },
+    {
+      "id": "f845f035",
+      "question": "What is the speed of sound in air at normal temperature? / सामान्य तापमान पर वायु में ध्वनि की चाल लगभग कितनी होती है?",
+      "options": [
+        "332 m/s",
+        "3 x 10^8 m/s",
+        "1500 m/s",
+        "5000 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Speed of sound in dry air at 0°C is ~332 m/s. / वायु में ध्वनि की चाल लगभग 332 मी/सेकंड होती है।"
+    },
+    {
+      "id": "7c1527af",
+      "question": "In which medium is the speed of sound maximum? / ध्वनि की चाल किस माध्यम में सर्वाधिक होती है?",
+      "options": [
+        "Solids (Steel) / ठोस (इस्पात)",
+        "Liquids (Water) / द्रव (जल)",
+        "Gases (Air) / गैस (वायु)",
+        "Vacuum / निर्वात"
+      ],
+      "answer": 0,
+      "explanation": "Sound travels fastest in solid media like steel. / ध्वनि ठोस माध्यमों में सबसे तेज़ चलती है।"
+    },
+    {
+      "id": "e91ecce7",
+      "question": "Sound cannot travel through: / ध्वनि किस माध्यम में गमन नहीं कर सकती?",
+      "options": [
+        "Vacuum / निर्वात",
+        "Water / जल",
+        "Steel / इस्पात",
+        "Air / वायु"
+      ],
+      "answer": 0,
+      "explanation": "Sound requires a material medium to propagate and cannot travel in vacuum. / ध्वनि निर्वात (Vacuum) में गमन नहीं कर सकती।"
+    },
+    {
+      "id": "8579ad58",
+      "question": "Which instrument is used to hear heartbeat? / हृदय की धड़कन सुनने के लिए किस यंत्र का प्रयोग होता है?",
+      "options": [
+        "Stethoscope / स्टेथोस्कोप",
+        "Sphygmomanometer / स्फिग्मोमैनोमीटर",
+        "Microscope / माइक्रोस्कोप",
+        "ECG Machine / ईसीजी मशीन"
+      ],
+      "answer": 0,
+      "explanation": "Stethoscope is used by doctors to listen to heart and lung sounds. / डॉक्टरों द्वारा दिल की धड़कन सुनने के लिए स्टेथोस्कोप प्रयोग होता है।"
+    },
+    {
+      "id": "ae7ab070",
+      "question": "Electroencephalogram (EEG) test is used to measure activity of which organ? / ईईजी (EEG) परीक्षण किस अंग की गतिविधि मापने के लिए किया जाता है?",
+      "options": [
+        "Brain / मस्तिष्क",
+        "Heart / हृदय",
+        "Kidney / गुर्दा",
+        "Liver / यकृत"
+      ],
+      "answer": 0,
+      "explanation": "EEG measures brain's electrical activity (ECG is for Heart). / ईईजी (EEG) मस्तिष्क की गतिविधि के लिए किया जाता है।"
+    },
+    {
+      "id": "6b3ea573",
+      "question": "Electrocardiogram (ECG) test is related to: / ईसीजी (ECG) किस अंग की कार्यप्रणाली को दर्शाता है?",
+      "options": [
+        "Heart / हृदय",
+        "Brain / मस्तिष्क",
+        "Lungs / फेफड़े",
+        "Eyes / आंखें"
+      ],
+      "answer": 0,
+      "explanation": "ECG records the electrical signals of the Heart. / ईसीजी (ECG) हृदय की कार्यप्रणाली जांचने के लिए किया जाता है।"
+    },
+    {
+      "id": "ce7357f1",
+      "question": "Who was the founder of the 'Swaraj Party' in 1923? / 1923 में 'स्वराज पार्टी' के संस्थापक कौन थे?",
+      "options": [
+        "C.R. Das and Motilal Nehru / चितरंजन दास और मोतीलाल नेहरू",
+        "Mahatma Gandhi and Nehru / गांधी और नेहरू",
+        "Subhash Bose and Patel / बोस और पटेल",
+        "Lala Lajpat Rai / लाला लाजपत राय"
+      ],
+      "answer": 0,
+      "explanation": "Swaraj Party was founded in 1923 by Chittaranjan Das and Motilal Nehru. / 1923 में चितरंजन दास और मोतीलाल नेहरू ने स्वराज पार्टी बनाई थी।"
+    },
+    {
+      "id": "019ea68b",
+      "question": "Who presided over the famous Surat Session of INC in 1907 where Congress split? / 1907 के सूरत अधिवेशन की अध्यक्षता किसने की थी जहाँ कांग्रेस का विभाजन हुआ था?",
+      "options": [
+        "Rash Behari Ghosh / रास बिहारी घोष",
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
+      ],
+      "answer": 0,
+      "explanation": "Rash Behari Ghosh presided over the 1907 Surat Session. / 1907 के सूरत अधिवेशन की अध्यक्षता रास बिहारी घोष ने की थी।"
+    },
+    {
+      "id": "749ed668",
+      "question": "Who was known as the 'Grand Old Man of India'? / 'भारत के वयोवृद्ध पुरुष' (Grand Old Man of India) किसे कहा जाता था?",
+      "options": [
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "M.G. Ranade / एम.जी. रानाडे",
+        "B.R. Ambedkar / बी.आर. अंबेडकर"
+      ],
+      "answer": 0,
+      "explanation": "Dadabhai Naoroji proposed 'Drain of Wealth' theory and was called Grand Old Man of India. / दादाभाई नौरोजी को भारत का वयोवृद्ध पुरुष कहा जाता है।"
+    },
+    {
+      "id": "ac54c520",
+      "question": "Who wrote the book 'Poverty and Un-British Rule in India'? / 'पोवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक किसने लिखी थी?",
+      "options": [
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "R.C. Dutt / आर.सी. दत्त",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Mahatma Gandhi / महात्मा गांधी"
+      ],
+      "answer": 0,
+      "explanation": "Dadabhai Naoroji authored this famous book detailing economic drain. / यह पुस्तक दादाभाई नौरोजी द्वारा लिखी गई थी।"
+    },
+    {
+      "id": "1452bce4",
+      "question": "Who was the Political Guru of Mahatma Gandhi? / महात्मा गांधी के राजनीतिक गुरु कौन थे?",
+      "options": [
+        "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "Rabindranath Tagore / रवींद्रनाथ टैगोर"
+      ],
+      "answer": 0,
+      "explanation": "Gopal Krishna Gokhale was Mahatma Gandhi's political mentor. / गोपाल कृष्ण गोखले महात्मा गांधी के राजनीतिक गुरु थे।"
+    },
+    {
+      "id": "f6adc3da",
+      "question": "Which movement started after the Partition of Bengal in 1905? / 1905 में बंगाल विभाजन के विरोध में कौन सा आंदोलन शुरू हुआ था?",
+      "options": [
+        "Swadeshi Movement / स्वदेशी आंदोलन",
+        "Non-Cooperation Movement / असहयोग आंदोलन",
+        "Civil Disobedience / सविनय अवज्ञा",
+        "Quit India / भारत छोड़ो"
+      ],
+      "answer": 0,
+      "explanation": "Swadeshi Movement was launched in 1905 opposing Bengal Partition. / बंगाल विभाजन के विरोध में 1905 में स्वदेशी आंदोलन शुरू हुआ।"
+    },
+    {
+      "id": "d3b234aa",
+      "question": "Who annulled the Partition of Bengal in 1911? / 1911 में बंगाल विभाजन किसने रद्द किया था?",
+      "options": [
+        "Lord Hardinge / लॉर्ड हार्डिंग",
+        "Lord Curzon / लॉर्ड कर्जन",
+        "Lord Minto / लॉर्ड मिंटो",
+        "Lord Chelmsford / लॉर्ड चेम्सफोर्ड"
+      ],
+      "answer": 0,
+      "explanation": "Lord Hardinge II cancelled the partition of Bengal during Delhi Durbar in 1911. / लॉर्ड हार्डिंग द्वितीय ने 1911 में बंगाल विभाजन को रद्द कर दिया था।"
+    },
+    {
+      "id": "2d2b04a0",
+      "question": "Where is the 'Valley of Flowers' National Park situated? / 'फूलों की घाटी' (Valley of Flowers) राष्ट्रीय उद्यान किस राज्य में स्थित है?",
+      "options": [
+        "Uttarakhand / उत्तराखंड",
+        "Sikkim / सिक्किम",
+        "Himachal Pradesh / हिमाचल प्रदेश",
+        "Jammu & Kashmir / जम्मू कश्मीर"
+      ],
+      "answer": 0,
+      "explanation": "Valley of Flowers NP is located in Chamoli, Uttarakhand. / फूलों की घाटी राष्ट्रीय उद्यान उत्तराखंड के चमोली जिले में स्थित है।"
+    },
+    {
+      "id": "e1961fa7",
+      "question": "Where is 'Hemis National Park', the largest national park in India, located? / भारत का सबसे बड़ा राष्ट्रीय उद्यान 'हेमिस' कहाँ स्थित है?",
+      "options": [
+        "Ladakh / लद्दाख",
+        "Jammu & Kashmir / जम्मू और कश्मीर",
+        "Himachal Pradesh / हिमाचल प्रदेश",
+        "Uttarakhand / उत्तराखंड"
+      ],
+      "answer": 0,
+      "explanation": "Hemis NP in Ladakh is India's largest national park and habitat for snow leopards. / हेमिस राष्ट्रीय उद्यान लद्दाख में स्थित है।"
+    },
+    {
+      "id": "a6be7580",
+      "question": "Which is the smallest national park in India? / भारत का सबसे छोटा राष्ट्रीय उद्यान कौन सा है?",
+      "options": [
+        "South Button Island NP / साउथ बटन आईलैंड",
+        "Hemis NP / हेमिस",
+        "Keoladeo NP / केवलादेव",
+        "Sultanpur NP / सुल्तानपुर"
+      ],
+      "answer": 0,
+      "explanation": "South Button Island National Park in Andaman & Nicobar is the smallest. / अंडमान और निकोबार का साउथ बटन आईलैंड भारत का सबसे छोटा राष्ट्रीय उद्यान है।"
+    },
+    {
+      "id": "dfd86f91",
+      "question": "Which state is known as the 'Tiger State of India'? / भारत के किस राज्य को 'टाइगर स्टेट' कहा जाता है?",
+      "options": [
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Karnataka / कर्नाटक",
+        "Uttarakhand / उत्तराखंड",
+        "West Bengal / पश्चिम बंगाल"
+      ],
+      "answer": 0,
+      "explanation": "Madhya Pradesh has the highest number of tigers in India. / मध्य प्रदेश में बाघों की संख्या सर्वाधिक होने के कारण इसे 'टाइगर स्टेट' कहते हैं।"
+    },
+    {
+      "id": "03ffcd22",
+      "question": "Project Tiger was launched in India in which year? / भारत में 'प्रोजेक्ट टाइगर' किस वर्ष शुरू किया गया था?",
+      "options": [
+        "1973",
+        "1972",
+        "1980",
+        "1992"
+      ],
+      "answer": 0,
+      "explanation": "Project Tiger was launched on April 1, 1973 from Jim Corbett National Park. / 1973 में जिम कॉर्बेट नेशनल पार्क से प्रोजेक्ट टाइगर की शुरुआत हुई थी।"
+    },
+    {
+      "id": "2cff6c54",
+      "question": "Project Elephant was launched in India in which year? / 'प्रोजेक्ट एलिफेंट' की शुरुआत किस वर्ष हुई थी?",
+      "options": [
+        "1992",
+        "1973",
+        "2000",
+        "1985"
+      ],
+      "answer": 0,
+      "explanation": "Project Elephant was launched by Ministry of Environment in 1992. / 1992 में भारत सरकार द्वारा प्रोजेक्ट एलिफेंट शुरू किया गया था।"
+    },
+    {
+      "id": "457ab970",
+      "question": "In which article of the Constitution is the 'Panchayati Raj' mentioned in DPSP? / नीति निदेशक तत्वों में किस अनुच्छेद में 'ग्राम पंचायतों के गठन' का निर्देश है?",
+      "options": [
+        "Article 40 / अनुच्छेद 40",
+        "Article 44 / अनुच्छेद 44",
+        "Article 48 / अनुच्छेद 48",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "answer": 0,
+      "explanation": "Article 40 directs the state to organize Gram Panchayats. / अनुच्छेद 40 में ग्राम पंचायतों के गठन का प्रावधान है।"
+    },
+    {
+      "id": "19a6ba1b",
+      "question": "Uniform Civil Code (UCC) is mentioned under which Article? / समान नागरिक संहिता (UCC) का वर्णन किस अनुच्छेद में है?",
+      "options": [
+        "Article 44 / अनुच्छेद 44",
+        "Article 40 / अनुच्छेद 40",
+        "Article 45 / अनुच्छेद 45",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "answer": 0,
+      "explanation": "Article 44 of DPSP relates to Uniform Civil Code. / अनुच्छेद 44 में समान नागरिक संहिता (UCC) का प्रावधान है।"
+    },
+    {
+      "id": "b7029cb5",
+      "question": "Separation of Judiciary from Executive is mentioned under: / कार्यपालिका से न्यायपालिका का पृथक्करण किस अनुच्छेद में है?",
+      "options": [
+        "Article 50 / अनुच्छेद 50",
+        "Article 45 / अनुच्छेद 45",
+        "Article 51 / अनुच्छेद 51",
+        "Article 49 / अनुच्छेद 49"
+      ],
+      "answer": 0,
+      "explanation": "Article 50 ensures separation of judiciary from executive. / अनुच्छेद 50 कार्यपालिका से न्यायपालिका के पृथक्करण से संबंधित है।"
+    },
+    {
+      "id": "32ccdc96",
+      "question": "Which Article deals with Promotion of International Peace and Security? / अंतर्राष्ट्रीय शांति और सुरक्षा को बढ़ावा देने का प्रावधान किस अनुच्छेद में है?",
+      "options": [
+        "Article 51 / अनुच्छेद 51",
+        "Article 50 / अनुच्छेद 50",
+        "Article 48 / अनुच्छेद 48",
+        "Article 52 / अनुच्छेद 52"
+      ],
+      "answer": 0,
+      "explanation": "Article 51 promotes international peace and security. / अनुच्छेद 51 अंतर्राष्ट्रीय शांति और सुरक्षा के संवर्धन से संबंधित है।"
+    },
+    {
+      "id": "1e91481b",
+      "question": "What is the tenure of a Rajya Sabha member? / राज्यसभा के सदस्य का कार्यकाल कितना होता है?",
+      "options": [
+        "6 years / 6 वर्ष",
+        "5 years / 5 वर्ष",
+        "4 years / 4 वर्ष",
+        "Permanent / स्थायी"
+      ],
+      "answer": 0,
+      "explanation": "Rajya Sabha is a permanent body; individual members serve 6-year terms with 1/3 retiring every 2 years. / राज्यसभा सदस्य का कार्यकाल 6 वर्ष का होता है।"
+    },
+    {
+      "id": "5e231326",
+      "question": "What is the maximum strength of Lok Sabha permitted by the Constitution? / संविधान द्वारा लोकसभा की अधिकतम सदस्य संख्या कितनी निर्धारित है?",
+      "options": [
+        "552",
+        "545",
+        "550",
+        "500"
+      ],
+      "answer": 0,
+      "explanation": "Maximum permitted capacity is 552 (now 550 post 104th Amendment removing Anglo-Indians). / लोकसभा की अधिकतम स्वीकृत संख्या 552 है।"
+    },
+    {
+      "id": "1e0d2042",
+      "question": "Which Article deals with the Impeachment of the President of India? / राष्ट्रपति पर महाभियोग (Impeachment) की प्रक्रिया किस अनुच्छेद में है?",
+      "options": [
+        "Article 61 / अनुच्छेद 61",
+        "Article 52 / अनुच्छेद 52",
+        "Article 72 / अनुच्छेद 72",
+        "Article 123 / अनुच्छेद 123"
+      ],
+      "answer": 0,
+      "explanation": "Article 61 prescribes the procedure for impeachment of President. / अनुच्छेद 61 के तहत राष्ट्रपति पर महाभियोग चलाया जाता है।"
+    },
+    {
+      "id": "aa297665",
+      "question": "Pardoning power of the President is enshrined in which Article? / राष्ट्रपति की क्षमादान की शक्ति किस अनुच्छेद के अंतर्गत आती है?",
+      "options": [
+        "Article 72 / अनुच्छेद 72",
+        "Article 61 / अनुच्छेद 61",
+        "Article 123 / अनुच्छेद 123",
+        "Article 143 / अनुच्छेद 143"
+      ],
+      "answer": 0,
+      "explanation": "Article 72 empowers President to grant pardons. / अनुच्छेद 72 राष्ट्रपति को क्षमादान की शक्ति प्रदान करता है।"
+    },
+    {
+      "id": "efd4d666",
+      "question": "Power of President to promulgate Ordinances is under: / राष्ट्रपति द्वारा अध्यादेश (Ordinance) जारी करने की शक्ति किस अनुच्छेद में है?",
+      "options": [
+        "Article 123 / अनुच्छेद 123",
+        "Article 213 / अनुच्छेद 213",
+        "Article 143 / अनुच्छेद 143",
+        "Article 110 / अनुच्छेद 110"
+      ],
+      "answer": 0,
+      "explanation": "Article 123 empowers President to issue ordinances when Parliament is not in session. / अनुच्छेद 123 के तहत राष्ट्रपति अध्यादेश जारी कर सकता है।"
+    },
+    {
+      "id": "dc2fbaac",
+      "question": "Governor's power to promulgate Ordinances comes under: / राज्यपाल द्वारा अध्यादेश जारी करने की शक्ति किस अनुच्छेद में है?",
+      "options": [
+        "Article 213 / अनुच्छेद 213",
+        "Article 123 / अनुच्छेद 123",
+        "Article 161 / अनुच्छेद 161",
+        "Article 200 / अनुच्छेद 200"
+      ],
+      "answer": 0,
+      "explanation": "Article 213 grants ordinance-making power to state Governors. / अनुच्छेद 213 राज्यपाल को अध्यादेश जारी करने की शक्ति देता है।"
+    },
+    {
+      "id": "7fdb0163",
+      "question": "Which Article defines 'Money Bill'? / 'धन विधेयक' (Money Bill) की परिभाषा किस अनुच्छेद में दी गई है?",
+      "options": [
+        "Article 110 / अनुच्छेद 110",
+        "Article 112 / अनुच्छेद 112",
+        "Article 108 / अनुच्छेद 108",
+        "Article 280 / अनुच्छेद 280"
+      ],
+      "answer": 0,
+      "explanation": "Article 110 defines Money Bills in Parliament. / अनुच्छेद 110 में धन विधेयक की परिभाषा दी गई है।"
+    },
+    {
+      "id": "b8ea0970",
+      "question": "Annual Financial Statement (Budget) is mentioned under which Article? / 'वार्षिक वित्तीय विवरण' (बजट) का उल्लेख किस अनुच्छेद में है?",
+      "options": [
+        "Article 112 / अनुच्छेद 112",
+        "Article 110 / अनुच्छेद 110",
+        "Article 115 / अनुच्छेद 115",
+        "Article 280 / अनुच्छेद 280"
+      ],
+      "answer": 0,
+      "explanation": "Article 112 mandates the presentation of the Annual Financial Statement. / अनुच्छेद 112 के तहत आम बजट (वार्षिक वित्तीय विवरण) प्रस्तुत किया जाता है।"
+    },
+    {
+      "id": "4b3cd649",
+      "question": "Joint Sitting of Parliament is convened under which Article? / संसद की संयुक्त बैठक (Joint Sitting) किस अनुच्छेद के तहत बुलाई जाती है?",
+      "options": [
+        "Article 108 / अनुच्छेद 108",
+        "Article 110 / अनुच्छेद 110",
+        "Article 85 / अनुच्छेद 85",
+        "Article 100 / अनुच्छेद 100"
+      ],
+      "answer": 0,
+      "explanation": "Article 108 provides for Joint Sitting of both houses summoned by the President. / अनुच्छेद 108 के तहत राष्ट्रपति द्वारा संयुक्त बैठक बुलाई जाती है।"
+    },
+    {
+      "id": "bd9e0a3d",
+      "question": "Finance Commission is constituted under which Article? / 'वित्त आयोग' का गठन किस अनुच्छेद के अंतर्गत किया जाता है?",
+      "options": [
+        "Article 280 / अनुच्छेद 280",
+        "Article 300 / अनुच्छेद 300",
+        "Article 324 / अनुच्छेद 324",
+        "Article 263 / अनुच्छेद 263"
+      ],
+      "answer": 0,
+      "explanation": "Article 280 provides for the constitution of Finance Commission every 5 years. / अनुच्छेद 280 के तहत वित्त आयोग का गठन होता है।"
+    },
+    {
+      "id": "bbfcdf5e",
+      "question": "Election Commission of India is provided under which Article? / भारत के निर्वाचन आयोग का प्रावधान किस अनुच्छेद में है?",
+      "options": [
+        "Article 324 / अनुच्छेद 324",
+        "Article 315 / अनुच्छेद 315",
+        "Article 352 / अनुच्छेद 352",
+        "Article 360 / अनुच्छेद 360"
+      ],
+      "answer": 0,
+      "explanation": "Article 324 provides for superintendence and control of elections by Election Commission. / अनुच्छेद 324 के तहत निर्वाचन आयोग की स्थापना की गई है।"
+    },
+    {
+      "id": "4d11dd16",
+      "question": "National Emergency in India is proclaimed under which Article? / भारत में राष्ट्रीय आपातकाल किस अनुच्छेद के तहत लगाया जाता है?",
+      "options": [
+        "Article 352 / अनुच्छेद 352",
+        "Article 356 / अनुच्छेद 356",
+        "Article 360 / अनुच्छेद 360",
+        "Article 368 / अनुच्छेद 368"
+      ],
+      "answer": 0,
+      "explanation": "Article 352 deals with proclamation of National Emergency. / अनुच्छेद 352 के तहत राष्ट्रीय आपातकाल लगाया जाता है।"
+    },
+    {
+      "id": "236a229d",
+      "question": "President's Rule (State Emergency) is imposed under which Article? / राज्यों में राष्ट्रपति शासन किस अनुच्छेद के तहत लागू किया जाता है?",
+      "options": [
+        "Article 356 / अनुच्छेद 356",
+        "Article 352 / अनुच्छेद 352",
+        "Article 360 / अनुच्छेद 360",
+        "Article 370 / अनुच्छेद 370"
+      ],
+      "answer": 0,
+      "explanation": "Article 356 provides for President's Rule in states upon failure of constitutional machinery. / अनुच्छेद 356 के तहत राज्यों में राष्ट्रपति शासन लागू किया जाता है।"
+    }
+  ]
+}
