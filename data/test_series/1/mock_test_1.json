@@ -1,0 +1,68 @@
+{
+  "title": "Mock Test 1",
+  "duration_minutes": 10,
+  "marks_per_question": 1,
+  "negative_marks": 0.25,
+  "questions": [
+    {
+      "id": "f2fdb67b",
+      "question": "Who is known as the father of Indian Constitution?",
+      "options": [
+        "Gandhi",
+        "Nehru",
+        "Dr. B.R. Ambedkar",
+        "Patel"
+      ],
+      "answer": 2,
+      "explanation": "Dr. B.R. Ambedkar chaired the Drafting Committee."
+    },
+    {
+      "id": "406e4d85",
+      "question": "Which gas do plants absorb for photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "answer": 2,
+      "explanation": "Plants absorb CO₂."
+    },
+    {
+      "id": "43b45444",
+      "question": "7 × 8 = ?",
+      "options": [
+        "54",
+        "56",
+        "58",
+        "64"
+      ],
+      "answer": 1,
+      "explanation": "7 × 8 = 56."
+    },
+    {
+      "id": "a4c2eb1a",
+      "question": "Opposite of 'Ancient' is?",
+      "options": [
+        "Old",
+        "Modern",
+        "Past",
+        "Historic"
+      ],
+      "answer": 1,
+      "explanation": "Ancient ↔ Modern."
+    },
+    {
+      "id": "6fb8254b",
+      "question": "Right to Education is which Article?",
+      "options": [
+        "21A",
+        "19",
+        "32",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "Article 21A gives free and compulsory education to ages 6–14."
+    }
+  ]
+}
