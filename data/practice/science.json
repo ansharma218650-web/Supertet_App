@@ -1,0 +1,1205 @@
+{
+  "subject": "Science",
+  "questions": [
+    {
+      "id": "e522bd07",
+      "question": "What is the SI unit of force? / बल का SI मात्रक क्या है?",
+      "options": [
+        "Joule / जूल",
+        "Newton / न्यूटन",
+        "Watt / वाट",
+        "Pascal / पास्कल"
+      ],
+      "answer": 1,
+      "explanation": "The SI unit of force is Newton (N). / बल का SI मात्रक न्यूटन (N) है।"
+    },
+    {
+      "id": "e695c937",
+      "question": "Which device is used to measure electric current? / विद्युत धारा को मापने के लिए किस उपकरण का उपयोग किया जाता है?",
+      "options": [
+        "Voltmeter / वोल्टमीटर",
+        "Ammeter / एमीटर",
+        "Galvanometer / गैल्वेनोमीटर",
+        "Barometer / बैरोमीटर"
+      ],
+      "answer": 1,
+      "explanation": "An ammeter is used to measure electric current. / विद्युत धारा मापने के लिए एमीटर का उपयोग किया जाता है।"
+    },
+    {
+      "id": "1c7d21d6",
+      "question": "What is the speed of light in a vacuum? / निर्वात में प्रकाश की चाल क्या होती है?",
+      "options": [
+        "3 x 10^8 m/s",
+        "3 x 10^6 m/s",
+        "3 x 10^10 m/s",
+        "3 x 10^5 m/s"
+      ],
+      "answer": 0,
+      "explanation": "Speed of light in vacuum is approximately 3 x 10^8 m/s. / निर्वात में प्रकाश की चाल लगभग 3 x 10^8 मीटर/सेकंड होती है।"
+    },
+    {
+      "id": "702047dc",
+      "question": "Which law of motion gives the definition of force? / गति का कौन सा नियम बल की परिभाषा देता है?",
+      "options": [
+        "First Law / प्रथम नियम",
+        "Second Law / द्वितीय नियम",
+        "Third Law / तृतीय नियम",
+        "Law of Gravitation / गुरुत्वाकर्षण नियम"
+      ],
+      "answer": 0,
+      "explanation": "Newton's First Law of Motion defines force. / न्यूटन का गति का पहला नियम बल को परिभाषित करता है।"
+    },
+    {
+      "id": "96f41acb",
+      "question": "What is the unit of work and energy? / कार्य और ऊर्जा का मात्रक क्या है?",
+      "options": [
+        "Newton / न्यूटन",
+        "Joule / जूल",
+        "Watt / वाट",
+        "Pascal / पास्कल"
+      ],
+      "answer": 1,
+      "explanation": "The SI unit of both work and energy is Joule. / कार्य और ऊर्जा दोनों का SI मात्रक जूल है।"
+    },
+    {
+      "id": "65461473",
+      "question": "Unit of power is: / शक्ति का मात्रक क्या है?",
+      "options": [
+        "Joule / जूल",
+        "Watt / वाट",
+        "Newton / न्यूटन",
+        "Ampere / एम्पीयर"
+      ],
+      "answer": 1,
+      "explanation": "Power is measured in Watts (W). / शक्ति का मात्रक वाट (W) है।"
+    },
+    {
+      "id": "e2f598ce",
+      "question": "Which instrument is used to measure atmospheric pressure? / वायुमंडलीय दाब मापने के लिए किस यंत्र का प्रयोग किया जाता है?",
+      "options": [
+        "Barometer / बैरोमीटर",
+        "Thermometer / थर्मोमीटर",
+        "Hygrometer / हाइग्रोमीटर",
+        "Anemometer / एनीमोमीटर"
+      ],
+      "answer": 0,
+      "explanation": "Barometer is used to measure atmospheric pressure. / बैरोमीटर का उपयोग वायुमंडलीय दाब मापने के लिए किया जाता है।"
+    },
+    {
+      "id": "9b139ab9",
+      "question": "Mirage is a phenomenon due to: / मरीचिका (Mirage) किस घटना के कारण होती है?",
+      "options": [
+        "Refraction / अपवर्तन",
+        "Total Internal Reflection / पूर्ण आंतरिक परावर्तन",
+        "Diffraction / विवर्तन",
+        "Interference / व्यतिकरण"
+      ],
+      "answer": 1,
+      "explanation": "Mirage occurs due to total internal reflection of light. / मरीचिका प्रकाश के पूर्ण आंतरिक परावर्तन के कारण बनती है।"
+    },
+    {
+      "id": "5777299f",
+      "question": "Which lens is used in a magnifying glass? / आवर्धक कांच (Magnifying glass) में किस लेंस का उपयोग किया जाता है?",
+      "options": [
+        "Concave Lens / अवतल लेंस",
+        "Convex Lens / उत्तल लेंस",
+        "Plano-concave / समतलावतल लेंस",
+        "Cylindrical Lens / बेलनाकार लेंस"
+      ],
+      "answer": 1,
+      "explanation": "Convex lens is used as a magnifying glass. / उत्तल लेंस का उपयोग आवर्धक कांच के रूप में किया जाता है।"
+    },
+    {
+      "id": "26a975b3",
+      "question": "Sound waves in air are: / वायु में ध्वनि तरंगें होती हैं:",
+      "options": [
+        "Transverse / अनुप्रस्थ",
+        "Longitudinal / अनुदैर्ध्य",
+        "Electromagnetic / विद्युत चुंबकीय",
+        "Torsional / मरोड़ी"
+      ],
+      "answer": 1,
+      "explanation": "Sound waves in air are longitudinal waves. / वायु में ध्वनि तरंगें अनुदैर्ध्य तरंगें होती हैं।"
+    },
+    {
+      "id": "1fb7ecb2",
+      "question": "What is the normal body temperature of a human being in Celsius? / मानव शरीर का सामान्य तापमान सेल्सियस में कितना होता है?",
+      "options": [
+        "37 °C",
+        "98.6 °C",
+        "310 °C",
+        "40 °C"
+      ],
+      "answer": 0,
+      "explanation": "Normal human body temperature is around 37 °C (98.6 °F). / मानव शरीर का सामान्य तापमान लगभग 37 °C होता है।"
+    },
+    {
+      "id": "a56efd24",
+      "question": "Heat transfer by direct contact is called: / प्रत्यक्ष संपर्क द्वारा ऊष्मा स्थानांतरण को क्या कहा जाता है?",
+      "options": [
+        "Conduction / चालन",
+        "Convection / संवहन",
+        "Radiation / विकिरण",
+        "Evaporation / वाष्पीकरण"
+      ],
+      "answer": 0,
+      "explanation": "Conduction is the transfer of heat through direct contact. / चालन प्रत्यक्ष संपर्क के माध्यम से ऊष्मा का स्थानांतरण है।"
+    },
+    {
+      "id": "b2780904",
+      "question": "Which color absorbs maximum heat radiation? / कौन सा रंग अधिकतम ऊष्मा विकिरण को अवशोषित करता है?",
+      "options": [
+        "White / सफेद",
+        "Black / काला",
+        "Red / लाल",
+        "Blue / नीला"
+      ],
+      "answer": 1,
+      "explanation": "Black objects absorb the maximum heat radiation. / काली वस्तुएं अधिकतम ऊष्मा विकिरण का अवशोषण करती हैं।"
+    },
+    {
+      "id": "fc328915",
+      "question": "What is the pH value of pure water? / शुद्ध जल का pH मान कितना होता है?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "12"
+      ],
+      "answer": 1,
+      "explanation": "Pure water is neutral with a pH value of 7. / शुद्ध जल उदासीन होता है और इसका pH मान 7 होता है।"
+    },
+    {
+      "id": "91072279",
+      "question": "Which acid is present in lemon? / नींबू में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "Lactic acid / लैक्टिक अम्ल",
+        "Citric acid / साइट्रिक अम्ल",
+        "Acetic acid / एसिटिक अम्ल",
+        "Tartaric acid / टार्टरिक अम्ल"
+      ],
+      "answer": 1,
+      "explanation": "Lemons contain citric acid. / नींबू में साइट्रिक अम्ल पाया जाता है।"
+    },
+    {
+      "id": "9664ee08",
+      "question": "What is the chemical symbol for Gold? / सोने का रासायनिक प्रतीक क्या है?",
+      "options": [
+        "Ag",
+        "Au",
+        "Fe",
+        "Cu"
+      ],
+      "answer": 1,
+      "explanation": "Gold's symbol is Au (from Latin Aurum). / सोने का रासायनिक प्रतीक Au (ऑरम) है।"
+    },
+    {
+      "id": "4b7d3a50",
+      "question": "Which gas is released during photosynthesis? / प्रकाश संश्लेषण के दौरान कौन सी गैस निकलती है?",
+      "options": [
+        "Carbon dioxide / कार्बन डाइऑक्साइड",
+        "Oxygen / ऑक्सीजन",
+        "Nitrogen / नाइट्रोजन",
+        "Hydrogen / हाइड्रोजन"
+      ],
+      "answer": 1,
+      "explanation": "Plants release oxygen during photosynthesis. / पौधे प्रकाश संश्लेषण के दौरान ऑक्सीजन छोड़ते हैं।"
+    },
+    {
+      "id": "411a2060",
+      "question": "Chemical formula of common salt (Sodium Chloride) is: / साधारण नमक का रासायनिक सूत्र क्या है?",
+      "options": [
+        "NaCl",
+        "Na2CO3",
+        "NaHCO3",
+        "NaOH"
+      ],
+      "answer": 0,
+      "explanation": "Common salt is Sodium Chloride (NaCl). / साधारण नमक सोडियम क्लोराइड (NaCl) है।"
+    },
+    {
+      "id": "aa919cb9",
+      "question": "Which gas is known as Laughing Gas? / लाफिंग गैस (हंसाने वाली गैस) के रूप में किसे जाना जाता है?",
+      "options": [
+        "Nitrous Oxide / नाइट्रस ऑक्साइड",
+        "Nitric Oxide / नाइट्रिक ऑक्साइड",
+        "Carbon Monoxide / कार्बन मोनोऑक्साइड",
+        "Sulfur Dioxide / सल्फर डाइऑक्साइड"
+      ],
+      "answer": 0,
+      "explanation": "Nitrous Oxide (N2O) is called laughing gas. / नाइट्रस ऑक्साइड (N2O) को लाफिंग गैस कहा जाता है।"
+    },
+    {
+      "id": "d32d0819",
+      "question": "Which metal is liquid at room temperature? / कमरे के तापमान पर कौन सी धातु द्रव अवस्था में होती है?",
+      "options": [
+        "Mercury / पारा",
+        "Bromine / ब्रोमीन",
+        "Sodium / सोडियम",
+        "Lead / सीसा"
+      ],
+      "answer": 0,
+      "explanation": "Mercury (Hg) is a liquid metal at room temperature. / पारा (Mercury) कमरे के तापमान पर द्रव अवस्था में पाया जाता है।"
+    },
+    {
+      "id": "1e6f8aae",
+      "question": "Which non-metal is liquid at room temperature? / कमरे के तापमान पर कौन सी अधातु द्रव अवस्था में होती है?",
+      "options": [
+        "Mercury / पारा",
+        "Bromine / ब्रोमीन",
+        "Iodine / आयोडीन",
+        "Chlorine / क्लोरीन"
+      ],
+      "answer": 1,
+      "explanation": "Bromine is a liquid non-metal at room temperature. / ब्रोमीन कमरे के तापमान पर द्रव अवस्था में रहने वाली अधातु है।"
+    },
+    {
+      "id": "d21b40a3",
+      "question": "Acid present in ant sting is: / चींटी के डंक में कौन सा अम्ल पाया जाता है?",
+      "options": [
+        "Formic Acid (Methanoic acid) / फॉर्मिक अम्ल",
+        "Acetic Acid / एसिटिक अम्ल",
+        "Oxalic Acid / ऑक्सालिक अम्ल",
+        "Citric Acid / साइट्रिक अम्ल"
+      ],
+      "answer": 0,
+      "explanation": "Ant stings contain Formic Acid. / चींटी के डंक में फॉर्मिक अम्ल (मेथेनॉइक अम्ल) होता है।"
+    },
+    {
+      "id": "4335dafe",
+      "question": "Which gas is used in fire extinguishers? / अग्निशामक यंत्रों में किस गैस का उपयोग किया जाता है?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Hydrogen / हाइड्रोजन",
+        "Nitrogen / नाइट्रोजन"
+      ],
+      "answer": 1,
+      "explanation": "Carbon Dioxide (CO2) is used to extinguish fire. / आग बुझाने के लिए कार्बन डाइऑक्साइड (CO2) का उपयोग किया जाता है।"
+    },
+    {
+      "id": "cbcfa4f3",
+      "question": "What is the hard substance in the human body? / मानव शरीर का सबसे कठोर पदार्थ कौन सा है?",
+      "options": [
+        "Bone / हड्डी",
+        "Tooth Enamel / एनेमल",
+        "Dentin / डेंटिन",
+        "Nail / नाखून"
+      ],
+      "answer": 1,
+      "explanation": "Tooth enamel is the hardest substance in the human body. / दांतों का एनेमल मानव शरीर का सबसे कठोर पदार्थ है।"
+    },
+    {
+      "id": "cd5498c9",
+      "question": "Which blood group is known as Universal Donor? / किस रक्त समूह को सर्वदाता कहा जाता है?",
+      "options": [
+        "A+",
+        "B+",
+        "AB+",
+        "O-"
+      ],
+      "answer": 3,
+      "explanation": "O negative (O-) blood group is universal donor. / O ऋणात्मक (O-) रक्त समूह सर्वदाता होता है।"
+    },
+    {
+      "id": "ed1b041e",
+      "question": "Which blood group is known as Universal Acceptor? / किस रक्त समूह को सर्वग्राही कहा जाता है?",
+      "options": [
+        "A+",
+        "B+",
+        "AB+",
+        "O-"
+      ],
+      "answer": 2,
+      "explanation": "AB positive (AB+) blood group is universal acceptor. / AB धनात्मक (AB+) रक्त समूह सर्वग्राही होता है।"
+    },
+    {
+      "id": "7ab363eb",
+      "question": "Which vitamin deficiency causes Night Blindness? / किस विटामिन की कमी से रतौंधी रोग होता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 0,
+      "explanation": "Deficiency of Vitamin A causes Night Blindness. / विटामिन A की कमी से रतौंधी रोग होता है।"
+    },
+    {
+      "id": "f2f66a1d",
+      "question": "Which vitamin deficiency causes Scurvy? / किस विटामिन की कमी से स्कर्वी रोग होता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 2,
+      "explanation": "Deficiency of Vitamin C causes Scurvy. / विटामिन C की कमी से स्कर्वी रोग होता है।"
+    },
+    {
+      "id": "f766c66b",
+      "question": "Which vitamin deficiency causes Rickets? / किस विटामिन की कमी से रिकेट्स (सूखा रोग) होता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3,
+      "explanation": "Deficiency of Vitamin D causes Rickets. / विटामिन D की कमी से रिकेट्स (सूखा रोग) होता है।"
+    },
+    {
+      "id": "4c930ec2",
+      "question": "Vitamin synthesized by human body in presence of sunlight is: / सूर्य के प्रकाश की उपस्थिति में शरीर में कौन सा विटामिन बनता है?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "answer": 3,
+      "explanation": "Vitamin D is synthesized by skin in sunlight. / सूर्य के प्रकाश में त्वचा द्वारा विटामिन D का संश्लेषण होता है।"
+    },
+    {
+      "id": "6759f97c",
+      "question": "Which organ is known as the Powerhouse of the cell? / कोशिका का पावरहाउस किसे कहा जाता है?",
+      "options": [
+        "Nucleus / केंद्रक",
+        "Mitochondria / माइटोकॉन्ड्रिया",
+        "Ribosome / राइबोसोम",
+        "Lysosome / लाइसोसोम"
+      ],
+      "answer": 1,
+      "explanation": "Mitochondria is known as the powerhouse of the cell. / माइटोकॉन्ड्रिया को कोशिका का पावरहाउस कहा जाता है।"
+    },
+    {
+      "id": "39d2681a",
+      "question": "Which organelle is called the Suicidal Bag of the cell? / कोशिका की आत्मघाती थैली किसे कहा जाता है?",
+      "options": [
+        "Mitochondria / माइटोकॉन्ड्रिया",
+        "Lysosome / लाइसोसोम",
+        "Ribosome / राइबोसोम",
+        "Golgi Body / गोल्जी काय"
+      ],
+      "answer": 1,
+      "explanation": "Lysosomes are called suicidal bags of the cell. / लाइसोसोम को कोशिका की आत्मघाती थैली कहा जाता है।"
+    },
+    {
+      "id": "3ec8c85e",
+      "question": "Protein synthesis takes place in: / प्रोटीन का संश्लेषण कहाँ होता है?",
+      "options": [
+        "Ribosomes / राइबोसोम",
+        "Mitochondria / माइटोकॉन्ड्रिया",
+        "Golgi apparatus / गोल्जी उपकरण",
+        "Chloroplast / हरितलवक"
+      ],
+      "answer": 0,
+      "explanation": "Ribosomes are responsible for protein synthesis. / राइबोसोम प्रोटीन संश्लेषण के लिए जिम्मेदार होते हैं।"
+    },
+    {
+      "id": "3ca04151",
+      "question": "Which pigment gives green color to plant leaves? / पौधों की पत्तियों को हरा रंग कौन सा वर्णक प्रदान करता है?",
+      "options": [
+        "Hemoglobin / हिमोग्लोबिन",
+        "Chlorophyll / क्लोरोफिल",
+        "Carotene / कैरोटीन",
+        "Xanthophyll / जैंथोफिल"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll gives leaves their green color. / क्लोरोफिल के कारण पत्तियों का रंग हरा होता है।"
+    },
+    {
+      "id": "13ecba77",
+      "question": "Which metal is present in chlorophyll? / क्लोरोफिल में कौन सी धातु मौजूद होती है?",
+      "options": [
+        "Iron / लोहा",
+        "Magnesium / मैग्नीशियम",
+        "Calcium / कैल्शियम",
+        "Zinc / जिंक"
+      ],
+      "answer": 1,
+      "explanation": "Chlorophyll contains Magnesium. / क्लोरोफिल में मैग्नीशियम धातु पाई जाती है।"
+    },
+    {
+      "id": "ac2d4dcd",
+      "question": "Which metal is present in human blood (Hemoglobin)? / मानव रक्त (हिमोग्लोबिन) में कौन सी धातु पाई जाती है?",
+      "options": [
+        "Magnesium / मैग्नीशियम",
+        "Iron / लोहा",
+        "Copper / तांबा",
+        "Zinc / जिंक"
+      ],
+      "answer": 1,
+      "explanation": "Hemoglobin contains Iron. / हिमोग्लोबिन में लोहा (आयरन) पाया जाता है।"
+    },
+    {
+      "id": "7c75296d",
+      "question": "What is the main function of Red Blood Cells (RBC)? / लाल रक्त कोशिकाओं (RBC) का मुख्य कार्य क्या है?",
+      "options": [
+        "Fight infections / संक्रमण से लड़ना",
+        "Transport oxygen / ऑक्सीजन का परिवहन करना",
+        "Blood clotting / रक्त का थक्का जमाना",
+        "Produce antibodies / एंटीबॉडी का निर्माण करना"
+      ],
+      "answer": 1,
+      "explanation": "RBCs transport oxygen from lungs to body tissue. / RBC फेफड़ों से शरीर के अंगों तक ऑक्सीजन का परिवहन करती हैं।"
+    },
+    {
+      "id": "c92fc351",
+      "question": "Which component of blood helps in blood clotting? / रक्त का कौन सा घटक रक्त का थक्का जमने में मदद करता है?",
+      "options": [
+        "RBC",
+        "WBC",
+        "Platelets / प्लेटलेट्स",
+        "Plasma / प्लाज्मा"
+      ],
+      "answer": 2,
+      "explanation": "Platelets help in blood clotting. / प्लेटलेट्स रक्त का थक्का जमाने में सहायक होते हैं।"
+    },
+    {
+      "id": "8c850f7e",
+      "question": "Insulin hormone is secreted by which organ? / इंसुलिन हार्मोन किस अंग द्वारा स्रावित होता है?",
+      "options": [
+        "Liver / यकृत",
+        "Pancreas / अग्न्याशय",
+        "Kidney / वृक्क",
+        "Thyroid / थायराइड"
+      ],
+      "answer": 1,
+      "explanation": "Insulin is secreted by the Pancreas. / इंसुलिन अग्न्याशय (Pancreas) द्वारा स्रावित होता है।"
+    },
+    {
+      "id": "d59ee212",
+      "question": "Deficiency of insulin causes: / इंसुलिन की कमी से कौन सा रोग होता है?",
+      "options": [
+        "Rickets / रिकेट्स",
+        "Diabetes / मधुमेह",
+        "Goitre / घेंघा",
+        "Anemia / एनीमिया"
+      ],
+      "answer": 1,
+      "explanation": "Insulin deficiency leads to Diabetes. / इंसुलिन की कमी से मधुमेह (डायबिटीज) होता है।"
+    },
+    {
+      "id": "38257e8a",
+      "question": "Goitre is caused due to deficiency of: / घेंघा रोग किसकी कमी के कारण होता है?",
+      "options": [
+        "Iron / लोहा",
+        "Iodine / आयोडीन",
+        "Calcium / कैल्शियम",
+        "Sodium / सोडियम"
+      ],
+      "answer": 1,
+      "explanation": "Goitre is caused by Iodine deficiency. / आयोडीन की कमी से घेंघा रोग होता है।"
+    },
+    {
+      "id": "2a059475",
+      "question": "Anemia is caused due to deficiency of: / एनीमिया (रक्तल्पता) रोग किसकी कमी से होता है?",
+      "options": [
+        "Iron / लोहा",
+        "Calcium / कैल्शियम",
+        "Iodine / आयोडीन",
+        "Phosphorus / फास्फोरस"
+      ],
+      "answer": 0,
+      "explanation": "Iron deficiency causes Anemia. / लोहे (आयरन) की कमी से एनीमिया होता है।"
+    },
+    {
+      "id": "536e56ff",
+      "question": "Largest organ of the human body is: / मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "options": [
+        "Liver / यकृत",
+        "Skin / त्वचा",
+        "Brain / मस्तिष्क",
+        "Heart / हृदय"
+      ],
+      "answer": 1,
+      "explanation": "Skin is the largest organ of the human body. / त्वचा मानव शरीर का सबसे बड़ा अंग है।"
+    },
+    {
+      "id": "59cd7ad1",
+      "question": "Largest gland in the human body is: / मानव शरीर की सबसे बड़ी ग्रंथि कौन सी है?",
+      "options": [
+        "Liver / यकृत",
+        "Pancreas / अग्न्याशय",
+        "Thyroid / थायराइड",
+        "Pituitary / पीयूष ग्रंथि"
+      ],
+      "answer": 0,
+      "explanation": "Liver is the largest gland in the body. / यकृत (Liver) मानव शरीर की सबसे बड़ी ग्रंथि है।"
+    },
+    {
+      "id": "434a9bba",
+      "question": "Master gland of the human body is: / मानव शरीर की मास्टर ग्रंथि किसे कहा जाता है?",
+      "options": [
+        "Thyroid / थायराइड",
+        "Adrenal / एड्रेनल",
+        "Pituitary Gland / पीयूष ग्रंथि",
+        "Pancreas / अग्न्याशय"
+      ],
+      "answer": 2,
+      "explanation": "Pituitary gland is known as the Master Gland. / पीयूष ग्रंथि को मास्टर ग्रंथि कहा जाता है।"
+    },
+    {
+      "id": "f4d012ca",
+      "question": "Which acid is produced in human stomach for digestion? / पाचन के लिए मानव आमाशय में कौन सा अम्ल बनता है?",
+      "options": [
+        "Sulfuric Acid / सल्फ्यूरिक अम्ल",
+        "Hydrochloric Acid (HCl) / हाइड्रोक्लोरिक अम्ल",
+        "Nitric Acid / नाइट्रिक अम्ल",
+        "Acetic Acid / एसिटिक अम्ल"
+      ],
+      "answer": 1,
+      "explanation": "Stomach produces Hydrochloric acid (HCl) for digestion. / पाचन क्रिया के लिए आमाशय में हाइड्रोक्लोरिक अम्ल (HCl) बनता है।"
+    },
+    {
+      "id": "33c25df3",
+      "question": "Filtration of blood takes place in which organ? / रक्त का छानना (फ़िल्टर होना) किस अंग में होता है?",
+      "options": [
+        "Heart / हृदय",
+        "Liver / यकृत",
+        "Kidney / वृक्क (गुर्दा)",
+        "Lungs / फेफड़े"
+      ],
+      "answer": 2,
+      "explanation": "Kidneys filter waste products from blood. / गुर्दे (Kidneys) रक्त को फ़िल्टर करने का कार्य करते हैं।"
+    },
+    {
+      "id": "c4bbc36e",
+      "question": "Structural and functional unit of kidney is: / वृक्क की संरचनात्मक एवं कार्यात्मक इकाई क्या है?",
+      "options": [
+        "Neuron / न्यूरॉन",
+        "Nephron / नेफ्रॉन",
+        "Cell / कोशिका",
+        "Alveoli / एल्वियोली"
+      ],
+      "answer": 1,
+      "explanation": "Nephron is the functional unit of kidney. / नेफ्रॉन वृक्क की कार्यात्मक इकाई है।"
+    },
+    {
+      "id": "b509981e",
+      "question": "Structural and functional unit of nervous system is: / तंत्रिका तंत्र की संरचनात्मक एवं कार्यात्मक इकाई क्या है?",
+      "options": [
+        "Nephron / नेफ्रॉन",
+        "Neuron / न्यूरॉन",
+        "Axon / एक्सॉन",
+        "Dendrite / डेंड्राइट"
+      ],
+      "answer": 1,
+      "explanation": "Neuron is the unit of nervous system. / न्यूरॉन तंत्रिका तंत्र की इकाई है।"
+    },
+    {
+      "id": "42aaf7e5",
+      "question": "Gas used in LPG cylinders is mainly a mixture of: / LPG सिलेंडर में मुख्य रूप से किस गैस का मिश्रण होता है?",
+      "options": [
+        "Methane and Ethane",
+        "Propane and Butane",
+        "Ethylene and Acetylene",
+        "Hydrogen and Helium"
+      ],
+      "answer": 1,
+      "explanation": "LPG mainly consists of Propane and Butane. / रसोई गैस (LPG) में मुख्य रूप से प्रोपेन और ब्यूटेन का मिश्रण होता है।"
+    },
+    {
+      "id": "0b6553ce",
+      "question": "Weight of an object is maximum at: / किसी वस्तु का भार सर्वाधिक कहाँ होता है?",
+      "options": [
+        "Equator / भूमध्य रेखा पर",
+        "Poles / ध्रुवों पर",
+        "Center of Earth / पृथ्वी के केंद्र पर",
+        "Space / अंतरिक्ष में"
+      ],
+      "answer": 1,
+      "explanation": "Weight of an object is maximum at the poles due to higher 'g'. / ध्रुवों पर गुरुत्वीय त्वरण अधिक होने से भार सर्वाधिक होता है।"
+    },
+    {
+      "id": "48d5bfab",
+      "question": "Value of acceleration due to gravity (g) on Earth's surface is: / पृथ्वी की सतह पर गुरुत्वीय त्वरण (g) का मान कितना होता है?",
+      "options": [
+        "9.8 m/s²",
+        "8.9 m/s²",
+        "9.8 km/s²",
+        "10 cm/s²"
+      ],
+      "answer": 0,
+      "explanation": "Standard value of g is 9.8 m/s². / 'g' का प्रामाणिक मान 9.8 m/s² है।"
+    },
+    {
+      "id": "fbeeef4c",
+      "question": "Escape velocity on Earth is approximately: / पृथ्वी के लिए पलायन वेग का मान लगभग कितना है?",
+      "options": [
+        "11.2 km/s",
+        "11.2 m/s",
+        "9.8 km/s",
+        "15 km/s"
+      ],
+      "answer": 0,
+      "explanation": "Earth's escape velocity is ~11.2 km/s. / पृथ्वी का पलायन वेग लगभग 11.2 किमी/सेकंड होता है।"
+    },
+    {
+      "id": "84010b47",
+      "question": "Primary colors of light are: / प्रकाश के प्राथमिक रंग कौन से हैं?",
+      "options": [
+        "Red, Blue, Green / लाल, नीला, हरा",
+        "Red, Yellow, Blue / लाल, पीला, नीला",
+        "Red, Green, Yellow / लाल, हरा, पीला",
+        "Blue, Yellow, Green / नीला, पीला, हरा"
+      ],
+      "answer": 0,
+      "explanation": "Primary colors of light are Red, Green, Blue. / प्रकाश के प्राथमिक रंग लाल, हरा और नीला हैं।"
+    },
+    {
+      "id": "ae6faa78",
+      "question": "Sky appears blue due to: / आकाश का रंग नीला किसके कारण दिखाई देता है?",
+      "options": [
+        "Refraction / अपवर्तन",
+        "Scattering of light / प्रकाश का प्रकीर्णन",
+        "Reflection / परावर्तन",
+        "Dispersion / वर्ण विक्षेपण"
+      ],
+      "answer": 1,
+      "explanation": "Blue sky is due to Rayleigh scattering of light. / प्रकाश के प्रकीर्णन (Scattering) के कारण आकाश नीला दिखाई देता है।"
+    },
+    {
+      "id": "e0cbaf48",
+      "question": "Unit of electrical resistance is: / प्रतिरोध का मात्रक क्या है?",
+      "options": [
+        "Ohm / ओम",
+        "Ampere / एम्पीयर",
+        "Volt / वोल्ट",
+        "Coulomb / कूलाम"
+      ],
+      "answer": 0,
+      "explanation": "Electrical resistance is measured in Ohms (Ω). / विद्युत प्रतिरोध का मात्रक ओम (Ohm) है।"
+    },
+    {
+      "id": "8edb3585",
+      "question": "Unit of electric charge is: / विद्युत आवेश का मात्रक क्या है?",
+      "options": [
+        "Ampere / एम्पीयर",
+        "Coulomb / कूलाम",
+        "Volt / वोल्ट",
+        "Joule / जूल"
+      ],
+      "answer": 1,
+      "explanation": "Electric charge is measured in Coulombs. / विद्युत आवेश का मात्रक कूलाम है।"
+    },
+    {
+      "id": "8658c375",
+      "question": "Which device converts Mechanical Energy into Electrical Energy? / कौन सा उपकरण यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है?",
+      "options": [
+        "Electric Motor / विद्युत मोटर",
+        "Dynamo / जनरेटर (डायनेमो)",
+        "Battery / बैटरी",
+        "Transformer / ट्रांसफार्मर"
+      ],
+      "answer": 1,
+      "explanation": "Dynamo/Generator converts mechanical energy to electrical energy. / डायनेमो यांत्रिक ऊर्जा को विद्युत ऊर्जा में बदलता है।"
+    },
+    {
+      "id": "9fededac",
+      "question": "Which device converts Electrical Energy into Mechanical Energy? / कौन सा उपकरण विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलता है?",
+      "options": [
+        "Electric Motor / विद्युत मोटर",
+        "Dynamo / डायनेमो",
+        "Generator / जनरेटर",
+        "Solar Cell / सौर सेल"
+      ],
+      "answer": 0,
+      "explanation": "Electric motor converts electrical energy into mechanical energy. / विद्युत मोटर विद्युत ऊर्जा को यांत्रिक ऊर्जा में बदलती है।"
+    },
+    {
+      "id": "759f47a0",
+      "question": "Transformer works on the principle of: / ट्रांसफार्मर किस सिद्धांत पर कार्य करता है?",
+      "options": [
+        "Self Induction / स्व-प्रेरण",
+        "Electromagnetic Induction / विद्युत चुंबकीय प्रेरण",
+        "Mutual Induction / अन्योन्य प्रेरण",
+        "Both B and C / B और C दोनों"
+      ],
+      "answer": 3,
+      "explanation": "Transformer works on electromagnetic / mutual induction. / ट्रांसफार्मर विद्युत चुंबकीय (अन्योन्य) प्रेरण के सिद्धांत पर कार्य करता है।"
+    },
+    {
+      "id": "26954f4f",
+      "question": "Unit of frequency of wave is: / तरंग की आवृत्ति का मात्रक क्या है?",
+      "options": [
+        "Hertz / हर्ट्ज़",
+        "Decibel / डेसिबल",
+        "Meter / मीटर",
+        "Second / सेकंड"
+      ],
+      "answer": 0,
+      "explanation": "Frequency is measured in Hertz (Hz). / आवृत्ति का मात्रक हर्ट्ज़ (Hz) होता है।"
+    },
+    {
+      "id": "c27d1370",
+      "question": "Intensity of sound is measured in: / ध्वनि की तीव्रता किसमें मापी जाती है?",
+      "options": [
+        "Hertz / हर्ट्ज़",
+        "Decibel / डेसिबल",
+        "Pascal / पास्कल",
+        "Watt / वाट"
+      ],
+      "answer": 1,
+      "explanation": "Sound intensity level is measured in decibels (dB). / ध्वनि की तीव्रता डेसिबल (dB) में मापी जाती है।"
+    },
+    {
+      "id": "125b8ca2",
+      "question": "Audible range of sound for human ears is: / मानव कान के लिए श्रव्य ध्वनि की आवृत्ति सीमा कितनी है?",
+      "options": [
+        "20 Hz to 20,000 Hz",
+        "Below 20 Hz",
+        "Above 20,000 Hz",
+        "2,000 Hz to 5,000 Hz"
+      ],
+      "answer": 0,
+      "explanation": "Human audible range is 20 Hz to 20 kHz. / मनुष्यों की श्रव्य सीमा 20 Hz से 20,000 Hz होती है।"
+    },
+    {
+      "id": "41d8d468",
+      "question": "Ultrasonic sound has frequency: / पराश्रव्य (Ultrasonic) ध्वनि की आवृत्ति कितनी होती है?",
+      "options": [
+        "Less than 20 Hz",
+        "Greater than 20,000 Hz",
+        "Between 20 Hz and 20,000 Hz",
+        "None of these"
+      ],
+      "answer": 1,
+      "explanation": "Ultrasonic sounds have frequency greater than 20,000 Hz. / पराश्रव्य तरंगों की आवृत्ति 20,000 हर्ट्ज़ से अधिक होती है।"
+    },
+    {
+      "id": "b4ebf500",
+      "question": "Bats navigate in dark using which wave? / चमगादड़ अंधेरे में उड़ने के लिए किस तरंग का प्रयोग करते हैं?",
+      "options": [
+        "Infrasonic / अवश्रव्य",
+        "Ultrasonic / पराश्रव्य",
+        "Radio waves / रेडियो तरंगें",
+        "Micro waves / सूक्ष्म तरंगें"
+      ],
+      "answer": 1,
+      "explanation": "Bats use ultrasonic waves for navigation. / चमगादड़ उड़ने के लिए पराश्रव्य तरंगों (Ultrasonic waves) का उपयोग करते हैं।"
+    },
+    {
+      "id": "33337ed3",
+      "question": "Renting / Rusting of iron is an example of: / लोहे पर जंग लगना किसका उदाहरण है?",
+      "options": [
+        "Physical Change / भौतिक परिवर्तन",
+        "Chemical Change / रासायनिक परिवर्तन",
+        "Reversible Change / उत्क्रमणीय परिवर्तन",
+        "Nuclear Change / नाभिकीय परिवर्तन"
+      ],
+      "answer": 1,
+      "explanation": "Rusting of iron is a chemical change (oxidation). / लोहे पर जंग लगना एक रासायनिक परिवर्तन (ऑक्सीकरण) है।"
+    },
+    {
+      "id": "79d94684",
+      "question": "Process of coating zinc on iron is called: / लोहे पर जस्ते की परत चढ़ाने की प्रक्रिया को क्या कहते हैं?",
+      "options": [
+        "Galvanization / गैल्वेनीकरण (जस्तीकरण)",
+        "Vulcanization / वल्कनीकरण",
+        "Electroplating / विद्युत लेपन",
+        "Casting / ढलाई"
+      ],
+      "answer": 0,
+      "explanation": "Galvanization is coating iron with zinc to prevent rust. / लोहे को जंग से बचाने के लिए जस्ते की परत चढ़ाना गैल्वेनीकरण कहलाता है।"
+    },
+    {
+      "id": "08f01d44",
+      "question": "Process of converting liquid into vapor at any temperature below boiling point is: / क्वथनांक से कम तापमान पर द्रव के वाष्प में बदलने की प्रक्रिया क्या कहलाती है?",
+      "options": [
+        "Evaporation / वाष्पीकरण",
+        "Condensation / सघनता",
+        "Sublimation / ऊर्ध्वपातन",
+        "Melting / गलनांक"
+      ],
+      "answer": 0,
+      "explanation": "Evaporation occurs below the boiling point. / क्वथनांक से कम तापमान पर द्रव का वाष्प में बदलना वाष्पीकरण कहलाता है।"
+    },
+    {
+      "id": "1c59dc4e",
+      "question": "Direct change of solid into gas on heating is called: / ठोस का सीधे गैस में बदलना क्या कहलाता है?",
+      "options": [
+        "Evaporation / वाष्पीकरण",
+        "Sublimation / ऊर्ध्वपातन",
+        "Condensation / संघनन",
+        "Fusion / संगलन"
+      ],
+      "answer": 1,
+      "explanation": "Sublimation is direct transition from solid to gas. / ठोस का बिना द्रव बने सीधे गैस में बदलना ऊर्ध्वपातन कहलाता है।"
+    },
+    {
+      "id": "cde63395",
+      "question": "Example of a substance that undergoes sublimation: / ऊर्ध्वपातन (Sublimation) दर्शाने वाले पदार्थ का उदाहरण है:",
+      "options": [
+        "Camphor / कपूर",
+        "Naphthalene / नैफ्थलीन",
+        "Ammonium Chloride / नौसदर",
+        "All of these / उपरोक्त सभी"
+      ],
+      "answer": 3,
+      "explanation": "Camphor, Naphthalene and Ammonium Chloride sublime. / कपूर, नैफ्थलीन और अमोनियम क्लोराइड सभी ऊर्ध्वपातन दर्शाते हैं।"
+    },
+    {
+      "id": "7cd7a7f2",
+      "question": "Which gas causes Global Warming mainly? / ग्लोबल वार्मिंग के लिए मुख्य रूप से कौन सी गैस उत्तरदायी है?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Nitrogen / नाइट्रोजन",
+        "Argon / ऑर्गन"
+      ],
+      "answer": 1,
+      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas. / कार्बन डाइऑक्साइड मुख्य ग्रीनहाउस गैस है जो ग्लोबल वार्मिंग करती है।"
+    },
+    {
+      "id": "62ee746b",
+      "question": "Ozone layer protects Earth from: / ओजोन परत पृथ्वी को किससे बचाती है?",
+      "options": [
+        "Infrared rays / अवरक्त किरणें",
+        "Ultraviolet (UV) rays / पराबैंगनी किरणें",
+        "X-rays / एक्स-किरणें",
+        "Gamma rays / गामा किरणें"
+      ],
+      "answer": 1,
+      "explanation": "Ozone layer absorbs harmful UV radiation from the Sun. / ओजोन परत सूर्य से आने वाली हानिकारक पराबैंगनी किरणों को रोकती है।"
+    },
+    {
+      "id": "0d07274b",
+      "question": "Ozone layer is present in which layer of atmosphere? / ओजोन परत वायुमंडल की किस परत में पाई जाती है?",
+      "options": [
+        "Troposphere / क्षोभमंडल",
+        "Stratosphere / समतापमंडल",
+        "Mesosphere / मध्यमंडल",
+        "Thermosphere / तापमंडल"
+      ],
+      "answer": 1,
+      "explanation": "Ozone layer is located in the Stratosphere. / ओजोन परत समतापमंडल (Stratosphere) में स्थित है।"
+    },
+    {
+      "id": "b6476e98",
+      "question": "All weather events like rain, clouds occur in: / वर्षा, बादल आदि सभी मौसम संबंधी घटनाएं किस मंडल में होती हैं?",
+      "options": [
+        "Troposphere / क्षोभमंडल",
+        "Stratosphere / समतापमंडल",
+        "Exosphere / बहिर्मंडल",
+        "Ionosphere / आयनमंडल"
+      ],
+      "answer": 0,
+      "explanation": "Troposphere is where all weather events happen. / सभी मौसमी घटनाएं क्षोभमंडल में घटित होती हैं।"
+    },
+    {
+      "id": "74cb9b70",
+      "question": "Process by which green plants make food is called: / हरे पौधों द्वारा भोजन बनाने की प्रक्रिया को क्या कहते हैं?",
+      "options": [
+        "Respiration / श्वसन",
+        "Photosynthesis / प्रकाश संश्लेषण",
+        "Transpiration / वाष्पोत्सर्जन",
+        "Excretion / उत्सर्जन"
+      ],
+      "answer": 1,
+      "explanation": "Photosynthesis is the food-making process in plants. / पौधे प्रकाश संश्लेषण द्वारा अपना भोजन बनाते हैं।"
+    },
+    {
+      "id": "34f6967f",
+      "question": "Tissue responsible for transport of water in plants is: / पौधों में जल के परिवहन के लिए कौन सा ऊतक उत्तरदायी है?",
+      "options": [
+        "Xylem / जाइलम",
+        "Phloem / फ्लोएम",
+        "Stomata / रंध्र",
+        "Cambium / कैम्बियम"
+      ],
+      "answer": 0,
+      "explanation": "Xylem transports water and minerals in plants. / जाइलम पौधों में जल और खनिज लवणों का संवहन करता है।"
+    },
+    {
+      "id": "c3dcea1a",
+      "question": "Tissue responsible for transport of food in plants is: / पौधों में भोजन (पोषक तत्वों) का परिवहन कौन सा ऊतक करता है?",
+      "options": [
+        "Xylem / जाइलम",
+        "Phloem / फ्लोएम",
+        "Epidermis / बाह्यत्वचा",
+        "Cortex / वल्कुट"
+      ],
+      "answer": 1,
+      "explanation": "Phloem transports food manufactured in leaves. / फ्लोएम पत्तियों में बने भोजन का पौधों के विभिन्न भागों में संवहन करता है।"
+    },
+    {
+      "id": "d7b098fa",
+      "question": "Pores on leaves through which transpiration and gas exchange occurs: / पत्तियों की सतह पर छोटे छिद्र जिनसे गैसों का आदान-प्रदान होता है:",
+      "options": [
+        "Stomata / रंध्र",
+        "Xylem / जाइलम",
+        "Phloem / फ्लोएम",
+        "Lenticels / वातरंध्र"
+      ],
+      "answer": 0,
+      "explanation": "Stomata facilitate gas exchange and transpiration. / रंध्र (Stomata) द्वारा गैसों का विनिमय और वाष्पोत्सर्जन होता है।"
+    },
+    {
+      "id": "9d24f1a3",
+      "question": "Which gas is absorbed by plants during photosynthesis? / प्रकाश संश्लेषण के दौरान पौधे कौन सी गैस अवशोषित करते हैं?",
+      "options": [
+        "Oxygen / ऑक्सीजन",
+        "Carbon Dioxide / कार्बन डाइऑक्साइड",
+        "Nitrogen / नाइट्रोजन",
+        "Carbon Monoxide / कार्बन मोनोऑक्साइड"
+      ],
+      "answer": 1,
+      "explanation": "Plants absorb CO2 during photosynthesis. / प्रकाश संश्लेषण के दौरान पौधे कार्बन डाइऑक्साइड अवशोषित करते हैं।"
+    },
+    {
+      "id": "a2342ca3",
+      "question": "Which plant hormone is responsible for ripening of fruits? / फलों को पकाने के लिए कौन सा पादप हार्मोन जिम्मेदार है?",
+      "options": [
+        "Auxin / ऑक्सिन",
+        "Gibberellin / जिबरेलिन",
+        "Ethylene / एथिलीन",
+        "Cytokinin / साइटोकाइनिन"
+      ],
+      "answer": 2,
+      "explanation": "Ethylene hormone promotes fruit ripening. / एथिलीन हार्मोन फलों को पकाने में सहायक होता है।"
+    },
+    {
+      "id": "78b37b7a",
+      "question": "Which plant hormone promotes cell division? / कौन सा पादप हार्मोन कोशिका विभाजन को बढ़ावा देता है?",
+      "options": [
+        "Cytokinin / साइटोकाइनिन",
+        "Abscisic Acid / एब्सिसिक अम्ल",
+        "Auxin / ऑक्सिन",
+        "Ethylene / एथिलीन"
+      ],
+      "answer": 0,
+      "explanation": "Cytokinin promotes cell division in plants. / साइटोकाइनिन पौधों में कोशिका विभाजन को प्रेरित करता है।"
+    },
+    {
+      "id": "11a92b4f",
+      "question": "Insectivorous plant example: / कीटभक्षी पौधे का उदाहरण है:",
+      "options": [
+        "Pitcher Plant (Nepenthes) / घटपर्णी (नेपेंथीस)",
+        "Cuscuta (Amarbel) / अमरबेल",
+        "Mushroom / मशरूम",
+        "Banyan / बरगद"
+      ],
+      "answer": 0,
+      "explanation": "Pitcher plant is an insectivorous plant. / घटपर्णी (नेपेंथीस) एक कीटभक्षी पौधा है।"
+    },
+    {
+      "id": "1edeb1d2",
+      "question": "Cuscuta (Amarbel) is an example of: / अमरबेल (Cuscuta) किसका उदाहरण है?",
+      "options": [
+        "Autotroph / स्वपोषी",
+        "Parasite / परजीवी",
+        "Saprotroph / मृतोपजीवी",
+        "Host / पोषी"
+      ],
+      "answer": 1,
+      "explanation": "Cuscuta is a parasitic plant. / अमरबेल एक परजीवी (Parasitic) पौधा है।"
+    },
+    {
+      "id": "0e35a504",
+      "question": "Which organ produces bile juice? / पित्त रस (Bile juice) का निर्माण किस अंग में होता है?",
+      "options": [
+        "Gallbladder / पिताशय",
+        "Liver / यकृत",
+        "Pancreas / अग्न्याशय",
+        "Stomach / आमाशय"
+      ],
+      "answer": 1,
+      "explanation": "Bile juice is produced by the Liver and stored in Gallbladder. / पित्त रस का निर्माण यकृत (Liver) में होता है और पिताशय में संचित रहता है।"
+    },
+    {
+      "id": "3575aeeb",
+      "question": "Bile juice is stored in: / पित्त रस कहाँ जमा (संचित) होता है?",
+      "options": [
+        "Liver / यकृत",
+        "Gallbladder / पिताशय",
+        "Small Intestine / छोटी आंत",
+        "Pancreas / अग्न्याशय"
+      ],
+      "answer": 1,
+      "explanation": "Bile juice is stored in the Gallbladder. / पित्त रस पिताशय (Gallbladder) में संचित होता है।"
+    },
+    {
+      "id": "cd3120d2",
+      "question": "Digestion of food completes in which part of human digestive tract? / भोजन का पूर्ण पाचन किस अंग में होता है?",
+      "options": [
+        "Stomach / आमाशय",
+        "Small Intestine / छोटी आंत",
+        "Large Intestine / बड़ी आंत",
+        "Oesophagus / ग्रास नली"
+      ],
+      "answer": 1,
+      "explanation": "Complete digestion takes place in the small intestine. / भोजन का पूर्ण पाचन छोटी आंत (Small Intestine) में होता है।"
+    },
+    {
+      "id": "647d693c",
+      "question": "Absorption of water mainly takes place in: / जल का अवशोषण मुख्य रूप से कहाँ होता है?",
+      "options": [
+        "Stomach / आमाशय",
+        "Small Intestine / छोटी आंत",
+        "Large Intestine / बड़ी आंत",
+        "Liver / यकृत"
+      ],
+      "answer": 2,
+      "explanation": "Large intestine absorbs water from undigested food. / अपचित भोजन से जल का अवशोषण मुख्य रूप से बड़ी आंत में होता है।"
+    },
+    {
+      "id": "0fa60576",
+      "question": "How many chambers are there in a human heart? / मानव हृदय में कितने कोष्ठ (Chambers) होते हैं?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explanation": "Human heart has 4 chambers (2 atria, 2 ventricles). / मानव हृदय में 4 कोष्ठ (दो आलिंद और दो निलय) होते हैं।"
+    },
+    {
+      "id": "e82a516a",
+      "question": "Normal blood pressure of a healthy human is: / एक स्वस्थ मनुष्य का सामान्य रक्तचाप कितना होता है?",
+      "options": [
+        "120/80 mmHg",
+        "100/60 mmHg",
+        "140/90 mmHg",
+        "80/120 mmHg"
+      ],
+      "answer": 0,
+      "explanation": "Normal BP is 120/80 mmHg (Systolic/Diastolic). / सामान्य रक्तचाप 120/80 mmHg होता है।"
+    },
+    {
+      "id": "5e57f8ca",
+      "question": "Instrument used to measure blood pressure is: / रक्तचाप मापने वाले यंत्र को क्या कहते हैं?",
+      "options": [
+        "Sphygmomanometer / स्फिग्मोमैनोमीटर",
+        "Barometer / बैरोमीटर",
+        "Stethoscope / स्टेथोस्कोप",
+        "Thermometer / थर्मामीटर"
+      ],
+      "answer": 0,
+      "explanation": "Sphygmomanometer measures blood pressure. / रक्तचाप मापने के लिए स्फिग्मोमैनोमीटर का उपयोग किया जाता है।"
+    },
+    {
+      "id": "6f16388c",
+      "question": "Number of bones in an adult human body is: / वयस्क मानव शरीर में हड्डियों की कुल संख्या कितनी होती है?",
+      "options": [
+        "206",
+        "300",
+        "208",
+        "180"
+      ],
+      "answer": 0,
+      "explanation": "Adult human body contains 206 bones. / वयस्क मानव शरीर में 206 हड्डियां होती हैं।"
+    },
+    {
+      "id": "9d52b612",
+      "question": "Smallest bone in the human body is: / मानव शरीर की सबसे छोटी हड्डी कौन सी है?",
+      "options": [
+        "Femur / फीमर",
+        "Stapes / स्टेपीज",
+        "Tibia / टिबिया",
+        "Radius / रेडियस"
+      ],
+      "answer": 1,
+      "explanation": "Stapes (in ear) is the smallest bone. / स्टेपीज (कान की हड्डी) मानव शरीर की सबसे छोटी हड्डी है।"
+    },
+    {
+      "id": "6c164a24",
+      "question": "Longest/Strongest bone in human body is: / मानव शरीर की सबसे लंबी/मजबूत हड्डी कौन सी है?",
+      "options": [
+        "Stapes / स्टेपीज",
+        "Femur / फीमर (जांघ की हड्डी)",
+        "Humerus / ह्यूमरस",
+        "Fibula / फिबुला"
+      ],
+      "answer": 1,
+      "explanation": "Femur (thigh bone) is the longest bone. / फीमर (जांघ की हड्डी) शरीर की सबसे लंबी हड्डी है।"
+    },
+    {
+      "id": "7a853d5a",
+      "question": "Which disease is caused by deficiency of Protein in children? / बच्चों में प्रोटीन की कमी से कौन सा रोग होता है?",
+      "options": [
+        "Kwashiorkor / क्वाशियोरकोर",
+        "Marasmus / मरास्मस",
+        "Both A and B / A और B दोनों",
+        "Scurvy / स्कर्वी"
+      ],
+      "answer": 2,
+      "explanation": "Kwashiorkor and Marasmus are protein deficiency diseases. / क्वाशियोरकोर और मरास्मस दोनों प्रोटीन की कमी से होते हैं।"
+    },
+    {
+      "id": "1a040f8c",
+      "question": "Rabies is caused by: / रेबीज रोग किसके संक्रमण से होता है?",
+      "options": [
+        "Bacteria / जीवाणु",
+        "Virus / विषाणु",
+        "Fungus / कवक",
+        "Protozoa / प्रोटोजोआ"
+      ],
+      "answer": 1,
+      "explanation": "Rabies is a viral disease caused by animal bites. / रेबीज विषाणु (Virus) के कारण होने वाला रोग है।"
+    },
+    {
+      "id": "da4a2bb8",
+      "question": "Malaria is caused by which pathogen? / मलेरिया किस जीव/परजीवी के कारण होता है?",
+      "options": [
+        "Bacteria / जीवाणु",
+        "Plasmodium Protozoa / प्लाज्मोडियम प्रोटोजोआ",
+        "Virus / विषाणु",
+        "Fungus / कवक"
+      ],
+      "answer": 1,
+      "explanation": "Malaria is caused by Plasmodium parasite transmitted by Anopheles mosquito. / मलेरिया प्लाज्मोडियम नामक प्रोटोजोआ के कारण होता है।"
+    },
+    {
+      "id": "65f36a55",
+      "question": "Vector responsible for spreading Malaria is: / मलेरिया फैलाने वाला मच्छर (वाहक) कौन सा है?",
+      "options": [
+        "Female Anopheles / मादा एनोफेलीज",
+        "Aedes aegypti / एडीज एजिप्टी",
+        "Culex / क्यूलेक्स",
+        "Housefly / घरेलू मक्खी"
+      ],
+      "answer": 0,
+      "explanation": "Female Anopheles mosquito transmits malaria. / मादा एनोफेलीज मच्छर मलेरिया का वाहक है।"
+    },
+    {
+      "id": "53d75726",
+      "question": "Dengue is transmitted by which mosquito? / डेंगू का संचार किस मच्छर द्वारा होता है?",
+      "options": [
+        "Female Anopheles / मादा एनोफेलीज",
+        "Aedes aegypti / एडीज एजिप्टी",
+        "Culex / क्यूलेक्स",
+        "Mansonia / मैन्सोनिया"
+      ],
+      "answer": 1,
+      "explanation": "Dengue virus is transmitted by Aedes mosquitoes. / एडीज एजिप्टी मच्छर डेंगू वायरस का प्रसार करता है।"
+    },
+    {
+      "id": "e47710d9",
+      "question": "BCG vaccine is given for protection against which disease? / BCG का टीका किस बीमारी से बचाव के लिए लगाया जाता है?",
+      "options": [
+        "Polio / पोलियों",
+        "Tuberculosis (TB) / तपेदिक (टीबी)",
+        "Cholera / हैजा",
+        "Diphtheria / डिप्थीरिया"
+      ],
+      "answer": 1,
+      "explanation": "BCG vaccine protects against Tuberculosis (TB). / BCG टीका टीबी (क्षय रोग) से बचाव के लिए लगाया जाता है।"
+    },
+    {
+      "id": "96fbbe5c",
+      "question": "Which law explains why we lean forward when a bus suddenly stops? / बस के अचानक रुकने पर यात्री आगे झुक जाते हैं, यह किस नियम से स्पष्ट होता है?",
+      "options": [
+        "Inertia of Rest / विराम का जड़त्व",
+        "Inertia of Motion / गति का जड़त्व",
+        "Third Law of Motion / गति का तीसरा नियम",
+        "Law of Conservation of Energy / ऊर्जा संरक्षण नियम"
+      ],
+      "answer": 1,
+      "explanation": "Inertia of motion causes forward jerk when stopping. / गति के जड़त्व (Inertia of Motion) के कारण ऐसा होता है।"
+    }
+  ]
+}

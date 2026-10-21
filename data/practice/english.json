@@ -1,0 +1,1217 @@
+{
+  "subject": "English",
+  "questions": [
+    {
+      "id": "3e0669ba",
+      "question": "Choose the synonym of 'Rapid'.",
+      "options": [
+        "Slow",
+        "Quick",
+        "Weak",
+        "Late"
+      ],
+      "answer": 1,
+      "explanation": "Rapid means fast / quick."
+    },
+    {
+      "id": "80879de2",
+      "question": "Identify the segment in the sentence that contains a grammatical error: 'Neither the director nor the actors was present at the press conference yesterday.'",
+      "options": [
+        "Neither the director",
+        "nor the actors",
+        "was present",
+        "at the press conference"
+      ],
+      "answer": 2,
+      "explanation": "When subjects are joined by 'neither... nor', the verb agrees with the closer subject. Here, 'actors' is plural, so 'was' should be replaced with 'were'."
+    },
+    {
+      "id": "a8ac08d3",
+      "question": "Select the option that corrects the underlined part: 'Hardly had he entered the room <when the phone rang>.'",
+      "options": [
+        "than the phone rang",
+        "when the phone rang",
+        "then the phone rang",
+        "while the phone rang"
+      ],
+      "answer": 1,
+      "explanation": "'Hardly' is followed by 'when', not 'than' or 'then'. The original sentence is already correct."
+    },
+    {
+      "id": "c0de8be0",
+      "question": "Identify the grammatical error: 'Scarcely had the teacher left the classroom than the students started making noise.'",
+      "options": [
+        "Scarcely had the teacher",
+        "left the classroom",
+        "than the students",
+        "started making noise"
+      ],
+      "answer": 2,
+      "explanation": "'Scarcely' must be paired with 'when' or 'before', not 'than'. 'Than' is used with 'No sooner'."
+    },
+    {
+      "id": "70b31231",
+      "question": "Choose the sentence with the correct subjunctive mood usage:",
+      "options": [
+        "If I was the Prime Minister, I will remove poverty.",
+        "If I were the Prime Minister, I would remove poverty.",
+        "If I am the Prime Minister, I would remove poverty.",
+        "If I had been the Prime Minister, I will remove poverty."
+      ],
+      "answer": 1,
+      "explanation": "Hypothetical or unreal conditions in the present require the subjunctive verb 'were' followed by 'would + verb'."
+    },
+    {
+      "id": "dcc5b5d0",
+      "question": "Find the part of the sentence containing an error: 'Each of the candidates were given a comprehensive questionnaire during the interview process.'",
+      "options": [
+        "Each of the candidates",
+        "were given",
+        "a comprehensive questionnaire",
+        "during the interview process"
+      ],
+      "answer": 1,
+      "explanation": "'Each' is an indefinite singular pronoun and takes a singular verb. 'Were given' should be replaced with 'was given'."
+    },
+    {
+      "id": "35f54901",
+      "question": "Choose the correct error identification: 'One of my friends have decided to move to New York for higher studies.'",
+      "options": [
+        "One of my friends",
+        "have decided to move",
+        "to New York",
+        "for higher studies"
+      ],
+      "answer": 1,
+      "explanation": "The subject of the sentence is 'One' (singular), so the verb should be 'has decided' instead of 'have decided'."
+    },
+    {
+      "id": "02a9c344",
+      "question": "Spot the error: 'He is superior than me in both qualifications and practical experience.'",
+      "options": [
+        "He is superior",
+        "than me",
+        "in both qualifications",
+        "and practical experience"
+      ],
+      "answer": 1,
+      "explanation": "Adjectives ending in '-ior' (superior, inferior, senior, junior) take the preposition 'to', not 'than'."
+    },
+    {
+      "id": "f60f712b",
+      "question": "Identify the error: 'The police has arrested two suspects in connection with the bank robbery.'",
+      "options": [
+        "The police has",
+        "arrested two suspects",
+        "in connection with",
+        "the bank robbery"
+      ],
+      "answer": 0,
+      "explanation": "'Police' is a collective noun that is treated as plural in English; hence it takes the plural verb 'have'."
+    },
+    {
+      "id": "1aa8de2d",
+      "question": "Choose the correct grammatical transformation: 'She is so weak that she cannot walk.' (Into Simple Sentence)",
+      "options": [
+        "She is very weak to walk.",
+        "She is too weak to walk.",
+        "She is so weak to walk.",
+        "She being weak cannot walk."
+      ],
+      "answer": 1,
+      "explanation": "'So... that cannot' is converted into 'too... to' in simple sentence structure."
+    },
+    {
+      "id": "f6614b94",
+      "question": "Identify the error: 'No sooner did the train arrived at the station than the passengers rushed towards the doors.'",
+      "options": [
+        "No sooner did",
+        "the train arrived",
+        "at the station than",
+        "the passengers rushed"
+      ],
+      "answer": 1,
+      "explanation": "After the auxiliary verb 'did', the main verb must be in its base form ('arrive' instead of 'arrived')."
+    },
+    {
+      "id": "f21de0e4",
+      "question": "Fill in the blank with the appropriate tense: 'If she ________ hard, she would have cleared the competitive examination.'",
+      "options": [
+        "worked",
+        "had worked",
+        "has worked",
+        "would work"
+      ],
+      "answer": 1,
+      "explanation": "Third conditional structure: 'If + past perfect (had worked), would have + past participle'."
+    },
+    {
+      "id": "03870323",
+      "question": "Choose the correct option: 'By the time the rescue team reached the spot, the flood waters ________ significantly.'",
+      "options": [
+        "receded",
+        "has receded",
+        "had receded",
+        "was receding"
+      ],
+      "answer": 2,
+      "explanation": "When two past actions occur, the earlier action takes the Past Perfect tense ('had receded')."
+    },
+    {
+      "id": "6838e7b3",
+      "question": "Select the correct verb form: 'I ________ in this school for over ten years by next July.'",
+      "options": [
+        "will work",
+        "will have been working",
+        "have been working",
+        "am working"
+      ],
+      "answer": 1,
+      "explanation": "Action continuing up to a specific time in the future requires Future Perfect Continuous ('will have been working')."
+    },
+    {
+      "id": "f6c26880",
+      "question": "Fill in the blank: 'It is high time we ________ action against environmental pollution.'",
+      "options": [
+        "take",
+        "took",
+        "have taken",
+        "will take"
+      ],
+      "answer": 1,
+      "explanation": "The phrase 'It is high time' is followed by a clause in the Simple Past subjunctive tense ('took')."
+    },
+    {
+      "id": "57171e4b",
+      "question": "Complete the sentence: 'Supposing if he ________ you, what would you do?'",
+      "options": [
+        "rejects",
+        "rejected",
+        "had rejected",
+        "will reject"
+      ],
+      "answer": 1,
+      "explanation": "Second conditional / hypothetical present situation requires past tense verb ('rejected'). Also, note 'supposing' and 'if' are redundant together in strict grammar."
+    },
+    {
+      "id": "93e15698",
+      "question": "Select the most appropriate SYNONYM of the word 'OBSTREPEROUS':",
+      "options": [
+        "Docile",
+        "Unruly",
+        "Taciturn",
+        "Serene"
+      ],
+      "answer": 1,
+      "explanation": "'Obstreperous' means noisy, unruly, or difficult to control."
+    },
+    {
+      "id": "b0679574",
+      "question": "What is the SYNONYM of 'EPHEMERAL'?",
+      "options": [
+        "Perpetual",
+        "Transient",
+        "Immutable",
+        "Monumental"
+      ],
+      "answer": 1,
+      "explanation": "'Ephemeral' means lasting for a very short time; transient or fleeting."
+    },
+    {
+      "id": "15186251",
+      "question": "Choose the correct SYNONYM of 'SAGACIOUS':",
+      "options": [
+        "Foolish",
+        "Wise",
+        "Arrogant",
+        "Timid"
+      ],
+      "answer": 1,
+      "explanation": "'Sagacious' means having or showing keen mental discernment and good judgment; wise."
+    },
+    {
+      "id": "cf0748d7",
+      "question": "Select the SYNONYM for 'PERFIDIOUS':",
+      "options": [
+        "Loyal",
+        "Treacherous",
+        "Benevolent",
+        "Scrupulous"
+      ],
+      "answer": 1,
+      "explanation": "'Perfidious' means deceitful and untrustworthy; treacherous."
+    },
+    {
+      "id": "c01fe9ec",
+      "question": "Find the SYNONYM of 'QUINTESSENTIAL':",
+      "options": [
+        "Atypical",
+        "Prototypical",
+        "Substandard",
+        "Extraneous"
+      ],
+      "answer": 1,
+      "explanation": "'Quintessential' represents the most perfect or typical example of a quality or class."
+    },
+    {
+      "id": "0d625934",
+      "question": "What is the SYNONYM of 'LUGUBRIOUS'?",
+      "options": [
+        "Mournful",
+        "Ebullient",
+        "Vivacious",
+        "Jovial"
+      ],
+      "answer": 0,
+      "explanation": "'Lugubrious' means looking or sounding sad and dismal; mournful."
+    },
+    {
+      "id": "d812e216",
+      "question": "Choose the SYNONYM of 'EQUANIMITY':",
+      "options": [
+        "Agitation",
+        "Composure",
+        "Hostility",
+        "Diffidence"
+      ],
+      "answer": 1,
+      "explanation": "'Equanimity' means calmness and composure, especially in a difficult situation."
+    },
+    {
+      "id": "7d4b6275",
+      "question": "Select the SYNONYM of 'FASTIDIOUS':",
+      "options": [
+        "Careless",
+        "Meticulous",
+        "Lenient",
+        "Indifferent"
+      ],
+      "answer": 1,
+      "explanation": "'Fastidious' means very attentive to and concerned about accuracy and detail; meticulous."
+    },
+    {
+      "id": "e2f92550",
+      "question": "What is the SYNONYM of 'VERACITY'?",
+      "options": [
+        "Falsehood",
+        "Truthfulness",
+        "Deceit",
+        "Arrogance"
+      ],
+      "answer": 1,
+      "explanation": "'Veracity' refers to conformity to facts or accuracy; truthfulness."
+    },
+    {
+      "id": "832618c6",
+      "question": "Choose the SYNONYM of 'INDEFATIGABLE':",
+      "options": [
+        "Tireless",
+        "Lethargic",
+        "Indolent",
+        "Sluggish"
+      ],
+      "answer": 0,
+      "explanation": "'Indefatigable' means persisting tirelessly; incapable of being fatigued."
+    },
+    {
+      "id": "66d27319",
+      "question": "Select the most appropriate ANTONYM of 'GREGARIOUS':",
+      "options": [
+        "Sociable",
+        "Reclusive",
+        "Affable",
+        "Garrulous"
+      ],
+      "answer": 1,
+      "explanation": "'Gregarious' means fond of company or sociable; its opposite is 'reclusive' or reserved."
+    },
+    {
+      "id": "2a09d2cd",
+      "question": "What is the ANTONYM of 'LOQUACIOUS'?",
+      "options": [
+        "Garrulous",
+        "Taciturn",
+        "Voluble",
+        "Verbose"
+      ],
+      "answer": 1,
+      "explanation": "'Loquacious' means talkative; 'taciturn' means reserved or uncommunicative in speech."
+    },
+    {
+      "id": "201a8bdf",
+      "question": "Find the ANTONYM of 'AMELIORATE':",
+      "options": [
+        "Improve",
+        "Worsen",
+        "Mitigate",
+        "Enhance"
+      ],
+      "answer": 1,
+      "explanation": "'Ameliorate' means to make something better; its opposite is to worsen or deteriorate."
+    },
+    {
+      "id": "8449aec2",
+      "question": "Choose the ANTONYM of 'ALTRUISTIC':",
+      "options": [
+        "Egoistic",
+        "Philanthropic",
+        "Benevolent",
+        "Magnanimous"
+      ],
+      "answer": 0,
+      "explanation": "'Altruistic' means showing unselfish concern for others; 'egoistic' means self-centered."
+    },
+    {
+      "id": "01540125",
+      "question": "Select the ANTONYM of 'ACQUIESCE':",
+      "options": [
+        "Consent",
+        "Dissent",
+        "Comply",
+        "Accede"
+      ],
+      "answer": 1,
+      "explanation": "'Acquiesce' means to accept something reluctantly without protest; 'dissent' means to differ or protest."
+    },
+    {
+      "id": "fc0b0e2e",
+      "question": "What is the ANTONYM of 'SANGUINE'?",
+      "options": [
+        "Optimistic",
+        "Pessimistic",
+        "Confident",
+        "Buoyant"
+      ],
+      "answer": 1,
+      "explanation": "'Sanguine' means optimistic or positive; its antonym is 'pessimistic'."
+    },
+    {
+      "id": "ceb019b9",
+      "question": "Find the ANTONYM of 'INTRANSIGENT':",
+      "options": [
+        "Flexible",
+        "Stubborn",
+        "Obstinate",
+        "Unyielding"
+      ],
+      "answer": 0,
+      "explanation": "'Intransigent' means unwilling to change one's views; 'flexible' is the opposite."
+    },
+    {
+      "id": "81c12e19",
+      "question": "Choose the ANTONYM of 'CASTIGATE':",
+      "options": [
+        "Chastise",
+        "Praise",
+        "Reprimand",
+        "Reptroach"
+      ],
+      "answer": 1,
+      "explanation": "'Castigate' means to reprimand severely; 'praise' is its opposite."
+    },
+    {
+      "id": "be97ad73",
+      "question": "Select the ANTONYM of 'PAUCITY':",
+      "options": [
+        "Scarcity",
+        "Abundance",
+        "Lack",
+        "Dearth"
+      ],
+      "answer": 1,
+      "explanation": "'Paucity' means smallness of quantity or scarcity; 'abundance' is the opposite."
+    },
+    {
+      "id": "660380c7",
+      "question": "What is the ANTONYM of 'EUPHORIA'?",
+      "options": [
+        "Ecstasy",
+        "Elation",
+        "Dysphoria",
+        "Exuberance"
+      ],
+      "answer": 2,
+      "explanation": "'Euphoria' is a state of intense happiness; 'dysphoria' is a state of profound dissatisfaction or sadness."
+    },
+    {
+      "id": "f66d51e4",
+      "question": "What is the meaning of the idiom 'To burn the candle at both ends'?",
+      "options": [
+        "To spend money extravagantly",
+        "To work extremely hard from early morning to late night",
+        "To destroy one's career through foolishness",
+        "To suffer financial loss in business"
+      ],
+      "answer": 1,
+      "explanation": "'To burn the candle at both ends' means to exhaust oneself by working late and getting up early."
+    },
+    {
+      "id": "70ba5276",
+      "question": "Select the meaning of 'To throw down the gauntlet':",
+      "options": [
+        "To surrender before an opponent",
+        "To issue a formal challenge",
+        "To accept defeat gracefully",
+        "To make a truce"
+      ],
+      "answer": 1,
+      "explanation": "'To throw down the gauntlet' means to issue a challenge."
+    },
+    {
+      "id": "f5701d74",
+      "question": "What does the idiom 'A Pyrrhic victory' imply?",
+      "options": [
+        "A victory gained at an ruinously heavy cost",
+        "A decisive and flawless victory",
+        "A unexpected victory achieved by luck",
+        "A victory achieved through dishonest means"
+      ],
+      "answer": 0,
+      "explanation": "A Pyrrhic victory is a victory that inflicts such a devastating toll on the victor that it is tantamount to defeat."
+    },
+    {
+      "id": "2b7fb173",
+      "question": "Choose the correct meaning of 'To strain every nerve':",
+      "options": [
+        "To get extremely angry",
+        "To make utmost efforts",
+        "To feel nervous during an exam",
+        "To suffer physical pain"
+      ],
+      "answer": 1,
+      "explanation": "'To strain every nerve' means to exert the greatest possible effort."
+    },
+    {
+      "id": "963c541b",
+      "question": "What does 'To leave no stone unturned' mean?",
+      "options": [
+        "To construct a durable building",
+        "To use every possible means to achieve something",
+        "To act in a very reckless manner",
+        "To waste time on trivial matters"
+      ],
+      "answer": 1,
+      "explanation": "'To leave no stone unturned' means to try every possible course of action."
+    },
+    {
+      "id": "ee5efa9b",
+      "question": "Select the meaning of 'To bite the bullet':",
+      "options": [
+        "To accept a painful situation with courage",
+        "To act aggressively without thinking",
+        "To get injured in a war",
+        "To criticize someone publicly"
+      ],
+      "answer": 0,
+      "explanation": "'To bite the bullet' means to face a difficult or unpleasant situation with courage."
+    },
+    {
+      "id": "3684271a",
+      "question": "What is the meaning of 'An Achilles' heel'?",
+      "options": [
+        "A person's greatest strength",
+        "A secret, vulnerable weak spot",
+        "A painful injury in sports",
+        "An unbeatable opponent"
+      ],
+      "answer": 1,
+      "explanation": "An 'Achilles' heel' refers to a weak spot or vulnerability in an otherwise strong position."
+    },
+    {
+      "id": "86b8072d",
+      "question": "What does 'To add fuel to the fire' mean?",
+      "options": [
+        "To ignite a bonfire",
+        "To worsen a conflict or bad situation",
+        "To solve a complex problem quickly",
+        "To encourage someone to work harder"
+      ],
+      "answer": 1,
+      "explanation": "'To add fuel to the fire' means to worsen an already intense or turbulent situation."
+    },
+    {
+      "id": "21a8d1cb",
+      "question": "Choose the meaning of 'To steal someone's thunder':",
+      "options": [
+        "To rob someone's possessions",
+        "To take credit for someone else's idea or work",
+        "To intimidate an opponent before a match",
+        "To make a sudden loud noise"
+      ],
+      "answer": 1,
+      "explanation": "'To steal someone's thunder' means to win praise or attention by doing or saying what someone else intended to do."
+    },
+    {
+      "id": "0114a63b",
+      "question": "Select the correct meaning of 'To read between the lines':",
+      "options": [
+        "To read a book very quickly",
+        "To understand the hidden or implied meaning",
+        "To look for printing errors in a document",
+        "To read out loud to an audience"
+      ],
+      "answer": 1,
+      "explanation": "'To read between the lines' means to perceive or discover a hidden meaning."
+    },
+    {
+      "id": "e9e9e931",
+      "question": "Choose the one-word substitution for: 'A person who hates or distrusts humankind.'",
+      "options": [
+        "Misogynist",
+        "Misanthrope",
+        "Philanthropist",
+        "Altruist"
+      ],
+      "answer": 1,
+      "explanation": "A 'misanthrope' is a person who dislikes humankind and avoids human society."
+    },
+    {
+      "id": "148cba9d",
+      "question": "One who possesses multiple talents and skills is called:",
+      "options": [
+        "Versatile",
+        "Novice",
+        "Pedant",
+        "Amateur"
+      ],
+      "answer": 0,
+      "explanation": "'Versatile' refers to a person able to adapt to many different functions or activities."
+    },
+    {
+      "id": "07afc08d",
+      "question": "Substitution for: 'A disease or condition that persists for a long time or constantly recurs.'",
+      "options": [
+        "Acute",
+        "Chronic",
+        "Contagious",
+        "Epidemic"
+      ],
+      "answer": 1,
+      "explanation": "A 'chronic' condition persists over a long period."
+    },
+    {
+      "id": "6d2cd02f",
+      "question": "Select the term for: 'The study of speech sounds and their production.'",
+      "options": [
+        "Etymology",
+        "Phonetics",
+        "Syntax",
+        "Semantics"
+      ],
+      "answer": 1,
+      "explanation": "'Phonetics' is the branch of linguistics that deals with the study of speech sounds."
+    },
+    {
+      "id": "71f89921",
+      "question": "One who is overly concerned with formal rules and minor details in learning:",
+      "options": [
+        "Pedant",
+        "Scholar",
+        "Dilettante",
+        "Polyglot"
+      ],
+      "answer": 0,
+      "explanation": "A 'pedant' is a person who is excessively concerned with minor details and rules."
+    },
+    {
+      "id": "95c41459",
+      "question": "A government ruled by a small group of powerful individuals is known as:",
+      "options": [
+        "Autocracy",
+        "Oligarchy",
+        "Plutocracy",
+        "Monarchy"
+      ],
+      "answer": 1,
+      "explanation": "An 'oligarchy' is a small group of people having control of a country or organization."
+    },
+    {
+      "id": "af517b7d",
+      "question": "Substitution for: 'An official pardon for people who have been convicted of political offenses.'",
+      "options": [
+        "Amnesty",
+        "Parole",
+        "Absolution",
+        "Reprieve"
+      ],
+      "answer": 0,
+      "explanation": "'Amnesty' is an official pardon for political offenses."
+    },
+    {
+      "id": "882a9fbd",
+      "question": "A speaker of many languages is known as a:",
+      "options": [
+        "Linguist",
+        "Polyglot",
+        "Grammarian",
+        "Elocutionist"
+      ],
+      "answer": 1,
+      "explanation": "A 'polyglot' is a person who knows and uses several languages."
+    },
+    {
+      "id": "8ec7269e",
+      "question": "Substitution for: 'Extreme fear of confined or enclosed spaces.'",
+      "options": [
+        "Acrophobia",
+        "Claustrophobia",
+        "Agoraphobia",
+        "Hydrophobia"
+      ],
+      "answer": 1,
+      "explanation": "'Claustrophobia' is the fear of enclosed spaces."
+    },
+    {
+      "id": "f14cd8a6",
+      "question": "One who abandons his religious faith or political cause is called an:",
+      "options": [
+        "Apostate",
+        "Heretic",
+        "Iconoclast",
+        "Renegade"
+      ],
+      "answer": 0,
+      "explanation": "An 'apostate' is a person who renounces a religious or political belief or principle."
+    },
+    {
+      "id": "af534d76",
+      "question": "Convert to Passive Voice: 'The authorities are investigating the financial irregularities in the firm.'",
+      "options": [
+        "The financial irregularities in the firm were investigated by the authorities.",
+        "The financial irregularities in the firm are being investigated by the authorities.",
+        "The financial irregularities in the firm have been investigated by the authorities.",
+        "The financial irregularities in the firm were being investigated by the authorities."
+      ],
+      "answer": 1,
+      "explanation": "Present Continuous active ('are investigating') converts to Present Continuous passive ('are being investigated')."
+    },
+    {
+      "id": "38477d0e",
+      "question": "Convert to Passive Voice: 'Who wrote this famous historical novel?'",
+      "options": [
+        "By whom was this famous historical novel written?",
+        "By whom had this famous historical novel been written?",
+        "Who was written this famous historical novel by?",
+        "By whom is this famous historical novel written?"
+      ],
+      "answer": 0,
+      "explanation": "'Who + simple past verb' changes to 'By whom + was/were + subject + past participle'."
+    },
+    {
+      "id": "d8238f5d",
+      "question": "Convert to Active Voice: 'It is expected that the president will announce new policy reforms today.'",
+      "options": [
+        "People expect that the president will announce new policy reforms today.",
+        "The president expects to announce new policy reforms today.",
+        "The president announced new policy reforms today.",
+        "It was expected that the president announces new policy reforms today."
+      ],
+      "answer": 0,
+      "explanation": "Passive 'It is expected that...' transforms to Active 'People expect that...' or 'We expect that...'."
+    },
+    {
+      "id": "ef165450",
+      "question": "Convert to Passive Voice: 'Do not touch these delicate instruments.'",
+      "options": [
+        "These delicate instruments must not touch.",
+        "Let these delicate instruments not be touched.",
+        "You are requested not to touch these delicate instruments.",
+        "These delicate instruments should not touch."
+      ],
+      "answer": 1,
+      "explanation": "Imperative negative 'Do not + V1' converts to 'Let + object + not be + V3'."
+    },
+    {
+      "id": "11b0de53",
+      "question": "Convert to Passive Voice: 'They had already dispatched the consignment before we called.'",
+      "options": [
+        "The consignment was already dispatched before we called.",
+        "The consignment had already been dispatched before we called.",
+        "The consignment has already been dispatched before we called.",
+        "The consignment was being dispatched before we called."
+      ],
+      "answer": 1,
+      "explanation": "Past Perfect active ('had dispatched') converts to Past Perfect passive ('had been dispatched')."
+    },
+    {
+      "id": "243d1954",
+      "question": "Convert to Indirect Speech: The manager said to the secretary, 'Have you submitted the audited financial report to the board?'",
+      "options": [
+        "The manager asked the secretary if she has submitted the audited financial report to the board.",
+        "The manager asked the secretary if she had submitted the audited financial report to the board.",
+        "The manager asked the secretary that had she submitted the audited financial report to the board.",
+        "The manager inquired the secretary if she submitted the audited financial report to the board."
+      ],
+      "answer": 1,
+      "explanation": "Direct interrogative in Present Perfect ('Have you submitted') changes to Indirect reporting in Past Perfect ('if she had submitted')."
+    },
+    {
+      "id": "21baf076",
+      "question": "Convert to Indirect Speech: 'Alas! We have lost the final match,' said the captain.",
+      "options": [
+        "The captain exclaimed with sorrow that they had lost the final match.",
+        "The captain said with grief that we have lost the final match.",
+        "The captain exclaimed with joy that they lost the final match.",
+        "The captain lamented that he had lost the final match."
+      ],
+      "answer": 0,
+      "explanation": "Exclamatory sentences with 'Alas!' change to 'exclaimed with sorrow/grief that...' and present perfect changes to past perfect."
+    },
+    {
+      "id": "7ce66a55",
+      "question": "Convert to Indirect Speech: The teacher said, 'Light travels in a straight line.'",
+      "options": [
+        "The teacher said that light traveled in a straight line.",
+        "The teacher said that light travels in a straight line.",
+        "The teacher told that light had traveled in a straight line.",
+        "The teacher says that light travels in a straight line."
+      ],
+      "answer": 1,
+      "explanation": "Universal truths and scientific facts remain in Simple Present tense when converted into indirect speech."
+    },
+    {
+      "id": "852fb6a0",
+      "question": "Convert to Indirect Speech: He said to me, 'Don't lean against this freshly painted wall.'",
+      "options": [
+        "He warned me not to lean against that freshly painted wall.",
+        "He ordered me that I should not lean against this freshly painted wall.",
+        "He requested me don't lean against that freshly painted wall.",
+        "He told me to not lean against this freshly painted wall."
+      ],
+      "answer": 0,
+      "explanation": "Negative imperative 'Don't + verb' changes to 'warned/ordered + object + not to + verb', and 'this' becomes 'that'."
+    },
+    {
+      "id": "07c7791f",
+      "question": "Convert to Indirect Speech: She said, 'If I had known your arrival time, I would have met you at the airport.'",
+      "options": [
+        "She said that if she knew my arrival time, she would meet me at the airport.",
+        "She said that if she had known my arrival time, she would have met me at the airport.",
+        "She said that if she has known my arrival time, she would have met me at the airport.",
+        "She told if she had known my arrival time, she will meet me at the airport."
+      ],
+      "answer": 1,
+      "explanation": "Unreal past conditional sentences (Type 3 conditionals) do not change their tense in indirect speech."
+    },
+    {
+      "id": "00c2dc41",
+      "question": "Fill in the blank with the appropriate preposition: 'He is proficient ________ several programming languages as well as ancient literature.'",
+      "options": [
+        "at",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "The adjective 'proficient' takes the preposition 'in'."
+    },
+    {
+      "id": "7c63051b",
+      "question": "Select the correct preposition: 'The committee members could not agree ________ the proposal presented by the director.'",
+      "options": [
+        "with",
+        "to",
+        "on",
+        "for"
+      ],
+      "answer": 1,
+      "explanation": "We agree 'to' a proposal/plan, agree 'with' a person, and agree 'on' a matter/topic."
+    },
+    {
+      "id": "3c1708f0",
+      "question": "Choose the appropriate preposition: 'She died ________ malaria after battling the illness for weeks.'",
+      "options": [
+        "from",
+        "of",
+        "with",
+        "by"
+      ],
+      "answer": 1,
+      "explanation": "When a person dies of a specific disease, the preposition 'of' is used (e.g., died of malaria/cancer)."
+    },
+    {
+      "id": "ef566a7d",
+      "question": "Fill in the blank: '________ higher you go, ________ colder it becomes.'",
+      "options": [
+        "A, a",
+        "The, the",
+        "The, a",
+        "A, the"
+      ],
+      "answer": 1,
+      "explanation": "Parallel structures with comparative degrees take the definite article 'the' on both sides."
+    },
+    {
+      "id": "4f9bbc45",
+      "question": "Select the correct article choice: 'He is ________ European scholar who specializes in ancient Indian history.'",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "no article required"
+      ],
+      "answer": 0,
+      "explanation": "'European' begins with a consonant sound ('yu-'), so the indefinite article 'a' is used."
+    },
+    {
+      "id": "a1f2451a",
+      "question": "Fill in the blank: 'Not only did he complete the project on time ________ he also exceeded performance expectations.'",
+      "options": [
+        "and",
+        "but",
+        "but also",
+        "as well as"
+      ],
+      "answer": 2,
+      "explanation": "Correlative conjunction pair: 'Not only... but also'."
+    },
+    {
+      "id": "469d384b",
+      "question": "Choose the correct option: 'No sooner had the chief guest arrived ________ the function began.'",
+      "options": [
+        "when",
+        "than",
+        "then",
+        "while"
+      ],
+      "answer": 1,
+      "explanation": "'No sooner' is always followed by 'than'."
+    },
+    {
+      "id": "5047f2b7",
+      "question": "Select the correct preposition: 'The police officer deprived the convict ________ his basic privileges due to misconduct.'",
+      "options": [
+        "from",
+        "of",
+        "with",
+        "off"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'deprive' is followed by the fixed preposition 'of'."
+    },
+    {
+      "id": "09dd5f73",
+      "question": "Fill in the blank: 'He was accused ________ stealing confidential documents from the corporate office.'",
+      "options": [
+        "for",
+        "of",
+        "with",
+        "about"
+      ],
+      "answer": 1,
+      "explanation": "The verb 'accuse' takes the preposition 'of' (accused of something)."
+    },
+    {
+      "id": "fafd92a2",
+      "question": "Choose the correct preposition: 'She is averse ________ taking unnecessary physical risks during training.'",
+      "options": [
+        "towards",
+        "to",
+        "for",
+        "with"
+      ],
+      "answer": 1,
+      "explanation": "The adjective 'averse' takes the preposition 'to' (averse to taking risks)."
+    },
+    {
+      "id": "47cadfed",
+      "question": "Identify the figure of speech in: 'The wild winds weep in the dark night.'",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Personification",
+        "Oxymoron"
+      ],
+      "answer": 2,
+      "explanation": "Giving human qualities (weeping) to non-human things (winds) is Personification."
+    },
+    {
+      "id": "a26349ee",
+      "question": "Which figure of speech is used in: 'Life is a walking shadow.'",
+      "options": [
+        "Simile",
+        "Metaphor",
+        "Hyperbole",
+        "Apostrophe"
+      ],
+      "answer": 1,
+      "explanation": "Direct comparison without using 'like' or 'as' is a Metaphor."
+    },
+    {
+      "id": "63cb4520",
+      "question": "Identify the figure of speech: 'O Death! Where is thy sting?'",
+      "options": [
+        "Personification",
+        "Apostrophe",
+        "Hyperbole",
+        "Oxymoron"
+      ],
+      "answer": 1,
+      "explanation": "An 'Apostrophe' is a direct address to an absent or dead person, or an inanimate object/abstract quality."
+    },
+    {
+      "id": "ccfe3df2",
+      "question": "Which figure of speech is present in the expression: 'Bitter-sweet memories'?",
+      "options": [
+        "Oxymoron",
+        "Paradox",
+        "Alliteration",
+        "Onomatopoeia"
+      ],
+      "answer": 0,
+      "explanation": "An 'Oxymoron' places two contradictory terms side-by-side."
+    },
+    {
+      "id": "ada2218e",
+      "question": "Identify the figure of speech in: 'She cried a ocean of tears after hearing the tragic news.'",
+      "options": [
+        "Metaphor",
+        "Hyperbole",
+        "Simile",
+        "Euphemism"
+      ],
+      "answer": 1,
+      "explanation": "An exaggerated statement not meant to be taken literally is a Hyperbole."
+    },
+    {
+      "id": "d7a82e62",
+      "question": "What figure of speech is used in: 'The buzz of bees filled the afternoon air.'",
+      "options": [
+        "Alliteration",
+        "Onomatopoeia",
+        "Assonance",
+        "Irony"
+      ],
+      "answer": 1,
+      "explanation": "The use of words that imitate the natural sound of a thing is Onomatopoeia ('buzz')."
+    },
+    {
+      "id": "a7ae3870",
+      "question": "Identify the figure of speech: 'Fair is foul, and foul is fair.'",
+      "options": [
+        "Oxymoron",
+        "Paradox",
+        "Simile",
+        "Hyperbole"
+      ],
+      "answer": 1,
+      "explanation": "A 'Paradox' is a statement that appears self-contradictory but reveals a deeper truth."
+    },
+    {
+      "id": "e3014017",
+      "question": "What literary device is present in: 'Peter Piper picked a peck of pickled peppers'?",
+      "options": [
+        "Assonance",
+        "Alliteration",
+        "Consonance",
+        "Rhyme"
+      ],
+      "answer": 1,
+      "explanation": "The repetition of identical consonant sounds at the beginning of words in close proximity is Alliteration."
+    },
+    {
+      "id": "ed905f4d",
+      "question": "Choose the correct verb form: 'Bread and butter ________ his daily breakfast.'",
+      "options": [
+        "are",
+        "is",
+        "were",
+        "have been"
+      ],
+      "answer": 1,
+      "explanation": "When two nouns express a single compound idea or item (bread and butter as a meal), a singular verb is used."
+    },
+    {
+      "id": "385caa9d",
+      "question": "Fill in the blank: 'The governor and chancellor of the university ________ arrived at the venue.'",
+      "options": [
+        "has",
+        "have",
+        "are",
+        "were"
+      ],
+      "answer": 0,
+      "explanation": "Since the article 'The' is used only before the first noun ('governor'), both titles refer to the same person; hence a singular verb 'has' is used."
+    },
+    {
+      "id": "f49aa6a6",
+      "question": "Select the correct option: 'Two-thirds of the book ________ been thoroughly revised.'",
+      "options": [
+        "has",
+        "have",
+        "are",
+        "were"
+      ],
+      "answer": 0,
+      "explanation": "Fractions take a singular verb when referring to a singular uncountable noun ('the book')."
+    },
+    {
+      "id": "3c899512",
+      "question": "Choose the grammatically correct sentence:",
+      "options": [
+        "Neither the captain nor the crew members was saved from the shipwreck.",
+        "Neither the captain nor the crew members were saved from the shipwreck.",
+        "Neither the captain or the crew members were saved from the shipwreck.",
+        "Neither the captain nor the crew members has been saved from the shipwreck."
+      ],
+      "answer": 1,
+      "explanation": "With 'neither... nor', verb agrees with plural subject 'crew members' -> 'were saved'."
+    },
+    {
+      "id": "739a59bd",
+      "question": "Fill in the blank: 'A majority of the voters ________ in favor of the new policy.'",
+      "options": [
+        "is",
+        "are",
+        "has been",
+        "was"
+      ],
+      "answer": 1,
+      "explanation": "'A majority of' followed by a plural countable noun takes a plural verb ('are')."
+    },
+    {
+      "id": "17744f4e",
+      "question": "Improve the underlined part: 'He told me that he <has written> the letter two days ago.'",
+      "options": [
+        "had written",
+        "wrote",
+        "was writing",
+        "No improvement"
+      ],
+      "answer": 1,
+      "explanation": "Specific past time markers ('two days ago') require Simple Past tense ('wrote') rather than Present/Past Perfect."
+    },
+    {
+      "id": "b3efd3db",
+      "question": "Choose the correct transformation of 'He is the tallest boy in the class' into Positive Degree:",
+      "options": [
+        "No other boy in the class is as tall as he.",
+        "Very few boys in the class are as tall as he.",
+        "He is taller than any other boy in the class.",
+        "Other boys in the class are not as tall as he."
+      ],
+      "answer": 0,
+      "explanation": "Superlative degree ('the tallest') converts to Positive degree starting with 'No other... as tall as'."
+    },
+    {
+      "id": "bb048dc5",
+      "question": "Transform into Compound Sentence: 'In spite of his hard work, he failed in the examination.'",
+      "options": [
+        "He worked hard but he failed in the examination.",
+        "Though he worked hard, he failed in the examination.",
+        "Working hard, he failed in the examination.",
+        "Because he worked hard, he failed in the examination."
+      ],
+      "answer": 0,
+      "explanation": "A compound sentence joins two main clauses using a coordinating conjunction like 'but'."
+    },
+    {
+      "id": "9d1cc314",
+      "question": "Improve the underlined part: 'She <is sitting in the library since morning>.'",
+      "options": [
+        "has been sitting in the library since morning",
+        "was sitting in the library since morning",
+        "is sat in the library since morning",
+        "No improvement"
+      ],
+      "answer": 0,
+      "explanation": "An action started in the past and continuing up to the present with 'since/for' requires Present Perfect Continuous tense."
+    },
+    {
+      "id": "fd1a4cf5",
+      "question": "Select the correct option to replace the underlined phrase: 'I would rather <to die than to surrender>.'",
+      "options": [
+        "die than surrender",
+        "dying than surrendering",
+        "die than surrendering",
+        "to die than surrender"
+      ],
+      "answer": 0,
+      "explanation": "'Would rather' is followed by a bare infinitive (without 'to'): 'die than surrender'."
+    },
+    {
+      "id": "b634db0c",
+      "question": "Fill in the blank with the best word: 'The politician's speech was so ________ that it aroused strong emotions among the audience.'",
+      "options": [
+        "impassioned",
+        "apathetic",
+        "monotonous",
+        "insipid"
+      ],
+      "answer": 0,
+      "explanation": "'Impassioned' means filled with passion or great feeling, which fits the context of arousing strong emotions."
+    },
+    {
+      "id": "3ade3c94",
+      "question": "Choose the most appropriate word: 'The scientist offered a ________ explanation that resolved all doubts.'",
+      "options": [
+        "cogent",
+        "vague",
+        "ambiguous",
+        "specious"
+      ],
+      "answer": 0,
+      "explanation": "'Cogent' means clear, logical, and convincing."
+    },
+    {
+      "id": "eca5cd0a",
+      "question": "Select the suitable word: 'Despite facing severe adversity, her ________ spirit remained unbroken.'",
+      "options": [
+        "indomitable",
+        "fragile",
+        "vulnerable",
+        "docile"
+      ],
+      "answer": 0,
+      "explanation": "'Indomitable' means impossible to subdue or defeat; invincible."
+    },
+    {
+      "id": "459bee4c",
+      "question": "Fill in the blank: 'His ________ nature made it difficult for him to make friends easily.'",
+      "options": [
+        "introverted",
+        "extroverted",
+        "gregarious",
+        "amiable"
+      ],
+      "answer": 0,
+      "explanation": "'Introverted' describes someone who is quiet, reserved, and inward-looking."
+    },
+    {
+      "id": "7b278062",
+      "question": "Choose the correct word: 'The company's decision to cut wages resulted in widespread ________ among employees.'",
+      "options": [
+        "discontent",
+        "harmony",
+        "euphoria",
+        "concord"
+      ],
+      "answer": 0,
+      "explanation": "Wage cuts naturally result in 'discontent' (dissatisfaction)."
+    },
+    {
+      "id": "ff04ff80",
+      "question": "Select the correctly spelt word:",
+      "options": [
+        "Accommodation",
+        "Acommodation",
+        "Accomodation",
+        "Acomodation"
+      ],
+      "answer": 0,
+      "explanation": "The correct spelling is 'Accommodation' (double 'c' and double 'm')."
+    },
+    {
+      "id": "d55ea389",
+      "question": "Select the correctly spelt word:",
+      "options": [
+        "Manoeuvre",
+        "Maneuver",
+        "Manouver",
+        "Manoever"
+      ],
+      "answer": 0,
+      "explanation": "The standard British spelling used in competitive exams in India is 'Manoeuvre'."
+    }
+  ]
+}

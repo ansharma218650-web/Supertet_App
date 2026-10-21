@@ -1,0 +1,1205 @@
+{
+  "subject": "Child Development & Pedagogy",
+  "questions": [
+    {
+      "id": "5a4e44b3",
+      "question": "What is the main principle of child development?\n(बाल विकास का मुख्य सिद्धांत क्या है?)",
+      "options": [
+        "A) Development proceeds from general to specific / A) विकास सामान्य से विशिष्ट की ओर होता है",
+        "B) Development is unpredictable / B) विकास अप्रत्याशित होता है",
+        "C) All children develop at the exact same rate / C) सभी बच्चों के विकास की गति एक समान होती है",
+        "D) Development is a discontinuous process / D) विकास एक असतत प्रक्रिया है"
+      ],
+      "answer": 0,
+      "explanation": "Development follows a specific pattern, moving from general responses to specific responses. / विकास एक निश्चित प्रतिरूप का पालन करता है, जो सामान्य प्रतिक्रियाओं से विशिष्ट प्रतिक्रियाओं की ओर बढ़ता है।"
+    },
+    {
+      "id": "17a24d65",
+      "question": "According to Jean Piaget, during which stage does a child develop 'Object Permanence'?\n(जीन पियाजे के अनुसार, किस अवस्था में बच्चा 'वस्तु स्थायित्व' (Object Permanence) विकसित करता है?)",
+      "options": [
+        "A) Pre-operational stage / A) पूर्व-संक्रियात्मक अवस्था",
+        "B) Sensorimotor stage / B) संवेदी-गामक (संवेदी-प्रेरक) अवस्था",
+        "C) Concrete operational stage / C) मूर्त संक्रियात्मक अवस्था",
+        "D) Formal operational stage / D) अमूर्त संक्रियात्मक अवस्था"
+      ],
+      "answer": 1,
+      "explanation": "Object permanence is achieved toward the end of the Sensorimotor stage (0-2 years). / वस्तु स्थायित्व संवेदी-गामक अवस्था (0 से 2 वर्ष) के अंत तक प्राप्त कर लिया जाता है।"
+    },
+    {
+      "id": "b96082c3",
+      "question": "Who proposed the theory of 'Zone of Proximal Development' (ZPD)?\n('समीपस्थ विकास का क्षेत्र' (ZPD) का सिद्धांत किसने प्रतिपादित किया था?)",
+      "options": [
+        "A) Jean Piaget / A) जीन पियाजे",
+        "B) B.F. Skinner / B) बी.एफ. स्किनर",
+        "C) Lev Vygotsky / C) लेव वायगोत्स्की",
+        "D) Jerome Bruner / D) जेरोम ब्रूनर"
+      ],
+      "answer": 2,
+      "explanation": "Lev Vygotsky introduced ZPD, representing the gap between actual and guided capability. / लेव वायगोत्स्की ने ZPD की अवधारणा दी, जो बालक के स्वतंत्र कार्य और सहायता द्वारा कार्य करने के बीच का क्षेत्र है।"
+    },
+    {
+      "id": "232ca78f",
+      "question": "According to Lawrence Kohlberg, 'Good Boy-Nice Girl' orientation falls under which level of moral development?\n(लॉरेंस कोहलबर्ग के अनुसार, 'अच्छा लड़का-अच्छी लड़की' अभिविन्यास नैतिक विकास के किस स्तर में आता है?)",
+      "options": [
+        "A) Pre-conventional level / A) पूर्व-पारंपरिक स्तर",
+        "B) Conventional level / B) पारंपरिक (रूढ़िगत) स्तर",
+        "C) Post-conventional level / C) उत्तर-पारंपरिक स्तर",
+        "D) Universal ethical level / D) सार्वभौमिक नैतिक स्तर"
+      ],
+      "answer": 1,
+      "explanation": "It is Stage 3 of the Conventional Level of Moral Development. / यह नैतिक विकास के पारंपरिक स्तर (Conventional Level) का तीसरा चरण है।"
+    },
+    {
+      "id": "6c6fa9f5",
+      "question": "Which of the following is an example of 'Scaffolding' according to Vygotsky?\n(वायगोत्स्की के अनुसार, निम्नलिखित में से कौन-सा 'पाड़' (Scaffolding) का उदाहरण है?)",
+      "options": [
+        "A) Giving direct answers to questions / A) प्रश्नों के सीधे उत्तर देना",
+        "B) Offering hints and prompts when a child is stuck / B) छात्र के अटकने पर संकेत और इशारे देना",
+        "C) Punishing students for wrong answers / C) गलत उत्तरों पर दंड देना",
+        "D) Dictating long lecture notes / D) लंबे व्याख्यान नोट लिखवाना"
+      ],
+      "answer": 1,
+      "explanation": "Scaffolding provides temporary prompts and assistance until mastery is gained. / पाड़ अधिगम प्रक्रिया में शिक्षक या वयस्क द्वारा दी जाने वाली अस्थायी सहायता या संकेत है।"
+    },
+    {
+      "id": "d122eeb2",
+      "question": "Inclusive Education implies that:\n('समावेशी शिक्षा' (Inclusive Education) का अर्थ क्या है?)",
+      "options": [
+        "A) Special needs children study in special schools / A) विशेष बच्चों को केवल विशेष स्कूल में पढ़ाया जाए",
+        "B) All children learn together in regular mainstream schools / B) सभी बच्चे सामान्य मुख्यधारा स्कूल में एक साथ सीखें",
+        "C) Only gifted children receive advanced curriculum / C) केवल प्रतिभाशाली बच्चों को पढ़ाया जाए",
+        "D) Evaluation is conducted strictly at home / D) मूल्यांकन केवल घर पर किया जाए"
+      ],
+      "answer": 1,
+      "explanation": "Inclusive education accommodates all learners regardless of physical, cognitive, or social conditions. / समावेशी शिक्षा बिना किसी भेदभाव के सभी बच्चों को एक साथ सामान्य विद्यालय में शिक्षा प्रदान करने पर बल देती है।"
+    },
+    {
+      "id": "b4cb98b5",
+      "question": "Dyslexia is primarily associated with difficulty in:\n('डिस्लेक्सिया' (Dyslexia) मुख्य रूप से किस कठिनाई से संबंधित है?)",
+      "options": [
+        "A) Reading / A) पढ़ने में कठिनाई",
+        "B) Writing / B) लिखने में कठिनाई",
+        "C) Mathematical calculation / C) गणितीय गणना में",
+        "D) Physical balance / D) शारीरिक संतुलन में"
+      ],
+      "answer": 0,
+      "explanation": "Dyslexia is a learning disability affecting reading accuracy, fluency, and comprehension. / डिस्लेक्सिया पठन विकार है जिससे छात्र को शब्दों को पढ़ने और पहचानने में कठिनाई होती है।"
+    },
+    {
+      "id": "cd8efe1d",
+      "question": "Dyscalculia is a learning disability related to:\n('डिस्कैलकुलिया' (Dyscalculia) किससे संबंधित एक अधिगम विकार है?)",
+      "options": [
+        "A) Speech comprehension / A) भाषा समझने से",
+        "B) Mathematical and numerical operations / B) गणितीय व संख्यात्मक गणनाओं से",
+        "C) Motor coordination / C) शारीरिक समन्वय से",
+        "D) Handwriting quality / D) हस्तलेखन की गुणवत्ता से"
+      ],
+      "answer": 1,
+      "explanation": "Dyscalculia severely impacts mathematical and numerical conceptual processing. / डिस्कैलकुलिया गणितीय संक्रियाओं, गणनाओं और अंकों को समझने में बाधक होता है।"
+    },
+    {
+      "id": "7d4b99b3",
+      "question": "Which of the following is an internal factor affecting child development?\n(निम्नलिखित में से कौन-सा बाल विकास को प्रभावित करने वाला 'आंतरिक कारक' है?)",
+      "options": [
+        "A) Heredity and genetic makeup / A) आनुवंशिकता और जीन्स",
+        "B) Neighborhood culture / B) आस-पड़ोस का वातावरण",
+        "C) School environment / C) विद्यालय का माहौल",
+        "D) Family income / D) परिवार की आय"
+      ],
+      "answer": 0,
+      "explanation": "Internal factors stem within the individual, including genetics, biological attributes, and intelligence. / आनुवंशिकता और जैविक कारक बालक के आंतरिक कारक माने जाते हैं।"
+    },
+    {
+      "id": "4c226249",
+      "question": "Howard Gardner proposed which theory of intelligence?\n(हावर्ड गार्डनर ने बुद्धि का कौन-सा सिद्धांत प्रतिपादित किया था?)",
+      "options": [
+        "A) Two-Factor Theory / A) द्विकारक सिद्धांत",
+        "B) Theory of Multiple Intelligences / B) बहु-बुद्धि सिद्धांत (Multiple Intelligences)",
+        "C) Primary Mental Abilities Theory / C) प्राथमिक मानसिक क्षमताओं का सिद्धांत",
+        "D) Triarchic Theory / D) त्रिचापीय सिद्धांत"
+      ],
+      "answer": 1,
+      "explanation": "Gardner posited that intelligence is not a single entity but comprises distinct multiple types. / हावर्ड गार्डनर ने बहु-बुद्धि का सिद्धांत प्रस्तुत किया, जिसमें बुद्धि के विभिन्न आयाम बताए गए हैं।"
+    },
+    {
+      "id": "6d4a2c23",
+      "question": "Which agency is considered a primary agent of socialization for children?\n(बच्चों के सामाजीकरण की प्राथमिक संस्था किसे माना जाता है?)",
+      "options": [
+        "A) Family / A) परिवार",
+        "B) School / B) विद्यालय",
+        "C) Mass Media / C) मीडिया",
+        "D) Religious Institutions / D) धार्मिक संस्थाएं"
+      ],
+      "answer": 0,
+      "explanation": "Family is the first and primary agency where a child begins early socialization. / परिवार सामाजीकरण की प्राथमिक संस्था है जहाँ बच्चा जीवन की बुनियादी बातें सीखता है।"
+    },
+    {
+      "id": "2d5cb4d4",
+      "question": "School is considered a ____________ agent of socialization.\n(विद्यालय सामाजीकरण की ____________ संस्था मानी जाती है।)",
+      "options": [
+        "A) Primary / A) प्राथमिक",
+        "B) Secondary / B) द्वितीयक (द्वितीय)",
+        "C) Innate / C) जन्मजात",
+        "D) Passive / D) निष्क्रिय"
+      ],
+      "answer": 1,
+      "explanation": "School, peers, and media are prominent secondary socialization agents. / विद्यालय, साथी समूह और मीडिया सामाजीकरण के द्वितीयक वाहक होते हैं।"
+    },
+    {
+      "id": "e738662a",
+      "question": "Continuous and Comprehensive Evaluation (CCE) emphasizes:\n(सतत एवं व्यापक मूल्यांकन (CCE) किस पर बल देता है?)",
+      "options": [
+        "A) Only scholastic achievements at year-end / A) वर्ष के अंत में केवल शैक्षणिक प्रदर्शन पर",
+        "B) Holistic assessment of both scholastic and co-scholastic domains continuously / B) शैक्षणिक और सह-शैक्षणिक दोनों क्षेत्रों के निरंतर समग्र मूल्यांकन पर",
+        "C) Memorization of textbook facts / C) तथ्यों को रटने पर",
+        "D) Paper-pencil board exams only / D) केवल बोर्ड परीक्षाओं पर"
+      ],
+      "answer": 1,
+      "explanation": "CCE aims to evaluate all aspects of a student's development continuously throughout the year. / CCE छात्र के सर्वांगीण विकास (शैक्षणिक और सह-शैक्षणिक दोनों) के निरंतर मूल्यांकन पर बल देता है।"
+    },
+    {
+      "id": "5adf180f",
+      "question": "In a child-centered classroom, the teacher plays the role of a:\n(बाल-केंद्रित कक्षा में शिक्षक की भूमिका कैसी होती है?)",
+      "options": [
+        "A) Strict controller / A) कठोर नियंत्रक",
+        "B) Facilitator and guide / B) सुगमकर्ता (Facilitator) और मार्गदर्शक",
+        "C) Autocratic knowledge provider / C) एकतंत्रवादी ज्ञानदाता",
+        "D) Passive spectator / D) निष्क्रिय दर्शक"
+      ],
+      "answer": 1,
+      "explanation": "In child-centered pedagogy, the teacher acts as a facilitator creating learning-rich environments. / बाल-केंद्रित शिक्षा में शिक्षक ज्ञान का सुगमकर्ता और मार्गदर्शक होता है।"
+    },
+    {
+      "id": "f03157d5",
+      "question": "What is the primary motive behind Formative Assessment (FA)?\n(रचनात्मक मूल्यांकन (Formative Assessment) का मुख्य उद्देश्य क्या है?)",
+      "options": [
+        "A) To rank and grade students at year end / A) वर्ष के अंत में रैंक और ग्रेड देना",
+        "B) To provide ongoing feedback and improve learning during the process / B) शिक्षण-अधिगम के दौरान निरंतर प्रतिपुष्टि (फ़ीडबैक) देना और सुधार करना",
+        "C) To label students as pass or fail / C) छात्रों को पास या फेल में बाँटना",
+        "D) To compare students with each other / D) छात्रों की आपस में तुलना करना"
+      ],
+      "answer": 1,
+      "explanation": "Formative assessment happens during instruction to monitor progress and adapt teaching. / रचनात्मक मूल्यांकन का उद्देश्य सीखने की प्रक्रिया के दौरान सुधार और मार्गदर्शन प्रदान करना है।"
+    },
+    {
+      "id": "9fbaab09",
+      "question": "Summative Assessment is usually conducted:\n(योगात्मक/संकलनात्मक मूल्यांकन (Summative Assessment) सामान्यतः कब किया जाता है?)",
+      "options": [
+        "A) At the beginning of a course / A) सत्र के प्रारंभ में",
+        "B) Continuously every day / B) प्रतिदिन शिक्षण के दौरान",
+        "C) At the end of an instructional unit or term / C) सत्र या इकाई के अंत में",
+        "D) During peer group discussion / D) समूह चर्चा के दौरान"
+      ],
+      "answer": 2,
+      "explanation": "Summative assessment evaluates student learning at the conclusion of a term or academic year. / योगात्मक मूल्यांकन एक निश्चित अवधि या सत्र के अंत में छात्र की समग्र उपलब्धि मापने के लिए होता है।"
+    },
+    {
+      "id": "6637bc6d",
+      "question": "Right to Education (RTE) Act 2009 guarantees free and compulsory education to children of age group:\n(शिक्षा का अधिकार अधिनियम (RTE Act) 2009 किस आयु वर्ग के बच्चों के लिए नि:शुल्क और अनिवार्य शिक्षा की गारंटी देता है?)",
+      "options": [
+        "A) 3 to 6 years / A) 3 से 6 वर्ष",
+        "B) 6 to 14 years / B) 6 से 14 वर्ष",
+        "C) 6 to 18 years / C) 6 से 18 वर्ष",
+        "D) 5 to 12 years / D) 5 से 12 वर्ष"
+      ],
+      "answer": 1,
+      "explanation": "RTE Act 2009 grants free and compulsory education for children aged 6 to 14 years (and up to 18 for children with disabilities). / RTE अधिनियम 2009 के तहत 6 से 14 वर्ष के बच्चों के लिए नि:शुल्क एवं अनिवार्य प्राथमिक शिक्षा का अधिकार है।"
+    },
+    {
+      "id": "7ac7980d",
+      "question": "According to RTE Act 2009, what is the Pupil-Teacher Ratio (PTR) prescribed for primary schools?\n(RTE अधिनियम 2009 के अनुसार, प्राथमिक स्तर (कक्षा 1-5) के लिए छात्र-शिक्षक अनुपात (PTR) क्या निर्धारित है?)",
+      "options": [
+        "A) 20:1 / A) 20:1",
+        "B) 25:1 / B) 25:1",
+        "C) 30:1 / C) 30:1",
+        "D) 40:1 / D) 40:1"
+      ],
+      "answer": 2,
+      "explanation": "RTE Act mandates a Pupil-Teacher Ratio of 30:1 for primary level (Classes 1-5). / RTE 2009 के तहत प्राथमिक स्तर पर प्रति 30 छात्रों पर 1 शिक्षक का अनुपात (30:1) निर्धारित है।"
+    },
+    {
+      "id": "df63943b",
+      "question": "National Curriculum Framework (NCF) 2005 heavily emphasizes:\n(राष्ट्रीय पाठ्यचर्या की रूपरेखा (NCF) 2005 किस पर सर्वाधिक बल देती है?)",
+      "options": [
+        "A) Rote memorization / A) रटने की प्रणाली पर",
+        "B) Constructivism and learning by doing / B) रचनावाद (Constructivism) और 'करके सीखने' पर",
+        "C) Teacher-centric instruction / C) शिक्षक-केंद्रित अध्यापन पर",
+        "D) Exam-oriented rigid grading / D) केवल परीक्षा आधारित मूल्यांकन पर"
+      ],
+      "answer": 1,
+      "explanation": "NCF 2005 stresses active learner participation, constructivism, and connecting classroom learning to real life. / NCF 2005 ज्ञान के सृजन (रचनावाद), सक्रिय सहभागिता और जीवन से जोड़ने पर जोर देता है।"
+    },
+    {
+      "id": "716bf488",
+      "question": "According to Bloom's Taxonomy, which level represents the highest domain of cognitive learning?\n(ब्लूम के वर्गीकरण (Bloom's Taxonomy) के अनुसार, ज्ञानात्मक पक्ष का सर्वोच्च स्तर कौन-सा है?)",
+      "options": [
+        "A) Knowledge / A) ज्ञान",
+        "B) Application / B) अनुप्रयोग",
+        "C) Evaluation / Creating / C) मूल्यांकन / सृजन (Creating)",
+        "D) Comprehension / D) अवबोध"
+      ],
+      "answer": 2,
+      "explanation": "In revised Bloom's taxonomy, 'Creating' (and traditionally 'Evaluation') is the highest cognitive level. / ब्लूम के ज्ञानात्मक पक्ष में सर्वोच्च स्तर मूल्यांकन/सृजनात्मकता (Creating) को माना गया है।"
+    },
+    {
+      "id": "992fd7d8",
+      "question": "Which psychologist formulated the 'Trial and Error' theory of learning?\n(अधिगम के 'प्रयास एवं त्रुटि' (Trial and Error) सिद्धांत का प्रतिपादन किसने किया?)",
+      "options": [
+        "A) Ivan Pavlov / A) इवान पावलोव",
+        "B) B.F. Skinner / B) बी.एफ. स्किनर",
+        "C) E.L. Thorndike / C) ई.एल. थॉर्नडाइक",
+        "D) Wolfgang Kohler / D) वोल्फगैंग कोहलर"
+      ],
+      "answer": 2,
+      "explanation": "Thorndike propounded the Trial and Error theory using experiments on cats in puzzle boxes. / थॉर्नडाइक ने बिल्ली पर प्रयोग करके 'प्रयास एवं भूल/त्रुटि' का सिद्धांत दिया।"
+    },
+    {
+      "id": "6373d5a7",
+      "question": "Thorndike's 'Law of Effect' emphasizes the role of:\n(थॉर्नडाइक का 'प्रभाव का नियम' (Law of Effect) किस पर बल देता है?)",
+      "options": [
+        "A) Practice and repetition / A) अभ्यास और पुनरावृत्ति पर",
+        "B) Rewards, satisfaction, or punishment following behavior / B) अनुक्रिया के बाद मिलने वाले सन्तोष या पुरस्कार/परिणाम पर",
+        "C) Readiness to learn / C) सीखने की तत्परता पर",
+        "D) Observation of peers / D) साथियों के अवलोकन पर"
+      ],
+      "answer": 1,
+      "explanation": "Law of Effect states that behaviors followed by pleasant outcomes are repeated, whereas unpleasant ones are avoided. / प्रभाव के नियम के अनुसार, जिस कार्य को करने से सन्तोष मिलता है, उसे बालक बार-बार दोहराता है।"
+    },
+    {
+      "id": "9aae3527",
+      "question": "Ivan Pavlov conducted his classical conditioning experiments on which animal?\n(इवान पावलोव ने शास्त्रीय अनुबंध (Classical Conditioning) का प्रयोग किस जीव पर किया था?)",
+      "options": [
+        "A) Cat / A) बिल्ली",
+        "B) Rat / B) चूहा",
+        "C) Dog / C) कुत्ता",
+        "D) Pigeon / D) कबूतर"
+      ],
+      "answer": 2,
+      "explanation": "Pavlov conditioned dogs to salivate at the sound of a bell using meat powder. / पावलोव ने कुत्ते की लार ग्रंथि पर प्रयोग करके शास्त्रीय अनुबंधन का सिद्धांत दिया था।"
+    },
+    {
+      "id": "3acef78d",
+      "question": "Operant Conditioning theory was propounded by:\n(क्रिया-प्रसूतः अनुबंधन सिद्धांत (Operant Conditioning) के जनक कौन हैं?)",
+      "options": [
+        "A) B.F. Skinner / A) बी.एफ. स्किनर",
+        "B) Ivan Pavlov / B) इवान पावलोव",
+        "C) Albert Bandura / C) अल्बर्ट बांडुरा",
+        "D) Kurt Lewin / D) कुर्त लेविन"
+      ],
+      "answer": 0,
+      "explanation": "Skinner introduced Operant Conditioning based on reinforcement and punishment using pigeons and rats. / बी.एफ. स्किनर ने चूहों और कबूतरों पर प्रयोग कर क्रिया-प्रसूत अनुबंधन सिद्धांत दिया।"
+    },
+    {
+      "id": "49dfb729",
+      "question": "Insight Theory of Learning (Gestalt Theory) was demonstrated by Wolfgang Kohler using a chimpanzee named:\n(अंतरदृष्टि/सूझ का सिद्धांत (Gestalt Theory) दर्शाने के लिए कोहलर ने किस नाम के चिंपैंजी पर प्रयोग किया था?)",
+      "options": [
+        "A) Tommy / A) टॉमी",
+        "B) Sultan / B) सुल्तान",
+        "C) Bruno / C) ब्रूनो",
+        "D) Alex / D) एलैक्स"
+      ],
+      "answer": 1,
+      "explanation": "Kohler studied problem-solving and insight learning in chimpanzees, notably 'Sultan'. / कोहलर ने 'सुल्तान' नाम के चिंपैंजी पर केले और छड़ी वाला प्रयोग करके सूझ का सिद्धांत सिद्ध किया।"
+    },
+    {
+      "id": "f041f420",
+      "question": "Social Learning Theory (Observational Learning) was propounded by:\n(सामाजिक अधिगम सिद्धांत (Social Learning / Observational Learning) के प्रतिपादक कौन हैं?)",
+      "options": [
+        "A) Lev Vygotsky / A) लेव वायगोत्स्की",
+        "B) Albert Bandura / B) अल्बर्ट बांडुरा",
+        "C) Jean Piaget / C) जीन पियाजे",
+        "D) Carl Rogers / D) कार्ल रोजर्स"
+      ],
+      "answer": 1,
+      "explanation": "Albert Bandura formulated Social Learning Theory highlighting modeling, attention, retention, and reproduction. / अल्बर्ट बांडुरा ने बोबो डॉल प्रयोग के माध्यम से सामाजिक/प्रेक्षण अधिगम सिद्धांत दिया।"
+    },
+    {
+      "id": "1b0b1119",
+      "question": "According to Piaget, 'Egocentrism' is a key characteristic of children in which stage?\n(पियाजे के अनुसार, 'अहंकेंद्रितता' (Egocentrism) किस अवस्था की प्रमुख विशेषता है?)",
+      "options": [
+        "A) Sensorimotor / A) संवेदी-गामक अवस्था",
+        "B) Pre-operational / B) पूर्व-संक्रियात्मक अवस्था",
+        "C) Concrete operational / C) मूर्त संक्रियात्मक अवस्था",
+        "D) Formal operational / D) अमूर्त संक्रियात्मक अवस्था"
+      ],
+      "answer": 1,
+      "explanation": "Pre-operational stage children (2-7 yrs) struggle to perceive perspective from others' viewpoints (egocentrism). / पूर्व-संक्रियात्मक अवस्था (2-7 वर्ष) में बालक दूसरों के दृष्टिकोण को समझने में असमर्थ होता है जिसे अहंकेंद्रितता कहते हैं।"
+    },
+    {
+      "id": "8c601d8b",
+      "question": "In Piaget's theory, modifying existing schema to fit new information is known as:\n(पियाजे के सिद्धांत में, नई जानकारी के समायोजन के लिए मौजूदा स्कीमा में संशोधन करना क्या कहलाता है?)",
+      "options": [
+        "A) Assimilation / A) आत्मसातीकरण (Assimilation)",
+        "B) Accommodation / B) समावेशन / समायोजन (Accommodation)",
+        "C) Schema / C) स्कीमा",
+        "D) Equilibrium / D) साम्यावस्था"
+      ],
+      "answer": 1,
+      "explanation": "Accommodation involves altering existing cognitive schemas or creating new ones when new information conflicts. / पुराने स्कीमा में परिवर्तन करके नए ज्ञान को ढालना 'समायोजन/समावेशन' (Accommodation) कहलाता है।"
+    },
+    {
+      "id": "ef3cd406",
+      "question": "Fitting new information into existing cognitive mental frameworks without changing them is called:\n(मौजूदा स्कीमा को बिना बदले नई जानकारी को उसमें शामिल करना क्या कहलाता है?)",
+      "options": [
+        "A) Accommodation / A) समायोजन",
+        "B) Assimilation / B) आत्मसातीकरण (Assimilation)",
+        "C) Scaffolding / C) पाड़",
+        "D) Conservation / D) संरक्षण"
+      ],
+      "answer": 1,
+      "explanation": "Assimilation is incorporating new experiences directly into existing schemas. / पूर्व निर्मित स्कीमा में नई जानकारी को ज्यों का त्यों जोड़ना 'आत्मसातीकरण' कहलाता है।"
+    },
+    {
+      "id": "404791bd",
+      "question": "Moral Development theory was formulated by:\n(नैतिक विकास का सिद्धांत मुख्य रूप से किसके द्वारा प्रतिपादित किया गया था?)",
+      "options": [
+        "A) Lawrence Kohlberg / A) लॉरेंस कोहलबर्ग",
+        "B) Erik Erikson / B) एरिक एरिक्सन",
+        "C) Sigmund Freud / C) सिगमंड फ्रायड",
+        "D) John Watson / D) जॉन वाटसन"
+      ],
+      "answer": 0,
+      "explanation": "Lawrence Kohlberg developed the theory of Moral Development comprising 3 levels and 6 stages. / लॉरेंस कोहलबर्ग ने बालकों में नैतिक सोच का अध्ययन करके नैतिक विकास का सिद्धांत दिया।"
+    },
+    {
+      "id": "3f20871c",
+      "question": "Psychosocial Development theory consisting of 8 stages was given by:\n(8 चरणों वाला 'मनोसामाजिक विकास का सिद्धांत' (Psychosocial Theory) किसने दिया था?)",
+      "options": [
+        "A) Sigmund Freud / A) सिगमंड फ्रायड",
+        "B) Erik Erikson / B) एरिक एरिक्सन",
+        "C) Carl Jung / C) कार्ल जुंग",
+        "D) Abraham Maslow / D) अब्राहम मास्लो"
+      ],
+      "answer": 1,
+      "explanation": "Erik Erikson outlined 8 psychosocial crisis stages across human lifespan. / एरिक एरिक्सन ने पूरे जीवनकाल को कवर करने वाले मनोसामाजिक विकास के 8 चरण बताए।"
+    },
+    {
+      "id": "0fea2ae3",
+      "question": "Psychoanalytic Theory of Personality was founded by:\n(व्यक्तित्व का 'मनोविश्लेषणवादी सिद्धांत' (Psychoanalytic Theory) किसने प्रतिपादित किया?)",
+      "options": [
+        "A) Sigmund Freud / A) सिगमंड फ्रायड",
+        "B) B.F. Skinner / B) बी.एफ. स्किनर",
+        "C) William James / C) विलियम जेम्स",
+        "D) John Dewey / D) जॉन डीवी"
+      ],
+      "answer": 0,
+      "explanation": "Sigmund Freud founded Psychoanalysis, identifying Id, Ego, and Superego. / सिगमंड फ्रायड ने मनोविश्लेषणवाद दिया जिसमें इदम् (Id), अहम् (Ego) और पराहम् (Superego) की व्याख्या है।"
+    },
+    {
+      "id": "d8aa35ba",
+      "question": "Who is known as the 'Father of Behaviorism'?\n('व्यवहारवाद के जनक' के रूप में किसे जाना जाता है?)",
+      "options": [
+        "A) John B. Watson / A) जॉन बी. वाटसन",
+        "B) Wilhelm Wundt / B) विल्हेम वुंट",
+        "C) E.B. Titchener / C) ई.बी. टिचनर",
+        "D) Kurt Koffka / D) कुर्त कोफ्का"
+      ],
+      "answer": 0,
+      "explanation": "John B. Watson established Behaviorism in psychology. / जॉन बी. वाटसन को मनोविज्ञान में व्यवहारवाद का संस्थापक/जनक माना जाता है।"
+    },
+    {
+      "id": "7461deea",
+      "question": "The first Psychology Laboratory was established in 1879 in Leipzig, Germany by:\n(प्रसिद्ध 1879 में जर्मनी के लिपज़िग शहर में प्रथम मनोविज्ञान प्रयोगशाला की स्थापना किसने की थी?)",
+      "options": [
+        "A) Wilhelm Wundt / A) विल्हेम वुंट",
+        "B) William James / B) विलियम जेम्स",
+        "C) Ivan Pavlov / C) इवान पावलोव",
+        "D) Edward Thorndike / D) एडवर्ड थॉर्नडाइक"
+      ],
+      "answer": 0,
+      "explanation": "Wilhelm Wundt founded the first formal psychology lab at Leipzig University in 1879. / विल्हेम वुंट ने 1879 में लिपज़िग विश्वविद्यालय में पहली प्रायोगिक मनोविज्ञान प्रयोगशाला बनाई।"
+    },
+    {
+      "id": "0118006d",
+      "question": "Hierarchy of Needs theory of motivation was propounded by:\n(अभिप्रेरणा का 'आवश्यकता पदानुक्रम सिद्धांत' (Hierarchy of Needs) किसने दिया?)",
+      "options": [
+        "A) Abraham Maslow / A) अब्राहम मास्लो",
+        "B) Frederick Herzberg / B) फ्रेडरिक हर्ज़बर्ग",
+        "C) David McClelland / C) डेविड मैक्लेलैंड",
+        "D) Victor Vroom / D) विक्टर व्रूम"
+      ],
+      "answer": 0,
+      "explanation": "Maslow created the 5-tier pyramid Hierarchy of Needs ranging from physiological to self-actualization. / अब्राहम मास्लो ने शारीरिक आवश्यकताओं से लेकर आत्म-सिद्धि तक 5-स्तरीय पदानुक्रम दिया।"
+    },
+    {
+      "id": "b9d38994",
+      "question": "Intrinsic Motivation comes from:\n(आंतरिक अभिप्रेरणा (Intrinsic Motivation) कहाँ से उत्पन्न होती है?)",
+      "options": [
+        "A) External rewards like money and badges / A) बाहरी पुरस्कार जैसे धन या ट्रॉफी से",
+        "B) Internal satisfaction and personal interest / B) आंतरिक संतोष, आनंद और व्यक्तिगत रुचि से",
+        "C) Fear of punishment or scolding / C) सजा के डर से",
+        "D) Peer pressure / D) सहपाठियों के दबाव से"
+      ],
+      "answer": 1,
+      "explanation": "Intrinsic motivation is driven by internal interest, pleasure, and personal growth. / आंतरिक अभिप्रेरणा व्यक्ति के अंदर से स्वयं की संतुष्टि और सीखने की इच्छा से आती है।"
+    },
+    {
+      "id": "8692cad6",
+      "question": "Extrinsic Motivation is driven by:\n(वाह्य अभिप्रेरणा (Extrinsic Motivation) किससे संचालित होती है?)",
+      "options": [
+        "A) Personal enjoyment of the task / A) कार्य में व्यक्तिगत आनंद से",
+        "B) External rewards, praise, or fear of punishment / B) बाहरी पुरस्कार, प्रशंसा या दंड के भय से",
+        "C) Self-curiosity / C) आत्म-जिज्ञासा से",
+        "D) Mastery goals / D) निपुणता लक्ष्यों से"
+      ],
+      "answer": 1,
+      "explanation": "Extrinsic motivation relies on external incentives like grades, praise, or punishments. / वाह्य अभिप्रेरणा बाहरी पुरस्कारों, अंकों, तारीफ या सजा से बचने के लिए उत्पन्न होती है।"
+    },
+    {
+      "id": "d478e4be",
+      "question": "Mental Age formula for Intelligence Quotient (IQ) was developed by William Stern and refined by Terman. What is the IQ formula?\n(बुद्धि लब्धि (IQ) की गणना का सही सूत्र क्या है?)",
+      "options": [
+        "A) (Chronological Age / Mental Age) * 100 / A) (वास्तविक आयु / मानसिक आयु) * 100",
+        "B) (Mental Age / Chronological Age) * 100 / B) (मानसिक आयु / वास्तविक आयु) * 100",
+        "C) (Mental Age * Chronological Age) / 100 / C) (मानसिक आयु * वास्तविक आयु) / 100",
+        "D) (Chronological Age + Mental Age) * 100 / D) (वास्तविक आयु + मानसिक आयु) * 100"
+      ],
+      "answer": 1,
+      "explanation": "IQ = (Mental Age / Chronological Age) * 100. / IQ = (मानसिक आयु / वास्तविक आयु) × 100।"
+    },
+    {
+      "id": "65225e6f",
+      "question": "If a child has a Mental Age of 12 and a Chronological Age of 10, what is the child's IQ?\n(यदि किसी बालक की मानसिक आयु 12 वर्ष और वास्तविक आयु 10 वर्ष है, तो उसकी बुद्धि लब्धि (IQ) क्या होगी?)",
+      "options": [
+        "A) 100 / A) 100",
+        "B) 120 / B) 120",
+        "C) 80 / C) 80",
+        "D) 110 / D) 110"
+      ],
+      "answer": 1,
+      "explanation": "IQ = (12/10) * 100 = 120. / IQ = (12 / 10) × 100 = 120।"
+    },
+    {
+      "id": "e2a7756f",
+      "question": "Who introduced the concept of 'Mental Age'?\n('मानसिक आयु' (Mental Age) की अवधारणा का सर्वप्रथम प्रयोग किसने किया था?)",
+      "options": [
+        "A) Alfred Binet / A) अल्फ्रेड बिने",
+        "B) Lewis Terman / B) लुईस टरमन",
+        "C) William Stern / C) विलियम स्टर्न",
+        "D) David Wechsler / D) डेविड वेचस्लर"
+      ],
+      "answer": 0,
+      "explanation": "Alfred Binet and Theodore Simon introduced the concept of Mental Age in 1905. / अल्फ्रेड बिने ने 1905 में प्रथम बुद्धि परीक्षण के दौरान 'मानसिक आयु' की संकल्पना दी थी।"
+    },
+    {
+      "id": "51a52290",
+      "question": "Two-Factor Theory of Intelligence (G-factor and S-factor) was proposed by:\n(बुद्धि का 'द्विकारक सिद्धांत' (General & Specific Factor) किसने दिया था?)",
+      "options": [
+        "A) Charles Spearman / A) चार्ल्स स्पीयरमैन",
+        "B) E.L. Thorndike / B) ई.एल. थॉर्नडाइक",
+        "C) Louis Thurstone / C) लुईस थर्स्टन",
+        "D) J.P. Guilford / D) जे.पी. गिलफोर्ड"
+      ],
+      "answer": 0,
+      "explanation": "Spearman proposed General (g) factor and Specific (s) factor of intelligence. / स्पीयरमैन ने सामान्य मानसिक योग्यता (g-कारक) और विशिष्ट मानसिक योग्यता (s-कारक) का सिद्धांत दिया।"
+    },
+    {
+      "id": "ca1ef89d",
+      "question": "Structure of Intellect (SI) model with 180 factors (Operations, Contents, Products) was developed by:\n(बुद्धि की 'त्रिआयामी संरचना मॉडल' (Structure of Intellect) का विकास किसने किया था?)",
+      "options": [
+        "A) J.P. Guilford / A) जे.पी. गिलफोर्ड",
+        "B) Howard Gardner / B) हावर्ड गार्डनर",
+        "C) Raymond Cattell / C) रेमंड कैटेल",
+        "D) Robert Sternberg / D) रॉबर्ट स्टर्नबर्ग"
+      ],
+      "answer": 0,
+      "explanation": "Guilford created the 3D Structure of Intellect model. / जे.पी. गिलफोर्ड ने विषयवस्तु, संक्रिया और उत्पाद के आधार पर त्रिआयामी बुद्धि मॉडल प्रस्तुत किया।"
+    },
+    {
+      "id": "6c424845",
+      "question": "Fluid and Crystallized Intelligence concepts were introduced by:\n(तरल एवं ठोस (द्रवीकृत व स्फटिकीय) बुद्धि का सिद्धांत किसने दिया था?)",
+      "options": [
+        "A) Raymond Cattell / A) रेमंड कैटेल",
+        "B) Charles Spearman / B) चार्ल्स स्पीयरमैन",
+        "C) Philip Vernon / C) फिलिप वर्नन",
+        "D) David Wechsler / D) डेविड वेचस्लर"
+      ],
+      "answer": 0,
+      "explanation": "Raymond Cattell classified intelligence into Fluid (g-f, innate capacity) and Crystallized (g-c, acquired knowledge). / आर.बी. कैटेल ने जन्मजात क्षमता को 'तरल बुद्धि' और अर्जित ज्ञान को 'ठोस/स्फटिकीय बुद्धि' कहा।"
+    },
+    {
+      "id": "a1b8aaad",
+      "question": "According to Piaget, the 'Concrete Operational Stage' spans which age group?\n(पियाजे के अनुसार, 'मूर्त संक्रियात्मक अवस्था' (Concrete Operational Stage) की आयु अवधि क्या है?)",
+      "options": [
+        "A) 0 to 2 years / A) 0 से 2 वर्ष",
+        "B) 2 to 7 years / B) 2 से 7 वर्ष",
+        "C) 7 to 11 years / C) 7 से 11 वर्ष",
+        "D) 11 to 15 years / D) 11 से 15 वर्ष"
+      ],
+      "answer": 2,
+      "explanation": "Concrete Operational Stage typically lasts from 7 to 11 years. / मूर्त संक्रियात्मक अवस्था की आयु अवधि सामान्यतः 7 से 11 वर्ष होती है।"
+    },
+    {
+      "id": "53ead3cf",
+      "question": "The ability to understand that quantity remains same despite changes in shape or appearance is called:\n(यह समझना कि किसी वस्तु का आकार बदलने पर भी उसकी मात्रा समान रहती है, पियाजे के अनुसार क्या कहलाता है?)",
+      "options": [
+        "A) Conservation / A) संरक्षण (Conservation)",
+        "B) Centration / B) केंद्रीकरण (Centration)",
+        "C) Animism / C) जीववाद (Animism)",
+        "D) Reversibility / D) उत्क्रमणशीलता"
+      ],
+      "answer": 0,
+      "explanation": "Conservation is the realization that liquid/matter quantity stays constant across superficial shape changes. / संरक्षण की समझ बालक में मूर्त संक्रियात्मक अवस्था में विकसित होती है।"
+    },
+    {
+      "id": "c0a06afa",
+      "question": "Attributing life-like qualities to inanimate objects (e.g., 'the sun is sad today') is known as:\n(निर्जीव वस्तुओं को सजीव समझना (जैसे 'सूर्य उदास है') पियाजे के अनुसार क्या कहलाता है?)",
+      "options": [
+        "A) Animism / A) जीववाद (Animism)",
+        "B) Egocentrism / B) अहंकेंद्रितता",
+        "C) Deductive reasoning / C) निगमनात्मक तर्क",
+        "D) Metacognition / D) मेटाकॉग्निशन"
+      ],
+      "answer": 0,
+      "explanation": "Animism is characteristic of the Pre-operational stage where non-living objects are believed to have feelings. / पूर्व-संक्रियात्मक अवस्था में बालक निर्जीव वस्तुओं में जीवन और भावनाएं देखता है जिसे जीववाद कहते हैं।"
+    },
+    {
+      "id": "190ea44b",
+      "question": "Creative students are generally characterized by:\n(सृजनशील (Creative) बालकों की मुख्य पहचान क्या होती है?)",
+      "options": [
+        "A) Convergent thinking / A) अभिसारी चिंतन (Convergent Thinking)",
+        "B) Divergent thinking / B) अपसारी चिंतन (Divergent Thinking)",
+        "C) Rote memorization / C) रटने की क्षमता",
+        "D) Passive obedience / D) निष्क्रिय आज्ञाकारिता"
+      ],
+      "answer": 1,
+      "explanation": "Divergent thinking involves producing multiple novel solutions to a given problem. / सृजनात्मकता मौलिकता और अपसारी (दिशाओं में सोचने वाले) चिंतन से जुड़ी होती है।"
+    },
+    {
+      "id": "b20e78be",
+      "question": "Which of the following is NOT an element of creativity according to Torrance?\n(टॉरेंस के अनुसार निम्नलिखित में से कौन-सा सृजनात्मकता का तत्त्व नहीं है?)",
+      "options": [
+        "A) Fluency / A) धाराप्रवाहिता (Fluency)",
+        "B) Flexibility / B) लचीलापन (Flexibility)",
+        "C) Originality / C) मौलिकता (Originality)",
+        "D) Rigidity / D) लकीर का फकीर होना / कठोरता (Rigidity)"
+      ],
+      "answer": 3,
+      "explanation": "Creativity elements include Fluency, Flexibility, Originality, and Elaboration. Rigidity hinders creativity. / सृजनात्मकता में विचारों की तरलता, विविधता और मौलिकता होती है; कठोरता इसका विरोधी गुण है।"
+    },
+    {
+      "id": "7f083320",
+      "question": "The micro-teaching technique was developed at Stanford University by:\n(सूक्ष्म-शिक्षण (Micro-teaching) तकनीक का विकास स्टैनफोर्ड विश्वविद्यालय में किसने किया था?)",
+      "options": [
+        "A) Dwight Allen / A) ड्वाइट एलन (Dwight Allen)",
+        "B) N.L. Gage / B) एन.एल. गेज",
+        "C) B.K. Passi / C) बी.के. पासी",
+        "D) John Dewey / D) जॉन डीवी"
+      ],
+      "answer": 0,
+      "explanation": "Dwight Allen and colleagues developed Micro-teaching at Stanford University in 1963. / ड्वाइट एलन ने 1963 में स्टैनफोर्ड यूनिवर्सिटी में सूक्ष्म-शिक्षण की अवधारणा विकसित की थी।"
+    },
+    {
+      "id": "55c85f41",
+      "question": "In India, the standard duration of a full Micro-teaching cycle is:\n(भारत में NCERT द्वारा निर्धारित सूक्ष्म-शिक्षण (Micro-teaching) चक्र की कुल अवधि कितनी होती है?)",
+      "options": [
+        "A) 20 minutes / A) 20 मिनट",
+        "B) 36 minutes / B) 36 मिनट",
+        "C) 45 minutes / C) 45 मिनट",
+        "D) 60 minutes / D) 60 मिनट"
+      ],
+      "answer": 1,
+      "explanation": "NCERT model specifies 36 minutes total: Teaching (6m) + Feedback (6m) + Re-plan (12m) + Re-teach (6m) + Re-feedback (6m). / भारतीय मॉडल में 6-6-12-6-6 मिनट का चक्र मिलकर कुल 36 मिनट का होता है।"
+    },
+    {
+      "id": "47b07d6f",
+      "question": "Which of the following is a graphic organizer tool used for brain-storming ideas?\n(विचारों के मंथन और अवधारणाओं के निरूपण के लिए किस दृश्य उपकरण का उपयोग किया जाता है?)",
+      "options": [
+        "A) Mind Mapping / A) माइंड मैपिंग (Mind Mapping)",
+        "B) Dictation / B) श्रुतलेख",
+        "C) Rote drill / C) रटने का अभ्यास",
+        "D) Multiple choice test / D) वस्तुनिष्ठ परीक्षण"
+      ],
+      "answer": 0,
+      "explanation": "Mind Mapping visually organizes information to encourage creative brainstorming. / माइंड मैपिंग द्वारा मुख्य विचार के चारों ओर संबंधित विचारों का चित्रात्मक निरूपण किया जाता है।"
+    },
+    {
+      "id": "596c9203",
+      "question": "The concept of 'Learning Without Burden' was recommended by which Committee report?\n('शिक्षा बिना बोझ के' (Learning Without Burden) की सिफारिश किस समिति की रिपोर्ट में की गई थी?)",
+      "options": [
+        "A) Kothari Commission / A) कोठारी आयोग",
+        "B) Yashpal Committee (1993) / B) प्रो० यशपाल समिति (1993)",
+        "C) Mudaliar Commission / C) मुदालियर आयोग",
+        "D) Radhakrishnan Commission / D) राधाकृष्णन आयोग"
+      ],
+      "answer": 1,
+      "explanation": "The Yashpal Committee (1993) produced the famous report titled 'Learning Without Burden'. / यशपाल समिति (1993) ने बस्ते का बोझ कम करने और आनंददायक शिक्षा हेतु 'शिक्षा बिना बोझ के' रिपोर्ट दी।"
+    },
+    {
+      "id": "4098302a",
+      "question": "Kothari Commission (1964-66) recommended which school language formula?\n(कोठारी आयोग (1964-66) ने स्कूली शिक्षा के लिए किस भाषा सूत्र की सिफारिश की थी?)",
+      "options": [
+        "A) Single Language Formula / A) एक-भाषा सूत्र",
+        "B) Two-Language Formula / B) द्वि-भाषा सूत्र",
+        "C) Three-Language Formula / C) त्रि-भाषा सूत्र (Three-Language Formula)",
+        "D) Four-Language Formula / D) चतुर्भुज भाषा सूत्र"
+      ],
+      "answer": 2,
+      "explanation": "Kothari Commission advocated the Three-Language Formula (Mother tongue, Hindi, English/Modern Indian language). / कोठारी आयोग ने मातृभाषा, राष्ट्रभाषा/क्षेत्रीय भाषा और अंग्रेजी/आधुनिक भाषा के त्रि-भाषा सूत्र की वकालत की।"
+    },
+    {
+      "id": "6f1b3362",
+      "question": "Operation Blackboard was launched in 1987-88 to improve:\n('ऑपरेशन ब्लैकबोर्ड' (1987-88) का मुख्य उद्देश्य क्या था?)",
+      "options": [
+        "A) Secondary education facilities / A) माध्यमिक शिक्षा का विकास",
+        "B) Minimum essential physical facilities in primary schools / B) प्राथमिक विद्यालयों में न्यूनतम आवश्यक भौतिक सुविधाएं उपलब्ध कराना",
+        "C) Higher technical universities / C) उच्च शिक्षा का विस्तार",
+        "D) Teacher training institutes only / D) केवल शिक्षक प्रशिक्षण"
+      ],
+      "answer": 1,
+      "explanation": "Operation Blackboard ensured basic minimum facilities (classrooms, blackboards, learning aids) in primary schools. / ऑपरेशन ब्लैकबोर्ड का उद्देश्य प्राथमिक स्कूलों में कम से कम 2 कमरे, शिक्षण सामग्री व ब्लैकबोर्ड उपलब्ध कराना था।"
+    },
+    {
+      "id": "821f1650",
+      "question": "Mid-Day Meal (MDM) scheme was launched nationally in India in which year?\n(भारत में राष्ट्रीय स्तर पर 'मध्याह्न भोजन योजना' (Mid-Day Meal Scheme) की शुरुआत कब हुई थी?)",
+      "options": [
+        "A) 1991 / A) 1991",
+        "B) 1995 / B) 1995",
+        "C) 2001 / C) 2001",
+        "D) 2005 / D) 2005"
+      ],
+      "answer": 1,
+      "explanation": "National Programme of Nutritional Support to Primary Education (MDM) was launched on August 15, 1995. / 15 अगस्त 1995 को प्राथमिक शिक्षा के लिए पोषण संबंधी सहायता का राष्ट्रीय कार्यक्रम (MDM) शुरू हुआ था।"
+    },
+    {
+      "id": "a50932b9",
+      "question": "Right to Free and Compulsory Education (RTE) Act came into force in India on:\n(शिक्षा का अधिकार अधिनियम (RTE) संपूर्ण भारत (जम्मू-कश्मीर को छोड़कर तत्कालीन) में कब लागू हुआ?)",
+      "options": [
+        "A) 1st April 2009 / A) 1 अप्रैल 2009",
+        "B) 1st April 2010 / B) 1 अप्रैल 2010",
+        "C) 15th August 2009 / C) 15 अगस्त 2009",
+        "D) 26th January 2010 / D) 26 जनवरी 2010"
+      ],
+      "answer": 1,
+      "explanation": "RTE Act was enacted in 2009 and officially came into effect across India on April 1, 2010. / RTE अधिनियम संसद से 2009 में पारित हुआ और पूरे देश में 1 अप्रैल 2010 से प्रभावी लागू हुआ।"
+    },
+    {
+      "id": "7e23a9b4",
+      "question": "Under RTE Act 2009, private unaided schools must reserve what percentage of seats for economically weaker sections (EWS)?\n(RTE अधिनियम 2009 के तहत निजी गैर-सहायता प्राप्त स्कूलों में कमजोर वर्ग (EWS) के लिए कितने प्रतिशत सीटें आरक्षित हैं?)",
+      "options": [
+        "A) 10% / A) 10%",
+        "B) 15% / B) 15%",
+        "C) 25% / C) 25%",
+        "D) 33% / D) 33%"
+      ],
+      "answer": 2,
+      "explanation": "RTE Section 12(1)(c) mandates 25% reservation for EWS and disadvantaged children in entry-level private classes. / RTE की धारा 12(1)(c) के अनुसार निजी विद्यालयों में प्राथमिक प्रवेश कक्षा में 25% सीटें वंचित वर्ग के लिए आरक्षित हैं।"
+    },
+    {
+      "id": "64fd1c4f",
+      "question": "National Education Policy (NEP) 2020 replaces the old 10+2 system with which new curricular structure?\n(राष्ट्रीय शिक्षा नीति (NEP) 2020 ने पुरानी 10+2 व्यवस्था के स्थान पर किस नई पाठ्यचर्या संरचना को लागू किया है?)",
+      "options": [
+        "A) 5+3+3+4 / A) 5+3+3+4",
+        "B) 5+3+4+2 / B) 5+3+4+2",
+        "C) 3+5+3+4 / C) 3+5+3+4",
+        "D) 4+3+3+5 / D) 4+3+3+5"
+      ],
+      "answer": 0,
+      "explanation": "NEP 2020 introduces 5+3+3+4 (Foundational, Preparatory, Middle, Secondary). / NEP 2020 में 5 वर्ष (फाउंडेशनल) + 3 वर्ष (प्रिपरेटरी) + 3 वर्ष (मिडिल) + 4 वर्ष (सेकेंडरी) का ढाँचा है।"
+    },
+    {
+      "id": "623a92d1",
+      "question": "In NEP 2020, what does PARAKH stand for?\n(NEP 2020 के तहत गठित राष्ट्रीय मूल्यांकन केंद्र 'PARAKH' का पूर्ण रूप क्या है?)",
+      "options": [
+        "A) Performance Assessment, Review, and Analysis of Knowledge for Holistic Development / A) Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+        "B) Primary Assessment and Rating for All Knowledge Holdings / B) Primary Assessment and Rating for All Knowledge Holdings",
+        "C) Program for Academic Review and Knowledge Hierarchy / C) Program for Academic Review and Knowledge Hierarchy",
+        "D) Parental Assessment and Report for Academic Knowledge / D) Parental Assessment and Report for Academic Knowledge"
+      ],
+      "answer": 0,
+      "explanation": "PARAKH is the new national assessment center for standard setting. / PARAKH समग्र विकास के लिए ज्ञान का विश्लेषण, समीक्षा और प्रदर्शन मूल्यांकन का राष्ट्रीय केंद्र है।"
+    },
+    {
+      "id": "31f968b3",
+      "question": "The NIPUN Bharat Mission launched by the Ministry of Education aims to ensure foundational literacy and numeracy by which class?\n(शिक्षा मंत्रालय के 'निपुण भारत' (NIPUN Bharat) मिशन का लक्ष्य किस कक्षा तक आधारभूत साक्षरता और संख्याज्ञान प्राप्त करना है?)",
+      "options": [
+        "A) Class 1 / A) कक्षा 1",
+        "B) Class 3 / B) कक्षा 3",
+        "C) Class 5 / C) कक्षा 5",
+        "D) Class 8 / D) कक्षा 8"
+      ],
+      "answer": 1,
+      "explanation": "NIPUN Bharat aims for universal foundational literacy and numeracy by Class 3 (age 3-9 years). / निपुण भारत मिशन का लक्ष्य वर्ष 2026-27 तक कक्षा 3 के अंत तक मूलभूत साक्षरता और संख्या ज्ञान (FLN) प्राप्त करना है।"
+    },
+    {
+      "id": "f1111835",
+      "question": "Adolescence is defined as a period of 'Stress, Strain, Storm, and Strife' by which psychologist?\n(किशोरावस्था को 'तनाव, तूफान, दबाव और संघर्ष का काल' किस मनोवैज्ञानिक ने कहा था?)",
+      "options": [
+        "A) Stanley Hall / A) जी. स्टेनली हॉल (G. Stanley Hall)",
+        "B) Jean Piaget / B) जीन पियाजे",
+        "C) E.L. Thorndike / C) ई.एल. थॉर्नडाइक",
+        "D) Arnold Gesell / D) अर्नोल्ड गेसेल"
+      ],
+      "answer": 0,
+      "explanation": "G. Stanley Hall famously termed adolescence as a period of 'storm and stress'. / जी. स्टेनली हॉल ने किशोरावस्था की शारीरिक व मानसिक तीव्र उथल-पुथल के कारण इसे 'तूफान व तनाव का काल' कहा।"
+    },
+    {
+      "id": "3d23797b",
+      "question": "Cephalocaudal principle of motor development states that development proceeds from:\n(विकास का 'मस्तकाधोमुखी' (Cephalocaudal) सिद्धांत यह बताता है कि विकास किस दिशा में होता है?)",
+      "options": [
+        "A) Center of the body to outward extremities / A) शरीर के केंद्र से बाहर की ओर",
+        "B) Head to feet (downward) / B) सिर से पैर की ओर",
+        "C) Feet to head / C) पैर से सिर की ओर",
+        "D) Specific to general / D) विशिष्ट से सामान्य की ओर"
+      ],
+      "answer": 1,
+      "explanation": "Cephalocaudal direction refers to top-down development (head down to toes). / मस्तकाधोमुखी नियम के अनुसार बालक का विकास सिर से शुरू होकर नीचे पैरों की ओर बढ़ता है।"
+    },
+    {
+      "id": "9eccf6ee",
+      "question": "Proximodistal principle of growth implies development from:\n(विकास का 'समीप-दूराभिमुख' (Proximodistal) सिद्धांत किस ओर इशारा करता है?)",
+      "options": [
+        "A) Head to toes / A) सिर से पैर की ओर",
+        "B) Central axis of the body to outer extremities / B) शरीर के केंद्र (रीढ़) से बाहर की भुजाओं/अंगों की ओर",
+        "C) Outer limbs to the spine / C) बाहरी अंगों से रीढ़ की ओर",
+        "D) General to abstract reasoning / D) सामान्य से अमूर्त की ओर"
+      ],
+      "answer": 1,
+      "explanation": "Proximodistal means center-outward physical growth progression. / प्रॉक्सिमोडिस्टल सिद्धांत का अर्थ है कि विकास का क्रम केंद्र से बाहर की ओर होता है।"
+    },
+    {
+      "id": "e9d7f93e",
+      "question": "Which stage of development is known as the 'Gang Age'?\n(विकास की किस अवस्था को 'टोली/समूह की आयु' (Gang Age) कहा जाता है?)",
+      "options": [
+        "A) Infancy / A) शैशवावस्था",
+        "B) Later Childhood / B) उत्तर बाल्यावस्था",
+        "C) Adolescence / C) किशोरावस्था",
+        "D) Adulthood / D) प्रौढ़ावस्था"
+      ],
+      "answer": 1,
+      "explanation": "Later Childhood (6-12 years) is characterized by peer group affiliation and gang formation. / उत्तर बाल्यावस्था (6-12 वर्ष) में बच्चे अपने हमउम्र साथियों के समूह/टोली बनाने में अधिक रुचि लेते हैं।"
+    },
+    {
+      "id": "fb9d64a7",
+      "question": "Playway Method of teaching was originally conceived by Henry Caldwell Cook and popularized in early education by:\n(खेल विधि (Playway Method) का बीजारोपण किंडरगार्टन के माध्यम से प्राथमिक स्तर पर किसने किया था?)",
+      "options": [
+        "A) Friedrich Froebel / A) फ्रोबेल (Friedrich Froebel)",
+        "B) Maria Montessori / B) मारिया मोंटेसरी",
+        "C) John Dewey / C) जॉन डीवी",
+        "D) William Kilpatrick / D) विलियम किल्पैट्रिक"
+      ],
+      "answer": 0,
+      "explanation": "Froebel incorporated play in Kindergarten system; Cook introduced Play Way method. / फ्रेडरिक फ्रोबेल ने किंडरगार्टन प्रणाली की स्थापना की, जिसमें खेल द्वारा सीखने पर बल दिया गया।"
+    },
+    {
+      "id": "0954888b",
+      "question": "Project Method of teaching was developed by which pragmatic educator?\n(शिक्षण की 'प्रयोजना विधि' (Project Method) के जनक कौन हैं?)",
+      "options": [
+        "A) William Heard Kilpatrick / A) विलियम हर्ड किल्पैट्रिक",
+        "B) John Dewey / B) जॉन डीवी",
+        "C) Maria Montessori / C) मारिया मोंटेसरी",
+        "D) Edward Thorndike / D) एडवर्ड थॉर्नडाइक"
+      ],
+      "answer": 0,
+      "explanation": "Kilpatrick, a disciple of John Dewey, developed the Project Method based on pragmatism. / जॉन डीवी के शिष्य विलियम हर्ड किल्पैट्रिक ने प्रयोजनवाद पर आधारित 'प्रोजेक्ट विधि' विकसित की।"
+    },
+    {
+      "id": "21c37741",
+      "question": "Heuristic Method of teaching was propounded by:\n(शिक्षण की 'ह्यूरिस्टिक विधि' (खोज/अनुसंधान विधि) के संस्थापक कौन हैं?)",
+      "options": [
+        "A) H.E. Armstrong / A) एच.ई. आर्मस्ट्रांग",
+        "B) John Dewey / B) जॉन डीवी",
+        "C) B.F. Skinner / C) बी.एफ. स्किनर",
+        "D) Pestalozzi / D) पेस्टालॉजी"
+      ],
+      "answer": 0,
+      "explanation": "H.E. Armstrong developed the Heuristic (discovery/investigation) method. / एच.ई. आर्मस्ट्रांग ने छात्रों में स्वयं अन्वेषण और खोज करने की भावना बढ़ाने हेतु यह विधि दी।"
+    },
+    {
+      "id": "598dc0b1",
+      "question": "In Problem-Solving method, the first step is:\n(समस्या-समाधान विधि (Problem-Solving Method) का पहला चरण कौन-सा होता है?)",
+      "options": [
+        "A) Data collection / A) आंकड़े एकत्र करना",
+        "B) Problem Identification / Formulation / B) समस्या की पहचान/परिभाषा",
+        "C) Hypothesis testing / C) परिकल्पना का परीक्षण",
+        "D) Conclusion drawing / D) निष्कर्ष निकालना"
+      ],
+      "answer": 1,
+      "explanation": "Identifying and defining the problem is the fundamental first step in problem solving. / समस्या समाधान प्रक्रिया में सबसे पहला कदम समस्या को स्पष्ट रूप से पहचानना और समझना होता है।"
+    },
+    {
+      "id": "e5604b6a",
+      "question": "Deductive Method moves from:\n(निगमन विधि (Deductive Method) में शिक्षण किस दिशा में होता है?)",
+      "options": [
+        "A) Specific examples to General rules / A) विशिष्ट उदाहरणों से सामान्य नियम की ओर",
+        "B) General rules/principles to Specific examples / B) सामान्य नियमों/सूत्रों से विशिष्ट उदाहरणों की ओर",
+        "C) Concrete to Abstract / C) मूर्त से अमूर्त की ओर",
+        "D) Known to Unknown / D) ज्ञात से अज्ञात की ओर"
+      ],
+      "answer": 1,
+      "explanation": "Deduction applies general laws or formulas to specific instances. / निगमन विधि में पहले नियम/सूत्र बताया जाता है, फिर उदाहरणों द्वारा उसे सिद्ध किया जाता है।"
+    },
+    {
+      "id": "deb9896a",
+      "question": "Inductive Method moves from:\n(आगमन विधि (Inductive Method) में शिक्षण का सूत्र क्या होता है?)",
+      "options": [
+        "A) General rules to Specific examples / A) सामान्य नियम से विशिष्ट उदाहरण",
+        "B) Specific examples to General rules/principles / B) विशिष्ट उदाहरणों से सामान्य नियम/सिद्धान्त की ओर",
+        "C) Abstract to Concrete / C) अमूर्त से मूर्त की ओर",
+        "D) Complex to Simple / D) जटिल से सरल की ओर"
+      ],
+      "answer": 1,
+      "explanation": "Induction analyzes specific facts/examples first to derive general principles. / आगमन विधि में पहले अनेक उदाहरण प्रस्तुत किए जाते हैं, फिर निष्कर्ष निकालकर नियम बनाया जाता है।"
+    },
+    {
+      "id": "16d91dcd",
+      "question": "Which type of reinforcement schedule yields the highest rate of response and resistance to extinction?\n(स्किनर के अनुसार किस प्रकार का पुनर्बलन शेड्यूलिंग (Reinforcement Schedule) सबसे अधिक अनुक्रिया दर उत्पन्न करता है?)",
+      "options": [
+        "A) Fixed Ratio / A) निश्चित अनुपात",
+        "B) Fixed Interval / B) निश्चित अंतराल",
+        "C) Variable Ratio / C) परिवर्तनशील अनुपात (Variable Ratio)",
+        "D) Variable Interval / D) परिवर्तनशील अंतराल"
+      ],
+      "answer": 2,
+      "explanation": "Variable Ratio (e.g., slot machines) creates strong behavioral persistence. / परिवर्तनशील अनुपात पुनर्बलन में अनुक्रिया सबसे तीव्र और स्थायी होती है।"
+    },
+    {
+      "id": "84a96194",
+      "question": "Positive Reinforcement increases behavior, while Punishment aims to:\n(धनात्मक पुनर्बलन व्यवहार को बढ़ाता है, जबकि 'दंड' (Punishment) का मुख्य उद्देश्य क्या होता है?)",
+      "options": [
+        "A) Increase behavior / A) व्यवहार को बढ़ाना",
+        "B) Decrease or suppress behavior / B) अवांछनीय व्यवहार को घटाना/रोकना",
+        "C) Maintain behavior as is / C) व्यवहार को स्थिर रखना",
+        "D) Reward behavior / D) व्यवहार को पुरस्कृत करना"
+      ],
+      "answer": 1,
+      "explanation": "Reinforcement increases behavior likelihood; punishment aims to weaken or extinguish it. / दंड का उद्देश्य अवांछित व्यवहार को कम करना या समाप्त करना होता है।"
+    },
+    {
+      "id": "ec460c2f",
+      "question": "Stimulus Generalization occurs when an organism responds to:\n(उद्दीपक सामान्यीकरण (Stimulus Generalization) तब होता है जब जीव प्रतिक्रिया देता है:)",
+      "options": [
+        "A) Only the exact conditioned stimulus / A) केवल मूल अनुबंधित उद्दीपक पर",
+        "B) Stimuli that are similar to the original conditioned stimulus / B) मूल उद्दीपक से मिलते-जुलते अन्य समान उद्दीपकों पर",
+        "C) Any random neutral stimulus / C) किसी भी यादृच्छिक निष्प्रभावी उद्दीपक पर",
+        "D) No stimulus at all / D) किसी उद्दीपक पर नहीं"
+      ],
+      "answer": 1,
+      "explanation": "Generalization happens when similar stimuli elicit the same conditioned response. / जब बालक मूल उद्दीपक जैसे ही अन्य समान उद्दीपकों के प्रति भी समान अनुक्रिया करने लगता है।"
+    },
+    {
+      "id": "e3b53a4b",
+      "question": "Extinction in Classical Conditioning occurs when:\n(शास्त्रीय अनुबंधन में 'विलोप' (Extinction) कब होता है?)",
+      "options": [
+        "A) CS is presented repeatedly without UCS / A) जब अनुबंधित उद्दीपक (CS) बिना स्वाभाविक उद्दीपक (UCS) के बार-बार दिया जाए",
+        "B) UCS is presented without CS / B) जब केवल भोजन दिया जाए",
+        "C) Punishment is administered continuously / C) जब लगातार सजा दी जाए",
+        "D) Reinforcement is doubled / D) जब पुरस्कार दोगुना कर दिया जाए"
+      ],
+      "answer": 0,
+      "explanation": "When Conditioned Stimulus (Bell) appears repeatedly without Unconditioned Stimulus (Food), CR gradually disappears. / घंटी बजने पर खाना न मिलने की प्रक्रिया बार-बार दोहराने पर कुत्ता लार टपकाना बंद कर देता है।"
+    },
+    {
+      "id": "8996b197",
+      "question": "Transfer of Learning where previous knowledge hinders new learning is called:\n(अधिगम का वह स्थानांतरण जिसमें पूर्व ज्ञान नए ज्ञान को सीखने में बाधा डालता है, क्या कहलाता है?)",
+      "options": [
+        "A) Positive Transfer / A) धनात्मक स्थानांतरण",
+        "B) Negative Transfer / B) ऋणात्मक / नकारात्मक स्थानांतरण (Negative Transfer)",
+        "C) Zero Transfer / C) शून्य स्थानांतरण",
+        "D) Bilateral Transfer / D) द्विपार्श्विक स्थानांतरण"
+      ],
+      "answer": 1,
+      "explanation": "Negative transfer occurs when past knowledge interferes with mastering new skills. / जब पुराना ज्ञान नई क्रिया सीखने में रुकावट पैदा करता है (जैसे- लेफ्ट हैंड ड्राइव गाड़ी का राइट हैंड में बाधा बनना)।"
+    },
+    {
+      "id": "4e58f4cd",
+      "question": "Learning to drive a car after learning to drive a tractor is an example of:\n(साइकिल चलाने वाले व्यक्ति द्वारा मोटरसाइकिल आसानी से सीख लेना किस प्रकार के अधिगम अंतरण का उदाहरण है?)",
+      "options": [
+        "A) Positive Transfer of Learning / A) धनात्मक स्थानांतरण (Positive Transfer)",
+        "B) Negative Transfer of Learning / B) ऋणात्मक स्थानांतरण",
+        "C) Zero Transfer / C) शून्य स्थानांतरण",
+        "D) Neutral Transfer / D) निष्प्रभावी अंतरण"
+      ],
+      "answer": 0,
+      "explanation": "When past learning helps acquire new skills, it is Positive Transfer. / जब पूर्व अर्जित ज्ञान नए ज्ञान को सीखने में सहायता करता है तो उसे धनात्मक स्थानांतरण कहते हैं।"
+    },
+    {
+      "id": "b5b63233",
+      "question": "Attention Deficit Hyperactivity Disorder (ADHD) is characterized by:\n(अवधान न्यूनता अतिसक्रियता विकार (ADHD) की मुख्य विशेषता क्या है?)",
+      "options": [
+        "A) High concentration and calmness / A) अत्यधिक एकाग्रता और शांति",
+        "B) Inattention, impulsivity, and excessive motor activity / B) ध्यान न टिकना (अनावधानता), आवेगशीलता और अत्यधिक चंचलता",
+        "C) Severe reading disability only / C) केवल पढ़ने में विकार",
+        "D) Blindness / D) दृष्टिबाध्यता"
+      ],
+      "answer": 1,
+      "explanation": "ADHD manifests through sustained inattention, restlessness, and impulsive behavior. / ADHD से ग्रसित बालक एक जगह टिककर नहीं बैठ पाते और उनका ध्यान शीघ्र भटकता है।"
+    },
+    {
+      "id": "7d81f3b0",
+      "question": "Autism Spectrum Disorder (ASD) is characterized by difficulties in:\n(ऑटिज्म (Autism Spectrum Disorder) से पीड़ित बालकों में मुख्य रूप से कौन-सी कठिनाई देखी जाती है?)",
+      "options": [
+        "A) Physical strength / A) शारीरिक शक्ति की कमी",
+        "B) Social communication and repetitive behaviors / B) सामाजिक संप्रेषण (Social Communication) और दोहरावदार व्यवहार",
+        "C) Mathematics only / C) केवल गणितीय गणना में",
+        "D) Hearing acuity / D) श्रवण क्षमता में"
+      ],
+      "answer": 1,
+      "explanation": "Autism involves challenges with social interaction, communication, and stereotyped behavior. / ऑटिज्म से ग्रसित बालक दूसरों से नजरें मिलाने व सामाजिक संवाद स्थापित करने में हिचकिचाते हैं।"
+    },
+    {
+      "id": "39c0630d",
+      "question": "The Personality Inventory test 'MMPI' stands for:\n(व्यक्तित्व परीक्षण 'MMPI' का पूर्ण रूप क्या है?)",
+      "options": [
+        "A) Minnesota Multiphasic Personality Inventory / A) Minnesota Multiphasic Personality Inventory",
+        "B) Multi-Method Psychological Inventory / B) Multi-Method Psychological Inventory",
+        "C) Mental Maturity Performance Index / C) Mental Maturity Performance Index",
+        "D) Measurement of Memory and Personality Inventory / D) Measurement of Memory and Personality Inventory"
+      ],
+      "answer": 0,
+      "explanation": "MMPI is a standardized psychometric test of adult personality. / MMPI का प्रयोग मनोचिकित्सा में व्यक्तित्व के मापन हेतु व्यापक रूप से किया जाता है।"
+    },
+    {
+      "id": "db6f4fbe",
+      "question": "Rorschach Inkblot Test is a widely known:\n(रोर्शा का स्याही धब्बा परीक्षण (Rorschach Inkblot Test) किस प्रकार की व्यक्तित्व मापन विधि है?)",
+      "options": [
+        "A) Objective test / A) वस्तुनिष्ठ विधि",
+        "B) Projective test / B) प्रक्षेपी विधि (Projective Technique)",
+        "C) Subjective essay test / C) विषयनिष्ठ विधि",
+        "D) Direct rating scale / D) प्रत्यक्ष रेटिंग स्केल"
+      ],
+      "answer": 1,
+      "explanation": "Rorschach Inkblot Test uses unstructured inkblots as a projective technique. / रोर्शा परीक्षण में अस्पष्ट स्याही के धब्बों के माध्यम से अचेतन मन का अध्ययन करने वाली प्रक्षेपी विधि है।"
+    },
+    {
+      "id": "d2a2c268",
+      "question": "Thematic Apperception Test (TAT) was developed by:\n(विषय आत्मबोध परीक्षण (TAT - Thematic Apperception Test) का विकास किसने किया था?)",
+      "options": [
+        "A) Henry Murray and Christina Morgan / A) हेनरी मरे और क्रिस्टीना मॉर्गन",
+        "B) Hermann Rorschach / B) हरमन रोर्शा",
+        "C) Carl Jung / C) कार्ल जुंग",
+        "D) Gordon Allport / D) गॉर्डन ऑलपोर्ट"
+      ],
+      "answer": 0,
+      "explanation": "TAT was created by Morgan and Murray in 1935. / मरे एवं मॉर्गन ने 1935 में व्यक्तित्व मापन हेतु TAT कार्ड्स का निर्माण किया था।"
+    },
+    {
+      "id": "323bd1d2",
+      "question": "Children's Apperception Test (CAT) meant for children aged 3 to 10 years was created by:\n(3 से 10 वर्ष के बच्चों के लिए निर्मित 'बाल संप्रत्यक्ष परीक्षण' (CAT) के प्रतिपादक कौन हैं?)",
+      "options": [
+        "A) Leopold Bellak / A) लियोपोल्ड बेलक (Leopold Bellak)",
+        "B) Henry Murray / B) हेनरी मरे",
+        "C) Ernst Kris / C) अर्न्स्ट क्रिश",
+        "D) Alfred Adler / D) अल्फ्रेड एडलर"
+      ],
+      "answer": 0,
+      "explanation": "Leopold Bellak created CAT using animal figures instead of humans. / लियोपोल्ड बेलक ने बच्चों के व्यक्तित्व मूल्यांकन के लिए पशु पात्रों वाले CAT कार्ड्स बनाए।"
+    },
+    {
+      "id": "7705cb50",
+      "question": "Who introduced the concept of 'Defense Mechanisms' in psychology?\n(मनोविज्ञान में 'रक्षा युक्तियों' (Defense Mechanisms) की संकल्पना का श्रेय किसे दिया जाता है?)",
+      "options": [
+        "A) Sigmund Freud and Anna Freud / A) सिगमंड फ्रायड एवं अन्ना फ्रायड",
+        "B) John B. Watson / B) जॉन बी. वाटसन",
+        "C) Carl Rogers / C) कार्ल रोजर्स",
+        "D) Ivan Pavlov / D) इवान पावलोव"
+      ],
+      "answer": 0,
+      "explanation": "Freud introduced defense mechanisms (e.g., projection, rationalization, repression) to protect ego. / अहम् (Ego) को चिंता से बचाने के लिए उपयोग की जाने वाली रक्षा युक्तियों का वर्णन फ्रायड ने किया।"
+    },
+    {
+      "id": "e1db01d9",
+      "question": "Blaming the exam paper for failing an exam is an example of which defense mechanism?\n(परीक्षा में असफलता का दोष कठिन प्रश्नपत्र पर मढ़ना (अंगूर खट्टे हैं) किस रक्षा युक्ति का उदाहरण है?)",
+      "options": [
+        "A) Rationalization (अौचित्य स्थापन) / A) औचित्य स्थापन / युक्तीकरण (Rationalization)",
+        "B) Repression / B) दमन (Repression)",
+        "C) Regression / C) प्रतिगमन (Regression)",
+        "D) Sublimation / D) शोधन (Sublimation)"
+      ],
+      "answer": 0,
+      "explanation": "Rationalization gives plausible excuses to justify failures. / जब व्यक्ति अपनी विफलता के लिए झूठे पर तर्कपूर्ण बहाने बनाता है तो उसे युक्तीकरण/औचित्य स्थापन कहते हैं।"
+    },
+    {
+      "id": "ab3c0fd8",
+      "question": "An adult throwing a temper tantrum like a toddler when frustrated exhibits:\n(एक वयस्क का तनाव में आकर बच्चों की तरह फूट-फूट कर रोने लगना किस रक्षा युक्ति को दर्शाता है?)",
+      "options": [
+        "A) Regression / A) प्रतिगमन (Regression)",
+        "B) Projection / B) प्रक्षेप (Projection)",
+        "C) Displacement / C) विस्थापन (Displacement)",
+        "D) Sublimation / D) उदात्तीकरण"
+      ],
+      "answer": 0,
+      "explanation": "Regression involves reverting to an earlier developmental stage under stress. / तनाव की स्थिति में विकास के पूर्ववर्ती/बाल्य स्तर पर लौट जाना 'प्रतिगमन' कहलाता है।"
+    },
+    {
+      "id": "c47c962a",
+      "question": "Channelizing unacceptable aggressive urges into socially acceptable sports like boxing is called:\n(अस्वीकार्य आक्रामक आवेगों को मुक्केबाजी या खेल जैसे सामाजिक रूप से स्वीकृत कार्यों में मोड़ना क्या कहलाता है?)",
+      "options": [
+        "A) Sublimation / A) उदात्तीकरण / शोधन (Sublimation)",
+        "B) Projection / B) प्रक्षेप",
+        "C) Reaction Formation / C) प्रतिक्रिया निर्माण",
+        "D) Denial / D) अस्वीकार करना"
+      ],
+      "answer": 0,
+      "explanation": "Sublimation transforms socially unacceptable impulses into productive activities. / अवांछनीय मूल प्रवृत्तियों को रचनात्मक या उच्च सामाजिक मार्ग में मोड़ना उदात्तीकरण/शोधन कहलाता है।"
+    },
+    {
+      "id": "7f555031",
+      "question": "Constructivist theory of learning views learners as:\n(रचनावादी (Constructivist) दृष्टिकोण शिक्षार्थियों को किस रूप में देखता है?)",
+      "options": [
+        "A) Passive recipients of knowledge / A) ज्ञान के निष्क्रिय प्राप्तकर्ता",
+        "B) Active constructors of their own knowledge / B) ज्ञान के सक्रिय निर्माता/संरचनाकार",
+        "C) Blank slates (Tabula Rasa) / C) कोरी पट्टी (Tabula Rasa)",
+        "D) Imitators of adult behaviors / D) केवल वयस्कों के अनुकरणकर्ता"
+      ],
+      "answer": 1,
+      "explanation": "Constructivism holds that learners actively build knowledge based on experiences. / रचनावाद के अनुसार छात्र पूर्व अनुभव और अंतःक्रिया के आधार पर स्वयं ज्ञान का सृजन करते हैं।"
+    },
+    {
+      "id": "c2160988",
+      "question": "John Locke's term 'Tabula Rasa' translates to:\n(जॉन लॉक द्वारा प्रयुक्त शब्द 'तबुला रासा' (Tabula Rasa) का क्या अर्थ है?)",
+      "options": [
+        "A) Blank Slate / A) कोरी स्लेट / कोरी पट्टी",
+        "B) Active Mind / B) सक्रिय मस्तिष्क",
+        "C) Innate Genius / C) जन्मजात प्रतिभा",
+        "D) Moral Compass / D) नैतिक चेतना"
+      ],
+      "answer": 0,
+      "explanation": "Tabula Rasa means a blank slate upon which experience writes knowledge. / तबुला रासा का अर्थ है कि बालक का मन जन्म के समय कोरी पट्टी के समान होता है जिस पर अनुभव लिखता है।"
+    },
+    {
+      "id": "427d8102",
+      "question": "Individual Differences among learners in a classroom should be viewed by teachers as:\n(कक्षा में शिक्षार्थियों की 'व्यक्तिगत भिन्नताओं' (Individual Differences) को शिक्षक द्वारा किस रूप में देखना चाहिए?)",
+      "options": [
+        "A) A major hurdle in teaching / A) शिक्षण में एक बड़ी बाधा",
+        "B) A resource and pathway for rich learning opportunities / B) सीखने के समृद्ध अवसरों का एक संसाधन/स्रोत",
+        "C) A reason to segregate students into separate sections / C) छात्रों को अलग-अलग श्रेणियों में बांटने का कारण",
+        "D) A failure of the educational system / D) शिक्षा प्रणाली की विफलता"
+      ],
+      "answer": 1,
+      "explanation": "Individual differences should be embraced as a pedagogical resource to differentiate instruction. / व्यक्तिगत भिन्नता को शिक्षक के लिए विविध शिक्षण रणनीतियों का अवसर और संसाधन माना जाना चाहिए।"
+    },
+    {
+      "id": "e0ddb742",
+      "question": "In Gardner's Multiple Intelligences theory, an architect or navigator excels in:\n(हावर्ड गार्डनर के अनुसार, एक मूर्तिकार, वास्तुकार या नाविक में किस प्रकार की बुद्धि की प्रधानता होती है?)",
+      "options": [
+        "A) Spatial Intelligence / A) स्थानिक बुद्धि (Spatial Intelligence)",
+        "B) Linguistic Intelligence / B) भाषाई बुद्धि",
+        "C) Bodily-Kinesthetic Intelligence / C) शारीरिक-गतिक बुद्धि",
+        "D) Musical Intelligence / D) संगीतात्मक बुद्धि"
+      ],
+      "answer": 0,
+      "explanation": "Spatial intelligence involves mental visualization and spatial orientation. / स्थानिक बुद्धि मानसिक रूप से दृश्यों और आकृतियों को समझने व निर्मित करने से संबंधित होती है।"
+    },
+    {
+      "id": "5427f0c3",
+      "question": "A person with high 'Interpersonal Intelligence' is skilled at:\n(उच्च 'अंतरवैयक्तिक बुद्धि' (Interpersonal Intelligence) वाला व्यक्ति किसमें कुशल होता है?)",
+      "options": [
+        "A) Understanding internal self-emotions and motivations / A) अपने स्वयं के संवेगों और प्रेरणाओं को समझने में",
+        "B) Understanding and interacting effectively with other people / B) दूसरों के मनोभावों, भावनाओं और व्यवहार को समझने में",
+        "C) Solving complex calculus equations / C) जटिल गणितीय समीकरणों को हल करने में",
+        "D) Composing music / D) संगीत की रचना करने में"
+      ],
+      "answer": 1,
+      "explanation": "Interpersonal intelligence is the capacity to understand and relate well to others. / अंतरवैयक्तिक बुद्धि दूसरों के व्यवहार और सामाजिक संबंधों को बेहतर ढंग से समझने की क्षमता है।"
+    },
+    {
+      "id": "9abb8563",
+      "question": "A person who possesses deep understanding of one's own feelings, motivations, and inner self has high:\n(अपने स्वयं के संवेगों, इच्छाओं और आंतरिक सामर्थ्य का गहरा बोध रखने वाले व्यक्ति में कौन-सी बुद्धि होती है?)",
+      "options": [
+        "A) Intrapersonal Intelligence / A) अंतरावैयक्तिक बुद्धि (Intrapersonal Intelligence)",
+        "B) Interpersonal Intelligence / B) अंतरवैयक्तिक बुद्धि",
+        "C) Linguistic Intelligence / C) भाषाई बुद्धि",
+        "D) Naturalistic Intelligence / D) प्राकृतिक बुद्धि"
+      ],
+      "answer": 0,
+      "explanation": "Intrapersonal intelligence is self-knowledge and self-reflection capability. / अंतरावैयक्तिक (Intrapersonal) बुद्धि स्वयं के आत्म-चिंतन और आत्म-अवबोध से जुड़ी होती है।"
+    },
+    {
+      "id": "db548de2",
+      "question": "Diagnostic Testing in education is primarily used to identify:\n(शिक्षा में 'निदानात्मक परीक्षण' (Diagnostic Testing) का प्राथमिक उद्देश्य क्या होता है?)",
+      "options": [
+        "A) The overall rank of the student / A) छात्र की समग्र रैंक तय करना",
+        "B) Specific learning gaps and difficulties faced by the student / B) छात्र की अधिगम संबंधी विशिष्ट कमियों और कठिनाइयों की पहचान करना",
+        "C) Final pass or fail criteria / C) अंतिम उत्तीर्ण या अनुत्तीर्ण परिणाम तय करना",
+        "D) Teacher's salary progression / D) शिक्षक के प्रदर्शन का आकलन करना"
+      ],
+      "answer": 1,
+      "explanation": "Diagnostic evaluation pinpoints specific learning gaps to plan targeted remedial teaching. / निदान परीक्षण का काम सीखने में आ रही कमजोरियों और गैप्स का पता लगाना है ताकि उपचारात्मक शिक्षण दिया जा सके।"
+    },
+    {
+      "id": "e3596c96",
+      "question": "Remedial Teaching is provided:\n('उपचारात्मक शिक्षण' (Remedial Teaching) कब प्रदान किया जाता है?)",
+      "options": [
+        "A) Before Diagnostic testing / A) निदानात्मक परीक्षण से पहले",
+        "B) After Diagnostic testing to clear identified learning gaps / B) निदानात्मक परीक्षण के बाद चिन्हित कमियों को दूर करने के लिए",
+        "C) Only during final board exams / C) केवल वार्षिक बोर्ड परीक्षा में",
+        "D) To gifted students only / D) केवल प्रतिभाशाली बालकों को"
+      ],
+      "answer": 1,
+      "explanation": "Remedial teaching directly addresses gaps identified through diagnostic tests. / निदान में पाई गई अधिगम संबंधी त्रुटियों और कठिनाइयों का निवारण करने के लिए उपचारात्मक शिक्षण दिया जाता है।"
+    },
+    {
+      "id": "08cfdeea",
+      "question": "Action Research in education is conducted by:\n(शिक्षा में 'क्रियात्मक अनुसंधान' (Action Research) किसके द्वारा किया जाता है?)",
+      "options": [
+        "A) External university professors only / A) केवल बाहरी विश्वविद्यालय के प्रोफेसरों द्वारा",
+        "B) Classroom teachers and practitioners to solve immediate educational problems / B) अपनी तात्कालिक शिक्षण समस्याओं को हल करने हेतु शिक्षकों व अध्यापकों द्वारा",
+        "C) Educational policy directors / C) शिक्षा नीति के निदेशकों द्वारा",
+        "D) NCERT board members exclusively / D) केवल बोर्ड सदस्यों द्वारा"
+      ],
+      "answer": 1,
+      "explanation": "Action research is applied research done by practitioners (teachers) to solve local classroom issues. / क्रियात्मक अनुसंधान कार्यक्षेत्र (कक्षा) की व्यावहारिक समस्याओं के तुरंत समाधान के लिए शिक्षकों द्वारा किया जाता है।"
+    },
+    {
+      "id": "051e14ea",
+      "question": "Who is considered the pioneer of Action Research in education?\n(शिक्षा के क्षेत्र में 'क्रियात्मक अनुसंधान' (Action Research) को लोकप्रिय बनाने का श्रेय किसे जाता है?)",
+      "options": [
+        "A) Stephen M. Corey / A) स्टीफन एम. कोरे (Stephen M. Corey)",
+        "B) John Dewey / B) जॉन डीवी",
+        "C) Kurt Lewin / C) कुर्त लेविन",
+        "D) Benjamin Bloom / D) बेंजामिन ब्लूम"
+      ],
+      "answer": 0,
+      "explanation": "Stephen M. Corey applied action research to the field of education in 1953. / स्टीफन एम. कोरे ने 1953 में शिक्षा की व्यावहारिक समस्याओं के समाधान हेतु क्रियात्मक अनुसंधान का प्रयोग किया।"
+    },
+    {
+      "id": "ba49de6e",
+      "question": "The Right of Persons with Disabilities (RPwD) Act in India was passed in which year, expanding recognized disability categories from 7 to 21?\n(भारत में 'दिव्यांगजन अधिकार अधिनियम' (RPwD Act) किस वर्ष पारित हुआ जिसमें दिव्यांगताओं की संख्या 7 से बढ़ाकर 21 की गई?)",
+      "options": [
+        "A) 1995 / A) 1995",
+        "B) 2005 / B) 2005",
+        "C) 2016 / C) 2016",
+        "D) 2020 / D) 2020"
+      ],
+      "answer": 2,
+      "explanation": "RPwD Act 2016 replaced the 1995 Act and expanded disability types to 21 categories. / RPwD अधिनियम 2016 में पारित हुआ, जिसने 1995 के पुराने कानून का स्थान लिया और 21 प्रकार की दिव्यांगताओं को मान्यता दी।"
+    },
+    {
+      "id": "b7deb9e9",
+      "question": "Gifted children are characterized by an IQ score generally equal to or above:\n(प्रतिभाशाली बालकों (Gifted Children) की बुद्धि लब्धि (IQ) सामान्यतः कितनी या उससे अधिक मानी जाती है?)",
+      "options": [
+        "A) 90 / A) 90",
+        "B) 100 / B) 100",
+        "C) 110 / C) 110",
+        "D) 130 or 140 / D) 130 या 140"
+      ],
+      "answer": 3,
+      "explanation": "Gifted children typically score 130/140 or higher on standardized IQ assessments. / टरमन व अन्य मनोवैज्ञानिकों के अनुसार 130 या 140 से अधिक IQ वाले बालक प्रतिभाशाली श्रेणी में आते हैं।"
+    },
+    {
+      "id": "0f8441cb",
+      "question": "Which technique is most effective for fostering creativity in students?\n(छात्रों में सृजनात्मकता और नए विचारों को बढ़ावा देने के लिए कौन-सी तकनीक सबसे प्रभावी है?)",
+      "options": [
+        "A) Brainstorming (विचार-मंथन) / A) विचार-मंथन (Brainstorming)",
+        "B) Rote learning / B) रटंत विद्या",
+        "C) Strict reprimands / C) कड़ा अनुशासन",
+        "D) Passive listening / D) निष्क्रिय श्रवण"
+      ],
+      "answer": 0,
+      "explanation": "Brainstorming encourages uninhibited generation of diverse ideas. / विचार-मंथन (मस्तिष्क उद्वेलन) तकनीक बालकों को बिना किसी झिझक के नए विचार प्रस्तुत करने का अवसर देती है।"
+    },
+    {
+      "id": "85f4b1fe",
+      "question": "According to Piaget, 'Schemes' or 'Schemas' refer to:\n(जीन पियाजे के अनुसार 'स्कीमा' (Schema) का अर्थ क्या है?)",
+      "options": [
+        "A) Defense mechanisms / A) रक्षा युक्तियां",
+        "B) Organized mental patterns or frameworks of knowledge stored in memory / B) मस्तिष्क में भंडारित ज्ञान के सुसंगठित मानसिक ढांचे / अवधारणाएं",
+        "C) Physical motor reflexes only / C) केवल शारीरिक प्रतिवर्त क्रियाएं",
+        "D) Emotional outbursts / D) संवेगात्मक अभिव्यक्ति"
+      ],
+      "answer": 1,
+      "explanation": "Schemas are building blocks of knowledge and mental frameworks used to interpret the world. / स्कीमा सूचनाओं के संगठित पैकेट या मानसिक ढाँचे होते हैं जो व्यक्ति के दिमाग में दुनिया को समझने के लिए बनते हैं।"
+    }
+  ]
+}
