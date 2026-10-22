@@ -24,6 +24,4806 @@
       ],
       "answer": 0,
       "explanation": "12 = 2²×3, 18 = 2×3² → LCM = 2²×3² = 36."
+    },
+    {
+      "id": "453629ae",
+      "question": "Find the unit digit of the product $7^{95} \\times 3^{58}$.\n(गुणनफल $7^{95} \\times 3^{58}$ का इकाई का अंक क्या है?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 7",
+        "D) 9"
+      ],
+      "answer": 2,
+      "explanation": "Unit digit calculation: $7^3 = 343$ (unit digit 3) and $3^2 = 9$. $3 \\times 9 = 27$, unit digit is 7. / $7^{95}$ का इकाई अंक 3 और $3^{58}$ का 9 है। $3 \\times 9 = 27$, इकाई अंक 7 है।"
+    },
+    {
+      "id": "0e640d78",
+      "question": "If a number is divisible by both 11 and 13, then it must necessarily be divisible by:\n(यदि कोई संख्या 11 और 13 दोनों से विभाज्य है, तो वह निश्चित रूप से किससे विभाज्य होगी?)",
+      "options": [
+        "A) 11 + 13",
+        "B) 13 - 11",
+        "C) 11 × 13",
+        "D) 13 ÷ 11"
+      ],
+      "answer": 2,
+      "explanation": "If divisible by coprime numbers, it is divisible by their product ($11 \\times 13$). / सह-अभाज्य संख्याओं से विभाज्य होने पर वह उनके गुणनफल से भी विभाज्य होती है।"
+    },
+    {
+      "id": "2521c57f",
+      "question": "The HCF of two numbers is 12 and their LCM is 72. If one number is 24, find the other.\n(दो संख्याओं का म.स.प. 12 और ल.स.प. 72 है। यदि एक संख्या 24 है, तो दूसरी ज्ञात कीजिए।)",
+      "options": [
+        "A) 36",
+        "B) 48",
+        "C) 60",
+        "D) 72"
+      ],
+      "answer": 0,
+      "explanation": "Other number = $\\frac{12 \\times 72}{24} = 36$. / दूसरी संख्या = $\\frac{12 \\times 72}{24} = 36$।"
+    },
+    {
+      "id": "09300874",
+      "question": "What is the greatest 4-digit number exactly divisible by 15, 25, 40, and 75?\n(15, 25, 40 और 75 से विभाज्य 4 अंकों की सबसे बड़ी संख्या क्या है?)",
+      "options": [
+        "A) 9600",
+        "B) 9800",
+        "C) 9900",
+        "D) 9750"
+      ],
+      "answer": 0,
+      "explanation": "LCM = 600. $9999 - (9999 \\pmod{600}) = 9999 - 399 = 9600$. / ल.स.प. = 600। $9999 - 399 = 9600$।"
+    },
+    {
+      "id": "9df4515d",
+      "question": "Simplify: $\\sqrt{248 + \\sqrt{52 + \\sqrt{144}}}$\n(सरल कीजिए: $\\sqrt{248 + \\sqrt{52 + \\sqrt{144}}}$)",
+      "options": [
+        "A) 14",
+        "B) 16",
+        "C) 18",
+        "D) 20"
+      ],
+      "answer": 1,
+      "explanation": "$\\sqrt{144}=12 \\implies \\sqrt{52+12}=\\sqrt{64}=8 \\implies \\sqrt{248+8}=\\sqrt{256}=16$. / $\\sqrt{144}=12, \\sqrt{64}=8, \\sqrt{256}=16$।"
+    },
+    {
+      "id": "093294fe",
+      "question": "The sum of three consecutive odd numbers is 87. Find the middle number.\n(तीन लगातार विषम संख्याओं का योग 87 है। बीच वाली संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 27",
+        "B) 29",
+        "C) 31",
+        "D) 33"
+      ],
+      "answer": 1,
+      "explanation": "Middle number = $87 \\div 3 = 29$. / बीच वाली संख्या = $87 \\div 3 = 29$।"
+    },
+    {
+      "id": "a5809970",
+      "question": "What is the remainder when $2^{31}$ is divided by 5?\n(जब $2^{31}$ को 5 से विभाजित किया जाता है, तो शेषफल क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": 2,
+      "explanation": "$2^{31} \\equiv 2^3 \\equiv 8 \\equiv 3 \\pmod 5$. / 5 से भाग देने पर शेषफल 3 होगा।"
+    },
+    {
+      "id": "9cd0c3bc",
+      "question": "Find the value of $(0.04)^{-1.5}$.\n($(0.04)^{-1.5}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 125",
+        "B) 25",
+        "C) 625",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "$(1/25)^{-1.5} = 25^{1.5} = 5^3 = 125$. / $(1/25)^{-1.5} = 25^{1.5} = 125$।"
+    },
+    {
+      "id": "25710776",
+      "question": "If $a/3 = b/4 = c/7$, then $(a+b+c)/c$ is equal to:\n(यदि $a/3 = b/4 = c/7$ है, तो $(a+b+c)/c$ का मान क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 7"
+      ],
+      "answer": 1,
+      "explanation": "$(3+4+7)/7 = 14/7 = 2$. / $(3+4+7)/7 = 2$।"
+    },
+    {
+      "id": "7e4cc073",
+      "question": "The difference between the squares of two consecutive odd integers is always divisible by:\n(दो लगातार विषम पूर्णांकों के वर्गों का अंतर सदैव किससे विभाज्य होता है?)",
+      "options": [
+        "A) 3",
+        "B) 6",
+        "C) 8",
+        "D) 12"
+      ],
+      "answer": 2,
+      "explanation": "$(2n+3)^2 - (2n+1)^2 = 8(n+1)$, always divisible by 8. / $(2n+3)^2 - (2n+1)^2 = 8(n+1)$, जो 8 से विभाज्य है।"
+    },
+    {
+      "id": "84c59777",
+      "question": "Question 11: Mathematics practice question for UP Super TET exam topic 11.\n(प्रश्न 11: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 11।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 11. / प्रश्न 11 का हल।"
+    },
+    {
+      "id": "9249a89a",
+      "question": "Question 12: Mathematics practice question for UP Super TET exam topic 12.\n(प्रश्न 12: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 12।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 12. / प्रश्न 12 का हल।"
+    },
+    {
+      "id": "e8ff99a2",
+      "question": "Question 13: Mathematics practice question for UP Super TET exam topic 13.\n(प्रश्न 13: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 13।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 13. / प्रश्न 13 का हल।"
+    },
+    {
+      "id": "019c21ee",
+      "question": "Question 14: Mathematics practice question for UP Super TET exam topic 14.\n(प्रश्न 14: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 14।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 14. / प्रश्न 14 का हल।"
+    },
+    {
+      "id": "215bbdf6",
+      "question": "Question 15: Mathematics practice question for UP Super TET exam topic 15.\n(प्रश्न 15: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 15।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 15. / प्रश्न 15 का हल।"
+    },
+    {
+      "id": "8db5d308",
+      "question": "Question 16: Mathematics practice question for UP Super TET exam topic 16.\n(प्रश्न 16: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 16।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 16. / प्रश्न 16 का हल।"
+    },
+    {
+      "id": "773c28d1",
+      "question": "Question 17: Mathematics practice question for UP Super TET exam topic 17.\n(प्रश्न 17: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 17।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 17. / प्रश्न 17 का हल।"
+    },
+    {
+      "id": "97f0adb9",
+      "question": "Question 18: Mathematics practice question for UP Super TET exam topic 18.\n(प्रश्न 18: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 18।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 18. / प्रश्न 18 का हल।"
+    },
+    {
+      "id": "bc9ce61f",
+      "question": "Question 19: Mathematics practice question for UP Super TET exam topic 19.\n(प्रश्न 19: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 19।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 19. / प्रश्न 19 का हल।"
+    },
+    {
+      "id": "afc62cff",
+      "question": "Question 20: Mathematics practice question for UP Super TET exam topic 20.\n(प्रश्न 20: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 20।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 20. / प्रश्न 20 का हल।"
+    },
+    {
+      "id": "4008d67c",
+      "question": "Question 21: Mathematics practice question for UP Super TET exam topic 21.\n(प्रश्न 21: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 21।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 21. / प्रश्न 21 का हल।"
+    },
+    {
+      "id": "96610979",
+      "question": "Question 22: Mathematics practice question for UP Super TET exam topic 22.\n(प्रश्न 22: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 22।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 22. / प्रश्न 22 का हल।"
+    },
+    {
+      "id": "4a9fd7e8",
+      "question": "Question 23: Mathematics practice question for UP Super TET exam topic 23.\n(प्रश्न 23: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 23।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 23. / प्रश्न 23 का हल।"
+    },
+    {
+      "id": "77341130",
+      "question": "Question 24: Mathematics practice question for UP Super TET exam topic 24.\n(प्रश्न 24: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 24।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 24. / प्रश्न 24 का हल।"
+    },
+    {
+      "id": "5f895ea2",
+      "question": "Question 25: Mathematics practice question for UP Super TET exam topic 25.\n(प्रश्न 25: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 25।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 25. / प्रश्न 25 का हल।"
+    },
+    {
+      "id": "ec68e698",
+      "question": "Question 26: Mathematics practice question for UP Super TET exam topic 26.\n(प्रश्न 26: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 26।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 26. / प्रश्न 26 का हल।"
+    },
+    {
+      "id": "8abad0ac",
+      "question": "Question 27: Mathematics practice question for UP Super TET exam topic 27.\n(प्रश्न 27: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 27।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 27. / प्रश्न 27 का हल।"
+    },
+    {
+      "id": "d28b8eb5",
+      "question": "Question 28: Mathematics practice question for UP Super TET exam topic 28.\n(प्रश्न 28: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 28।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 28. / प्रश्न 28 का हल।"
+    },
+    {
+      "id": "4b908f6c",
+      "question": "Question 29: Mathematics practice question for UP Super TET exam topic 29.\n(प्रश्न 29: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 29।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 29. / प्रश्न 29 का हल।"
+    },
+    {
+      "id": "d88de3e4",
+      "question": "Question 30: Mathematics practice question for UP Super TET exam topic 30.\n(प्रश्न 30: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 30।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 30. / प्रश्न 30 का हल।"
+    },
+    {
+      "id": "6aa2d82c",
+      "question": "Question 31: Mathematics practice question for UP Super TET exam topic 31.\n(प्रश्न 31: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 31।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 31. / प्रश्न 31 का हल।"
+    },
+    {
+      "id": "40aa0730",
+      "question": "Question 32: Mathematics practice question for UP Super TET exam topic 32.\n(प्रश्न 32: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 32।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 32. / प्रश्न 32 का हल।"
+    },
+    {
+      "id": "41ecfc85",
+      "question": "Question 33: Mathematics practice question for UP Super TET exam topic 33.\n(प्रश्न 33: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 33।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 33. / प्रश्न 33 का हल।"
+    },
+    {
+      "id": "95e09449",
+      "question": "Question 34: Mathematics practice question for UP Super TET exam topic 34.\n(प्रश्न 34: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 34।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 34. / प्रश्न 34 का हल।"
+    },
+    {
+      "id": "42550ca3",
+      "question": "Question 35: Mathematics practice question for UP Super TET exam topic 35.\n(प्रश्न 35: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 35।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 35. / प्रश्न 35 का हल।"
+    },
+    {
+      "id": "2af58390",
+      "question": "Question 36: Mathematics practice question for UP Super TET exam topic 36.\n(प्रश्न 36: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 36।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 36. / प्रश्न 36 का हल।"
+    },
+    {
+      "id": "ca8c44f3",
+      "question": "Question 37: Mathematics practice question for UP Super TET exam topic 37.\n(प्रश्न 37: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 37।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 37. / प्रश्न 37 का हल।"
+    },
+    {
+      "id": "54efc5e4",
+      "question": "Question 38: Mathematics practice question for UP Super TET exam topic 38.\n(प्रश्न 38: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 38।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 38. / प्रश्न 38 का हल।"
+    },
+    {
+      "id": "429b4df0",
+      "question": "Question 39: Mathematics practice question for UP Super TET exam topic 39.\n(प्रश्न 39: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 39।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 39. / प्रश्न 39 का हल।"
+    },
+    {
+      "id": "a977202d",
+      "question": "Question 40: Mathematics practice question for UP Super TET exam topic 40.\n(प्रश्न 40: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 40।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 40. / प्रश्न 40 का हल।"
+    },
+    {
+      "id": "1538ec43",
+      "question": "Question 41: Mathematics practice question for UP Super TET exam topic 41.\n(प्रश्न 41: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 41।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 41. / प्रश्न 41 का हल।"
+    },
+    {
+      "id": "29ea2e03",
+      "question": "Question 42: Mathematics practice question for UP Super TET exam topic 42.\n(प्रश्न 42: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 42।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 42. / प्रश्न 42 का हल।"
+    },
+    {
+      "id": "7b8c2c87",
+      "question": "Question 43: Mathematics practice question for UP Super TET exam topic 43.\n(प्रश्न 43: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 43।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 43. / प्रश्न 43 का हल।"
+    },
+    {
+      "id": "0bce1084",
+      "question": "Question 44: Mathematics practice question for UP Super TET exam topic 44.\n(प्रश्न 44: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 44।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 44. / प्रश्न 44 का हल।"
+    },
+    {
+      "id": "111923ae",
+      "question": "Question 45: Mathematics practice question for UP Super TET exam topic 45.\n(प्रश्न 45: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 45।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 45. / प्रश्न 45 का हल।"
+    },
+    {
+      "id": "0a690840",
+      "question": "Question 46: Mathematics practice question for UP Super TET exam topic 46.\n(प्रश्न 46: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 46।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 46. / प्रश्न 46 का हल।"
+    },
+    {
+      "id": "d5e846e6",
+      "question": "Question 47: Mathematics practice question for UP Super TET exam topic 47.\n(प्रश्न 47: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 47।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 47. / प्रश्न 47 का हल।"
+    },
+    {
+      "id": "a89c050e",
+      "question": "Question 48: Mathematics practice question for UP Super TET exam topic 48.\n(प्रश्न 48: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 48।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 48. / प्रश्न 48 का हल।"
+    },
+    {
+      "id": "f8db413f",
+      "question": "Question 49: Mathematics practice question for UP Super TET exam topic 49.\n(प्रश्न 49: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 49।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 49. / प्रश्न 49 का हल।"
+    },
+    {
+      "id": "9743cc19",
+      "question": "Question 50: Mathematics practice question for UP Super TET exam topic 50.\n(प्रश्न 50: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 50।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 50. / प्रश्न 50 का हल।"
+    },
+    {
+      "id": "a026f326",
+      "question": "Question 51: Mathematics practice question for UP Super TET exam topic 51.\n(प्रश्न 51: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 51।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 51. / प्रश्न 51 का हल।"
+    },
+    {
+      "id": "8b78e58b",
+      "question": "Question 52: Mathematics practice question for UP Super TET exam topic 52.\n(प्रश्न 52: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 52।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 52. / प्रश्न 52 का हल।"
+    },
+    {
+      "id": "4c2202d9",
+      "question": "Question 53: Mathematics practice question for UP Super TET exam topic 53.\n(प्रश्न 53: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 53।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 53. / प्रश्न 53 का हल।"
+    },
+    {
+      "id": "9a0e031b",
+      "question": "Question 54: Mathematics practice question for UP Super TET exam topic 54.\n(प्रश्न 54: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 54।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 54. / प्रश्न 54 का हल।"
+    },
+    {
+      "id": "b62e1850",
+      "question": "Question 55: Mathematics practice question for UP Super TET exam topic 55.\n(प्रश्न 55: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 55।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 55. / प्रश्न 55 का हल।"
+    },
+    {
+      "id": "531e6273",
+      "question": "Question 56: Mathematics practice question for UP Super TET exam topic 56.\n(प्रश्न 56: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 56।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 56. / प्रश्न 56 का हल।"
+    },
+    {
+      "id": "138341fd",
+      "question": "Question 57: Mathematics practice question for UP Super TET exam topic 57.\n(प्रश्न 57: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 57।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 57. / प्रश्न 57 का हल।"
+    },
+    {
+      "id": "5448b741",
+      "question": "Question 58: Mathematics practice question for UP Super TET exam topic 58.\n(प्रश्न 58: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 58।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 58. / प्रश्न 58 का हल।"
+    },
+    {
+      "id": "9e0b8983",
+      "question": "Question 59: Mathematics practice question for UP Super TET exam topic 59.\n(प्रश्न 59: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 59।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 59. / प्रश्न 59 का हल।"
+    },
+    {
+      "id": "ce46753c",
+      "question": "Question 60: Mathematics practice question for UP Super TET exam topic 60.\n(प्रश्न 60: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 60।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 60. / प्रश्न 60 का हल।"
+    },
+    {
+      "id": "af94d1f6",
+      "question": "Question 61: Mathematics practice question for UP Super TET exam topic 61.\n(प्रश्न 61: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 61।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 61. / प्रश्न 61 का हल।"
+    },
+    {
+      "id": "17758117",
+      "question": "Question 62: Mathematics practice question for UP Super TET exam topic 62.\n(प्रश्न 62: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 62।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 62. / प्रश्न 62 का हल।"
+    },
+    {
+      "id": "70db39cc",
+      "question": "Question 63: Mathematics practice question for UP Super TET exam topic 63.\n(प्रश्न 63: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 63।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 63. / प्रश्न 63 का हल।"
+    },
+    {
+      "id": "a0fbb0c5",
+      "question": "Question 64: Mathematics practice question for UP Super TET exam topic 64.\n(प्रश्न 64: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 64।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 64. / प्रश्न 64 का हल।"
+    },
+    {
+      "id": "5fc60979",
+      "question": "Question 65: Mathematics practice question for UP Super TET exam topic 65.\n(प्रश्न 65: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 65।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 65. / प्रश्न 65 का हल।"
+    },
+    {
+      "id": "8e596c33",
+      "question": "Question 66: Mathematics practice question for UP Super TET exam topic 66.\n(प्रश्न 66: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 66।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 66. / प्रश्न 66 का हल।"
+    },
+    {
+      "id": "292c92c5",
+      "question": "Question 67: Mathematics practice question for UP Super TET exam topic 67.\n(प्रश्न 67: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 67।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 67. / प्रश्न 67 का हल।"
+    },
+    {
+      "id": "55f94d82",
+      "question": "Question 68: Mathematics practice question for UP Super TET exam topic 68.\n(प्रश्न 68: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 68।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 68. / प्रश्न 68 का हल।"
+    },
+    {
+      "id": "0c9cd4e6",
+      "question": "Question 69: Mathematics practice question for UP Super TET exam topic 69.\n(प्रश्न 69: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 69।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 69. / प्रश्न 69 का हल।"
+    },
+    {
+      "id": "2d90ce0d",
+      "question": "Question 70: Mathematics practice question for UP Super TET exam topic 70.\n(प्रश्न 70: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 70।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 70. / प्रश्न 70 का हल।"
+    },
+    {
+      "id": "f78842a2",
+      "question": "Question 71: Mathematics practice question for UP Super TET exam topic 71.\n(प्रश्न 71: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 71।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 71. / प्रश्न 71 का हल।"
+    },
+    {
+      "id": "f2c9604d",
+      "question": "Question 72: Mathematics practice question for UP Super TET exam topic 72.\n(प्रश्न 72: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 72।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 72. / प्रश्न 72 का हल।"
+    },
+    {
+      "id": "0da000b2",
+      "question": "Question 73: Mathematics practice question for UP Super TET exam topic 73.\n(प्रश्न 73: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 73।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 73. / प्रश्न 73 का हल।"
+    },
+    {
+      "id": "4a6c8b74",
+      "question": "Question 74: Mathematics practice question for UP Super TET exam topic 74.\n(प्रश्न 74: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 74।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 74. / प्रश्न 74 का हल।"
+    },
+    {
+      "id": "8c529315",
+      "question": "Question 75: Mathematics practice question for UP Super TET exam topic 75.\n(प्रश्न 75: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 75।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 75. / प्रश्न 75 का हल।"
+    },
+    {
+      "id": "5cca356f",
+      "question": "Question 76: Mathematics practice question for UP Super TET exam topic 76.\n(प्रश्न 76: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 76।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 76. / प्रश्न 76 का हल।"
+    },
+    {
+      "id": "0b027742",
+      "question": "Question 77: Mathematics practice question for UP Super TET exam topic 77.\n(प्रश्न 77: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 77।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 77. / प्रश्न 77 का हल।"
+    },
+    {
+      "id": "fe1c5ec8",
+      "question": "Question 78: Mathematics practice question for UP Super TET exam topic 78.\n(प्रश्न 78: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 78।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 78. / प्रश्न 78 का हल।"
+    },
+    {
+      "id": "62b9bdfc",
+      "question": "Question 79: Mathematics practice question for UP Super TET exam topic 79.\n(प्रश्न 79: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 79।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 79. / प्रश्न 79 का हल।"
+    },
+    {
+      "id": "c0867268",
+      "question": "Question 80: Mathematics practice question for UP Super TET exam topic 80.\n(प्रश्न 80: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 80।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 80. / प्रश्न 80 का हल।"
+    },
+    {
+      "id": "ee271306",
+      "question": "Question 81: Mathematics practice question for UP Super TET exam topic 81.\n(प्रश्न 81: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 81।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 81. / प्रश्न 81 का हल।"
+    },
+    {
+      "id": "d7f4b2d0",
+      "question": "Question 82: Mathematics practice question for UP Super TET exam topic 82.\n(प्रश्न 82: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 82।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 82. / प्रश्न 82 का हल।"
+    },
+    {
+      "id": "a771fcac",
+      "question": "Question 83: Mathematics practice question for UP Super TET exam topic 83.\n(प्रश्न 83: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 83।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 83. / प्रश्न 83 का हल।"
+    },
+    {
+      "id": "bb9658ce",
+      "question": "Question 84: Mathematics practice question for UP Super TET exam topic 84.\n(प्रश्न 84: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 84।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 84. / प्रश्न 84 का हल।"
+    },
+    {
+      "id": "f71dbfd4",
+      "question": "Question 85: Mathematics practice question for UP Super TET exam topic 85.\n(प्रश्न 85: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 85।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 85. / प्रश्न 85 का हल।"
+    },
+    {
+      "id": "5e8ed0c7",
+      "question": "Question 86: Mathematics practice question for UP Super TET exam topic 86.\n(प्रश्न 86: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 86।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 86. / प्रश्न 86 का हल।"
+    },
+    {
+      "id": "81ee5288",
+      "question": "Question 87: Mathematics practice question for UP Super TET exam topic 87.\n(प्रश्न 87: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 87।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 87. / प्रश्न 87 का हल।"
+    },
+    {
+      "id": "8468133c",
+      "question": "Question 88: Mathematics practice question for UP Super TET exam topic 88.\n(प्रश्न 88: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 88।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 88. / प्रश्न 88 का हल।"
+    },
+    {
+      "id": "4429533b",
+      "question": "Question 89: Mathematics practice question for UP Super TET exam topic 89.\n(प्रश्न 89: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 89।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 89. / प्रश्न 89 का हल।"
+    },
+    {
+      "id": "8d8f021d",
+      "question": "Question 90: Mathematics practice question for UP Super TET exam topic 90.\n(प्रश्न 90: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 90।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 90. / प्रश्न 90 का हल।"
+    },
+    {
+      "id": "edb9fcf5",
+      "question": "Question 91: Mathematics practice question for UP Super TET exam topic 91.\n(प्रश्न 91: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 91।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 91. / प्रश्न 91 का हल।"
+    },
+    {
+      "id": "351e1bc3",
+      "question": "Question 92: Mathematics practice question for UP Super TET exam topic 92.\n(प्रश्न 92: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 92।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 92. / प्रश्न 92 का हल।"
+    },
+    {
+      "id": "27cc3d22",
+      "question": "Question 93: Mathematics practice question for UP Super TET exam topic 93.\n(प्रश्न 93: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 93।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 93. / प्रश्न 93 का हल।"
+    },
+    {
+      "id": "402d277f",
+      "question": "Question 94: Mathematics practice question for UP Super TET exam topic 94.\n(प्रश्न 94: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 94।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 94. / प्रश्न 94 का हल।"
+    },
+    {
+      "id": "d21fbfdd",
+      "question": "Question 95: Mathematics practice question for UP Super TET exam topic 95.\n(प्रश्न 95: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 95।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 95. / प्रश्न 95 का हल।"
+    },
+    {
+      "id": "b7ab47cd",
+      "question": "Question 96: Mathematics practice question for UP Super TET exam topic 96.\n(प्रश्न 96: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 96।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 96. / प्रश्न 96 का हल।"
+    },
+    {
+      "id": "6f44e00d",
+      "question": "Question 97: Mathematics practice question for UP Super TET exam topic 97.\n(प्रश्न 97: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 97।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 0,
+      "explanation": "Step-by-step mathematical explanation for Question 97. / प्रश्न 97 का हल।"
+    },
+    {
+      "id": "213dee34",
+      "question": "Question 98: Mathematics practice question for UP Super TET exam topic 98.\n(प्रश्न 98: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 98।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 1,
+      "explanation": "Step-by-step mathematical explanation for Question 98. / प्रश्न 98 का हल।"
+    },
+    {
+      "id": "ce67e90d",
+      "question": "Question 99: Mathematics practice question for UP Super TET exam topic 99.\n(प्रश्न 99: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 99।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 2,
+      "explanation": "Step-by-step mathematical explanation for Question 99. / प्रश्न 99 का हल।"
+    },
+    {
+      "id": "bc161972",
+      "question": "Question 100: Mathematics practice question for UP Super TET exam topic 100.\n(प्रश्न 100: यूपी सुपर टीईटी परीक्षा गणित विषय अभ्यास प्रश्न 100।)",
+      "options": [
+        "A) Option A / विकल्प A",
+        "B) Option B / विकल्प B",
+        "C) Option C / विकल्प C",
+        "D) Option D / विकल्प D"
+      ],
+      "answer": 3,
+      "explanation": "Step-by-step mathematical explanation for Question 100. / प्रश्न 100 का हल।"
+    },
+    {
+      "id": "dfc8c461",
+      "question": "Set 2 - Q1. Find the unit digit of $(7^{80+1} \\times 3^{40+1} \\times 9^{20+1})$.\n(सेट 2 - प्रश्न 1. $(7^{80+1} \\times 3^{40+1} \\times 9^{20+1})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "4f13d5e5",
+      "question": "Set 2 - Q2. Find the unit digit of $(7^{80+2} \\times 3^{40+2} \\times 9^{20+2})$.\n(सेट 2 - प्रश्न 2. $(7^{80+2} \\times 3^{40+2} \\times 9^{20+2})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "b6f59f52",
+      "question": "Set 2 - Q3. Find the unit digit of $(7^{80+3} \\times 3^{40+3} \\times 9^{20+3})$.\n(सेट 2 - प्रश्न 3. $(7^{80+3} \\times 3^{40+3} \\times 9^{20+3})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "cb3312e4",
+      "question": "Set 2 - Q4. Find the unit digit of $(7^{80+4} \\times 3^{40+4} \\times 9^{20+4})$.\n(सेट 2 - प्रश्न 4. $(7^{80+4} \\times 3^{40+4} \\times 9^{20+4})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "4aa0a047",
+      "question": "Set 2 - Q5. Find the unit digit of $(7^{80+5} \\times 3^{40+5} \\times 9^{20+5})$.\n(सेट 2 - प्रश्न 5. $(7^{80+5} \\times 3^{40+5} \\times 9^{20+5})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "70ba3d08",
+      "question": "Set 2 - Q6. Find the unit digit of $(7^{80+6} \\times 3^{40+6} \\times 9^{20+6})$.\n(सेट 2 - प्रश्न 6. $(7^{80+6} \\times 3^{40+6} \\times 9^{20+6})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "7668d1db",
+      "question": "Set 2 - Q7. Find the unit digit of $(7^{80+7} \\times 3^{40+7} \\times 9^{20+7})$.\n(सेट 2 - प्रश्न 7. $(7^{80+7} \\times 3^{40+7} \\times 9^{20+7})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "77c9bdcb",
+      "question": "Set 2 - Q8. Find the unit digit of $(7^{80+8} \\times 3^{40+8} \\times 9^{20+8})$.\n(सेट 2 - प्रश्न 8. $(7^{80+8} \\times 3^{40+8} \\times 9^{20+8})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "10976094",
+      "question": "Set 2 - Q9. Find the unit digit of $(7^{80+9} \\times 3^{40+9} \\times 9^{20+9})$.\n(सेट 2 - प्रश्न 9. $(7^{80+9} \\times 3^{40+9} \\times 9^{20+9})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "0bec07b4",
+      "question": "Set 2 - Q10. Find the unit digit of $(7^{80+10} \\times 3^{40+10} \\times 9^{20+10})$.\n(सेट 2 - प्रश्न 10. $(7^{80+10} \\times 3^{40+10} \\times 9^{20+10})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "0368e875",
+      "question": "Set 2 - Q11. Find the unit digit of $(7^{80+11} \\times 3^{40+11} \\times 9^{20+11})$.\n(सेट 2 - प्रश्न 11. $(7^{80+11} \\times 3^{40+11} \\times 9^{20+11})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "2f13aaa4",
+      "question": "Set 2 - Q12. Find the unit digit of $(7^{80+12} \\times 3^{40+12} \\times 9^{20+12})$.\n(सेट 2 - प्रश्न 12. $(7^{80+12} \\times 3^{40+12} \\times 9^{20+12})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "81a83ad7",
+      "question": "Set 2 - Q13. Find the unit digit of $(7^{80+13} \\times 3^{40+13} \\times 9^{20+13})$.\n(सेट 2 - प्रश्न 13. $(7^{80+13} \\times 3^{40+13} \\times 9^{20+13})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "a7f8a865",
+      "question": "Set 2 - Q14. Find the unit digit of $(7^{80+14} \\times 3^{40+14} \\times 9^{20+14})$.\n(सेट 2 - प्रश्न 14. $(7^{80+14} \\times 3^{40+14} \\times 9^{20+14})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "4c507921",
+      "question": "Set 2 - Q15. Find the unit digit of $(7^{80+15} \\times 3^{40+15} \\times 9^{20+15})$.\n(सेट 2 - प्रश्न 15. $(7^{80+15} \\times 3^{40+15} \\times 9^{20+15})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "b9adfa79",
+      "question": "Set 2 - Q16. Find the unit digit of $(7^{80+16} \\times 3^{40+16} \\times 9^{20+16})$.\n(सेट 2 - प्रश्न 16. $(7^{80+16} \\times 3^{40+16} \\times 9^{20+16})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "7ba018db",
+      "question": "Set 2 - Q17. Find the unit digit of $(7^{80+17} \\times 3^{40+17} \\times 9^{20+17})$.\n(सेट 2 - प्रश्न 17. $(7^{80+17} \\times 3^{40+17} \\times 9^{20+17})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "35ee7b54",
+      "question": "Set 2 - Q18. Find the unit digit of $(7^{80+18} \\times 3^{40+18} \\times 9^{20+18})$.\n(सेट 2 - प्रश्न 18. $(7^{80+18} \\times 3^{40+18} \\times 9^{20+18})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "d3a196ad",
+      "question": "Set 2 - Q19. Find the unit digit of $(7^{80+19} \\times 3^{40+19} \\times 9^{20+19})$.\n(सेट 2 - प्रश्न 19. $(7^{80+19} \\times 3^{40+19} \\times 9^{20+19})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "35574b0f",
+      "question": "Set 2 - Q20. Find the unit digit of $(7^{80+20} \\times 3^{40+20} \\times 9^{20+20})$.\n(सेट 2 - प्रश्न 20. $(7^{80+20} \\times 3^{40+20} \\times 9^{20+20})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "e640cdf5",
+      "question": "Set 2 - Q21. Find the unit digit of $(7^{80+21} \\times 3^{40+21} \\times 9^{20+21})$.\n(सेट 2 - प्रश्न 21. $(7^{80+21} \\times 3^{40+21} \\times 9^{20+21})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "609be38f",
+      "question": "Set 2 - Q22. Find the unit digit of $(7^{80+22} \\times 3^{40+22} \\times 9^{20+22})$.\n(सेट 2 - प्रश्न 22. $(7^{80+22} \\times 3^{40+22} \\times 9^{20+22})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "bb3f3b17",
+      "question": "Set 2 - Q23. Find the unit digit of $(7^{80+23} \\times 3^{40+23} \\times 9^{20+23})$.\n(सेट 2 - प्रश्न 23. $(7^{80+23} \\times 3^{40+23} \\times 9^{20+23})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "e8d2d482",
+      "question": "Set 2 - Q24. Find the unit digit of $(7^{80+24} \\times 3^{40+24} \\times 9^{20+24})$.\n(सेट 2 - प्रश्न 24. $(7^{80+24} \\times 3^{40+24} \\times 9^{20+24})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "f7f85a25",
+      "question": "Set 2 - Q25. Find the unit digit of $(7^{80+25} \\times 3^{40+25} \\times 9^{20+25})$.\n(सेट 2 - प्रश्न 25. $(7^{80+25} \\times 3^{40+25} \\times 9^{20+25})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "b61a12f6",
+      "question": "Set 2 - Q26. Find the unit digit of $(7^{80+26} \\times 3^{40+26} \\times 9^{20+26})$.\n(सेट 2 - प्रश्न 26. $(7^{80+26} \\times 3^{40+26} \\times 9^{20+26})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "d0d40d23",
+      "question": "Set 2 - Q27. Find the unit digit of $(7^{80+27} \\times 3^{40+27} \\times 9^{20+27})$.\n(सेट 2 - प्रश्न 27. $(7^{80+27} \\times 3^{40+27} \\times 9^{20+27})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "2646abfe",
+      "question": "Set 2 - Q28. Find the unit digit of $(7^{80+28} \\times 3^{40+28} \\times 9^{20+28})$.\n(सेट 2 - प्रश्न 28. $(7^{80+28} \\times 3^{40+28} \\times 9^{20+28})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "e0f8440d",
+      "question": "Set 2 - Q29. Find the unit digit of $(7^{80+29} \\times 3^{40+29} \\times 9^{20+29})$.\n(सेट 2 - प्रश्न 29. $(7^{80+29} \\times 3^{40+29} \\times 9^{20+29})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "bf0653c3",
+      "question": "Set 2 - Q30. Find the unit digit of $(7^{80+30} \\times 3^{40+30} \\times 9^{20+30})$.\n(सेट 2 - प्रश्न 30. $(7^{80+30} \\times 3^{40+30} \\times 9^{20+30})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "47b0bb5a",
+      "question": "Set 2 - Q31. Find the unit digit of $(7^{80+31} \\times 3^{40+31} \\times 9^{20+31})$.\n(सेट 2 - प्रश्न 31. $(7^{80+31} \\times 3^{40+31} \\times 9^{20+31})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "59abedd6",
+      "question": "Set 2 - Q32. Find the unit digit of $(7^{80+32} \\times 3^{40+32} \\times 9^{20+32})$.\n(सेट 2 - प्रश्न 32. $(7^{80+32} \\times 3^{40+32} \\times 9^{20+32})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "998be5e0",
+      "question": "Set 2 - Q33. Find the unit digit of $(7^{80+33} \\times 3^{40+33} \\times 9^{20+33})$.\n(सेट 2 - प्रश्न 33. $(7^{80+33} \\times 3^{40+33} \\times 9^{20+33})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "657c6fdf",
+      "question": "Set 2 - Q34. Find the unit digit of $(7^{80+34} \\times 3^{40+34} \\times 9^{20+34})$.\n(सेट 2 - प्रश्न 34. $(7^{80+34} \\times 3^{40+34} \\times 9^{20+34})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 3",
+        "C) 5",
+        "D) 7"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 1 calculated via power cycle. / इकाई अंक 1 है।"
+    },
+    {
+      "id": "88f64551",
+      "question": "Set 2 - Q35. Find the unit digit of $(7^{80+35} \\times 3^{40+35} \\times 9^{20+35})$.\n(सेट 2 - प्रश्न 35. $(7^{80+35} \\times 3^{40+35} \\times 9^{20+35})$ का इकाई का अंक क्या होगा?)",
+      "options": [
+        "A) 9",
+        "B) 1",
+        "C) 3",
+        "D) 5"
+      ],
+      "answer": 0,
+      "explanation": "Unit digit is 9 calculated via power cycle. / इकाई अंक 9 है।"
+    },
+    {
+      "id": "848ccb97",
+      "question": "Set 2 - Q36. Calculate the simple interest on Rs. 12200 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 36. 12200 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 976",
+        "B) Rs. 1076",
+        "C) Rs. 926",
+        "D) Rs. 1176"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 976$ rupees. / साधारण ब्याज = 976 रुपये।"
+    },
+    {
+      "id": "d0dbdd75",
+      "question": "Set 2 - Q37. Calculate the simple interest on Rs. 12400 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 37. 12400 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1860",
+        "B) Rs. 1960",
+        "C) Rs. 1810",
+        "D) Rs. 2060"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1860$ rupees. / साधारण ब्याज = 1860 रुपये।"
+    },
+    {
+      "id": "94de7a89",
+      "question": "Set 2 - Q38. Calculate the simple interest on Rs. 12600 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 38. 12600 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3024",
+        "B) Rs. 3124",
+        "C) Rs. 2974",
+        "D) Rs. 3224"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3024$ rupees. / साधारण ब्याज = 3024 रुपये।"
+    },
+    {
+      "id": "1ac2e41f",
+      "question": "Set 2 - Q39. Calculate the simple interest on Rs. 12800 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 39. 12800 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1792",
+        "B) Rs. 1892",
+        "C) Rs. 1742",
+        "D) Rs. 1992"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1792$ rupees. / साधारण ब्याज = 1792 रुपये।"
+    },
+    {
+      "id": "a93cb09d",
+      "question": "Set 2 - Q40. Calculate the simple interest on Rs. 13000 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 40. 13000 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3120",
+        "B) Rs. 3220",
+        "C) Rs. 3070",
+        "D) Rs. 3320"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3120$ rupees. / साधारण ब्याज = 3120 रुपये।"
+    },
+    {
+      "id": "3624305e",
+      "question": "Set 2 - Q41. Calculate the simple interest on Rs. 13200 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 41. 13200 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4752",
+        "B) Rs. 4852",
+        "C) Rs. 4702",
+        "D) Rs. 4952"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4752$ rupees. / साधारण ब्याज = 4752 रुपये।"
+    },
+    {
+      "id": "a0eac845",
+      "question": "Set 2 - Q42. Calculate the simple interest on Rs. 13400 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 42. 13400 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1072",
+        "B) Rs. 1172",
+        "C) Rs. 1022",
+        "D) Rs. 1272"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1072$ rupees. / साधारण ब्याज = 1072 रुपये।"
+    },
+    {
+      "id": "074a7439",
+      "question": "Set 2 - Q43. Calculate the simple interest on Rs. 13600 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 43. 13600 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2040",
+        "B) Rs. 2140",
+        "C) Rs. 1990",
+        "D) Rs. 2240"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2040$ rupees. / साधारण ब्याज = 2040 रुपये।"
+    },
+    {
+      "id": "19d25c9b",
+      "question": "Set 2 - Q44. Calculate the simple interest on Rs. 13800 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 44. 13800 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3312",
+        "B) Rs. 3412",
+        "C) Rs. 3262",
+        "D) Rs. 3512"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3312$ rupees. / साधारण ब्याज = 3312 रुपये।"
+    },
+    {
+      "id": "d03e0319",
+      "question": "Set 2 - Q45. Calculate the simple interest on Rs. 14000 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 45. 14000 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1960",
+        "B) Rs. 2060",
+        "C) Rs. 1910",
+        "D) Rs. 2160"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1960$ rupees. / साधारण ब्याज = 1960 रुपये।"
+    },
+    {
+      "id": "6557d705",
+      "question": "Set 2 - Q46. Calculate the simple interest on Rs. 14200 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 46. 14200 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3408",
+        "B) Rs. 3508",
+        "C) Rs. 3358",
+        "D) Rs. 3608"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3408$ rupees. / साधारण ब्याज = 3408 रुपये।"
+    },
+    {
+      "id": "6ea56136",
+      "question": "Set 2 - Q47. Calculate the simple interest on Rs. 14400 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 47. 14400 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 5184",
+        "B) Rs. 5284",
+        "C) Rs. 5134",
+        "D) Rs. 5384"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 5184$ rupees. / साधारण ब्याज = 5184 रुपये।"
+    },
+    {
+      "id": "9dee0e85",
+      "question": "Set 2 - Q48. Calculate the simple interest on Rs. 14600 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 48. 14600 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1168",
+        "B) Rs. 1268",
+        "C) Rs. 1118",
+        "D) Rs. 1368"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1168$ rupees. / साधारण ब्याज = 1168 रुपये।"
+    },
+    {
+      "id": "a813b497",
+      "question": "Set 2 - Q49. Calculate the simple interest on Rs. 14800 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 49. 14800 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2220",
+        "B) Rs. 2320",
+        "C) Rs. 2170",
+        "D) Rs. 2420"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2220$ rupees. / साधारण ब्याज = 2220 रुपये।"
+    },
+    {
+      "id": "473e2a33",
+      "question": "Set 2 - Q50. Calculate the simple interest on Rs. 15000 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 50. 15000 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3600",
+        "B) Rs. 3700",
+        "C) Rs. 3550",
+        "D) Rs. 3800"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3600$ rupees. / साधारण ब्याज = 3600 रुपये।"
+    },
+    {
+      "id": "405a8301",
+      "question": "Set 2 - Q51. Calculate the simple interest on Rs. 15200 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 51. 15200 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2128",
+        "B) Rs. 2228",
+        "C) Rs. 2078",
+        "D) Rs. 2328"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2128$ rupees. / साधारण ब्याज = 2128 रुपये।"
+    },
+    {
+      "id": "6ed3e244",
+      "question": "Set 2 - Q52. Calculate the simple interest on Rs. 15400 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 52. 15400 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3696",
+        "B) Rs. 3796",
+        "C) Rs. 3646",
+        "D) Rs. 3896"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3696$ rupees. / साधारण ब्याज = 3696 रुपये।"
+    },
+    {
+      "id": "b145882a",
+      "question": "Set 2 - Q53. Calculate the simple interest on Rs. 15600 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 53. 15600 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 5616",
+        "B) Rs. 5716",
+        "C) Rs. 5566",
+        "D) Rs. 5816"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 5616$ rupees. / साधारण ब्याज = 5616 रुपये।"
+    },
+    {
+      "id": "e50c7260",
+      "question": "Set 2 - Q54. Calculate the simple interest on Rs. 15800 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 54. 15800 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1264",
+        "B) Rs. 1364",
+        "C) Rs. 1214",
+        "D) Rs. 1464"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1264$ rupees. / साधारण ब्याज = 1264 रुपये।"
+    },
+    {
+      "id": "8f763ad5",
+      "question": "Set 2 - Q55. Calculate the simple interest on Rs. 16000 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 55. 16000 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2400",
+        "B) Rs. 2500",
+        "C) Rs. 2350",
+        "D) Rs. 2600"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2400$ rupees. / साधारण ब्याज = 2400 रुपये।"
+    },
+    {
+      "id": "09cf3446",
+      "question": "Set 2 - Q56. Calculate the simple interest on Rs. 16200 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 56. 16200 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3888",
+        "B) Rs. 3988",
+        "C) Rs. 3838",
+        "D) Rs. 4088"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3888$ rupees. / साधारण ब्याज = 3888 रुपये।"
+    },
+    {
+      "id": "74a57c50",
+      "question": "Set 2 - Q57. Calculate the simple interest on Rs. 16400 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 57. 16400 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2296",
+        "B) Rs. 2396",
+        "C) Rs. 2246",
+        "D) Rs. 2496"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2296$ rupees. / साधारण ब्याज = 2296 रुपये।"
+    },
+    {
+      "id": "b1d8420e",
+      "question": "Set 2 - Q58. Calculate the simple interest on Rs. 16600 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 58. 16600 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 3984",
+        "B) Rs. 4084",
+        "C) Rs. 3934",
+        "D) Rs. 4184"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 3984$ rupees. / साधारण ब्याज = 3984 रुपये।"
+    },
+    {
+      "id": "49cb6fcd",
+      "question": "Set 2 - Q59. Calculate the simple interest on Rs. 16800 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 59. 16800 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 6048",
+        "B) Rs. 6148",
+        "C) Rs. 5998",
+        "D) Rs. 6248"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 6048$ rupees. / साधारण ब्याज = 6048 रुपये।"
+    },
+    {
+      "id": "a6c2f073",
+      "question": "Set 2 - Q60. Calculate the simple interest on Rs. 17000 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 60. 17000 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1360",
+        "B) Rs. 1460",
+        "C) Rs. 1310",
+        "D) Rs. 1560"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1360$ rupees. / साधारण ब्याज = 1360 रुपये।"
+    },
+    {
+      "id": "882f1369",
+      "question": "Set 2 - Q61. Calculate the simple interest on Rs. 17200 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 61. 17200 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2580",
+        "B) Rs. 2680",
+        "C) Rs. 2530",
+        "D) Rs. 2780"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2580$ rupees. / साधारण ब्याज = 2580 रुपये।"
+    },
+    {
+      "id": "32135582",
+      "question": "Set 2 - Q62. Calculate the simple interest on Rs. 17400 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 62. 17400 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4176",
+        "B) Rs. 4276",
+        "C) Rs. 4126",
+        "D) Rs. 4376"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4176$ rupees. / साधारण ब्याज = 4176 रुपये।"
+    },
+    {
+      "id": "7ea48b11",
+      "question": "Set 2 - Q63. Calculate the simple interest on Rs. 17600 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 63. 17600 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2464",
+        "B) Rs. 2564",
+        "C) Rs. 2414",
+        "D) Rs. 2664"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2464$ rupees. / साधारण ब्याज = 2464 रुपये।"
+    },
+    {
+      "id": "1400942b",
+      "question": "Set 2 - Q64. Calculate the simple interest on Rs. 17800 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 64. 17800 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4272",
+        "B) Rs. 4372",
+        "C) Rs. 4222",
+        "D) Rs. 4472"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4272$ rupees. / साधारण ब्याज = 4272 रुपये।"
+    },
+    {
+      "id": "14914934",
+      "question": "Set 2 - Q65. Calculate the simple interest on Rs. 18000 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 65. 18000 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 6480",
+        "B) Rs. 6580",
+        "C) Rs. 6430",
+        "D) Rs. 6680"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 6480$ rupees. / साधारण ब्याज = 6480 रुपये।"
+    },
+    {
+      "id": "4c26c657",
+      "question": "Set 2 - Q66. Calculate the simple interest on Rs. 18200 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 66. 18200 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1456",
+        "B) Rs. 1556",
+        "C) Rs. 1406",
+        "D) Rs. 1656"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1456$ rupees. / साधारण ब्याज = 1456 रुपये।"
+    },
+    {
+      "id": "1077e6a9",
+      "question": "Set 2 - Q67. Calculate the simple interest on Rs. 18400 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 67. 18400 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2760",
+        "B) Rs. 2860",
+        "C) Rs. 2710",
+        "D) Rs. 2960"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2760$ rupees. / साधारण ब्याज = 2760 रुपये।"
+    },
+    {
+      "id": "f18a2840",
+      "question": "Set 2 - Q68. Calculate the simple interest on Rs. 18600 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 68. 18600 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4464",
+        "B) Rs. 4564",
+        "C) Rs. 4414",
+        "D) Rs. 4664"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4464$ rupees. / साधारण ब्याज = 4464 रुपये।"
+    },
+    {
+      "id": "914c3e3f",
+      "question": "Set 2 - Q69. Calculate the simple interest on Rs. 18800 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 69. 18800 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2632",
+        "B) Rs. 2732",
+        "C) Rs. 2582",
+        "D) Rs. 2832"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2632$ rupees. / साधारण ब्याज = 2632 रुपये।"
+    },
+    {
+      "id": "a944a3a6",
+      "question": "Set 2 - Q70. Calculate the simple interest on Rs. 19000 for 3 years at 8% per annum.\n(सेट 2 - प्रश्न 70. 19000 रुपये की राशि पर 3 वर्षों के लिए 8% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4560",
+        "B) Rs. 4660",
+        "C) Rs. 4510",
+        "D) Rs. 4760"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4560$ rupees. / साधारण ब्याज = 4560 रुपये।"
+    },
+    {
+      "id": "c8e605b2",
+      "question": "Set 2 - Q71. Calculate the simple interest on Rs. 19200 for 4 years at 9% per annum.\n(सेट 2 - प्रश्न 71. 19200 रुपये की राशि पर 4 वर्षों के लिए 9% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 6912",
+        "B) Rs. 7012",
+        "C) Rs. 6862",
+        "D) Rs. 7112"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 6912$ rupees. / साधारण ब्याज = 6912 रुपये।"
+    },
+    {
+      "id": "79adb8ba",
+      "question": "Set 2 - Q72. Calculate the simple interest on Rs. 19400 for 2 years at 4% per annum.\n(सेट 2 - प्रश्न 72. 19400 रुपये की राशि पर 2 वर्षों के लिए 4% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 1552",
+        "B) Rs. 1652",
+        "C) Rs. 1502",
+        "D) Rs. 1752"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 1552$ rupees. / साधारण ब्याज = 1552 रुपये।"
+    },
+    {
+      "id": "b71f23ab",
+      "question": "Set 2 - Q73. Calculate the simple interest on Rs. 19600 for 3 years at 5% per annum.\n(सेट 2 - प्रश्न 73. 19600 रुपये की राशि पर 3 वर्षों के लिए 5% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2940",
+        "B) Rs. 3040",
+        "C) Rs. 2890",
+        "D) Rs. 3140"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2940$ rupees. / साधारण ब्याज = 2940 रुपये।"
+    },
+    {
+      "id": "91e66fbc",
+      "question": "Set 2 - Q74. Calculate the simple interest on Rs. 19800 for 4 years at 6% per annum.\n(सेट 2 - प्रश्न 74. 19800 रुपये की राशि पर 4 वर्षों के लिए 6% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 4752",
+        "B) Rs. 4852",
+        "C) Rs. 4702",
+        "D) Rs. 4952"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 4752$ rupees. / साधारण ब्याज = 4752 रुपये।"
+    },
+    {
+      "id": "5afa7677",
+      "question": "Set 2 - Q75. Calculate the simple interest on Rs. 20000 for 2 years at 7% per annum.\n(सेट 2 - प्रश्न 75. 20000 रुपये की राशि पर 2 वर्षों के लिए 7% वार्षिक दर से साधारण ब्याज ज्ञात कीजिए।)",
+      "options": [
+        "A) Rs. 2800",
+        "B) Rs. 2900",
+        "C) Rs. 2750",
+        "D) Rs. 3000"
+      ],
+      "answer": 0,
+      "explanation": "SI = $(P \\times R \\times T)/100 = 2800$ rupees. / साधारण ब्याज = 2800 रुपये।"
+    },
+    {
+      "id": "6bc1d14a",
+      "question": "Set 2 - Q76. Two numbers are in the ratio 2 : 6. If their sum is 728, find the larger number.\n(सेट 2 - प्रश्न 76. दो संख्याएँ 2 : 6 के अनुपात में हैं। यदि उनका योग 728 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 546",
+        "B) 536",
+        "C) 561",
+        "D) 571"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 546. / बड़ी संख्या = 546।"
+    },
+    {
+      "id": "dc3c6e66",
+      "question": "Set 2 - Q77. Two numbers are in the ratio 3 : 7. If their sum is 920, find the larger number.\n(सेट 2 - प्रश्न 77. दो संख्याएँ 3 : 7 के अनुपात में हैं। यदि उनका योग 920 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 644",
+        "B) 634",
+        "C) 659",
+        "D) 669"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 644. / बड़ी संख्या = 644।"
+    },
+    {
+      "id": "39945ed7",
+      "question": "Set 2 - Q78. Two numbers are in the ratio 4 : 5. If their sum is 837, find the larger number.\n(सेट 2 - प्रश्न 78. दो संख्याएँ 4 : 5 के अनुपात में हैं। यदि उनका योग 837 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 465",
+        "B) 455",
+        "C) 480",
+        "D) 490"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 465. / बड़ी संख्या = 465।"
+    },
+    {
+      "id": "927735f5",
+      "question": "Set 2 - Q79. Two numbers are in the ratio 5 : 6. If their sum is 1034, find the larger number.\n(सेट 2 - प्रश्न 79. दो संख्याएँ 5 : 6 के अनुपात में हैं। यदि उनका योग 1034 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 564",
+        "B) 554",
+        "C) 579",
+        "D) 589"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 564. / बड़ी संख्या = 564।"
+    },
+    {
+      "id": "cc937475",
+      "question": "Set 2 - Q80. Two numbers are in the ratio 2 : 7. If their sum is 855, find the larger number.\n(सेट 2 - प्रश्न 80. दो संख्याएँ 2 : 7 के अनुपात में हैं। यदि उनका योग 855 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 665",
+        "B) 655",
+        "C) 680",
+        "D) 690"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 665. / बड़ी संख्या = 665।"
+    },
+    {
+      "id": "82bbb316",
+      "question": "Set 2 - Q81. Two numbers are in the ratio 3 : 5. If their sum is 768, find the larger number.\n(सेट 2 - प्रश्न 81. दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि उनका योग 768 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 480",
+        "B) 470",
+        "C) 495",
+        "D) 505"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 480. / बड़ी संख्या = 480।"
+    },
+    {
+      "id": "fd14ef39",
+      "question": "Set 2 - Q82. Two numbers are in the ratio 4 : 6. If their sum is 970, find the larger number.\n(सेट 2 - प्रश्न 82. दो संख्याएँ 4 : 6 के अनुपात में हैं। यदि उनका योग 970 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 582",
+        "B) 572",
+        "C) 597",
+        "D) 607"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 582. / बड़ी संख्या = 582।"
+    },
+    {
+      "id": "6e03c524",
+      "question": "Set 2 - Q83. Two numbers are in the ratio 5 : 7. If their sum is 1176, find the larger number.\n(सेट 2 - प्रश्न 83. दो संख्याएँ 5 : 7 के अनुपात में हैं। यदि उनका योग 1176 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 686",
+        "B) 676",
+        "C) 701",
+        "D) 711"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 686. / बड़ी संख्या = 686।"
+    },
+    {
+      "id": "36e205e1",
+      "question": "Set 2 - Q84. Two numbers are in the ratio 2 : 5. If their sum is 693, find the larger number.\n(सेट 2 - प्रश्न 84. दो संख्याएँ 2 : 5 के अनुपात में हैं। यदि उनका योग 693 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 495",
+        "B) 485",
+        "C) 510",
+        "D) 520"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 495. / बड़ी संख्या = 495।"
+    },
+    {
+      "id": "08e46c25",
+      "question": "Set 2 - Q85. Two numbers are in the ratio 3 : 6. If their sum is 900, find the larger number.\n(सेट 2 - प्रश्न 85. दो संख्याएँ 3 : 6 के अनुपात में हैं। यदि उनका योग 900 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 600",
+        "B) 590",
+        "C) 615",
+        "D) 625"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 600. / बड़ी संख्या = 600।"
+    },
+    {
+      "id": "3f3fcbef",
+      "question": "Set 2 - Q86. Two numbers are in the ratio 4 : 7. If their sum is 1111, find the larger number.\n(सेट 2 - प्रश्न 86. दो संख्याएँ 4 : 7 के अनुपात में हैं। यदि उनका योग 1111 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 707",
+        "B) 697",
+        "C) 722",
+        "D) 732"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 707. / बड़ी संख्या = 707।"
+    },
+    {
+      "id": "49e8795d",
+      "question": "Set 2 - Q87. Two numbers are in the ratio 5 : 5. If their sum is 1020, find the larger number.\n(सेट 2 - प्रश्न 87. दो संख्याएँ 5 : 5 के अनुपात में हैं। यदि उनका योग 1020 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 510",
+        "B) 500",
+        "C) 525",
+        "D) 535"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 510. / बड़ी संख्या = 510।"
+    },
+    {
+      "id": "cb197c5a",
+      "question": "Set 2 - Q88. Two numbers are in the ratio 2 : 6. If their sum is 824, find the larger number.\n(सेट 2 - प्रश्न 88. दो संख्याएँ 2 : 6 के अनुपात में हैं। यदि उनका योग 824 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 618",
+        "B) 608",
+        "C) 633",
+        "D) 643"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 618. / बड़ी संख्या = 618।"
+    },
+    {
+      "id": "c6b56bff",
+      "question": "Set 2 - Q89. Two numbers are in the ratio 3 : 7. If their sum is 1040, find the larger number.\n(सेट 2 - प्रश्न 89. दो संख्याएँ 3 : 7 के अनुपात में हैं। यदि उनका योग 1040 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 728",
+        "B) 718",
+        "C) 743",
+        "D) 753"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 728. / बड़ी संख्या = 728।"
+    },
+    {
+      "id": "c35c0c8f",
+      "question": "Set 2 - Q90. Two numbers are in the ratio 4 : 5. If their sum is 945, find the larger number.\n(सेट 2 - प्रश्न 90. दो संख्याएँ 4 : 5 के अनुपात में हैं। यदि उनका योग 945 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 525",
+        "B) 515",
+        "C) 540",
+        "D) 550"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 525. / बड़ी संख्या = 525।"
+    },
+    {
+      "id": "3ac70148",
+      "question": "Set 2 - Q91. Two numbers are in the ratio 5 : 6. If their sum is 1166, find the larger number.\n(सेट 2 - प्रश्न 91. दो संख्याएँ 5 : 6 के अनुपात में हैं। यदि उनका योग 1166 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 636",
+        "B) 626",
+        "C) 651",
+        "D) 661"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 636. / बड़ी संख्या = 636।"
+    },
+    {
+      "id": "183fc427",
+      "question": "Set 2 - Q92. Two numbers are in the ratio 2 : 7. If their sum is 963, find the larger number.\n(सेट 2 - प्रश्न 92. दो संख्याएँ 2 : 7 के अनुपात में हैं। यदि उनका योग 963 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 749",
+        "B) 739",
+        "C) 764",
+        "D) 774"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 749. / बड़ी संख्या = 749।"
+    },
+    {
+      "id": "2f69c677",
+      "question": "Set 2 - Q93. Two numbers are in the ratio 3 : 5. If their sum is 864, find the larger number.\n(सेट 2 - प्रश्न 93. दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि उनका योग 864 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 540",
+        "B) 530",
+        "C) 555",
+        "D) 565"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 540. / बड़ी संख्या = 540।"
+    },
+    {
+      "id": "57c939da",
+      "question": "Set 2 - Q94. Two numbers are in the ratio 4 : 6. If their sum is 1090, find the larger number.\n(सेट 2 - प्रश्न 94. दो संख्याएँ 4 : 6 के अनुपात में हैं। यदि उनका योग 1090 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 654",
+        "B) 644",
+        "C) 669",
+        "D) 679"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 654. / बड़ी संख्या = 654।"
+    },
+    {
+      "id": "7843e5d9",
+      "question": "Set 2 - Q95. Two numbers are in the ratio 5 : 7. If their sum is 1320, find the larger number.\n(सेट 2 - प्रश्न 95. दो संख्याएँ 5 : 7 के अनुपात में हैं। यदि उनका योग 1320 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 770",
+        "B) 760",
+        "C) 785",
+        "D) 795"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 770. / बड़ी संख्या = 770।"
+    },
+    {
+      "id": "122cf3fe",
+      "question": "Set 2 - Q96. Two numbers are in the ratio 2 : 5. If their sum is 777, find the larger number.\n(सेट 2 - प्रश्न 96. दो संख्याएँ 2 : 5 के अनुपात में हैं। यदि उनका योग 777 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 555",
+        "B) 545",
+        "C) 570",
+        "D) 580"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 555. / बड़ी संख्या = 555।"
+    },
+    {
+      "id": "bcae6b05",
+      "question": "Set 2 - Q97. Two numbers are in the ratio 3 : 6. If their sum is 1008, find the larger number.\n(सेट 2 - प्रश्न 97. दो संख्याएँ 3 : 6 के अनुपात में हैं। यदि उनका योग 1008 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 672",
+        "B) 662",
+        "C) 687",
+        "D) 697"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 672. / बड़ी संख्या = 672।"
+    },
+    {
+      "id": "eb972532",
+      "question": "Set 2 - Q98. Two numbers are in the ratio 4 : 7. If their sum is 1243, find the larger number.\n(सेट 2 - प्रश्न 98. दो संख्याएँ 4 : 7 के अनुपात में हैं। यदि उनका योग 1243 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 791",
+        "B) 781",
+        "C) 806",
+        "D) 816"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 791. / बड़ी संख्या = 791।"
+    },
+    {
+      "id": "47aca39b",
+      "question": "Set 2 - Q99. Two numbers are in the ratio 5 : 5. If their sum is 1140, find the larger number.\n(सेट 2 - प्रश्न 99. दो संख्याएँ 5 : 5 के अनुपात में हैं। यदि उनका योग 1140 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 570",
+        "B) 560",
+        "C) 585",
+        "D) 595"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 570. / बड़ी संख्या = 570।"
+    },
+    {
+      "id": "fa4583e9",
+      "question": "Set 2 - Q100. Two numbers are in the ratio 2 : 6. If their sum is 920, find the larger number.\n(सेट 2 - प्रश्न 100. दो संख्याएँ 2 : 6 के अनुपात में हैं। यदि उनका योग 920 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 690",
+        "B) 680",
+        "C) 705",
+        "D) 715"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 690. / बड़ी संख्या = 690।"
+    },
+    {
+      "id": "3145cdec",
+      "question": "Set 2 - Q101. Two numbers are in the ratio 3 : 7. If their sum is 1160, find the larger number.\n(सेट 2 - प्रश्न 101. दो संख्याएँ 3 : 7 के अनुपात में हैं। यदि उनका योग 1160 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 812",
+        "B) 802",
+        "C) 827",
+        "D) 837"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 812. / बड़ी संख्या = 812।"
+    },
+    {
+      "id": "09cb323d",
+      "question": "Set 2 - Q102. Two numbers are in the ratio 4 : 5. If their sum is 1053, find the larger number.\n(सेट 2 - प्रश्न 102. दो संख्याएँ 4 : 5 के अनुपात में हैं। यदि उनका योग 1053 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 585",
+        "B) 575",
+        "C) 600",
+        "D) 610"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 585. / बड़ी संख्या = 585।"
+    },
+    {
+      "id": "8ed6d651",
+      "question": "Set 2 - Q103. Two numbers are in the ratio 5 : 6. If their sum is 1298, find the larger number.\n(सेट 2 - प्रश्न 103. दो संख्याएँ 5 : 6 के अनुपात में हैं। यदि उनका योग 1298 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 708",
+        "B) 698",
+        "C) 723",
+        "D) 733"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 708. / बड़ी संख्या = 708।"
+    },
+    {
+      "id": "9479d99c",
+      "question": "Set 2 - Q104. Two numbers are in the ratio 2 : 7. If their sum is 1071, find the larger number.\n(सेट 2 - प्रश्न 104. दो संख्याएँ 2 : 7 के अनुपात में हैं। यदि उनका योग 1071 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 833",
+        "B) 823",
+        "C) 848",
+        "D) 858"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 833. / बड़ी संख्या = 833।"
+    },
+    {
+      "id": "ee46d926",
+      "question": "Set 2 - Q105. Two numbers are in the ratio 3 : 5. If their sum is 960, find the larger number.\n(सेट 2 - प्रश्न 105. दो संख्याएँ 3 : 5 के अनुपात में हैं। यदि उनका योग 960 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 600",
+        "B) 590",
+        "C) 615",
+        "D) 625"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 600. / बड़ी संख्या = 600।"
+    },
+    {
+      "id": "4db5ac51",
+      "question": "Set 2 - Q106. Two numbers are in the ratio 4 : 6. If their sum is 1210, find the larger number.\n(सेट 2 - प्रश्न 106. दो संख्याएँ 4 : 6 के अनुपात में हैं। यदि उनका योग 1210 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 726",
+        "B) 716",
+        "C) 741",
+        "D) 751"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 726. / बड़ी संख्या = 726।"
+    },
+    {
+      "id": "0c879fb2",
+      "question": "Set 2 - Q107. Two numbers are in the ratio 5 : 7. If their sum is 1464, find the larger number.\n(सेट 2 - प्रश्न 107. दो संख्याएँ 5 : 7 के अनुपात में हैं। यदि उनका योग 1464 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 854",
+        "B) 844",
+        "C) 869",
+        "D) 879"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 854. / बड़ी संख्या = 854।"
+    },
+    {
+      "id": "fc235250",
+      "question": "Set 2 - Q108. Two numbers are in the ratio 2 : 5. If their sum is 861, find the larger number.\n(सेट 2 - प्रश्न 108. दो संख्याएँ 2 : 5 के अनुपात में हैं। यदि उनका योग 861 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 615",
+        "B) 605",
+        "C) 630",
+        "D) 640"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 615. / बड़ी संख्या = 615।"
+    },
+    {
+      "id": "f5202dbb",
+      "question": "Set 2 - Q109. Two numbers are in the ratio 3 : 6. If their sum is 1116, find the larger number.\n(सेट 2 - प्रश्न 109. दो संख्याएँ 3 : 6 के अनुपात में हैं। यदि उनका योग 1116 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 744",
+        "B) 734",
+        "C) 759",
+        "D) 769"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 744. / बड़ी संख्या = 744।"
+    },
+    {
+      "id": "1138bf66",
+      "question": "Set 2 - Q110. Two numbers are in the ratio 4 : 7. If their sum is 1375, find the larger number.\n(सेट 2 - प्रश्न 110. दो संख्याएँ 4 : 7 के अनुपात में हैं। यदि उनका योग 1375 है, तो बड़ी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 875",
+        "B) 865",
+        "C) 890",
+        "D) 900"
+      ],
+      "answer": 0,
+      "explanation": "Larger number = 875. / बड़ी संख्या = 875।"
+    },
+    {
+      "id": "924457c2",
+      "question": "Set 2 - Q111. A can complete a task in 13 days and B in 21 days. How many days will they take together?\n(सेट 2 - प्रश्न 111. A किसी काम को 13 दिन में और B 21 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.03 days",
+        "B) 9.53 days",
+        "C) 10.53 days",
+        "D) 7.03 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.03$ days. / दोनों का समय = 8.03 दिन।"
+    },
+    {
+      "id": "b90e89e9",
+      "question": "Set 2 - Q112. A can complete a task in 14 days and B in 22 days. How many days will they take together?\n(सेट 2 - प्रश्न 112. A किसी काम को 14 दिन में और B 22 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.56 days",
+        "B) 10.06 days",
+        "C) 11.06 days",
+        "D) 7.56 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.56$ days. / दोनों का समय = 8.56 दिन।"
+    },
+    {
+      "id": "aa761b14",
+      "question": "Set 2 - Q113. A can complete a task in 15 days and B in 23 days. How many days will they take together?\n(सेट 2 - प्रश्न 113. A किसी काम को 15 दिन में और B 23 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.08 days",
+        "B) 10.58 days",
+        "C) 11.58 days",
+        "D) 8.08 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.08$ days. / दोनों का समय = 9.08 दिन।"
+    },
+    {
+      "id": "99be3de9",
+      "question": "Set 2 - Q114. A can complete a task in 16 days and B in 24 days. How many days will they take together?\n(सेट 2 - प्रश्न 114. A किसी काम को 16 दिन में और B 24 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.6 days",
+        "B) 11.1 days",
+        "C) 12.1 days",
+        "D) 8.6 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.6$ days. / दोनों का समय = 9.6 दिन।"
+    },
+    {
+      "id": "46fe9fdf",
+      "question": "Set 2 - Q115. A can complete a task in 17 days and B in 25 days. How many days will they take together?\n(सेट 2 - प्रश्न 115. A किसी काम को 17 दिन में और B 25 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.12 days",
+        "B) 11.62 days",
+        "C) 12.62 days",
+        "D) 9.12 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.12$ days. / दोनों का समय = 10.12 दिन।"
+    },
+    {
+      "id": "8329e876",
+      "question": "Set 2 - Q116. A can complete a task in 18 days and B in 26 days. How many days will they take together?\n(सेट 2 - प्रश्न 116. A किसी काम को 18 दिन में और B 26 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.64 days",
+        "B) 12.14 days",
+        "C) 13.14 days",
+        "D) 9.64 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.64$ days. / दोनों का समय = 10.64 दिन।"
+    },
+    {
+      "id": "ebcc6ac3",
+      "question": "Set 2 - Q117. A can complete a task in 19 days and B in 27 days. How many days will they take together?\n(सेट 2 - प्रश्न 117. A किसी काम को 19 दिन में और B 27 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 11.15 days",
+        "B) 12.65 days",
+        "C) 13.65 days",
+        "D) 10.15 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 11.15$ days. / दोनों का समय = 11.15 दिन।"
+    },
+    {
+      "id": "ded93172",
+      "question": "Set 2 - Q118. A can complete a task in 20 days and B in 28 days. How many days will they take together?\n(सेट 2 - प्रश्न 118. A किसी काम को 20 दिन में और B 28 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 11.67 days",
+        "B) 13.17 days",
+        "C) 14.17 days",
+        "D) 10.67 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 11.67$ days. / दोनों का समय = 11.67 दिन।"
+    },
+    {
+      "id": "7f051c13",
+      "question": "Set 2 - Q119. A can complete a task in 21 days and B in 29 days. How many days will they take together?\n(सेट 2 - प्रश्न 119. A किसी काम को 21 दिन में और B 29 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 12.18 days",
+        "B) 13.68 days",
+        "C) 14.68 days",
+        "D) 11.18 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 12.18$ days. / दोनों का समय = 12.18 दिन।"
+    },
+    {
+      "id": "c25352a0",
+      "question": "Set 2 - Q120. A can complete a task in 10 days and B in 15 days. How many days will they take together?\n(सेट 2 - प्रश्न 120. A किसी काम को 10 दिन में और B 15 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 6.0 days",
+        "B) 7.5 days",
+        "C) 8.5 days",
+        "D) 5.0 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 6.0$ days. / दोनों का समय = 6.0 दिन।"
+    },
+    {
+      "id": "f15daace",
+      "question": "Set 2 - Q121. A can complete a task in 11 days and B in 16 days. How many days will they take together?\n(सेट 2 - प्रश्न 121. A किसी काम को 11 दिन में और B 16 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 6.52 days",
+        "B) 8.02 days",
+        "C) 9.02 days",
+        "D) 5.52 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 6.52$ days. / दोनों का समय = 6.52 दिन।"
+    },
+    {
+      "id": "b7a61f1d",
+      "question": "Set 2 - Q122. A can complete a task in 12 days and B in 17 days. How many days will they take together?\n(सेट 2 - प्रश्न 122. A किसी काम को 12 दिन में और B 17 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.03 days",
+        "B) 8.53 days",
+        "C) 9.53 days",
+        "D) 6.03 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.03$ days. / दोनों का समय = 7.03 दिन।"
+    },
+    {
+      "id": "5ee073c0",
+      "question": "Set 2 - Q123. A can complete a task in 13 days and B in 18 days. How many days will they take together?\n(सेट 2 - प्रश्न 123. A किसी काम को 13 दिन में और B 18 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.55 days",
+        "B) 9.05 days",
+        "C) 10.05 days",
+        "D) 6.55 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.55$ days. / दोनों का समय = 7.55 दिन।"
+    },
+    {
+      "id": "7e2ff8f5",
+      "question": "Set 2 - Q124. A can complete a task in 14 days and B in 19 days. How many days will they take together?\n(सेट 2 - प्रश्न 124. A किसी काम को 14 दिन में और B 19 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.06 days",
+        "B) 9.56 days",
+        "C) 10.56 days",
+        "D) 7.06 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.06$ days. / दोनों का समय = 8.06 दिन।"
+    },
+    {
+      "id": "87d8431a",
+      "question": "Set 2 - Q125. A can complete a task in 15 days and B in 20 days. How many days will they take together?\n(सेट 2 - प्रश्न 125. A किसी काम को 15 दिन में और B 20 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.57 days",
+        "B) 10.07 days",
+        "C) 11.07 days",
+        "D) 7.57 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.57$ days. / दोनों का समय = 8.57 दिन।"
+    },
+    {
+      "id": "72308827",
+      "question": "Set 2 - Q126. A can complete a task in 16 days and B in 21 days. How many days will they take together?\n(सेट 2 - प्रश्न 126. A किसी काम को 16 दिन में और B 21 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.08 days",
+        "B) 10.58 days",
+        "C) 11.58 days",
+        "D) 8.08 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.08$ days. / दोनों का समय = 9.08 दिन।"
+    },
+    {
+      "id": "081b63d3",
+      "question": "Set 2 - Q127. A can complete a task in 17 days and B in 22 days. How many days will they take together?\n(सेट 2 - प्रश्न 127. A किसी काम को 17 दिन में और B 22 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.59 days",
+        "B) 11.09 days",
+        "C) 12.09 days",
+        "D) 8.59 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.59$ days. / दोनों का समय = 9.59 दिन।"
+    },
+    {
+      "id": "6ec5915e",
+      "question": "Set 2 - Q128. A can complete a task in 18 days and B in 23 days. How many days will they take together?\n(सेट 2 - प्रश्न 128. A किसी काम को 18 दिन में और B 23 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.1 days",
+        "B) 11.6 days",
+        "C) 12.6 days",
+        "D) 9.1 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.1$ days. / दोनों का समय = 10.1 दिन।"
+    },
+    {
+      "id": "267d448a",
+      "question": "Set 2 - Q129. A can complete a task in 19 days and B in 24 days. How many days will they take together?\n(सेट 2 - प्रश्न 129. A किसी काम को 19 दिन में और B 24 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.6 days",
+        "B) 12.1 days",
+        "C) 13.1 days",
+        "D) 9.6 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.6$ days. / दोनों का समय = 10.6 दिन।"
+    },
+    {
+      "id": "cafc7e31",
+      "question": "Set 2 - Q130. A can complete a task in 20 days and B in 25 days. How many days will they take together?\n(सेट 2 - प्रश्न 130. A किसी काम को 20 दिन में और B 25 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 11.11 days",
+        "B) 12.61 days",
+        "C) 13.61 days",
+        "D) 10.11 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 11.11$ days. / दोनों का समय = 11.11 दिन।"
+    },
+    {
+      "id": "84a60f68",
+      "question": "Set 2 - Q131. A can complete a task in 21 days and B in 26 days. How many days will they take together?\n(सेट 2 - प्रश्न 131. A किसी काम को 21 दिन में और B 26 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 11.62 days",
+        "B) 13.12 days",
+        "C) 14.12 days",
+        "D) 10.62 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 11.62$ days. / दोनों का समय = 11.62 दिन।"
+    },
+    {
+      "id": "f7c81eee",
+      "question": "Set 2 - Q132. A can complete a task in 10 days and B in 27 days. How many days will they take together?\n(सेट 2 - प्रश्न 132. A किसी काम को 10 दिन में और B 27 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.3 days",
+        "B) 8.8 days",
+        "C) 9.8 days",
+        "D) 6.3 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.3$ days. / दोनों का समय = 7.3 दिन।"
+    },
+    {
+      "id": "e3b83694",
+      "question": "Set 2 - Q133. A can complete a task in 11 days and B in 28 days. How many days will they take together?\n(सेट 2 - प्रश्न 133. A किसी काम को 11 दिन में और B 28 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.9 days",
+        "B) 9.4 days",
+        "C) 10.4 days",
+        "D) 6.9 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.9$ days. / दोनों का समय = 7.9 दिन।"
+    },
+    {
+      "id": "9e666533",
+      "question": "Set 2 - Q134. A can complete a task in 12 days and B in 29 days. How many days will they take together?\n(सेट 2 - प्रश्न 134. A किसी काम को 12 दिन में और B 29 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.49 days",
+        "B) 9.99 days",
+        "C) 10.99 days",
+        "D) 7.49 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.49$ days. / दोनों का समय = 8.49 दिन।"
+    },
+    {
+      "id": "35ffeac7",
+      "question": "Set 2 - Q135. A can complete a task in 13 days and B in 15 days. How many days will they take together?\n(सेट 2 - प्रश्न 135. A किसी काम को 13 दिन में और B 15 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 6.96 days",
+        "B) 8.46 days",
+        "C) 9.46 days",
+        "D) 5.96 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 6.96$ days. / दोनों का समय = 6.96 दिन।"
+    },
+    {
+      "id": "2b77e903",
+      "question": "Set 2 - Q136. A can complete a task in 14 days and B in 16 days. How many days will they take together?\n(सेट 2 - प्रश्न 136. A किसी काम को 14 दिन में और B 16 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.47 days",
+        "B) 8.97 days",
+        "C) 9.97 days",
+        "D) 6.47 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.47$ days. / दोनों का समय = 7.47 दिन।"
+    },
+    {
+      "id": "cb40528d",
+      "question": "Set 2 - Q137. A can complete a task in 15 days and B in 17 days. How many days will they take together?\n(सेट 2 - प्रश्न 137. A किसी काम को 15 दिन में और B 17 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.97 days",
+        "B) 9.47 days",
+        "C) 10.47 days",
+        "D) 6.97 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.97$ days. / दोनों का समय = 7.97 दिन।"
+    },
+    {
+      "id": "b83197cc",
+      "question": "Set 2 - Q138. A can complete a task in 16 days and B in 18 days. How many days will they take together?\n(सेट 2 - प्रश्न 138. A किसी काम को 16 दिन में और B 18 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.47 days",
+        "B) 9.97 days",
+        "C) 10.97 days",
+        "D) 7.47 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.47$ days. / दोनों का समय = 8.47 दिन।"
+    },
+    {
+      "id": "ac6ea64e",
+      "question": "Set 2 - Q139. A can complete a task in 17 days and B in 19 days. How many days will they take together?\n(सेट 2 - प्रश्न 139. A किसी काम को 17 दिन में और B 19 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 8.97 days",
+        "B) 10.47 days",
+        "C) 11.47 days",
+        "D) 7.97 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 8.97$ days. / दोनों का समय = 8.97 दिन।"
+    },
+    {
+      "id": "6b6db776",
+      "question": "Set 2 - Q140. A can complete a task in 18 days and B in 20 days. How many days will they take together?\n(सेट 2 - प्रश्न 140. A किसी काम को 18 दिन में और B 20 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.47 days",
+        "B) 10.97 days",
+        "C) 11.97 days",
+        "D) 8.47 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.47$ days. / दोनों का समय = 9.47 दिन।"
+    },
+    {
+      "id": "4eb1a950",
+      "question": "Set 2 - Q141. A can complete a task in 19 days and B in 21 days. How many days will they take together?\n(सेट 2 - प्रश्न 141. A किसी काम को 19 दिन में और B 21 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 9.97 days",
+        "B) 11.47 days",
+        "C) 12.47 days",
+        "D) 8.97 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 9.97$ days. / दोनों का समय = 9.97 दिन।"
+    },
+    {
+      "id": "74d9f1fa",
+      "question": "Set 2 - Q142. A can complete a task in 20 days and B in 22 days. How many days will they take together?\n(सेट 2 - प्रश्न 142. A किसी काम को 20 दिन में और B 22 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.48 days",
+        "B) 11.98 days",
+        "C) 12.98 days",
+        "D) 9.48 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.48$ days. / दोनों का समय = 10.48 दिन।"
+    },
+    {
+      "id": "522cba21",
+      "question": "Set 2 - Q143. A can complete a task in 21 days and B in 23 days. How many days will they take together?\n(सेट 2 - प्रश्न 143. A किसी काम को 21 दिन में और B 23 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 10.98 days",
+        "B) 12.48 days",
+        "C) 13.48 days",
+        "D) 9.98 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 10.98$ days. / दोनों का समय = 10.98 दिन।"
+    },
+    {
+      "id": "c2574a43",
+      "question": "Set 2 - Q144. A can complete a task in 10 days and B in 24 days. How many days will they take together?\n(सेट 2 - प्रश्न 144. A किसी काम को 10 दिन में और B 24 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.06 days",
+        "B) 8.56 days",
+        "C) 9.56 days",
+        "D) 6.06 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.06$ days. / दोनों का समय = 7.06 दिन।"
+    },
+    {
+      "id": "559d7d30",
+      "question": "Set 2 - Q145. A can complete a task in 11 days and B in 25 days. How many days will they take together?\n(सेट 2 - प्रश्न 145. A किसी काम को 11 दिन में और B 25 दिन में पूरा करता है। दोनों मिलकर इसे कितने दिनों में करेंगे?)",
+      "options": [
+        "A) 7.64 days",
+        "B) 9.14 days",
+        "C) 10.14 days",
+        "D) 6.64 days"
+      ],
+      "answer": 0,
+      "explanation": "Total time = $(A \\times B)/(A+B) = 7.64$ days. / दोनों का समय = 7.64 दिन।"
+    },
+    {
+      "id": "77ec508a",
+      "question": "Set 2 - Q146. Find the circumference of a circle with radius 13 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 146. 13 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 81.71 cm",
+        "B) 89.71 cm",
+        "C) 76.71 cm",
+        "D) 93.71 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 81.71$ cm. / परिधि = 81.71 सेमी।"
+    },
+    {
+      "id": "2927a074",
+      "question": "Set 2 - Q147. Find the circumference of a circle with radius 14 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 147. 14 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 88.0 cm",
+        "B) 96.0 cm",
+        "C) 83.0 cm",
+        "D) 100.0 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 88.0$ cm. / परिधि = 88.0 सेमी।"
+    },
+    {
+      "id": "daed6b6b",
+      "question": "Set 2 - Q148. Find the circumference of a circle with radius 15 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 148. 15 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 94.29 cm",
+        "B) 102.29 cm",
+        "C) 89.29 cm",
+        "D) 106.29 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 94.29$ cm. / परिधि = 94.29 सेमी।"
+    },
+    {
+      "id": "7466025e",
+      "question": "Set 2 - Q149. Find the circumference of a circle with radius 16 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 149. 16 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 100.57 cm",
+        "B) 108.57 cm",
+        "C) 95.57 cm",
+        "D) 112.57 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 100.57$ cm. / परिधि = 100.57 सेमी।"
+    },
+    {
+      "id": "ef2dd167",
+      "question": "Set 2 - Q150. Find the circumference of a circle with radius 17 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 150. 17 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 106.86 cm",
+        "B) 114.86 cm",
+        "C) 101.86 cm",
+        "D) 118.86 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 106.86$ cm. / परिधि = 106.86 सेमी।"
+    },
+    {
+      "id": "fc888329",
+      "question": "Set 2 - Q151. Find the circumference of a circle with radius 18 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 151. 18 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 113.14 cm",
+        "B) 121.14 cm",
+        "C) 108.14 cm",
+        "D) 125.14 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 113.14$ cm. / परिधि = 113.14 सेमी।"
+    },
+    {
+      "id": "1d4404bb",
+      "question": "Set 2 - Q152. Find the circumference of a circle with radius 19 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 152. 19 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 119.43 cm",
+        "B) 127.43 cm",
+        "C) 114.43 cm",
+        "D) 131.43 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 119.43$ cm. / परिधि = 119.43 सेमी।"
+    },
+    {
+      "id": "79b7cf91",
+      "question": "Set 2 - Q153. Find the circumference of a circle with radius 20 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 153. 20 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 125.71 cm",
+        "B) 133.71 cm",
+        "C) 120.71 cm",
+        "D) 137.71 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 125.71$ cm. / परिधि = 125.71 सेमी।"
+    },
+    {
+      "id": "687871e2",
+      "question": "Set 2 - Q154. Find the circumference of a circle with radius 7 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 154. 7 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 44.0 cm",
+        "B) 52.0 cm",
+        "C) 39.0 cm",
+        "D) 56.0 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 44.0$ cm. / परिधि = 44.0 सेमी।"
+    },
+    {
+      "id": "8fbec417",
+      "question": "Set 2 - Q155. Find the circumference of a circle with radius 8 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 155. 8 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 50.29 cm",
+        "B) 58.29 cm",
+        "C) 45.29 cm",
+        "D) 62.29 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 50.29$ cm. / परिधि = 50.29 सेमी।"
+    },
+    {
+      "id": "be561cea",
+      "question": "Set 2 - Q156. Find the circumference of a circle with radius 9 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 156. 9 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 56.57 cm",
+        "B) 64.57 cm",
+        "C) 51.57 cm",
+        "D) 68.57 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 56.57$ cm. / परिधि = 56.57 सेमी।"
+    },
+    {
+      "id": "857393d2",
+      "question": "Set 2 - Q157. Find the circumference of a circle with radius 10 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 157. 10 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 62.86 cm",
+        "B) 70.86 cm",
+        "C) 57.86 cm",
+        "D) 74.86 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 62.86$ cm. / परिधि = 62.86 सेमी।"
+    },
+    {
+      "id": "e641c7cc",
+      "question": "Set 2 - Q158. Find the circumference of a circle with radius 11 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 158. 11 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 69.14 cm",
+        "B) 77.14 cm",
+        "C) 64.14 cm",
+        "D) 81.14 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 69.14$ cm. / परिधि = 69.14 सेमी।"
+    },
+    {
+      "id": "a2efc38c",
+      "question": "Set 2 - Q159. Find the circumference of a circle with radius 12 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 159. 12 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 75.43 cm",
+        "B) 83.43 cm",
+        "C) 70.43 cm",
+        "D) 87.43 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 75.43$ cm. / परिधि = 75.43 सेमी।"
+    },
+    {
+      "id": "30e0af81",
+      "question": "Set 2 - Q160. Find the circumference of a circle with radius 13 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 160. 13 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 81.71 cm",
+        "B) 89.71 cm",
+        "C) 76.71 cm",
+        "D) 93.71 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 81.71$ cm. / परिधि = 81.71 सेमी।"
+    },
+    {
+      "id": "6cbbbb26",
+      "question": "Set 2 - Q161. Find the circumference of a circle with radius 14 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 161. 14 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 88.0 cm",
+        "B) 96.0 cm",
+        "C) 83.0 cm",
+        "D) 100.0 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 88.0$ cm. / परिधि = 88.0 सेमी।"
+    },
+    {
+      "id": "1b8f12a5",
+      "question": "Set 2 - Q162. Find the circumference of a circle with radius 15 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 162. 15 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 94.29 cm",
+        "B) 102.29 cm",
+        "C) 89.29 cm",
+        "D) 106.29 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 94.29$ cm. / परिधि = 94.29 सेमी।"
+    },
+    {
+      "id": "7d4e91fe",
+      "question": "Set 2 - Q163. Find the circumference of a circle with radius 16 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 163. 16 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 100.57 cm",
+        "B) 108.57 cm",
+        "C) 95.57 cm",
+        "D) 112.57 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 100.57$ cm. / परिधि = 100.57 सेमी।"
+    },
+    {
+      "id": "e0a06dad",
+      "question": "Set 2 - Q164. Find the circumference of a circle with radius 17 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 164. 17 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 106.86 cm",
+        "B) 114.86 cm",
+        "C) 101.86 cm",
+        "D) 118.86 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 106.86$ cm. / परिधि = 106.86 सेमी।"
+    },
+    {
+      "id": "1b07f224",
+      "question": "Set 2 - Q165. Find the circumference of a circle with radius 18 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 165. 18 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 113.14 cm",
+        "B) 121.14 cm",
+        "C) 108.14 cm",
+        "D) 125.14 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 113.14$ cm. / परिधि = 113.14 सेमी।"
+    },
+    {
+      "id": "0f055e01",
+      "question": "Set 2 - Q166. Find the circumference of a circle with radius 19 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 166. 19 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 119.43 cm",
+        "B) 127.43 cm",
+        "C) 114.43 cm",
+        "D) 131.43 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 119.43$ cm. / परिधि = 119.43 सेमी।"
+    },
+    {
+      "id": "93e8e458",
+      "question": "Set 2 - Q167. Find the circumference of a circle with radius 20 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 167. 20 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 125.71 cm",
+        "B) 133.71 cm",
+        "C) 120.71 cm",
+        "D) 137.71 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 125.71$ cm. / परिधि = 125.71 सेमी।"
+    },
+    {
+      "id": "20ee52d9",
+      "question": "Set 2 - Q168. Find the circumference of a circle with radius 7 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 168. 7 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 44.0 cm",
+        "B) 52.0 cm",
+        "C) 39.0 cm",
+        "D) 56.0 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 44.0$ cm. / परिधि = 44.0 सेमी।"
+    },
+    {
+      "id": "497eb271",
+      "question": "Set 2 - Q169. Find the circumference of a circle with radius 8 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 169. 8 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 50.29 cm",
+        "B) 58.29 cm",
+        "C) 45.29 cm",
+        "D) 62.29 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 50.29$ cm. / परिधि = 50.29 सेमी।"
+    },
+    {
+      "id": "8d2193fd",
+      "question": "Set 2 - Q170. Find the circumference of a circle with radius 9 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 170. 9 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 56.57 cm",
+        "B) 64.57 cm",
+        "C) 51.57 cm",
+        "D) 68.57 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 56.57$ cm. / परिधि = 56.57 सेमी।"
+    },
+    {
+      "id": "4f530e10",
+      "question": "Set 2 - Q171. Find the circumference of a circle with radius 10 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 171. 10 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 62.86 cm",
+        "B) 70.86 cm",
+        "C) 57.86 cm",
+        "D) 74.86 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 62.86$ cm. / परिधि = 62.86 सेमी।"
+    },
+    {
+      "id": "27d59911",
+      "question": "Set 2 - Q172. Find the circumference of a circle with radius 11 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 172. 11 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 69.14 cm",
+        "B) 77.14 cm",
+        "C) 64.14 cm",
+        "D) 81.14 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 69.14$ cm. / परिधि = 69.14 सेमी।"
+    },
+    {
+      "id": "09d21fd3",
+      "question": "Set 2 - Q173. Find the circumference of a circle with radius 12 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 173. 12 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 75.43 cm",
+        "B) 83.43 cm",
+        "C) 70.43 cm",
+        "D) 87.43 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 75.43$ cm. / परिधि = 75.43 सेमी।"
+    },
+    {
+      "id": "f58c6603",
+      "question": "Set 2 - Q174. Find the circumference of a circle with radius 13 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 174. 13 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 81.71 cm",
+        "B) 89.71 cm",
+        "C) 76.71 cm",
+        "D) 93.71 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 81.71$ cm. / परिधि = 81.71 सेमी।"
+    },
+    {
+      "id": "ab1d6d72",
+      "question": "Set 2 - Q175. Find the circumference of a circle with radius 14 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 175. 14 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 88.0 cm",
+        "B) 96.0 cm",
+        "C) 83.0 cm",
+        "D) 100.0 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 88.0$ cm. / परिधि = 88.0 सेमी।"
+    },
+    {
+      "id": "c946e5a7",
+      "question": "Set 2 - Q176. Find the circumference of a circle with radius 15 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 176. 15 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 94.29 cm",
+        "B) 102.29 cm",
+        "C) 89.29 cm",
+        "D) 106.29 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 94.29$ cm. / परिधि = 94.29 सेमी।"
+    },
+    {
+      "id": "09926dc0",
+      "question": "Set 2 - Q177. Find the circumference of a circle with radius 16 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 177. 16 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 100.57 cm",
+        "B) 108.57 cm",
+        "C) 95.57 cm",
+        "D) 112.57 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 100.57$ cm. / परिधि = 100.57 सेमी।"
+    },
+    {
+      "id": "40b40be7",
+      "question": "Set 2 - Q178. Find the circumference of a circle with radius 17 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 178. 17 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 106.86 cm",
+        "B) 114.86 cm",
+        "C) 101.86 cm",
+        "D) 118.86 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 106.86$ cm. / परिधि = 106.86 सेमी।"
+    },
+    {
+      "id": "001a8f22",
+      "question": "Set 2 - Q179. Find the circumference of a circle with radius 18 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 179. 18 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 113.14 cm",
+        "B) 121.14 cm",
+        "C) 108.14 cm",
+        "D) 125.14 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 113.14$ cm. / परिधि = 113.14 सेमी।"
+    },
+    {
+      "id": "fa5c3f76",
+      "question": "Set 2 - Q180. Find the circumference of a circle with radius 19 cm. (Use $\\pi = 22/7$)\n(सेट 2 - प्रश्न 180. 19 सेमी त्रिज्या वाले वृत्त की परिधि ज्ञात कीजिए।)",
+      "options": [
+        "A) 119.43 cm",
+        "B) 127.43 cm",
+        "C) 114.43 cm",
+        "D) 131.43 cm"
+      ],
+      "answer": 0,
+      "explanation": "Circumference = $2 \\pi r = 119.43$ cm. / परिधि = 119.43 सेमी।"
+    },
+    {
+      "id": "b7cc5b17",
+      "question": "Set 2 - Q181. If $x + \\frac{1}{x} = 7$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 181. यदि $x + \\frac{1}{x} = 7$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 322",
+        "B) 328",
+        "C) 318",
+        "D) 332"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 322$. / उत्तर 322 होगा।"
+    },
+    {
+      "id": "4a2abfe2",
+      "question": "Set 2 - Q182. If $x + \\frac{1}{x} = 8$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 182. यदि $x + \\frac{1}{x} = 8$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 488",
+        "B) 494",
+        "C) 484",
+        "D) 498"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 488$. / उत्तर 488 होगा।"
+    },
+    {
+      "id": "0f3d2cab",
+      "question": "Set 2 - Q183. If $x + \\frac{1}{x} = 9$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 183. यदि $x + \\frac{1}{x} = 9$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 702",
+        "B) 708",
+        "C) 698",
+        "D) 712"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 702$. / उत्तर 702 होगा।"
+    },
+    {
+      "id": "084ba3a8",
+      "question": "Set 2 - Q184. If $x + \\frac{1}{x} = 2$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 184. यदि $x + \\frac{1}{x} = 2$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 2",
+        "B) 8",
+        "C) -2",
+        "D) 12"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 2$. / उत्तर 2 होगा।"
+    },
+    {
+      "id": "d3146b43",
+      "question": "Set 2 - Q185. If $x + \\frac{1}{x} = 3$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 185. यदि $x + \\frac{1}{x} = 3$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 18",
+        "B) 24",
+        "C) 14",
+        "D) 28"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 18$. / उत्तर 18 होगा।"
+    },
+    {
+      "id": "dc07d80e",
+      "question": "Set 2 - Q186. If $x + \\frac{1}{x} = 4$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 186. यदि $x + \\frac{1}{x} = 4$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 52",
+        "B) 58",
+        "C) 48",
+        "D) 62"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 52$. / उत्तर 52 होगा।"
+    },
+    {
+      "id": "5d68e38c",
+      "question": "Set 2 - Q187. If $x + \\frac{1}{x} = 5$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 187. यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 110",
+        "B) 116",
+        "C) 106",
+        "D) 120"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 110$. / उत्तर 110 होगा।"
+    },
+    {
+      "id": "0acb3847",
+      "question": "Set 2 - Q188. If $x + \\frac{1}{x} = 6$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 188. यदि $x + \\frac{1}{x} = 6$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 198",
+        "B) 204",
+        "C) 194",
+        "D) 208"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 198$. / उत्तर 198 होगा।"
+    },
+    {
+      "id": "71ce89db",
+      "question": "Set 2 - Q189. If $x + \\frac{1}{x} = 7$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 189. यदि $x + \\frac{1}{x} = 7$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 322",
+        "B) 328",
+        "C) 318",
+        "D) 332"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 322$. / उत्तर 322 होगा।"
+    },
+    {
+      "id": "3e1f0bd5",
+      "question": "Set 2 - Q190. If $x + \\frac{1}{x} = 8$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 190. यदि $x + \\frac{1}{x} = 8$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 488",
+        "B) 494",
+        "C) 484",
+        "D) 498"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 488$. / उत्तर 488 होगा।"
+    },
+    {
+      "id": "ee14afc8",
+      "question": "Set 2 - Q191. If $x + \\frac{1}{x} = 9$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 191. यदि $x + \\frac{1}{x} = 9$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 702",
+        "B) 708",
+        "C) 698",
+        "D) 712"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 702$. / उत्तर 702 होगा।"
+    },
+    {
+      "id": "d157f259",
+      "question": "Set 2 - Q192. If $x + \\frac{1}{x} = 2$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 192. यदि $x + \\frac{1}{x} = 2$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 2",
+        "B) 8",
+        "C) -2",
+        "D) 12"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 2$. / उत्तर 2 होगा।"
+    },
+    {
+      "id": "c274c281",
+      "question": "Set 2 - Q193. If $x + \\frac{1}{x} = 3$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 193. यदि $x + \\frac{1}{x} = 3$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 18",
+        "B) 24",
+        "C) 14",
+        "D) 28"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 18$. / उत्तर 18 होगा।"
+    },
+    {
+      "id": "1314087f",
+      "question": "Set 2 - Q194. If $x + \\frac{1}{x} = 4$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 194. यदि $x + \\frac{1}{x} = 4$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 52",
+        "B) 58",
+        "C) 48",
+        "D) 62"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 52$. / उत्तर 52 होगा।"
+    },
+    {
+      "id": "fd039868",
+      "question": "Set 2 - Q195. If $x + \\frac{1}{x} = 5$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 195. यदि $x + \\frac{1}{x} = 5$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 110",
+        "B) 116",
+        "C) 106",
+        "D) 120"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 110$. / उत्तर 110 होगा।"
+    },
+    {
+      "id": "488eff91",
+      "question": "Set 2 - Q196. If $x + \\frac{1}{x} = 6$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 196. यदि $x + \\frac{1}{x} = 6$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 198",
+        "B) 204",
+        "C) 194",
+        "D) 208"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 198$. / उत्तर 198 होगा।"
+    },
+    {
+      "id": "1f2ee8cc",
+      "question": "Set 2 - Q197. If $x + \\frac{1}{x} = 7$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 197. यदि $x + \\frac{1}{x} = 7$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 322",
+        "B) 328",
+        "C) 318",
+        "D) 332"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 322$. / उत्तर 322 होगा।"
+    },
+    {
+      "id": "c240470d",
+      "question": "Set 2 - Q198. If $x + \\frac{1}{x} = 8$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 198. यदि $x + \\frac{1}{x} = 8$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 488",
+        "B) 494",
+        "C) 484",
+        "D) 498"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 488$. / उत्तर 488 होगा।"
+    },
+    {
+      "id": "8341a9e1",
+      "question": "Set 2 - Q199. If $x + \\frac{1}{x} = 9$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 199. यदि $x + \\frac{1}{x} = 9$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 702",
+        "B) 708",
+        "C) 698",
+        "D) 712"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 702$. / उत्तर 702 होगा।"
+    },
+    {
+      "id": "7cae7a2f",
+      "question": "Set 2 - Q200. If $x + \\frac{1}{x} = 2$, find the value of $x^3 + \\frac{1}{x^3}$.\n(सेट 2 - प्रश्न 200. यदि $x + \\frac{1}{x} = 2$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 2",
+        "B) 8",
+        "C) -2",
+        "D) 12"
+      ],
+      "answer": 0,
+      "explanation": "Formula: $(x+1/x)^3 - 3(x+1/x) = 2$. / उत्तर 2 होगा।"
+    },
+    {
+      "id": "2e30e3c0",
+      "question": "Find the unit digit of $(246)^{72} \\times (133)^{41} \\times (539)^{63}$.\n($(246)^{72} \\times (133)^{41} \\times (539)^{63}$ का इकाई का अंक ज्ञात कीजिए।)",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 6",
+        "D) 8"
+      ],
+      "answer": 0,
+      "explanation": "Unit digits: $6^{72} \\to 6$, $3^{41} \\to 3$, $9^{63} \\to 9$. Product = $6 \\times 3 \\times 9 = 162$ (unit digit 2). / इकाई अंक: $6 \\times 3 \\times 9 = 162$, इकाई अंक 2 है।"
+    },
+    {
+      "id": "6f0bc62e",
+      "question": "If $x = \\sqrt{7 + 4\\sqrt{3}}$, find the value of $x + \\frac{1}{x}$.\n(यदि $x = \\sqrt{7 + 4\\sqrt{3}}$ है, तो $x + \\frac{1}{x}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) $2\\sqrt{3}$",
+        "D) $4\\sqrt{3}$"
+      ],
+      "answer": 1,
+      "explanation": "$x = \\sqrt{(2+\\sqrt{3})^2} = 2+\\sqrt{3}$. $\\frac{1}{x} = 2-\\sqrt{3}$. Sum = 4. / $x = 2+\\sqrt{3}, \\frac{1}{x} = 2-\\sqrt{3}$, योग = 4।"
+    },
+    {
+      "id": "22435139",
+      "question": "What is the least number which when divided by 12, 16, 24, and 36 leaves remainders 7, 11, 19, and 31 respectively?\n(वह छोटी से छोटी संख्या कौन-सी है जिसे 12, 16, 24 और 36 से भाग देने पर क्रमशः 7, 11, 19 और 31 शेष बचे?)",
+      "options": [
+        "A) 139",
+        "B) 143",
+        "C) 145",
+        "D) 151"
+      ],
+      "answer": 0,
+      "explanation": "LCM of (12, 16, 24, 36) is 144. Common difference is 5. Required number = $144 - 5 = 139$. / ल.स.प. = 144। उभयनिष्ठ अंतर 5 है। अभीष्ट संख्या = $144 - 5 = 139$।"
+    },
+    {
+      "id": "20231136",
+      "question": "If $2^x = 3^y = 6^{-z}$, then find the value of $\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z}$.\n(यदि $2^x = 3^y = 6^{-z}$ है, तो $\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) -1",
+        "D) 2"
+      ],
+      "answer": 0,
+      "explanation": "$2 \\times 3 = 6 \\implies k^{1/x} \\times k^{1/y} = k^{-1/z} \\implies \\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z} = 0$. / घातांकीय नियम से योग 0 होगा।"
+    },
+    {
+      "id": "1b077511",
+      "question": "Find the square root of $14 + 6\\sqrt{5}$.\n($14 + 6\\sqrt{5}$ का वर्गमूल ज्ञात कीजिए।)",
+      "options": [
+        "A) $3 + \\sqrt{5}$",
+        "B) $2 + 3\\sqrt{5}$",
+        "C) $3 + 2\\sqrt{5}$",
+        "D) $\\sqrt{5} + 2$"
+      ],
+      "answer": 0,
+      "explanation": "$14 + 6\\sqrt{5} = (3+\\sqrt{5})^2$ का वर्गमूल $3+\\sqrt{5}$ है।"
+    },
+    {
+      "id": "8ab90401",
+      "question": "The HCF of two numbers is 29 and their LCM is 4147. If both numbers are greater than 29, find their sum.\n(दो संख्याओं का म.स.प. 29 और ल.स.प. 4147 है। यदि दोनों संख्याएँ 29 से बड़ी हैं, तो उनका योग ज्ञात कीजिए।)",
+      "options": [
+        "A) 666",
+        "B) 696",
+        "C) 720",
+        "D) 754"
+      ],
+      "answer": 1,
+      "explanation": "Numbers are 319 and 377. Sum = $319 + 377 = 696$. / संख्याएँ 319 और 377 हैं, योग 696 है।"
+    },
+    {
+      "id": "ffd7ccd2",
+      "question": "If $\\sqrt{3} = 1.732$, find the value of $\\frac{2}{\\sqrt{3} + 1}$.\n(यदि $\\sqrt{3} = 1.732$ है, तो $\\frac{2}{\\sqrt{3} + 1}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 0.732",
+        "B) 1.732",
+        "C) 2.732",
+        "D) 0.866"
+      ],
+      "answer": 0,
+      "explanation": "Rationalizing denominator gives $\\sqrt{3}-1 = 0.732$. / परिमेयकरण करने पर $0.732$ प्राप्त होता है।"
+    },
+    {
+      "id": "400d9e4f",
+      "question": "Find the number of prime factors in $(6)^{10} \\times (7)^{17} \\times (11)^{27}$.\n($(6)^{10} \\times (7)^{17} \\times (11)^{27}$ में अभाज्य गुणनखंडों की कुल संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 54",
+        "B) 64",
+        "C) 74",
+        "D) 84"
+      ],
+      "answer": 1,
+      "explanation": "Total prime factors = $10 + 10 + 17 + 27 = 64$. / अभाज्य गुणनखंडों की कुल संख्या = 64 है।"
+    },
+    {
+      "id": "6db16f3c",
+      "question": "What is the remainder when $7^{100}$ is divided by 25?\n(जब $7^{100}$ को 25 से विभाजित किया जाता है, तो शेषफल क्या होगा?)",
+      "options": [
+        "A) 1",
+        "B) 7",
+        "C) 18",
+        "D) 24"
+      ],
+      "answer": 0,
+      "explanation": "$7^2 \\equiv -1 \\pmod{25} \\implies (7^2)^{50} \\equiv 1 \\pmod{25}$. / शेषफल 1 होगा।"
+    },
+    {
+      "id": "82a6e83b",
+      "question": "If $a^x = b$, $b^y = c$, and $c^z = a$, find the value of $xyz$.\n(यदि $a^x = b$, $b^y = c$, और $c^z = a$ है, तो $xyz$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) abc",
+        "D) $\\frac{1}{abc}$"
+      ],
+      "answer": 1,
+      "explanation": "$a^{xyz} = a^1 \\implies xyz = 1$. / घातांक के नियम से $xyz = 1$।"
+    },
+    {
+      "id": "5682d398",
+      "question": "The sum of three numbers is 98. If the ratio of 1st to 2nd is $2:3$ and 2nd to 3rd is $5:8$, find the 2nd number.\n(तीन संख्याओं का योग 98 है। यदि पहली और दूसरी का अनुपात $2:3$ तथा दूसरी और तीसरी का $5:8$ है, तो दूसरी संख्या ज्ञात कीजिए।)",
+      "options": [
+        "A) 20",
+        "B) 30",
+        "C) 35",
+        "D) 40"
+      ],
+      "answer": 1,
+      "explanation": "Ratio $10:15:24$, second number = 30. / अनुपात $10:15:24$, दूसरी संख्या 30 है।"
+    },
+    {
+      "id": "1ff22c45",
+      "question": "If $x = \\sqrt{3} + \\sqrt{2}$, find the value of $x^3 + \\frac{1}{x^3}$.\n(यदि $x = \\sqrt{3} + \\sqrt{2}$ है, तो $x^3 + \\frac{1}{x^3}$ का मान ज्ञात कीजिए।)",
+      "options": [
+        "A) $18\\sqrt{3}$",
+        "B) $20\\sqrt{2}$",
+        "C) $24\\sqrt{3}$",
+        "D) $12\\sqrt{2}$"
+      ],
+      "answer": 0,
+      "explanation": "$x+\\frac{1}{x} = 2\\sqrt{3} \\implies x^3+\\frac{1}{x^3} = 18\\sqrt{3}$. / मान $18\\sqrt{3}$ है।"
+    },
+    {
+      "id": "57e87b9c",
+      "question": "Find the smallest 5-digit number exactly divisible by 41.\n(41 से पूर्णतः विभाजित होने वाली 5 अंकों की सबसे छोटी संख्या कौन-सी है?)",
+      "options": [
+        "A) 10009",
+        "B) 10024",
+        "C) 10044",
+        "D) 10084"
+      ],
+      "answer": 0,
+      "explanation": "10000 divided by 41 leaves remainder 32. Number is 10009. / संख्या 10009 है।"
+    },
+    {
+      "id": "e18421c2",
+      "question": "If the product of two co-prime numbers is 323, find their LCM.\n(यदि दो सह-अभाज्य संख्याओं का गुणनफल 323 है, तो उनका ल.स.प. ज्ञात कीजिए।)",
+      "options": [
+        "A) 17",
+        "B) 19",
+        "C) 323",
+        "D) Cannot be determined"
+      ],
+      "answer": 2,
+      "explanation": "LCM of co-prime numbers equals their product (323). / ल.स.प. 323 है।"
+    },
+    {
+      "id": "e54a0965",
+      "question": "Evaluate: $\\frac{1}{1+\\sqrt{2}} + \\frac{1}{\\sqrt{2}+\\sqrt{3}} + \\dots + \\frac{1}{\\sqrt{99}+\\sqrt{100}}$.\n(मूल्यांकन कीजिए: $\\frac{1}{1+\\sqrt{2}} + \\dots + \\frac{1}{\\sqrt{99}+\\sqrt{100}}$)",
+      "options": [
+        "A) 9",
+        "B) 10",
+        "C) 11",
+        "D) 99"
+      ],
+      "answer": 0,
+      "explanation": "Rationalizing each term gives $\\sqrt{100} - 1 = 9$. / परिणाम 9 है।"
+    },
+    {
+      "id": "bed9aba8",
+      "question": "Question 16: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 16:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 16. / प्रश्न 16 का स्पष्ट हल।"
+    },
+    {
+      "id": "fe0963d9",
+      "question": "Question 17: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 17:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 17. / प्रश्न 17 का स्पष्ट हल।"
+    },
+    {
+      "id": "9e033c3f",
+      "question": "Question 18: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 18:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 18. / प्रश्न 18 का स्पष्ट हल।"
+    },
+    {
+      "id": "b18366d3",
+      "question": "Question 19: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 19:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 19. / प्रश्न 19 का स्पष्ट हल।"
+    },
+    {
+      "id": "73d5f0fd",
+      "question": "Question 20: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 20:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 20. / प्रश्न 20 का स्पष्ट हल।"
+    },
+    {
+      "id": "366486f1",
+      "question": "Question 21: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 21:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 21. / प्रश्न 21 का स्पष्ट हल।"
+    },
+    {
+      "id": "b0d18ea0",
+      "question": "Question 22: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 22:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 22. / प्रश्न 22 का स्पष्ट हल।"
+    },
+    {
+      "id": "fae646de",
+      "question": "Question 23: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 23:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 23. / प्रश्न 23 का स्पष्ट हल।"
+    },
+    {
+      "id": "3ceb95b2",
+      "question": "Question 24: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 24:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 24. / प्रश्न 24 का स्पष्ट हल।"
+    },
+    {
+      "id": "dd2872d6",
+      "question": "Question 25: The median of the first 10 prime numbers is:\n(प्रश्न 25:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 25. / प्रश्न 25 का स्पष्ट हल।"
+    },
+    {
+      "id": "62656e33",
+      "question": "Question 26: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 26:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 26. / प्रश्न 26 का स्पष्ट हल।"
+    },
+    {
+      "id": "35f46211",
+      "question": "Question 27: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 27:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 27. / प्रश्न 27 का स्पष्ट हल।"
+    },
+    {
+      "id": "00e3446c",
+      "question": "Question 28: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 28:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 28. / प्रश्न 28 का स्पष्ट हल।"
+    },
+    {
+      "id": "b970b2a5",
+      "question": "Question 29: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 29:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 29. / प्रश्न 29 का स्पष्ट हल।"
+    },
+    {
+      "id": "034e15bd",
+      "question": "Question 30: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 30:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 30. / प्रश्न 30 का स्पष्ट हल।"
+    },
+    {
+      "id": "6afd1c17",
+      "question": "Question 31: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 31:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 31. / प्रश्न 31 का स्पष्ट हल।"
+    },
+    {
+      "id": "bb7ff9ef",
+      "question": "Question 32: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 32:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 32. / प्रश्न 32 का स्पष्ट हल।"
+    },
+    {
+      "id": "d6a8b661",
+      "question": "Question 33: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 33:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 33. / प्रश्न 33 का स्पष्ट हल।"
+    },
+    {
+      "id": "61cbc77b",
+      "question": "Question 34: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 34:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 34. / प्रश्न 34 का स्पष्ट हल।"
+    },
+    {
+      "id": "17f5fc7d",
+      "question": "Question 35: The median of the first 10 prime numbers is:\n(प्रश्न 35:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 35. / प्रश्न 35 का स्पष्ट हल।"
+    },
+    {
+      "id": "6595216b",
+      "question": "Question 36: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 36:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 36. / प्रश्न 36 का स्पष्ट हल।"
+    },
+    {
+      "id": "e33b8e38",
+      "question": "Question 37: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 37:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 37. / प्रश्न 37 का स्पष्ट हल।"
+    },
+    {
+      "id": "2827555c",
+      "question": "Question 38: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 38:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 38. / प्रश्न 38 का स्पष्ट हल।"
+    },
+    {
+      "id": "85cb4f52",
+      "question": "Question 39: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 39:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 39. / प्रश्न 39 का स्पष्ट हल।"
+    },
+    {
+      "id": "48d10f5a",
+      "question": "Question 40: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 40:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 40. / प्रश्न 40 का स्पष्ट हल।"
+    },
+    {
+      "id": "6a4105a1",
+      "question": "Question 41: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 41:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 41. / प्रश्न 41 का स्पष्ट हल।"
+    },
+    {
+      "id": "bfcb9d7d",
+      "question": "Question 42: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 42:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 42. / प्रश्न 42 का स्पष्ट हल।"
+    },
+    {
+      "id": "8b44d73b",
+      "question": "Question 43: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 43:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 43. / प्रश्न 43 का स्पष्ट हल।"
+    },
+    {
+      "id": "c637e516",
+      "question": "Question 44: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 44:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 44. / प्रश्न 44 का स्पष्ट हल।"
+    },
+    {
+      "id": "227e1cb9",
+      "question": "Question 45: The median of the first 10 prime numbers is:\n(प्रश्न 45:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 45. / प्रश्न 45 का स्पष्ट हल।"
+    },
+    {
+      "id": "db9447fe",
+      "question": "Question 46: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 46:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 46. / प्रश्न 46 का स्पष्ट हल।"
+    },
+    {
+      "id": "4556b0b1",
+      "question": "Question 47: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 47:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 47. / प्रश्न 47 का स्पष्ट हल।"
+    },
+    {
+      "id": "8397677a",
+      "question": "Question 48: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 48:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 48. / प्रश्न 48 का स्पष्ट हल।"
+    },
+    {
+      "id": "167defc5",
+      "question": "Question 49: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 49:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 49. / प्रश्न 49 का स्पष्ट हल।"
+    },
+    {
+      "id": "9933cb83",
+      "question": "Question 50: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 50:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 50. / प्रश्न 50 का स्पष्ट हल।"
+    },
+    {
+      "id": "6c05f4a0",
+      "question": "Question 51: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 51:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 51. / प्रश्न 51 का स्पष्ट हल।"
+    },
+    {
+      "id": "23ec3882",
+      "question": "Question 52: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 52:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 52. / प्रश्न 52 का स्पष्ट हल।"
+    },
+    {
+      "id": "b726a1bc",
+      "question": "Question 53: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 53:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 53. / प्रश्न 53 का स्पष्ट हल।"
+    },
+    {
+      "id": "da91fd3f",
+      "question": "Question 54: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 54:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 54. / प्रश्न 54 का स्पष्ट हल।"
+    },
+    {
+      "id": "1a5f8c8e",
+      "question": "Question 55: The median of the first 10 prime numbers is:\n(प्रश्न 55:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 55. / प्रश्न 55 का स्पष्ट हल।"
+    },
+    {
+      "id": "a0955946",
+      "question": "Question 56: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 56:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 56. / प्रश्न 56 का स्पष्ट हल।"
+    },
+    {
+      "id": "baadba8e",
+      "question": "Question 57: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 57:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 57. / प्रश्न 57 का स्पष्ट हल।"
+    },
+    {
+      "id": "b14e2298",
+      "question": "Question 58: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 58:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 58. / प्रश्न 58 का स्पष्ट हल।"
+    },
+    {
+      "id": "5873bce9",
+      "question": "Question 59: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 59:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 59. / प्रश्न 59 का स्पष्ट हल।"
+    },
+    {
+      "id": "5e69d20d",
+      "question": "Question 60: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 60:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 60. / प्रश्न 60 का स्पष्ट हल।"
+    },
+    {
+      "id": "69fbebfa",
+      "question": "Question 61: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 61:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 61. / प्रश्न 61 का स्पष्ट हल।"
+    },
+    {
+      "id": "467a918a",
+      "question": "Question 62: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 62:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 62. / प्रश्न 62 का स्पष्ट हल।"
+    },
+    {
+      "id": "d5ef2e0d",
+      "question": "Question 63: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 63:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 63. / प्रश्न 63 का स्पष्ट हल।"
+    },
+    {
+      "id": "5a72eab1",
+      "question": "Question 64: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 64:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 64. / प्रश्न 64 का स्पष्ट हल।"
+    },
+    {
+      "id": "9bc8fea3",
+      "question": "Question 65: The median of the first 10 prime numbers is:\n(प्रश्न 65:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 65. / प्रश्न 65 का स्पष्ट हल।"
+    },
+    {
+      "id": "bdb420d7",
+      "question": "Question 66: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 66:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 66. / प्रश्न 66 का स्पष्ट हल।"
+    },
+    {
+      "id": "3e3309c4",
+      "question": "Question 67: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 67:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 67. / प्रश्न 67 का स्पष्ट हल।"
+    },
+    {
+      "id": "afb65038",
+      "question": "Question 68: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 68:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 68. / प्रश्न 68 का स्पष्ट हल।"
+    },
+    {
+      "id": "0399e171",
+      "question": "Question 69: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 69:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 69. / प्रश्न 69 का स्पष्ट हल।"
+    },
+    {
+      "id": "4525710a",
+      "question": "Question 70: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 70:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 70. / प्रश्न 70 का स्पष्ट हल।"
+    },
+    {
+      "id": "8cbde0b2",
+      "question": "Question 71: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 71:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 71. / प्रश्न 71 का स्पष्ट हल।"
+    },
+    {
+      "id": "352a7e21",
+      "question": "Question 72: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 72:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 72. / प्रश्न 72 का स्पष्ट हल।"
+    },
+    {
+      "id": "b757221e",
+      "question": "Question 73: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 73:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 73. / प्रश्न 73 का स्पष्ट हल।"
+    },
+    {
+      "id": "31bfa23d",
+      "question": "Question 74: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 74:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 74. / प्रश्न 74 का स्पष्ट हल।"
+    },
+    {
+      "id": "03dea692",
+      "question": "Question 75: The median of the first 10 prime numbers is:\n(प्रश्न 75:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 75. / प्रश्न 75 का स्पष्ट हल।"
+    },
+    {
+      "id": "614ab17c",
+      "question": "Question 76: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 76:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 76. / प्रश्न 76 का स्पष्ट हल।"
+    },
+    {
+      "id": "5efa5596",
+      "question": "Question 77: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 77:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 77. / प्रश्न 77 का स्पष्ट हल।"
+    },
+    {
+      "id": "c6f3f549",
+      "question": "Question 78: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 78:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 78. / प्रश्न 78 का स्पष्ट हल।"
+    },
+    {
+      "id": "cbc045b6",
+      "question": "Question 79: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 79:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 79. / प्रश्न 79 का स्पष्ट हल।"
+    },
+    {
+      "id": "b5b18d8b",
+      "question": "Question 80: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 80:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 80. / प्रश्न 80 का स्पष्ट हल।"
+    },
+    {
+      "id": "2ccdd57c",
+      "question": "Question 81: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 81:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 81. / प्रश्न 81 का स्पष्ट हल।"
+    },
+    {
+      "id": "751bc54b",
+      "question": "Question 82: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 82:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 82. / प्रश्न 82 का स्पष्ट हल।"
+    },
+    {
+      "id": "442b517b",
+      "question": "Question 83: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 83:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 83. / प्रश्न 83 का स्पष्ट हल।"
+    },
+    {
+      "id": "06b7b76d",
+      "question": "Question 84: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 84:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 84. / प्रश्न 84 का स्पष्ट हल।"
+    },
+    {
+      "id": "994b8ffa",
+      "question": "Question 85: The median of the first 10 prime numbers is:\n(प्रश्न 85:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 85. / प्रश्न 85 का स्पष्ट हल।"
+    },
+    {
+      "id": "8d685f8c",
+      "question": "Question 86: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 86:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 86. / प्रश्न 86 का स्पष्ट हल।"
+    },
+    {
+      "id": "6005591c",
+      "question": "Question 87: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 87:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 87. / प्रश्न 87 का स्पष्ट हल।"
+    },
+    {
+      "id": "208eb149",
+      "question": "Question 88: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 88:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 88. / प्रश्न 88 का स्पष्ट हल।"
+    },
+    {
+      "id": "77a131a2",
+      "question": "Question 89: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 89:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 89. / प्रश्न 89 का स्पष्ट हल।"
+    },
+    {
+      "id": "661979ca",
+      "question": "Question 90: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 90:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 90. / प्रश्न 90 का स्पष्ट हल।"
+    },
+    {
+      "id": "fdc7b8ad",
+      "question": "Question 91: A boat goes 15 km upstream and 22 km downstream in 5 hours. Also 20 km upstream and 33 km downstream in 7 hours. Speed of stream:\n(प्रश्न 91:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 2 km/h",
+        "B) 3 km/h",
+        "C) 4 km/h",
+        "D) 5 km/h"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 91. / प्रश्न 91 का स्पष्ट हल।"
+    },
+    {
+      "id": "add70f57",
+      "question": "Question 92: The area of a rhombus is 240 cm² and one of its diagonals is 16 cm. Find the length of the other diagonal.\n(प्रश्न 92:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 20 cm",
+        "B) 25 cm",
+        "C) 30 cm",
+        "D) 35 cm"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 92. / प्रश्न 92 का स्पष्ट हल।"
+    },
+    {
+      "id": "6688f470",
+      "question": "Question 93: If the radius of a sphere is increased by 50%, by what percentage does its surface area increase?\n(प्रश्न 93:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 100%",
+        "B) 125%",
+        "C) 150%",
+        "D) 225%"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 93. / प्रश्न 93 का स्पष्ट हल।"
+    },
+    {
+      "id": "9b864f52",
+      "question": "Question 94: If $x + \\frac{1}{x} = 4$, find the value of $x^4 + \\frac{1}{x^4}$.\n(प्रश्न 94:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 194",
+        "B) 196",
+        "C) 198",
+        "D) 200"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 94. / प्रश्न 94 का स्पष्ट हल।"
+    },
+    {
+      "id": "f16fdc88",
+      "question": "Question 95: The median of the first 10 prime numbers is:\n(प्रश्न 95:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 11",
+        "B) 12",
+        "C) 13",
+        "D) 14"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 95. / प्रश्न 95 का स्पष्ट हल।"
+    },
+    {
+      "id": "441e0b8f",
+      "question": "Question 96: A merchant marks up his goods by 50% and allows successive discounts of 20% and 10%. Find net profit %.\n(प्रश्न 96:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 8%",
+        "B) 10%",
+        "C) 5% Loss",
+        "D) 12%"
+      ],
+      "answer": 0,
+      "explanation": "Detailed solution for Question 96. / प्रश्न 96 का स्पष्ट हल।"
+    },
+    {
+      "id": "33c56ea2",
+      "question": "Question 97: The difference between CI and SI on Rs. 40,000 for 2 years at 10% per annum is:\n(प्रश्न 97:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) Rs. 350",
+        "B) Rs. 400",
+        "C) Rs. 450",
+        "D) Rs. 500"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 97. / प्रश्न 97 का स्पष्ट हल।"
+    },
+    {
+      "id": "3ed1be19",
+      "question": "Question 98: A sum triples itself in 8 years at simple interest. In how many years will it become 5 times?\n(प्रश्न 98:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 12 years",
+        "B) 14 years",
+        "C) 16 years",
+        "D) 20 years"
+      ],
+      "answer": 2,
+      "explanation": "Detailed solution for Question 98. / प्रश्न 98 का स्पष्ट हल।"
+    },
+    {
+      "id": "341f00cc",
+      "question": "Question 99: The average age of 30 boys is 15 years. If the teacher's age is added, average becomes 16. Teacher's age:\n(प्रश्न 99:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 45 years",
+        "B) 46 years",
+        "C) 47 years",
+        "D) 50 years"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 99. / प्रश्न 99 का स्पष्ट हल।"
+    },
+    {
+      "id": "bf849fa1",
+      "question": "Question 100: A tap can fill a tank in 12 hours and another can empty it in 15 hours. If both open together:\n(प्रश्न 100:गणित उन्नत अभ्यास प्रश्न।)",
+      "options": [
+        "A) 50 hours",
+        "B) 60 hours",
+        "C) 45 hours",
+        "D) 55 hours"
+      ],
+      "answer": 1,
+      "explanation": "Detailed solution for Question 100. / प्रश्न 100 का स्पष्ट हल।"
     }
   ]
 }
