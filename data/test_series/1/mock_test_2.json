@@ -1,0 +1,1448 @@
+{
+  "title": "Mock Test 2",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "6103e33b",
+      "question": "[Section 1: Languages - Hindi] 'हतोत्साहित' का विलोम शब्द क्या होगा? / What is the antonym of 'Hatotsahit'?",
+      "options": [
+        "प्रोत्साहित",
+        "उत्साहित",
+        "समीचीन",
+        "अनुत्साहित"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'हतोत्साहित' का सही विलोम 'प्रोत्साहित' (या उत्साहित) होता है।"
+    },
+    {
+      "id": "c4b527e6",
+      "question": "[Section 1: Languages - Hindi] निम्नलिखित में से शुद्ध वर्तनी वाले शब्द का चयन कीजिए:",
+      "options": [
+        "उज्ज्वल",
+        "उज्वल",
+        "उज्जवल",
+        "उत्ज्वल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'उत् + ज्वल' की सन्धि से 'उज्ज्वल' (दोनों 'ज' आधे) शुद्ध रूप बनता है।"
+    },
+    {
+      "id": "082425bf",
+      "question": "[Section 1: Languages - Hindi] 'प्रत्युपकार' (प्रति + उपकार) में कौन सी सन्धि है?",
+      "options": [
+        "यण सन्धि",
+        "गुण सन्धि",
+        "वृद्धि सन्धि",
+        "अयादि सन्धि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. इ/ई के बाद कोई असमान स्वर आने पर 'इ' का 'य्' हो जाता है (इको यणचि), अतः यह यण सन्धि है।"
+    },
+    {
+      "id": "0707cee1",
+      "question": "[Section 1: Languages - Hindi] 'दशानन' में कौन सा समास है जब इसका विग्रह 'दश आनन हैं जिसके अर्थात रावण' किया जाए?",
+      "options": [
+        "बहुव्रीहि समास",
+        "द्विगु समास",
+        "कर्मधारय समास",
+        "तत्पुरुष समास"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. तीसरे विशेष अर्थ (रावण) का बोध कराने के कारण इसमें बहुव्रीहि समास है।"
+    },
+    {
+      "id": "b85d9fa7",
+      "question": "[Section 1: Languages - Hindi] 'जो सब कुछ जानता हो' वाक्यांश के लिए एक शब्द क्या होगा?",
+      "options": [
+        "सर्वज्ञ",
+        "अल्पज्ञ",
+        "विज्ञ",
+        "कृतज्ञ"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'जो सब कुछ जानता हो' उसे सर्वज्ञ कहा जाता है।"
+    },
+    {
+      "id": "09263a60",
+      "question": "[Section 1: Languages - Hindi] 'मुँह की खाना' मुहावरे का सही अर्थ क्या है?",
+      "options": [
+        "बुरी तरह हारना",
+        "बहुत लज्जित होना",
+        "भोजन करना",
+        "धोखा खाना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'मुँह की खाना' मुहावरे का अर्थ पराजित होना या बुरी तरह हारना है।"
+    },
+    {
+      "id": "e2bc789d",
+      "question": "[Section 1: Languages - Hindi] 'अंधेर नगरी अनबुझ राजा, टके सेर भाजी टके सेर खाजा' लोकोक्ति का सही अर्थ है:",
+      "options": [
+        "अन्याय और अज्ञान का कुशासन",
+        "सस्ते दामों में वस्तुएं मिलना",
+        "राजा का न्यायप्रिय होना",
+        "मूर्खों का आदर होना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. जहाँ विवेक और न्याय का अभाव हो, उस कुशासन को दर्शाती है।"
+    },
+    {
+      "id": "17d80224",
+      "question": "[Section 1: Languages - Hindi] 'मृगया' शब्द का पर्यायवाची शब्द क्या है?",
+      "options": [
+        "शिकार",
+        "हिरण",
+        "जंगल",
+        "सिंह"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'मृगया' का अर्थ अहेर या शिकार होता है।"
+    },
+    {
+      "id": "9fed0d56",
+      "question": "[Section 1: Languages - Hindi] 'वाक्यं रसात्मकं काव्यम्' उक्ति किस आचार्य की है?",
+      "options": [
+        "आचार्य विश्वनाथ",
+        "आचार्य भरतमुनि",
+        "आचार्य भामह",
+        "पंडितराज जगन्नाथ"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. यह प्रसिद्ध लक्षण 'साहित्यदर्पण' के रचयिता आचार्य विश्वनाथ का है।"
+    },
+    {
+      "id": "20d24310",
+      "question": "[Section 1: Languages - Hindi] 'पेड़ से पत्ता गिरा' वाक्य में 'पेड़ से' में कौन सा कारक है?",
+      "options": [
+        "अपादान कारक",
+        "करण कारक",
+        "संबोधन कारक",
+        "अधिकरण कारक"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अलगाव (पृथकता) का भाव होने के कारण इसमें अपादान कारक है।"
+    },
+    {
+      "id": "e4437c8e",
+      "question": "[Section 1: Languages - English] Select the correct SYNONYM of the word 'AMELIORATE':",
+      "options": [
+        "To improve or make better",
+        "To worsen or deteriorate",
+        "To suppress",
+        "To delay"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Ameliorate' means to make something bad or unsatisfactory better; to improve."
+    },
+    {
+      "id": "a4cf176e",
+      "question": "[Section 1: Languages - English] Select the correct ANTONYM of the word 'TACITURN':",
+      "options": [
+        "Garrulous / Talkative",
+        "Reticent",
+        "Silent",
+        "Reserved"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Taciturn' means reserved or uncommunicative; its antonym is 'garrulous' (talkative)."
+    },
+    {
+      "id": "3c4ef48a",
+      "question": "[Section 1: Languages - English] Identify the error: 'Hardly had I entered the station than the train left.'",
+      "options": [
+        "than the train left",
+        "Hardly had I",
+        "entered the station",
+        "No error"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Hardly' takes 'when' or 'before', not 'than'. ('No sooner' takes 'than')."
+    },
+    {
+      "id": "e2e2c1e9",
+      "question": "[Section 1: Languages - English] Transform into Passive Voice: 'The board is considering the proposal.'",
+      "options": [
+        "The proposal is being considered by the board.",
+        "The proposal was considered by the board.",
+        "The proposal has been considered by the board.",
+        "The proposal is considered by the board."
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Present Continuous active ('is considering') changes to 'is being considered'."
+    },
+    {
+      "id": "8a039792",
+      "question": "[Section 1: Languages - English] Convert into Indirect Speech: He said, 'I have completed my research project.'",
+      "options": [
+        "He said that he had completed his research project.",
+        "He said that he has completed his research project.",
+        "He told he completed his research project.",
+        "He said that I had completed my research project."
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Present Perfect changes to Past Perfect in indirect speech."
+    },
+    {
+      "id": "8793dff0",
+      "question": "[Section 1: Languages - English] Fill in the blank: 'She is confident ________ clearing the competitive exam.'",
+      "options": [
+        "of",
+        "about",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. The adjective 'confident' takes the preposition 'of' followed by a gerund."
+    },
+    {
+      "id": "2829e29d",
+      "question": "[Section 1: Languages - English] What is the meaning of the idiom 'To burn the candle at both ends'?",
+      "options": [
+        "To exhaust oneself by working early and late",
+        "To waste money recklessly",
+        "To be careless about fire safety",
+        "To work in two different jobs"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. It means to work extremely hard and get very little rest."
+    },
+    {
+      "id": "c92d9f11",
+      "question": "[Section 1: Languages - English] One-word substitution: 'A person who hates or distrusts humankind.'",
+      "options": [
+        "Misanthrope",
+        "Philanthropist",
+        "Misogynist",
+        "Altruist"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. A 'misanthrope' dislikes and avoids human society."
+    },
+    {
+      "id": "5552fb57",
+      "question": "[Section 1: Languages - English] Identify the figure of speech in: 'The opportunity knocked at his door.'",
+      "options": [
+        "Personification",
+        "Metaphor",
+        "Simile",
+        "Hyperbole"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Attributing human actions (knocking) to an abstract concept (opportunity) is Personification."
+    },
+    {
+      "id": "f87cc38b",
+      "question": "[Section 1: Languages - English] Select the correctly spelt word:",
+      "options": [
+        "Accommodation",
+        "Accomodation",
+        "Acommodation",
+        "Acomodation"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. The correct spelling is 'Accommodation' (double 'c' and double 'm')."
+    },
+    {
+      "id": "66dc6b77",
+      "question": "[Section 1: Languages - Sanskrit] 'अकुहविसर्जनीयानाम् ________' सूत्र के अनुसार उच्चारण स्थान क्या है?",
+      "options": [
+        "कण्ठः",
+        "तालु",
+        "मूर्धा",
+        "दन्ताः"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अ, आ, क-वर्ग, ह तथा विसर्ग का उच्चारण स्थान कण्ठ होता है।"
+    },
+    {
+      "id": "44fd4a92",
+      "question": "[Section 1: Languages - Sanskrit] 'इको यणचि' सूत्र से किस सन्धि का विधान होता है?",
+      "options": [
+        "यण् सन्धि",
+        "गुण सन्धि",
+        "वृद्धि सन्धि",
+        "अयादि सन्धि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. इक् वर्णों के स्थान पर यण् आदेश होना यण् सन्धि है।"
+    },
+    {
+      "id": "484d6a48",
+      "question": "[Section 1: Languages - Sanskrit] 'अष्टाध्यायी' ग्रन्थ के रचयिता कौन हैं?",
+      "options": [
+        "महर्षि पाणिनि",
+        "महर्षि पतंजलि",
+        "वरदराज",
+        "कात्यायन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. संस्कृत व्याकरण के महान सूत्रकार महर्षि पाणिनि हैं।"
+    },
+    {
+      "id": "6ec87b27",
+      "question": "[Section 1: Languages - Sanskrit] 'पितरौ' (माता च पिता च) में कौन सा समास है?",
+      "options": [
+        "एकशेष द्वंद्व समास",
+        "इतरेतर द्वंद्व समास",
+        "समाहार द्वंद्व समास",
+        "अव्ययीभाव समास"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. विग्रह में एक ही पद शेष रहने के कारण 'एकशेष द्वंद्व समास' है।"
+    },
+    {
+      "id": "f6f15156",
+      "question": "[Section 1: Languages - Sanskrit] 'रुच्यर्थानां प्रीयमाणः' सूत्र से किस विभक्ति का विधान होता है?",
+      "options": [
+        "चतुर्थी विभक्ति",
+        "तृतीया विभक्ति",
+        "पंचमी विभक्ति",
+        "द्वितीय विभक्ति"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'रुच्' धातु के योग में प्रसन्न होने वाले (प्रीयमाण) में चतुर्थी विभक्ति होती है।"
+    },
+    {
+      "id": "d1f0f738",
+      "question": "[Section 1: Languages - Sanskrit] 'गत्वा' पद में कौन सा प्रत्यय है?",
+      "options": [
+        "क्त्वा",
+        "ल्यप्",
+        "तुमुन्",
+        "क्त"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. गम् + क्त्वा = गत्वा (जाकर)।"
+    },
+    {
+      "id": "f2c062f2",
+      "question": "[Section 1: Languages - Sanskrit] संस्कृत में माहेश्वर सूत्रों की कुल संख्या कितनी है?",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "10"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. पाणिनीय व्याकरण में माहेश्वर सूत्रों की संख्या 14 है।"
+    },
+    {
+      "id": "cda19014",
+      "question": "[Section 1: Languages - Sanskrit] 'अस्मद्' शब्द का प्रथमा विभक्ति एकवचन रूप क्या है?",
+      "options": [
+        "अहम्",
+        "माम्",
+        "मया",
+        "मह्यम्"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अस्मद् सर्वनाम का प्रथमा एकवचन 'अहम्' (मैं) होता है।"
+    },
+    {
+      "id": "72e976f2",
+      "question": "[Section 1: Languages - Sanskrit] संस्कृत संख्या 'षण्णवतिः' किस संख्या का बोधक है?",
+      "options": [
+        "96",
+        "69",
+        "66",
+        "86"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. षट् (6) + नवतिः (90) = 96 (षण्णवतिः)।"
+    },
+    {
+      "id": "317d9d8c",
+      "question": "[Section 1: Languages - Sanskrit] 'किरातार्जुनीयम्' महाकाव्य के रचयिता कौन हैं?",
+      "options": [
+        "भारवि",
+        "माघ",
+        "श्रीहर्ष",
+        "कालिदास"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अर्थगौरव के लिए प्रसिद्ध महाकवि भारवि किरातार्जुनीयम् के रचयिता हैं।"
+    },
+    {
+      "id": "ad849f12",
+      "question": "[Section 2: GK & Current Affairs] Who took charge as the 53rd Chief Justice of India (CJI)? / भारत के 53वें मुख्य न्यायाधीश (CJI) कौन नियुक्त हुए?",
+      "options": [
+        "Justice Surya Kant / न्यायमूर्ति सूर्यकांत",
+        "Justice B.R. Gavai / न्यायमूर्ति बी.आर. गवई",
+        "Justice Sanjiv Khanna / न्यायमूर्ति संजीव खन्ना",
+        "Justice D.Y. Chandrachud / न्यायमूर्ति डी.वाई. चंद्रचूड़"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Justice Surya Kant assumed office as the 53rd Chief Justice of India."
+    },
+    {
+      "id": "2c368ccf",
+      "question": "[Section 2: GK & Current Affairs] Which city in Uttar Pradesh is being developed as India's first 'AI City'? / उत्तर प्रदेश के किस शहर को भारत की पहली एआई सिटी (AI City) बनाया जा रहा है?",
+      "options": [
+        "Lucknow / लखनऊ",
+        "Noida / नोएडा",
+        "Varanasi / वाराणसी",
+        "Kanpur / कानपुर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Lucknow is being developed as India's first Artificial Intelligence (AI) City."
+    },
+    {
+      "id": "bea60ddf",
+      "question": "[Section 2: GK & Current Affairs] What is the name of the spot on the Moon where Chandrayaan-3 landed? / चंद्रयान-3 के चंद्रमा पर लैंडिंग स्थल का नाम क्या रखा गया?",
+      "options": [
+        "Shiv Shakti Point / शिव शक्ति प्वाइंट",
+        "Tiranga Point / तिरंगा प्वाइंट",
+        "Atal Point / अटल प्वाइंट",
+        "Jawahar Point / जवाहर प्वाइंट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. PM Modi named Chandrayaan-3 touchdown site 'Shiv Shakti Point' (Aug 23 = National Space Day)."
+    },
+    {
+      "id": "5d5edd13",
+      "question": "[Section 2: GK & Current Affairs] Who was awarded the Nobel Peace Prize 2024? / 2024 का नोबेल शांति पुरस्कार किसे दिया गया?",
+      "options": [
+        "Nihon Hidankyo / निहोन हिदांक्यो",
+        "Narges Mohammadi / नरगिस मोहम्मदी",
+        "World Food Programme / विश्व खाद्य कार्यक्रम",
+        "Red Cross / रेड क्रॉस"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Japanese grassroots movement of atomic bomb survivors Nihon Hidankyo won the 2024 Nobel Peace Prize."
+    },
+    {
+      "id": "5d6c4589",
+      "question": "[Section 2: GK & Current Affairs] Which team won the ICC Men's T20 World Cup 2024? / आईसीसी पुरुष टी20 विश्व कप 2024 किस देश ने जीता?",
+      "options": [
+        "India / भारत",
+        "South Africa / दक्षिण अफ्रीका",
+        "Australia / ऑस्ट्रेलिया",
+        "England / इंग्लैंड"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. India defeated South Africa in Barbados to claim the T20 World Cup 2024 trophy."
+    },
+    {
+      "id": "b659b0fe",
+      "question": "[Section 2: GK & Current Affairs] Where was the grand Maha Kumbh Mela 2025 organized in UP? / उत्तर प्रदेश में महाकुंभ मेला 2025 कहाँ आयोजित हुआ?",
+      "options": [
+        "Prayagraj / प्रयागराज",
+        "Varanasi / वाराणसी",
+        "Ayodhya / अयोध्या",
+        "Mathura / मथुरा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Maha Kumbh 2025 took place at Prayagraj Triveni Sangam."
+    },
+    {
+      "id": "79bf4815",
+      "question": "[Section 2: GK & Current Affairs] Which classical dance form originated in Uttar Pradesh? / उत्तर प्रदेश का पारंपरिक शास्त्रीय नृत्य कौन सा है?",
+      "options": [
+        "Kathak / कत्थक",
+        "Kathakali / कथकली",
+        "Bharatnatyam / भरतनाट्यम",
+        "Kuchipudi / कुचिपुड़ी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Kathak is the classical dance form of North India (Uttar Pradesh)."
+    },
+    {
+      "id": "ba481d2e",
+      "question": "[Section 2: GK & Current Affairs] In which district of UP is the Dudhwa National Park located? / उत्तर प्रदेश का दुधवा राष्ट्रीय उद्यान किस जिले में है?",
+      "options": [
+        "Lakhimpur Kheri / लखीमपुर खीरी",
+        "Sonbhadra / सोनभद्र",
+        "Bahraich / बहराइच",
+        "Mirzapur / मिर्जापुर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Dudhwa National Park is in Lakhimpur Kheri district."
+    },
+    {
+      "id": "4042ead4",
+      "question": "[Section 2: GK & Current Affairs] What is the State Bird of Uttar Pradesh? / उत्तर प्रदेश का राज्य पक्षी कौन सा है?",
+      "options": [
+        "Sarus Crane / सारस (क्रेन)",
+        "Peacock / मोर",
+        "House Sparrow / गौरैया",
+        "Parrot / तोता"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Sarus Crane is the official state bird of UP."
+    },
+    {
+      "id": "309bc261",
+      "question": "[Section 2: GK & Current Affairs] Who was the Chairman of the Drafting Committee of the Indian Constitution? / भारतीय संविधान की प्रारूप समिति के अध्यक्ष कौन थे?",
+      "options": [
+        "Dr. B.R. Ambedkar / डॉ. बी.आर. अंबेडकर",
+        "Dr. Rajendra Prasad / डॉ. राजेंद्र प्रसाद",
+        "Jawaharlal Nehru / जवाहरलाल नेहरू",
+        "Sardar Patel / सरदार पटेल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee."
+    },
+    {
+      "id": "9f22fa65",
+      "question": "[Section 2: GK & Current Affairs] Fundamental Duties were added to the Constitution under Article 51A by which Amendment? / मूल कर्तव्यों को 51A के तहत किस संशोधन से जोड़ा गया?",
+      "options": [
+        "42nd Amendment Act 1976 / 42वां संशोधन 1976",
+        "44th Amendment Act 1978 / 44वां संशोधन",
+        "86th Amendment Act 2002 / 86वां संशोधन",
+        "73rd Amendment Act 1992 / 73वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 42nd Constitutional Amendment Act 1976 added Fundamental Duties."
+    },
+    {
+      "id": "fc003f3e",
+      "question": "[Section 2: GK & Current Affairs] Which Article is known as the 'Heart and Soul of the Constitution'? / किस अनुच्छेद को संविधान का 'हृदय और आत्मा' कहा गया है?",
+      "options": [
+        "Article 32 / अनुच्छेद 32",
+        "Article 21 / अनुच्छेद 21",
+        "Article 14 / अनुच्छेद 14",
+        "Article 19 / अनुच्छेद 19"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 32 (Right to Constitutional Remedies) was termed heart & soul by Dr. Ambedkar."
+    },
+    {
+      "id": "778945ff",
+      "question": "[Section 2: GK & Current Affairs] Minimum age required to become the President of India is: / भारत का राष्ट्रपति बनने हेतु न्यूनतम आयु कितनी है?",
+      "options": [
+        "35 years / 35 वर्ष",
+        "30 years / 30 वर्ष",
+        "25 years / 25 वर्ष",
+        "21 years / 21 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 58 prescribes minimum 35 years of age."
+    },
+    {
+      "id": "33a2976e",
+      "question": "[Section 2: GK & Current Affairs] Which Governor-General abolished the practice of Sati in 1829? / 1829 में सती प्रथा का अंत किसने किया था?",
+      "options": [
+        "Lord William Bentinck / लॉर्ड विलियम बैंटिंक",
+        "Lord Dalhousie / लॉर्ड डलहौजी",
+        "Lord Canning / लॉर्ड कैनिंग",
+        "Lord Ripon / लॉर्ड रिपन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Lord William Bentinck enacted the Sati Regulation Act in 1829."
+    },
+    {
+      "id": "f1a8dde7",
+      "question": "[Section 2: GK & Current Affairs] In which session of INC was 'Purna Swaraj' declared as the goal in 1929? / 1929 के किस अधिवेशन में 'पूर्ण स्वराज' का लक्ष्य घोषित हुआ?",
+      "options": [
+        "Lahore Session / लाहौर अधिवेशन",
+        "Karachi Session / कराची अधिवेशन",
+        "Surat Session / सूरत अधिवेशन",
+        "Belgaum Session / बेलगाम अधिवेशन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Jawaharlal Nehru presided over the 1929 Lahore Session."
+    },
+    {
+      "id": "8939df05",
+      "question": "[Section 2: GK & Current Affairs] Champaran Satyagraha of 1917 was related to: / 1917 का चंपारण सत्याग्रह किससे संबंधित था?",
+      "options": [
+        "Indigo Plantation (Tinkathia) / नील की खेती (तिनकटिया)",
+        "Salt tax / नमक कर",
+        "Cotton mill workers / सूती मिल मजदूर",
+        "Revenue assessment / भू-राजस्व"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Gandhi's first satyagraha in India was against Tinkathia indigo farming."
+    },
+    {
+      "id": "25476eb1",
+      "question": "[Section 2: GK & Current Affairs] Which gas is primarily responsible for Global Warming? / ग्लोबल वार्मिंग हेतु मुख्य गैस कौन सी है?",
+      "options": [
+        "Carbon Dioxide (CO2) / कार्बन डाइऑक्साइड",
+        "Nitrogen / नाइट्रोजन",
+        "Oxygen / ऑक्सीजन",
+        "Argon / ऑर्गन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. CO2 is the primary greenhouse gas driving global warming."
+    },
+    {
+      "id": "92f538f1",
+      "question": "[Section 2: GK & Current Affairs] Where is the headquarters of UNESCO located? / यूनेस्को का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Paris, France / पेरिस, फ्रांस",
+        "Geneva, Switzerland / जेनेवा",
+        "New York, USA / न्यूयॉर्क",
+        "Vienna, Austria / वियना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. UNESCO headquarters is in Paris, France."
+    },
+    {
+      "id": "ec18941f",
+      "question": "[Section 2: GK & Current Affairs] World Environment Day is celebrated on: / विश्व पर्यावरण दिवस कब मनाया जाता है?",
+      "options": [
+        "June 5 / 5 जून",
+        "April 22 / 22 अप्रैल",
+        "May 22 / 22 मई",
+        "Sept 16 / 16 सितंबर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. World Environment Day is observed every year on June 5."
+    },
+    {
+      "id": "64c9dfe6",
+      "question": "[Section 2: GK & Current Affairs] Which river is known as the 'Dakshin Ganga'? / किस नदी को 'दक्षिण गंगा' कहा जाता है?",
+      "options": [
+        "Godavari River / गोदावरी नदी",
+        "Kaveri River / कावेरी नदी",
+        "Krishna River / कृष्णा नदी",
+        "Narmada River / नर्मदा नदी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Godavari is the longest peninsular river and is called Dakshin Ganga."
+    },
+    {
+      "id": "3bdbfcba",
+      "question": "[Section 2: GK & Current Affairs] Highest peak in South India is: / दक्षिण भारत की सबसे ऊंची चोटी कौन सी है?",
+      "options": [
+        "Anamudi / अनामुडी",
+        "Doddabetta / दोड्डाबेट्टा",
+        "Kalsubai / कलसुबाई",
+        "Mahendragiri / महेंद्रगिरि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Anamudi (2,695m) in Kerala is the highest peak in South India."
+    },
+    {
+      "id": "57e286c7",
+      "question": "[Section 2: GK & Current Affairs] McMahon Line separates India and: / मैकमोहन रेखा भारत और किस देश को अलग करती है?",
+      "options": [
+        "China / चीन",
+        "Pakistan / पाकिस्तान",
+        "Afghanistan / अफगानिस्तान",
+        "Nepal / नेपाल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. McMahon Line is the effective boundary between India and China."
+    },
+    {
+      "id": "ac4e9aac",
+      "question": "[Section 2: GK & Current Affairs] Who was the first Indian to receive a Nobel Prize? / नोबेल पुरस्कार पाने वाले प्रथम भारतीय कौन थे?",
+      "options": [
+        "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+        "C.V. Raman / सी.वी. रमन",
+        "Mother Teresa / मदर टेरेसा",
+        "Amartya Sen / अमर्त्य सेन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali."
+    },
+    {
+      "id": "bd023dab",
+      "question": "[Section 2: GK & Current Affairs] Where is the headquarters of RBI located? / भारतीय रिजर्व बैंक का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Mumbai / मुंबई",
+        "New Delhi / नई दिल्ली",
+        "Kolkata / कोलकाता",
+        "Chennai / चेन्नई"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RBI headquarters is situated in Mumbai, Maharashtra."
+    },
+    {
+      "id": "53f00b0e",
+      "question": "[Section 2: GK & Current Affairs] Which state has the longest coastline in India? / भारत में किस राज्य की तटरेखा सबसे लंबी है?",
+      "options": [
+        "Gujarat / गुजरात",
+        "Andhra Pradesh / आंध्र प्रदेश",
+        "Tamil Nadu / तमिलनाडु",
+        "Maharashtra / महाराष्ट्र"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Gujarat possesses the longest coastline (~1,600 km) in mainland India."
+    },
+    {
+      "id": "53de2095",
+      "question": "[Section 3: Mathematics] If 15% of a number is 45, what is 40% of that number? / यदि किसी संख्या का 15% मान 45 है, तो उसका 40% मान क्या होगा?",
+      "options": [
+        "120",
+        "150",
+        "100",
+        "180"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Number = 45 / 0.15 = 300. 40% of 300 = 120."
+    },
+    {
+      "id": "bf6bf661",
+      "question": "[Section 3: Mathematics] Average of first 50 natural numbers is: / प्रथम 50 प्राकृतिक संख्याओं का औसत क्या होगा?",
+      "options": [
+        "25.5",
+        "25.0",
+        "26.0",
+        "24.5"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Average = (n + 1)/2 = 51 / 2 = 25.5."
+    },
+    {
+      "id": "f8f4dea1",
+      "question": "[Section 3: Mathematics] Find the compound interest on ₹10,000 at 10% per annum for 2 years compounded annually. / ₹10,000 का 10% दर से 2 वर्ष का चक्रवर्द्धि ब्याज क्या होगा?",
+      "options": [
+        "₹2,100",
+        "₹2,000",
+        "₹2,200",
+        "₹1,200"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Amount = 10000 * (1.1)^2 = ₹12,100. CI = ₹2,100."
+    },
+    {
+      "id": "14232eb9",
+      "question": "[Section 3: Mathematics] Selling price of an article is ₹450 with a loss of 10%. To gain 20% profit, selling price should be: / 10% हानि पर वस्तु ₹450 में बेची गई। 20% लाभ के लिए विक्रय मूल्य क्या होगा?",
+      "options": [
+        "₹600",
+        "₹540",
+        "₹580",
+        "₹620"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. CP = 450 / 0.90 = ₹500. Required SP = 500 * 1.20 = ₹600."
+    },
+    {
+      "id": "9ae70081",
+      "question": "[Section 3: Mathematics] Two numbers are in ratio 3:4. If their HCF is 4, find their LCM. / दो संख्याएं 3:4 के अनुपात में हैं। HCF 4 है, तो LCM क्या होगा?",
+      "options": [
+        "48",
+        "36",
+        "24",
+        "60"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. LCM = ratio product * HCF = 3 * 4 * 4 = 48."
+    },
+    {
+      "id": "8adc9334",
+      "question": "[Section 3: Mathematics] If perimeter of a square is 48 cm, its area is: / यदि वर्ग का परिमाप 48 सेमी है, तो क्षेत्रफल क्या होगा?",
+      "options": [
+        "144 sq cm",
+        "96 sq cm",
+        "169 sq cm",
+        "121 sq cm"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Side = 48 / 4 = 12 cm. Area = 12^2 = 144 sq cm."
+    },
+    {
+      "id": "d70b21ce",
+      "question": "[Section 3: Mathematics] Speed of a car covering 180 km in 3 hours in m/s is: / 3 घंटे में 180 किमी दूरी तय करने वाली कार की चाल मी/से में क्या होगी?",
+      "options": [
+        "16.67 m/s",
+        "20 m/s",
+        "15 m/s",
+        "25 m/s"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Speed = 60 km/h = 60 * (5/18) = 16.67 m/s."
+    },
+    {
+      "id": "892b7e03",
+      "question": "[Section 3: Mathematics] If 12 men complete a work in 18 days, 9 men will complete it in: / 12 पुरुष काम 18 दिन में करते हैं, 9 पुरुष इसे कितने दिन में करेंगे?",
+      "options": [
+        "24 days / 24 दिन",
+        "20 days / 20 दिन",
+        "27 days / 27 दिन",
+        "16 days / 16 दिन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. M1*D1 = M2*D2 => 12 * 18 = 9 * D2 => D2 = 24 days."
+    },
+    {
+      "id": "a7665d40",
+      "question": "[Section 3: Mathematics] Length & breadth increased by 10% and 20%. Percentage increase in area is: / लंबाई 10% और चौड़ाई 20% बढ़ाई गई। क्षेत्रफल में % वृद्धि क्या होगी?",
+      "options": [
+        "32%",
+        "30%",
+        "35%",
+        "28%"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. % Change = 10 + 20 + (10*20)/100 = 32%."
+    },
+    {
+      "id": "25f3f279",
+      "question": "[Section 3: Mathematics] Value of (x^2 - 9) / (x - 3) at x = 5 is: / x = 5 पर (x^2 - 9)/(x - 3) का मान क्या होगा?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "4"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Simplified = x + 3. At x = 5, 5 + 3 = 8."
+    },
+    {
+      "id": "8654227c",
+      "question": "[Section 3: Mathematics] Sum of interior angles of a convex Hexagon (6 sides) is: / षट्भुज (6 भुजाओं) के अंतः कोणों का योग कितना होता है?",
+      "options": [
+        "720°",
+        "540°",
+        "360°",
+        "900°"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Sum = (n - 2) * 180° = (6 - 2) * 180° = 720°."
+    },
+    {
+      "id": "47f8a27a",
+      "question": "[Section 3: Mathematics] If radius of a circle is doubled, its area becomes: / यदि वृत्त की त्रिज्या दोगुनी कर दी जाए, तो क्षेत्रफल कितने गुना हो जाएगा?",
+      "options": [
+        "4 times / 4 गुना",
+        "2 times / 2 गुना",
+        "8 times / 8 गुना",
+        "3 times / 3 गुना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Area is proportional to r^2. Doubling r makes area 4 times."
+    },
+    {
+      "id": "08c05964",
+      "question": "[Section 3: Mathematics] Median of 12, 15, 11, 19, 23, 16, 17 is: / आंकड़ों 12, 15, 11, 19, 23, 16, 17 की माध्यिका क्या होगी?",
+      "options": [
+        "16",
+        "15",
+        "17",
+        "19"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ascending order: 11, 12, 15, 16, 17, 19, 23. 4th term = 16."
+    },
+    {
+      "id": "9bc42937",
+      "question": "[Section 3: Mathematics] Supplementary angle of 65° is: / 65° का संपूरक कोण क्या होगा?",
+      "options": [
+        "115°",
+        "25°",
+        "125°",
+        "135°"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Supplementary sum = 180°. Required angle = 180° - 65° = 115°."
+    },
+    {
+      "id": "d9d4ee01",
+      "question": "[Section 3: Mathematics] Simplify: 25 - [4 + {16 - (12 - 2)}] / व्यंजक 25 - [4 + {16 - (12 - 2)}] को सरल करें:",
+      "options": [
+        "15",
+        "12",
+        "18",
+        "20"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. BODMAS: (12-2)=10; {16-10}=6; [4+6]=10; 25-10 = 15."
+    },
+    {
+      "id": "78fc2eb7",
+      "question": "[Section 3: Mathematics] If x + 1/x = 4, then x^2 + 1/x^2 is: / यदि x + 1/x = 4 है, तो x^2 + 1/x^2 का मान क्या होगा?",
+      "options": [
+        "14",
+        "16",
+        "18",
+        "12"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. x^2 + 1/x^2 = 4^2 - 2 = 16 - 2 = 14."
+    },
+    {
+      "id": "2f485280",
+      "question": "[Section 4: Science] What is the SI unit of luminous intensity? / ज्योति तीव्रता का SI मात्रक क्या है?",
+      "options": [
+        "Candela / कैंडेला",
+        "Lumen / ल्यूमेन",
+        "Lux / लक्स",
+        "Watt / वाट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. SI unit of luminous intensity is Candela (cd)."
+    },
+    {
+      "id": "7bee7782",
+      "question": "[Section 4: Science] Rocket propulsion works on Newton's Third Law and principle of: / रॉकेट नोदन किस संरक्षण सिद्धांत पर आधारित है?",
+      "options": [
+        "Conservation of Momentum / संवेग संरक्षण",
+        "Conservation of Mass / द्रव्यमान संरक्षण",
+        "Conservation of Energy / ऊर्जा संरक्षण",
+        "Conservation of Charge / आवेश संरक्षण"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Rocket propulsion works on Conservation of Linear Momentum and Newton's Third Law."
+    },
+    {
+      "id": "337a669b",
+      "question": "[Section 4: Science] Which gland regulates calcium level in human blood? / मानव रक्त में कैल्शियम नियंत्रित करने वाली ग्रंथि कौन सी है?",
+      "options": [
+        "Parathyroid Gland / पैराथायराइड ग्रंथि",
+        "Thyroid Gland / थायराइड ग्रंथि",
+        "Adrenal Gland / एड्रेनल ग्रंथि",
+        "Pituitary Gland / पीयूष ग्रंथि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Parathyroid gland secretes PTH to regulate blood calcium levels."
+    },
+    {
+      "id": "85a42220",
+      "question": "[Section 4: Science] pH value of acid rain is generally: / अम्लीय वर्षा का pH मान कितना होता है?",
+      "options": [
+        "Less than 5.6 / 5.6 से कम",
+        "Equal to 7 / 7 के बराबर",
+        "More than 8.5 / 8.5 से अधिक",
+        "Between 6.5 and 7.5 / 6.5 से 7.5"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Rainwater with pH less than 5.6 is categorized as Acid Rain."
+    },
+    {
+      "id": "4a65591d",
+      "question": "[Section 4: Science] Viticulture refers to the cultivation of: / 'विटीकल्चर' किसके उत्पादन से संबंधित है?",
+      "options": [
+        "Grapes / अंगूर की खेती",
+        "Silkworms / रेशम कीट",
+        "Honeybees / मधुमक्खी",
+        "Fishes / मत्स्य पालन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Viticulture is the science and cultivation of grapes."
+    },
+    {
+      "id": "6edac221",
+      "question": "[Section 4: Science] Which of the following vitamins is water-soluble? / कौन सा विटामिन जल में घुलनशील है?",
+      "options": [
+        "Vitamin C / विटामिन C",
+        "Vitamin A / विटामिन A",
+        "Vitamin D / विटामिन D",
+        "Vitamin K / विटामिन K"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Vitamin B & C are water-soluble; A, D, E, K are fat-soluble."
+    },
+    {
+      "id": "5be4cdd3",
+      "question": "[Section 4: Science] What type of image is formed on human retina? / मानव रेटिना पर बनने वाला प्रतिबिंब कैसा होता है?",
+      "options": [
+        "Real and Inverted / वास्तविक और उल्टा",
+        "Virtual and Erect / आभासी और सीधा",
+        "Real and Erect / वास्तविक और सीधा",
+        "Virtual and Inverted / आभासी और उल्टा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Eye lens forms a real, inverted, and smaller image on retina."
+    },
+    {
+      "id": "8f2fdac0",
+      "question": "[Section 4: Science] Which metal is stored in kerosene due to high reactivity with air and water? / किस धातु को मिट्टी के तेल में रखा जाता है?",
+      "options": [
+        "Sodium / सोडियम",
+        "Magnesium / मैग्नीशियम",
+        "Calcium / कैल्शियम",
+        "Iron / लोहा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Sodium reacts vigorously with air and water, so it is stored in kerosene."
+    },
+    {
+      "id": "c6358113",
+      "question": "[Section 5: EVS & Social Studies] Which gas layer absorbs harmful UV radiation in atmosphere? / पराबैंगनी किरणों को कौन सी परत अवशोषित करती है?",
+      "options": [
+        "Ozone Layer / ओजोन परत",
+        "Carbon Dioxide / CO2",
+        "Nitrogen / नाइट्रोजन",
+        "Water Vapor / जलवाष्प"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ozone layer in Stratosphere absorbs harmful UV rays."
+    },
+    {
+      "id": "047cb4b6",
+      "question": "[Section 5: EVS & Social Studies] Highest peak in Western Ghats is: / पश्चिमी घाट की सबसे ऊंची चोटी कौन सी है?",
+      "options": [
+        "Anamudi / अनामुडी",
+        "Doddabetta / दोड्डाबेट्टा",
+        "Kalsubai / कलसुबाई",
+        "Guru Shikhar / गुरु शिखर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Anamudi (2,695m) in Kerala is the highest peak in Western Ghats."
+    },
+    {
+      "id": "4275f1f9",
+      "question": "[Section 5: EVS & Social Studies] Article abolishing Untouchability in Constitution is: / अस्पृश्यता का उन्मूलन करने वाला अनुच्छेद कौन सा है?",
+      "options": [
+        "Article 17 / अनुच्छेद 17",
+        "Article 14 / अनुच्छेद 14",
+        "Article 19 / अनुच्छेद 19",
+        "Article 21 / अनुच्छेद 21"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 17 abolishes untouchability in India."
+    },
+    {
+      "id": "2d806306",
+      "question": "[Section 5: EVS & Social Studies] Who established 'Satyashodhak Samaj' in 1873? / 1873 में 'सत्यशोधक समाज' की स्थापना किसने की थी?",
+      "options": [
+        "Jyotirao Phule / ज्योतिराव फुले",
+        "B.R. Ambedkar / बी.आर. अंबेडकर",
+        "Raja Ram Mohan Roy / राजा राममोहन राय",
+        "Swami Dayanand / स्वामी दयानंद"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Jyotirao Phule founded Satyashodhak Samaj for social reform."
+    },
+    {
+      "id": "bbf54f28",
+      "question": "[Section 5: EVS & Social Studies] World Biodiversity Day is celebrated on: / अंतर्राष्ट्रीय जैव विविधता दिवस कब मनाया जाता है?",
+      "options": [
+        "May 22 / 22 मई",
+        "June 5 / 5 जून",
+        "April 22 / 22 अप्रैल",
+        "March 22 / 22 मार्च"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. World Biodiversity Day is observed on May 22."
+    },
+    {
+      "id": "63d92b09",
+      "question": "[Section 5: EVS & Social Studies] Which soil is also known as 'Regur Soil'? / किस मिट्टी को 'रेगुड़ मृदा' भी कहा जाता है?",
+      "options": [
+        "Black Soil / काली मिट्टी",
+        "Red Soil / लाल मिट्टी",
+        "Alluvial Soil / जलोढ़ मिट्टी",
+        "Laterite Soil / लेटराइट मिट्टी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Black cotton soil is famously known as Regur soil."
+    },
+    {
+      "id": "36956657",
+      "question": "[Section 5: EVS & Social Studies] Chipko Movement was led by: / चिपको आंदोलन का नेतृत्व किसने किया था?",
+      "options": [
+        "Sundarlal Bahuguna / सुंदरलाल बहुगुणा",
+        "Baba Amte / बाबा आम्टे",
+        "Medha Patkar / मेधा पाटकर",
+        "Chandi Prasad Bhatt / चंडी प्रसाद भट्ट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Sundarlal Bahuguna led Chipko Movement in Uttarakhand for forest conservation."
+    },
+    {
+      "id": "67f7bb89",
+      "question": "[Section 5: EVS & Social Studies] Loktak Lake is located in which state? / लोकटक झील किस राज्य में स्थित है?",
+      "options": [
+        "Manipur / मणिपुर",
+        "Meghalaya / मेघालय",
+        "Assam / असम",
+        "Tripura / त्रिपुरा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Loktak freshwater lake is located in Manipur."
+    },
+    {
+      "id": "3f016550",
+      "question": "[Section 6: Teaching Skills] Micro-teaching concept was introduced by: / सूक्ष्म शिक्षण की अवधारणा किसने विकसित की थी?",
+      "options": [
+        "Dwight W. Allen / ड्वाइट डब्ल्यू. एलन",
+        "B.F. Skinner / बी.एफ. स्किनर",
+        "N.L. Gage / एन.एल. गेज",
+        "John Dewey / जॉन डीवी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Dwight W. Allen developed micro-teaching at Stanford University in 1963."
+    },
+    {
+      "id": "7f089ebd",
+      "question": "[Section 7: Child Psychology] Duration of NCERT micro-teaching cycle is: / NCERT प्रतिमान अनुसार सूक्ष्म शिक्षण चक्र की अवधि कितनी है?",
+      "options": [
+        "36 minutes / 36 मिनट",
+        "45 minutes / 45 मिनट",
+        "30 minutes / 30 मिनट",
+        "60 minutes / 60 मिनट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. NCERT micro-teaching cycle duration is 36 minutes."
+    },
+    {
+      "id": "de84432e",
+      "question": "[Section 6: Teaching Skills] Operation Blackboard scheme was launched under: / 'ऑपरेशन ब्लैकबोर्ड' योजना किस शिक्षा नीति से संबंधित है?",
+      "options": [
+        "National Policy on Education 1986 / राष्ट्रीय शिक्षा नीति 1986",
+        "Kothari Commission / कोठारी आयोग",
+        "NEP 2020 / एनईपी 2020",
+        "Radhakrishnan Commission / राधाकृष्णन आयोग"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Operation Blackboard was launched in 1987 under NPE 1986."
+    },
+    {
+      "id": "be55e51f",
+      "question": "[Section 6: Teaching Skills] According to RTE 2009, Pupil-Teacher Ratio (PTR) for primary classes is: / RTE 2009 अनुसार प्राथमिक स्तर पर छात्र-शिक्षक अनुपात है:",
+      "options": [
+        "30:1",
+        "35:1",
+        "40:1",
+        "25:1"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RTE 2009 specifies 30:1 ratio for primary schools."
+    },
+    {
+      "id": "c0cfa5fb",
+      "question": "[Section 6: Teaching Skills] Minimum instructional hours in an academic year for primary teachers under RTE is: / प्राथमिक स्तर पर वार्षिक न्यूनतम शिक्षण घंटे हैं:",
+      "options": [
+        "800 hours / 800 घंटे",
+        "1000 hours / 1000 घंटे",
+        "1200 hours / 1200 घंटे",
+        "600 hours / 600 घंटे"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RTE mandates 200 working days and 800 instructional hours."
+    },
+    {
+      "id": "4f1ec6d7",
+      "question": "[Section 6: Teaching Skills] Project Method of teaching was propounded by: / प्रोजेक्ट विधि के प्रतिपादक कौन हैं?",
+      "options": [
+        "William Heard Kilpatrick / विलियम हर्ड किलपैट्रिक",
+        "John Dewey / जॉन डीवी",
+        "Froebel / फ्रॉबेल",
+        "Montessori / मोंटेसरी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. W.H. Kilpatrick developed Project Method based on Pragmatism."
+    },
+    {
+      "id": "d763785a",
+      "question": "[Section 6: Teaching Skills] Kindergarten method of education was created by: / किंडरगार्टन प्रणाली के जनक कौन हैं?",
+      "options": [
+        "Friedrich Froebel / फ्रेडरिक फ्रॉबेल",
+        "Maria Montessori / मारिया मोंटेसरी",
+        "Helen Parkhurst / हेलेन पार्कहर्स्ट",
+        "Pestalozzi / पेस्टालॉजी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Friedrich Froebel introduced Kindergarten system in Germany."
+    },
+    {
+      "id": "c3f4e85b",
+      "question": "[Section 6: Teaching Skills] Heuristic method of teaching was developed by: / 'ह्यूरिस्टिक विधि' का विकास किसने किया?",
+      "options": [
+        "H.E. Armstrong / एच.ई. आर्मस्ट्रांग",
+        "John Dewey / जॉन डीवी",
+        "Herbert Spencer / हर्बर्ट स्पेंसर",
+        "B.S. Bloom / बी.एस. ब्लूम"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Prof H.E. Armstrong developed the Heuristic (discovery) method."
+    },
+    {
+      "id": "f2bac050",
+      "question": "[Section 7: Child Psychology] Who is known as the 'Father of Child Psychology'? / बाल मनोविज्ञान के जनक कौन हैं?",
+      "options": [
+        "Stanley Hall / स्टेनली हॉल",
+        "Jean Piaget / जीन पियाजे",
+        "Wilhelm Wundt / विल्हेम वुंट",
+        "John Watson / वाटसन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. G. Stanley Hall initiated child study movement."
+    },
+    {
+      "id": "126b544d",
+      "question": "[Section 7: Child Psychology] According to Piaget, 'Object Permanence' develops in: / पियाजे अनुसार 'वस्तु स्थायित्व' किस अवस्था में विकसित होता है?",
+      "options": [
+        "Sensorimotor Stage / संवेदी-गामक अवस्था",
+        "Pre-operational / पूर्व-संक्रियात्मक",
+        "Concrete Operational / मूर्त-संक्रियात्मक",
+        "Formal Operational / अमूर्त-संक्रियात्मक"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Object permanence emerges during Sensorimotor stage (0-2 years)."
+    },
+    {
+      "id": "7935bb35",
+      "question": "[Section 7: Child Psychology] Concept of 'Zone of Proximal Development' (ZPD) was given by: / ZPD की अवधारणा किसने दी?",
+      "options": [
+        "Lev Vygotsky / लेव वाइगोत्स्की",
+        "Jean Piaget / जीन पियाजे",
+        "Jerome Bruner / जेरोम ब्रूनर",
+        "Albert Bandura / अल्बर्ट बांडुरा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Lev Vygotsky formulated ZPD in Social Constructivism."
+    },
+    {
+      "id": "50a46d23",
+      "question": "[Section 7: Child Psychology] Who proposed 'Trial and Error Theory' using cats? / 'प्रयास एवं त्रुटि सिद्धांत' किसने दिया?",
+      "options": [
+        "E.L. Thorndike / ई.एल. थार्नडाइक",
+        "B.F. Skinner / बी.एफ. स्किनर",
+        "Ivan Pavlov / इवान पावलोव",
+        "Wolfgang Kohler / कोहलर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Thorndike proposed Trial and Error theory using cats."
+    },
+    {
+      "id": "e918263b",
+      "question": "[Section 7: Child Psychology] Classical Conditioning theory was propounded by: / शास्त्रीय अनुबंधन का सिद्धांत किसने दिया?",
+      "options": [
+        "Ivan Pavlov / इवान पावलोव",
+        "B.F. Skinner / बी.एफ. स्किनर",
+        "Albert Bandura / बांडुरा",
+        "Kurt Lewin / लेविन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Pavlov demonstrated Classical Conditioning in dogs."
+    },
+    {
+      "id": "f73d3e2a",
+      "question": "[Section 7: Child Psychology] IQ formula [MA/CA * 100] was completed by: / IQ का पूर्ण सूत्र किसने प्रतिपादित किया?",
+      "options": [
+        "Lewis Terman / लुईस टर्मन",
+        "William Stern / विलियम स्टर्न",
+        "Alfred Binet / अल्फ्रेड बिने",
+        "David Wechsler / वेक्सलर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Lewis Terman multiplied Stern's ratio by 100 in 1916."
+    },
+    {
+      "id": "5ea29753",
+      "question": "[Section 7: Child Psychology] Who propounded Two-Factor Theory of Intelligence (G and S factors)? / बुद्धि का द्वि-कारक सिद्धांत किसने दिया?",
+      "options": [
+        "Charles Spearman / चार्ल्स स्पीयरमैन",
+        "E.L. Thorndike / थार्नडाइक",
+        "Howard Gardner / गार्डनर",
+        "Louis Thurstone / थर्स्टन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Spearman proposed G (General) and S (Specific) factors."
+    },
+    {
+      "id": "bc196c1c",
+      "question": "[Section 7: Child Psychology] 'Multiple Intelligences Theory' was formulated by: / 'बहु-बुद्धि सिद्धांत' किसने प्रतिपादित किया?",
+      "options": [
+        "Howard Gardner / होवर्ड गार्डनर",
+        "Robert Sternberg / स्टर्नबर्ग",
+        "J.P. Guilford / गिलफोर्ड",
+        "Alfred Binet / बिने"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Howard Gardner proposed Multiple Intelligences Theory in 1983."
+    },
+    {
+      "id": "920df595",
+      "question": "[Section 8: Life Skills & Management] According to Constitution Article 21A, Education is a: / संविधान अनुच्छेद 21A अनुसार शिक्षा है:",
+      "options": [
+        "Fundamental Right / मौलिक अधिकार",
+        "Directive Principle / नीति निदेशक तत्व",
+        "Fundamental Duty / मौलिक कर्तव्य",
+        "Legal Right / कानूनी अधिकार"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 21A grants Fundamental Right to Education for 6-14 years."
+    },
+    {
+      "id": "40ae6ada",
+      "question": "[Section 8: Life Skills & Management] Primary role of a teacher in modern child-centered classroom is: / बाल-केंद्रित कक्षा में शिक्षक की भूमिका है:",
+      "options": [
+        "Facilitator / सुगमकर्ता",
+        "Dictator / अधिनायक",
+        "Director / निर्देशक",
+        "Lecturer / व्याख्याता"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Modern pedagogy envisions teacher as a facilitator."
+    },
+    {
+      "id": "c635215c",
+      "question": "[Section 8: Life Skills & Management] Internal motivation is driven by: / आंतरिक अभिप्रेरणा का मुख्य कारक है:",
+      "options": [
+        "Self-satisfaction and interest / आत्म-संतोष एवं रुचि",
+        "Rewards and prizes / पुरस्कार",
+        "Fear of punishment / भय",
+        "Social praise / प्रशंसा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Intrinsic motivation stems from personal interest and self-satisfaction."
+    },
+    {
+      "id": "0232fef6",
+      "question": "[Section 8: Life Skills & Management] Which reward best supports intrinsic motivation? / आंतरिक प्रेरणा हेतु सर्वोत्तम पुनर्बलन है:",
+      "options": [
+        "Informational verbal praise / सूचनात्मक मौखिक प्रशंसा",
+        "Monetary rewards / नकद पुरस्कार",
+        "Trophies / शील्ड",
+        "Sweets / मिठाइयां"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Verbal praise focused on effort fosters intrinsic motivation."
+    },
+    {
+      "id": "b6673ded",
+      "question": "[Section 8: Life Skills & Management] Article 51A(k) lays down fundamental duty of: / अनुच्छेद 51A(k) किसका कर्तव्य निर्धारित करता है?",
+      "options": [
+        "Parents/Guardians / माता-पिता/अभिभावक",
+        "State government / राज्य सरकार",
+        "Teachers / शिक्षक",
+        "Children / बच्चे"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 51A(k) obligates parents to provide education opportunities."
+    },
+    {
+      "id": "67815c43",
+      "question": "[Section 8: Life Skills & Management] Who propounded Need Hierarchy Theory of Motivation? / 'आवश्यकता पदानुक्रम सिद्धांत' किसने दिया?",
+      "options": [
+        "Abraham Maslow / अब्राहम मैस्लो",
+        "B.F. Skinner / स्किनर",
+        "Herzberg / हर्जबर्ग",
+        "McClelland / मैक्लेलैंड"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Abraham Maslow proposed 5-level Need Hierarchy Theory."
+    },
+    {
+      "id": "db706ddc",
+      "question": "[Section 8: Life Skills & Management] Professional ethics demand teachers treat students: / शिक्षकों की व्यावसायिक नीति-शास्त्र मांग करती है:",
+      "options": [
+        "Equitably without discrimination / निष्पक्ष एवं समतापूर्ण",
+        "Based on social status / सामाजिक स्तर अनुसार",
+        "Based on marks only / केवल अंकों आधार पर",
+        "Based on personal choice / व्यक्तिगत पसंद पर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Professional ethics require unbiased, fair treatment to all."
+    },
+    {
+      "id": "450106b0",
+      "question": "[Section 8: Life Skills & Management] CCE stands for in evaluation: / मूल्यांकन में CCE का पूर्ण रूप है:",
+      "options": [
+        "Continuous and Comprehensive Evaluation / सतत एवं व्यापक मूल्यांकन",
+        "Class Child Evaluation / कक्षा बाल मूल्यांकन",
+        "Comprehensive Course Evaluation / व्यापक कोर्स मूल्यांकन",
+        "Central Child Education / केंद्रीय बाल शिक्षा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. CCE = Continuous and Comprehensive Evaluation."
+    },
+    {
+      "id": "c91ae732",
+      "question": "[Section 9: Logical Reasoning] Select the Odd One Out: / समूह में से भिन्न शब्द चुनिए:",
+      "options": [
+        "Brass / पीतल",
+        "Copper / तांबा",
+        "Zinc / जिंक",
+        "Iron / लोहा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Brass is an alloy; Copper, Zinc, Iron are pure elements."
+    },
+    {
+      "id": "baaaa4dd",
+      "question": "[Section 9: Logical Reasoning] If 'TEACHER' is coded as 'VGCEJFT', how is 'STUDENT' coded? / यदि 'TEACHER' = 'VGCEJFT', तो 'STUDENT' = ?",
+      "options": [
+        "UWVFGPV",
+        "UVWFGPV",
+        "UWVFHQU",
+        "TVUFGOU"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Pattern is +2 for each letter. S(+2)=U, T(+2)=W, U(+2)=W, D(+2)=F, E(+2)=G, N(+2)=P, T(+2)=V."
+    },
+    {
+      "id": "d0aceb0a",
+      "question": "[Section 9: Logical Reasoning] Pointing to a photo, a man said 'That man's father is my father's son.' Whose photo was it? / 'उस आदमी का पिता मेरे पिता का बेटा है।' तस्वीर किसकी थी?",
+      "options": [
+        "His son's / उसके पुत्र की",
+        "His own / उसकी अपनी",
+        "His father's / उसके पिता की",
+        "His nephew's / उसके भतीजे की"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'My father's son' = himself. That man's father = himself. Photo is of his son."
+    },
+    {
+      "id": "dea6e475",
+      "question": "[Section 9: Logical Reasoning] If 1st Jan 2024 was Monday, what day was 31st Dec 2024? / यदि 1 जन 2024 को सोमवार था, तो 31 दिसं 2024 को कौन सा दिन था?",
+      "options": [
+        "Tuesday / मंगलवार",
+        "Monday / सोमवार",
+        "Wednesday / बुधवार",
+        "Sunday / रविवार"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 2024 is a Leap Year (+1 extra odd day). Monday + 1 = Tuesday."
+    },
+    {
+      "id": "fa396eb3",
+      "question": "[Section 9: Logical Reasoning] Complete series: 2, 6, 12, 20, 30, ? / श्रृंखला पूरी करें: 2, 6, 12, 20, 30, ?",
+      "options": [
+        "42",
+        "40",
+        "36",
+        "48"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Differences are +4, +6, +8, +10, +12. 30 + 12 = 42."
+    },
+    {
+      "id": "7884130f",
+      "question": "[Section 10: IT] What is the full form of CPU? / सीपीयू (CPU) का पूर्ण रूप क्या है?",
+      "options": [
+        "Central Processing Unit / सेंट्रल प्रोसेसिंग यूनिट",
+        "Central Program Unit / सेंट्रल प्रोग्राम यूनिट",
+        "Control Processing Unit / कंट्रोल प्रोसेसिंग यूनिट",
+        "Computer Power Unit / कंप्यूटर पावर यूनिट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. CPU = Central Processing Unit."
+    },
+    {
+      "id": "d806bece",
+      "question": "[Section 10: IT] Which of the following is a Volatile Memory? / कौन सी एक अस्थाई/वोलाटाइल मेमोरी है?",
+      "options": [
+        "RAM / रैम",
+        "ROM / रोम",
+        "Hard Disk / हार्ड डिस्क",
+        "Pen Drive / पेन ड्राइव"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RAM loses its data when power is switched off."
+    },
+    {
+      "id": "98cbbd0e",
+      "question": "[Section 10: IT] URL stands for in web browser addresses: / यूआरएल (URL) का पूर्ण रूप क्या है?",
+      "options": [
+        "Uniform Resource Locator / यूनिफॉर्म रिसोर्स लोकेटर",
+        "Universal Resource Link / यूनिवर्सल रिसोर्स लिंक",
+        "Uniform Resource Link / यूनिफॉर्म रिसोर्स लिंक",
+        "United Resource Locator / यूनाइटेड रिसोर्स लोकेटर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. URL = Uniform Resource Locator."
+    },
+    {
+      "id": "a267a000",
+      "question": "[Section 10: IT] In MS-PowerPoint, key used to start slideshow from beginning is: / पावरपॉइंट में प्रारंभ से स्लाइड शो चलाने की शॉर्टकट कुंजी है:",
+      "options": [
+        "F5",
+        "Shift + F5",
+        "Ctrl + F5",
+        "F11"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. F5 starts the slideshow from the first slide."
+    }
+  ]
+}

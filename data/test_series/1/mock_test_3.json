@@ -1,0 +1,1448 @@
+{
+  "title": "Mock Test 3",
+  "duration_minutes": 120,
+  "marks_per_question": 3.0,
+  "negative_marks": 1.0,
+  "questions": [
+    {
+      "id": "f9292bbe",
+      "question": "[Section 1: Languages - Hindi] 'स्थावर' शब्द का विलोम शब्द क्या है? / What is the antonym of 'Sthavar'?",
+      "options": [
+        "जंगम",
+        "अचल",
+        "चंचल",
+        "साधु"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'स्थावर' (स्थिर रहने वाला) का सही विलोम शब्द 'जंगम' (चलने-फिरने वाला) होता है।"
+    },
+    {
+      "id": "6c909d68",
+      "question": "[Section 1: Languages - Hindi] 'कविश्रेष्ठ' (कवियों में श्रेष्ठ) में कौन सा तत्पुरुष समास है?",
+      "options": [
+        "अधिकऱण तत्पुरुष",
+        "संबंधित तत्पुरुष",
+        "कर्म तत्पुरुष",
+        "करण तत्पुरुष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'कवियों में श्रेष्ठ' (सप्तमी/अधिकरण कारक का चिह्न 'में') होने से इसमें अधिकरण तत्पुरुष है।"
+    },
+    {
+      "id": "a1fa30b4",
+      "question": "[Section 1: Languages - Hindi] 'सूर्योदय' (सूर्य + उदय) शब्द में कौन सी सन्धि है?",
+      "options": [
+        "गुण सन्धि",
+        "वृद्धि सन्धि",
+        "दीर्घ सन्धि",
+        "अयादि सन्धि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'अ + उ = ओ' (आद्गुणः सूत्र) होने के कारण इसमें गुण स्वर सन्धि है।"
+    },
+    {
+      "id": "c52d166c",
+      "question": "[Section 1: Languages - Hindi] 'अन्वेषण' (अनु + एषण) में कौन सी सन्धि है?",
+      "options": [
+        "यण सन्धि",
+        "गुण सन्धि",
+        "अयादि सन्धि",
+        "दीर्घ सन्धि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'उ' का 'व्' (इको यणचि) में परिवर्तन यण सन्धि का उदाहरण है।"
+    },
+    {
+      "id": "38ed6a0b",
+      "question": "[Section 1: Languages - Hindi] 'जो मापा न जा सके' वाक्यांश के लिए एक शब्द क्या होगा?",
+      "options": [
+        "अपरिमेय",
+        "अपरिमित",
+        "अनुपेय",
+        "अतुलनीय"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. जिसे मापा न जा सके उसे 'अपरिमेय' कहा जाता है।"
+    },
+    {
+      "id": "05c216fb",
+      "question": "[Section 1: Languages - Hindi] 'अंगूठा दिखाना' मुहावरे का सही अर्थ क्या है?",
+      "options": [
+        "एन वक्त पर मना करना",
+        "अंगूठे से इशारा करना",
+        "अपमान करना",
+        "मदद करना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'अंगूठा दिखाना' का अर्थ एन मौके पर किसी काम से साफ इनकार कर देना है।"
+    },
+    {
+      "id": "c3b43b13",
+      "question": "[Section 1: Languages - Hindi] निम्नलिखित में से शुद्ध शब्द का चयन कीजिए:",
+      "options": [
+        "कवयित्री",
+        "कवियत्री",
+        "कवयत्री",
+        "कवीत्री"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'कवि' का सही स्त्रीलिंग एवं शुद्ध वर्तनी 'कवयित्री' है।"
+    },
+    {
+      "id": "f71eaf3a",
+      "question": "[Section 1: Languages - Hindi] 'चौपाई' छंद के प्रत्येक चरण में कितनी मात्राएं होती हैं?",
+      "options": [
+        "16 मात्राएं",
+        "13 मात्राएं",
+        "11 मात्राएं",
+        "24 मात्राएं"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. चौपाई एक सममात्रिक छंद है जिसके प्रत्येक चरण में 16-16 मात्राएं होती हैं।"
+    },
+    {
+      "id": "64549fae",
+      "question": "[Section 1: Languages - Hindi] 'शांत रस' का स्थायी भाव क्या है?",
+      "options": [
+        "निर्वेद (शम)",
+        "रति",
+        "उत्साह",
+        "क्रोध"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. शांत रस का स्थायी भाव 'निर्वेद' या शम होता है।"
+    },
+    {
+      "id": "1a753580",
+      "question": "[Section 1: Languages - Hindi] 'अनुराग' का सही विलोम शब्द क्या होगा?",
+      "options": [
+        "विराग",
+        "द्वेष",
+        "घृणा",
+        "विद्वेष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'अनुराग' का विलोम शब्द 'विराग' होता है।"
+    },
+    {
+      "id": "67831366",
+      "question": "[Section 1: Languages - English] Select the correct SYNONYM of 'OBSTREPEROUS':",
+      "options": [
+        "Unruly / Noisy",
+        "Docile",
+        "Taciturn",
+        "Serene"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Obstreperous' means noisy and difficult to control; unruly."
+    },
+    {
+      "id": "67c19b76",
+      "question": "[Section 1: Languages - English] Select the correct ANTONYM of 'GREGARIOUS':",
+      "options": [
+        "Reclusive / Reserved",
+        "Sociable",
+        "Affable",
+        "Garrulous"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Gregarious' means fond of company; its opposite is 'reclusive'."
+    },
+    {
+      "id": "750529de",
+      "question": "[Section 1: Languages - English] Identify the error: 'No sooner did the bell rang than the students ran out.'",
+      "options": [
+        "the bell rang",
+        "No sooner did",
+        "than the students",
+        "ran out"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. After auxiliary verb 'did', base form of verb ('ring' instead of 'rang') must be used."
+    },
+    {
+      "id": "6ae8b53e",
+      "question": "[Section 1: Languages - English] Transform into Passive Voice: 'Who wrote this famous play?'",
+      "options": [
+        "By whom was this famous play written?",
+        "By whom had this famous play been written?",
+        "Who was written this famous play by?",
+        "By whom is this famous play written?"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'Who + past verb' converts to 'By whom + was + subject + past participle'."
+    },
+    {
+      "id": "67a84cd6",
+      "question": "[Section 1: Languages - English] Convert into Indirect Speech: The teacher said, 'Light travels in a straight line.'",
+      "options": [
+        "The teacher said that light travels in a straight line.",
+        "The teacher said that light traveled in a straight line.",
+        "The teacher told light travels in a straight line.",
+        "The teacher said that light had traveled in a straight line."
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Universal truths and scientific facts remain in Simple Present in indirect speech."
+    },
+    {
+      "id": "cf36ceb1",
+      "question": "[Section 1: Languages - English] Fill in the blank: 'He is averse ________ taking unnecessary physical risks.'",
+      "options": [
+        "to",
+        "for",
+        "towards",
+        "with"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. The adjective 'averse' takes the preposition 'to'."
+    },
+    {
+      "id": "18746aa1",
+      "question": "[Section 1: Languages - English] What does the idiom 'To throw down the gauntlet' mean?",
+      "options": [
+        "To issue a formal challenge",
+        "To surrender gracefully",
+        "To accept defeat",
+        "To make a truce"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'To throw down the gauntlet' means to issue a challenge."
+    },
+    {
+      "id": "54091d24",
+      "question": "[Section 1: Languages - English] One-word substitution: 'A disease or condition that persists for a long time.'",
+      "options": [
+        "Chronic",
+        "Acute",
+        "Contagious",
+        "Epidemic"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. A 'chronic' condition persists over a long period or constantly recurs."
+    },
+    {
+      "id": "d79ecb83",
+      "question": "[Section 1: Languages - English] Identify the figure of speech: 'The wild winds weep in the dark night.'",
+      "options": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Oxymoron"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Attributing human emotions (weeping) to non-human entities (winds) is Personification."
+    },
+    {
+      "id": "a0a50746",
+      "question": "[Section 1: Languages - English] Select the correctly spelt word:",
+      "options": [
+        "Surveillance",
+        "Surveillence",
+        "Survelance",
+        "Surveilance"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. The correct spelling is 'Surveillance'."
+    },
+    {
+      "id": "a70a5a00",
+      "question": "[Section 1: Languages - Sanskrit] 'इचुयशानाम् ________' सूत्र के अनुसार उच्चारण स्थान क्या है?",
+      "options": [
+        "तालु",
+        "कण्ठः",
+        "मूर्धा",
+        "दन्ताः"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'इचुयशानां तालु' सूत्र से इ, च-वर्ग, य और श का उच्चारण स्थान तालु होता है।"
+    },
+    {
+      "id": "7f9ac291",
+      "question": "[Section 1: Languages - Sanskrit] 'आद्गुणः' सूत्र से किस सन्धि का विधान होता है?",
+      "options": [
+        "गुण सन्धि",
+        "दीर्घ सन्धि",
+        "वृद्धि सन्धि",
+        "यण् सन्धि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अ/आ के पश्चात् इ/उ/ऋ आने पर गुण एकादेश (ए, ओ, अर्) होना गुण सन्धि है।"
+    },
+    {
+      "id": "6889f254",
+      "question": "[Section 1: Languages - Sanskrit] 'महाभाष्य' ग्रन्थ के रचयिता कौन हैं?",
+      "options": [
+        "महर्षि पतंजलि",
+        "पाणिनि",
+        "कात्यायन",
+        "भर्तृहरि"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. अष्टाध्यायी पर विस्तृत महाभाष्य की रचना पतंजलि ने की थी।"
+    },
+    {
+      "id": "dc73eb40",
+      "question": "[Section 1: Languages - Sanskrit] 'उपकृष्णम्' (कृष्णस्य समीपम्) में कौन सा समास है?",
+      "options": [
+        "अव्ययीभाव समास",
+        "तत्पुरुष समास",
+        "कर्मधारय समास",
+        "बहुव्रीहि समास"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. पूर्व पद 'उप' अव्यय होने के कारण 'उपकृष्णम्' में अव्ययीभाव समास है।"
+    },
+    {
+      "id": "25008237",
+      "question": "[Section 1: Languages - Sanskrit] 'सहयुक्तेऽप्रधान' सूत्र के योग में कौन सी विभक्ति होती है?",
+      "options": [
+        "तृतीया विभक्ति",
+        "चतुर्थी विभक्ति",
+        "पंचमी विभक्ति",
+        "द्वितीया विभक्ति"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'सह, साकम्, सार्धम्' के योग में अप्रधान कर्त्ता में तृतीया विभक्ति होती है।"
+    },
+    {
+      "id": "858cc5e6",
+      "question": "[Section 1: Languages - Sanskrit] 'पठितुम्' पद में कौन सा प्रत्यय है?",
+      "options": [
+        "तुमुन्",
+        "क्त्वा",
+        "ल्यप्",
+        "शतृ"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. पठ् + तुमुन् = पठितुम् (पढ़ने के लिए)।"
+    },
+    {
+      "id": "976c7824",
+      "question": "[Section 1: Languages - Sanskrit] संस्कृत में स्पर्श व्यंजनों की कुल संख्या कितनी है?",
+      "options": [
+        "25",
+        "33",
+        "20",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 'कादयो मावसानाः स्पर्शाः' - क से म तक कुल 25 स्पर्श व्यंजन हैं।"
+    },
+    {
+      "id": "6595fbcf",
+      "question": "[Section 1: Languages - Sanskrit] 'हरि' शब्द का पंचमी विभक्ति एकवचन रूप क्या है?",
+      "options": [
+        "हरेः",
+        "हरिम्",
+        "हरिणा",
+        "हरये"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. इकारान्त 'हरि' शब्द का पंचमी व षष्ठी एकवचन रूप 'हरेः' होता है।"
+    },
+    {
+      "id": "9572c76a",
+      "question": "[Section 1: Languages - Sanskrit] संस्कृत संख्या 'एकोनचत्वारिंशत्' का क्या अर्थ है?",
+      "options": [
+        "39",
+        "49",
+        "29",
+        "41"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. एक उन (कम) चत्वारिंशत् (40) = 39."
+    },
+    {
+      "id": "f7e1d676",
+      "question": "[Section 1: Languages - Sanskrit] 'रघुवंशम्' महाकाव्य के रचयिता कौन हैं?",
+      "options": [
+        "महाकवि कालिदास",
+        "भारवि",
+        "माघ",
+        "भवभूति"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 19 सर्गों वाले 'रघुवंशम्' महाकाव्य के रचयिता महाकवि कालिदास हैं।"
+    },
+    {
+      "id": "83f5a9b6",
+      "question": "[Section 2: GK & Current Affairs] Who is the current Governor of the Reserve Bank of India (RBI)? / भारतीय रिजर्व बैंक (RBI) के वर्तमान गवर्नर कौन हैं?",
+      "options": [
+        "Sanjay Malhotra / संजय मल्होत्रा",
+        "Shaktikanta Das / शक्तिकांत दास",
+        "Urjit Patel / उर्जित पटेल",
+        "Raghuram Rajan / रघुराम राजन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Sanjay Malhotra succeeded Shaktikanta Das as the RBI Governor."
+    },
+    {
+      "id": "088072ce",
+      "question": "[Section 2: GK & Current Affairs] India's first deep ocean human mission MATSYA 6000 is named: / भारत के गहरे समुद्र के मानव मिशन का नाम क्या है?",
+      "options": [
+        "Samudrayaan / समुद्रयान",
+        "Gaganyaan / गगनयान",
+        "Sagar Kanya / सागर कन्या",
+        "Jal Yaan / जल यान"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Samudrayaan project employs the MATSYA 6000 submersible to explore deep ocean resources."
+    },
+    {
+      "id": "c042558d",
+      "question": "[Section 2: GK & Current Affairs] What is the name of the female humanoid robot built by ISRO for Gaganyaan test flights? / गगनयान के परीक्षण हेतु इसरो द्वारा बनाई गई महिला रोबोट का नाम क्या है?",
+      "options": [
+        "Vyommitra / व्योममित्र",
+        "Sophia / सोफिया",
+        "Mitra / मित्र",
+        "Gagan Robot / गगन रोबोट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Vyommitra is a half-humanoid robot designed by ISRO."
+    },
+    {
+      "id": "de2475e2",
+      "question": "[Section 2: GK & Current Affairs] Who won the Nobel Prize in Literature 2024? / 2024 का साहित्य का नोबेल पुरस्कार किसे मिला?",
+      "options": [
+        "Han Kang / हान कांग",
+        "Jon Fosse / जॉन फॉसे",
+        "Annie Ernaux / एनी एरनॉक्स",
+        "Samantha Harvey / समंथा हार्वे"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. South Korean author Han Kang won the Nobel Prize in Literature 2024."
+    },
+    {
+      "id": "fd0c8f1a",
+      "question": "[Section 2: GK & Current Affairs] Who won the Best Actor award at the 70th National Film Awards for 'Kantara'? / 70वें राष्ट्रीय फिल्म पुरस्कारों में फिल्म 'कांतारा' हेतु सर्वश्रेष्ठ अभिनेता का पुरस्कार किसने जीता?",
+      "options": [
+        "Rishab Shetty / ऋषभ शेट्टी",
+        "Allu Arjun / अल्लू अर्जुन",
+        "Vicky Kaushal / विक्की कौशल",
+        "Ranbir Kapoor / रणबीर कपूर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Rishab Shetty won Best Actor for his role in 'Kantara'."
+    },
+    {
+      "id": "a8fb0468",
+      "question": "[Section 2: GK & Current Affairs] Where is the headquarters of ISRO located? / इसरो (ISRO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Bengaluru / बेंगलुरु",
+        "New Delhi / नई दिल्ली",
+        "Hyderabad / हैदराबाद",
+        "Mumbai / मुंबई"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. ISRO headquarters is located in Bengaluru, Karnataka."
+    },
+    {
+      "id": "86dc98fb",
+      "question": "[Section 2: GK & Current Affairs] Which city in UP is famous as the 'Perfume Capital of India' (इत्र नगरी)? / उत्तर प्रदेश का कौन सा शहर 'इत्र नगरी' के नाम से प्रसिद्ध है?",
+      "options": [
+        "Kannauj / कन्नौज",
+        "Firozabad / फिरोजाबाद",
+        "Moradabad / मुरादाबाद",
+        "Jaunpur / जौनपुर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Kannauj is renowned for its traditional perfume (attar) industry."
+    },
+    {
+      "id": "6f51865e",
+      "question": "[Section 2: GK & Current Affairs] Which city in UP is known as 'Peetal Nagari' (Brass City)? / उत्तर प्रदेश के किस शहर को 'पीतल नगरी' कहा जाता है?",
+      "options": [
+        "Moradabad / मुरादाबाद",
+        "Firozabad / फिरोजाबाद",
+        "Aligarh / अलीगढ़",
+        "Saharanpur / सहारनपुर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Moradabad is world-famous for its brass handicrafts."
+    },
+    {
+      "id": "5eefb488",
+      "question": "[Section 2: GK & Current Affairs] What is the State Tree of Uttar Pradesh? / उत्तर प्रदेश का आधिकारिक राज्य वृक्ष कौन सा है?",
+      "options": [
+        "Ashoka / अशोक",
+        "Banyan / बरगद",
+        "Peepal / पीपल",
+        "Neem / नीम"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ashoka (Saraca asoca) is the official state tree of UP."
+    },
+    {
+      "id": "d29d4daf",
+      "question": "[Section 2: GK & Current Affairs] Which Article of the Constitution guarantees Right to Education (RTE)? / कौन सा अनुच्छेद शिक्षा का अधिकार (RTE) प्रदान करता है?",
+      "options": [
+        "Article 21A / अनुच्छेद 21A",
+        "Article 19A / अनुच्छेद 19A",
+        "Article 45 / अनुच्छेद 45",
+        "Article 51A / अनुच्छेद 51A"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Article 21A inserted by 86th Amendment 2002 makes free primary education a Fundamental Right."
+    },
+    {
+      "id": "8dcc2612",
+      "question": "[Section 2: GK & Current Affairs] Which Constitutional Amendment introduced Panchayati Raj in India? / भारत में पंचायती राज व्यवस्था किस संशोधन द्वारा लागू हुई?",
+      "options": [
+        "73rd Amendment 1992 / 73वां संशोधन",
+        "74th Amendment 1992 / 74वां संशोधन",
+        "42nd Amendment / 42वां संशोधन",
+        "44th Amendment / 44वां संशोधन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 73rd Constitutional Amendment Act 1992 added Part IX and 11th Schedule for Panchayats."
+    },
+    {
+      "id": "b068d4e8",
+      "question": "[Section 2: GK & Current Affairs] Who is the Ex-Officio Chairman of Rajya Sabha? / राज्यसभा का पदेन सभापति कौन होता है?",
+      "options": [
+        "Vice President of India / भारत का उपराष्ट्रपति",
+        "President of India / राष्ट्रपति",
+        "Prime Minister / प्रधानमंत्री",
+        "Speaker of Lok Sabha / लोकसभा अध्यक्ष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. The Vice President of India presides as the Ex-Officio Chairman of Rajya Sabha."
+    },
+    {
+      "id": "11a65894",
+      "question": "[Section 2: GK & Current Affairs] What is the minimum age required to become a Lok Sabha MP? / लोकसभा सदस्य बनने हेतु न्यूनतम आयु कितनी है?",
+      "options": [
+        "25 years / 25 वर्ष",
+        "30 years / 30 वर्ष",
+        "35 years / 35 वर्ष",
+        "21 years / 21 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Minimum age for Lok Sabha is 25 years (30 for Rajya Sabha)."
+    },
+    {
+      "id": "e1f217c1",
+      "question": "[Section 2: GK & Current Affairs] Who founded the 'Brahmo Samaj' in 1828? / 1828 में 'ब्रह्म समाज' की स्थापना किसने की थी?",
+      "options": [
+        "Raja Ram Mohan Roy / राजा राममोहन राय",
+        "Swami Dayanand / स्वामी दयानंद",
+        "Swami Vivekananda / स्वामी विवेकानंद",
+        "Ishwar Chandra Vidyasagar / विद्यासागर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Raja Ram Mohan Roy established Brahmo Samaj in Kolkata."
+    },
+    {
+      "id": "926c661f",
+      "question": "[Section 2: GK & Current Affairs] First Battle of Panipat (1526) was fought between Babur and: / 1526 में पानीपत की पहली लड़ाई बाबर और किसके बीच हुई थी?",
+      "options": [
+        "Ibrahim Lodi / इब्राहिम लोदी",
+        "Hemu / हेमू",
+        "Rana Sanga / राणा सांगा",
+        "Sher Shah Suri / शेरशाह सूरी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Babur defeated Ibrahim Lodi in 1526 laying the Mughal Empire foundation."
+    },
+    {
+      "id": "8d6637a2",
+      "question": "[Section 2: GK & Current Affairs] Who gave the slogan 'Swaraj is my birthright and I shall have it'? / 'स्वराज मेरा जन्मसिद्ध अधिकार है' का नारा किसने दिया?",
+      "options": [
+        "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+        "Mahatma Gandhi / गांधीजी",
+        "Subhash Chandra Bose / बोस",
+        "Lala Lajpat Rai / लाला लाजपत राय"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Lokmanya Bal Gangadhar Tilak gave this historic slogan."
+    },
+    {
+      "id": "ca4a2767",
+      "question": "[Section 2: GK & Current Affairs] Ozone layer is located in which layer of the atmosphere? / ओजोन परत वायुमंडल की किस परत में स्थित है?",
+      "options": [
+        "Stratosphere / समतापमंडल",
+        "Troposphere / क्षोभमंडल",
+        "Mesosphere / मध्यमंडल",
+        "Thermosphere / तापमंडल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ozone layer is situated in the Stratosphere."
+    },
+    {
+      "id": "969d3517",
+      "question": "[Section 2: GK & Current Affairs] Where is WHO (World Health Organization) headquarters located? / डब्ल्यूएचओ (WHO) का मुख्यालय कहाँ स्थित है?",
+      "options": [
+        "Geneva, Switzerland / जेनेवा, स्विट्जरलैंड",
+        "Paris, France / पेरिस",
+        "Washington D.C. / वाशिंगटन डी.सी.",
+        "Rome, Italy / रोम"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. WHO headquarters is located in Geneva, Switzerland."
+    },
+    {
+      "id": "a6968884",
+      "question": "[Section 2: GK & Current Affairs] International Yoga Day is celebrated every year on: / अंतर्राष्ट्रीय योग दिवस प्रतिवर्ष कब मनाया जाता है?",
+      "options": [
+        "June 21 / 21 जून",
+        "June 5 / 5 जून",
+        "July 11 / 11 जुलाई",
+        "March 8 / 8 मार्च"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. International Yoga Day is celebrated on June 21."
+    },
+    {
+      "id": "194a29e6",
+      "question": "[Section 2: GK & Current Affairs] Which river is known as the 'Sorrow of Bihar'? / किस नदी को 'बिहार का शोक' कहा जाता है?",
+      "options": [
+        "Kosi River / कोसी नदी",
+        "Damodar River / दामोदर नदी",
+        "Gandak River / गंडक नदी",
+        "Son River / सोन नदी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Kosi River is called Sorrow of Bihar due to frequent flooding."
+    },
+    {
+      "id": "0ed1ae7d",
+      "question": "[Section 2: GK & Current Affairs] Which pass connects Srinagar to Leh? / श्रीनगर को लेह से जोड़ने वाला दर्रा कौन सा है?",
+      "options": [
+        "Zoji La Pass / ज़ोजी ला दर्रा",
+        "Nathu La Pass / नाथू ला दर्रा",
+        "Shipki La Pass / शिपकी ला दर्रा",
+        "Rohtang Pass / रोहतांग दर्रा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Zoji La Pass connects Srinagar with Leh in Ladakh."
+    },
+    {
+      "id": "9b06c5ce",
+      "question": "[Section 2: GK & Current Affairs] Radcliffe Line forms the boundary between India and: / रेडक्लिफ रेखा भारत और किस देश के मध्य सीमा है?",
+      "options": [
+        "Pakistan / पाकिस्तान",
+        "China / चीन",
+        "Afghanistan / अफगानिस्तान",
+        "Bangladesh / बांग्लादेश"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Radcliffe Line separates India and Pakistan."
+    },
+    {
+      "id": "2cffd1a0",
+      "question": "[Section 2: GK & Current Affairs] Who authored the book 'Poverty and Un-British Rule in India'? / 'पोवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक किसने लिखी?",
+      "options": [
+        "Dadabhai Naoroji / दादाभाई नौरोजी",
+        "R.C. Dutt / आर.सी. दत्त",
+        "Jawaharlal Nehru / नेहरू",
+        "Mahatma Gandhi / गांधीजी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Dadabhai Naoroji (Grand Old Man of India) authored this book on drain of wealth."
+    },
+    {
+      "id": "ad272b99",
+      "question": "[Section 2: GK & Current Affairs] Which bank is known as the 'Banker's Bank' in India? / भारत में 'बैंकों का बैंक' किसे कहा जाता है?",
+      "options": [
+        "Reserve Bank of India (RBI) / भारतीय रिजर्व बैंक",
+        "State Bank of India (SBI) / भारतीय स्टेट बैंक",
+        "NABARD / नाबार्ड",
+        "PNB / पीएनबी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RBI is the central bank and regulates all commercial banks in India."
+    },
+    {
+      "id": "92c3f1ad",
+      "question": "[Section 2: GK & Current Affairs] Which state in India has the highest area under forest cover? / क्षेत्रफल की दृष्टि से भारत के किस राज्य में सर्वाधिक वन हैं?",
+      "options": [
+        "Madhya Pradesh / मध्य प्रदेश",
+        "Mizoram / मिजोरम",
+        "Arunachal Pradesh / अरुणाचल प्रदेश",
+        "Chhattisgarh / छत्तीसगढ़"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. MP has the largest forest cover by total geographical area."
+    },
+    {
+      "id": "e8d0b6ca",
+      "question": "[Section 3: Mathematics] If 20% of a number is 80, what is 50% of that number? / यदि किसी संख्या का 20% मान 80 है, तो उसका 50% मान क्या होगा?",
+      "options": [
+        "200",
+        "160",
+        "240",
+        "180"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Number = 80 / 0.20 = 400. 50% of 400 = 200."
+    },
+    {
+      "id": "ea47865a",
+      "question": "[Section 3: Mathematics] Average of first 10 prime numbers is: / प्रथम 10 अभाज्य संख्याओं का औसत क्या होगा?",
+      "options": [
+        "12.9",
+        "11.5",
+        "13.2",
+        "14"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Sum = 129. Average = 129 / 10 = 12.9."
+    },
+    {
+      "id": "a4d0a3f8",
+      "question": "[Section 3: Mathematics] Simple Interest on ₹5,000 at 8% per annum for 3 years is: / ₹5,000 पर 8% वार्षिक दर से 3 वर्ष का साधारण ब्याज कितना होगा?",
+      "options": [
+        "₹1,200",
+        "₹1,000",
+        "₹1,500",
+        "₹1,600"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. SI = (P * R * T) / 100 = (5000 * 8 * 3) / 100 = ₹1,200."
+    },
+    {
+      "id": "dcb8d513",
+      "question": "[Section 3: Mathematics] A trader sells a watch for ₹720 with a profit of 20%. The cost price is: / 20% लाभ पर ₹720 में बेची गई घड़ी का क्रय मूल्य क्या होगा?",
+      "options": [
+        "₹600",
+        "₹580",
+        "₹650",
+        "₹550"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. CP = SP / (1 + Profit%) = 720 / 1.20 = ₹600."
+    },
+    {
+      "id": "d1252eb2",
+      "question": "[Section 3: Mathematics] HCF of 36 and 84 is: / 36 और 84 का म०स० (HCF) क्या होगा?",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "24"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 36 = 12 * 3, 84 = 12 * 7. Highest Common Factor = 12."
+    },
+    {
+      "id": "898c9103",
+      "question": "[Section 3: Mathematics] Area of a triangle with base 12 cm and height 8 cm is: / आधार 12 सेमी और ऊंचाई 8 सेमी वाले त्रिभुज का क्षेत्रफल क्या होगा?",
+      "options": [
+        "48 sq cm",
+        "96 sq cm",
+        "24 sq cm",
+        "36 sq cm"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Area = 1/2 * base * height = 1/2 * 12 * 8 = 48 sq cm."
+    },
+    {
+      "id": "58004438",
+      "question": "[Section 3: Mathematics] A train 150m long crosses a pole in 9 seconds. Speed of train in km/h is: / 150 मीटर लंबी ट्रेन खंभे को 9 सेकंड में पार करती है। ट्रेन की चाल किमी/घंटा में क्या होगी?",
+      "options": [
+        "60 km/h",
+        "50 km/h",
+        "72 km/h",
+        "54 km/h"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Speed = 150 / 9 m/s = (150/9) * (18/5) = 60 km/h."
+    },
+    {
+      "id": "5100c993",
+      "question": "[Section 3: Mathematics] A and B can do a work in 10 and 15 days respectively. Together they will finish it in: / A और B किसी काम को क्रमशः 10 और 15 दिन में पूरा करते हैं। दोनों मिलकर इसे कितने दिन में करेंगे?",
+      "options": [
+        "6 days / 6 दिन",
+        "8 days / 8 दिन",
+        "5 days / 5 दिन",
+        "7 days / 7 दिन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Combined time = (10 * 15) / (10 + 15) = 150 / 25 = 6 days."
+    },
+    {
+      "id": "4906d3c6",
+      "question": "[Section 3: Mathematics] If side of a cube is 5 cm, its Total Surface Area is: / यदि घन की भुजा 5 सेमी है, तो कुल पृष्ठीय क्षेत्रफल क्या होगा?",
+      "options": [
+        "150 sq cm",
+        "125 sq cm",
+        "100 sq cm",
+        "180 sq cm"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Total Surface Area of cube = 6 * a^2 = 6 * 5^2 = 6 * 25 = 150 sq cm."
+    },
+    {
+      "id": "06b6112d",
+      "question": "[Section 3: Mathematics] If x - 1/x = 3, then x^2 + 1/x^2 is: / यदि x - 1/x = 3 है, तो x^2 + 1/x^2 का मान क्या होगा?",
+      "options": [
+        "11",
+        "9",
+        "7",
+        "13"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. x^2 + 1/x^2 = 3^2 + 2 = 9 + 2 = 11."
+    },
+    {
+      "id": "bbc4b558",
+      "question": "[Section 3: Mathematics] Exterior angle of a regular octagon (8 sides) is: / समअष्टभुज (8 भुजाओं) के एक बाह्य कोण का मान क्या होगा?",
+      "options": [
+        "45°",
+        "60°",
+        "30°",
+        "50°"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Exterior angle = 360° / n = 360° / 8 = 45°."
+    },
+    {
+      "id": "f1e31f5e",
+      "question": "[Section 3: Mathematics] If circumference of a circle is 44 cm, its radius is: (π = 22/7) / यदि वृत्त की परिधि 44 सेमी है, तो उसकी त्रिज्या क्या होगी?",
+      "options": [
+        "7 cm",
+        "14 cm",
+        "3.5 cm",
+        "10.5 cm"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 2 * (22/7) * r = 44 => r = 7 cm."
+    },
+    {
+      "id": "eeea1da2",
+      "question": "[Section 3: Mathematics] Mode of the given data set: 4, 5, 6, 5, 7, 5, 8, 9, 5, 6 is: / आंकड़ों 4, 5, 6, 5, 7, 5, 8, 9, 5, 6 का बहुलक (Mode) क्या होगा?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Mode is the value appearing most frequently. 5 appears 4 times."
+    },
+    {
+      "id": "030da1d5",
+      "question": "[Section 3: Mathematics] Complementary angle of 42° is: / 42° कोण का कोटिपूरक कोण क्या होगा?",
+      "options": [
+        "48°",
+        "138°",
+        "58°",
+        "38°"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Complementary sum = 90°. Required angle = 90° - 42° = 48°."
+    },
+    {
+      "id": "e2e74b03",
+      "question": "[Section 3: Mathematics] Simplify: (1/2 + 1/3) ÷ (1/4) / व्यंजक (1/2 + 1/3) ÷ (1/4) को सरल करें:",
+      "options": [
+        "10/3 (3.33)",
+        "6-May",
+        "3-Feb",
+        "3-Apr"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. (1/2 + 1/3) = 5/6. (5/6) ÷ (1/4) = (5/6) * 4 = 20/6 = 10/3."
+    },
+    {
+      "id": "e5914bd3",
+      "question": "[Section 3: Mathematics] Convert 0.454545... into a simple fraction: / 0.454545... आवर्ती दशमलव को भिन्न में बदलें:",
+      "options": [
+        "11-May",
+        "45/100",
+        "20-Sep",
+        "11-Apr"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. 0.4545... = 45 / 99 = 5 / 11."
+    },
+    {
+      "id": "494e4110",
+      "question": "[Section 4: Science] Device used to measure electric current in a circuit is: / परिपथ में विद्युत धारा मापने वाला यंत्र है:",
+      "options": [
+        "Ammeter / एमीटर",
+        "Voltmeter / वोल्टमीटर",
+        "Galvanometer / गैल्वेनोमीटर",
+        "Barometer / बैरोमीटर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ammeter is connected in series to measure electric current."
+    },
+    {
+      "id": "13cef517",
+      "question": "[Section 4: Science] Mirage in deserts is caused by: / मरुस्थल में मरीचिका (Mirage) किस घटना के कारण बनती है?",
+      "options": [
+        "Total Internal Reflection / पूर्ण आंतरिक परावर्तन",
+        "Refraction / अपवर्तन",
+        "Diffraction / विवर्तन",
+        "Interference / व्यतिकरण"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Mirage occurs due to total internal reflection of light."
+    },
+    {
+      "id": "5b2ac803",
+      "question": "[Section 4: Science] What is the normal human body temperature in Celsius? / मानव शरीर का सामान्य तापमान सेल्सियस में कितना होता है?",
+      "options": [
+        "37 °C",
+        "98.6 °C",
+        "310 °C",
+        "40 °C"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Normal body temperature is 37 °C (98.6 °F)."
+    },
+    {
+      "id": "9a5493bb",
+      "question": "[Section 4: Science] Which acid is present in ant sting? / चींटी के डंक में कौन सा अम्ल होता है?",
+      "options": [
+        "Formic Acid (Methanoic acid) / फॉर्मिक अम्ल",
+        "Acetic Acid / एसिटिक अम्ल",
+        "Citric Acid / साइट्रिक अम्ल",
+        "Lactic Acid / लैक्टिक अम्ल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ant sting contains Formic acid (Methanoic acid)."
+    },
+    {
+      "id": "60e559d4",
+      "question": "[Section 4: Science] Organelle known as the 'Powerhouse of the cell' is: / 'कोशिका का पावरहाउस' किसे कहा जाता है?",
+      "options": [
+        "Mitochondria / माइटोकॉन्ड्रिया",
+        "Lysosome / लाइसोसोम",
+        "Ribosome / राइबोसोम",
+        "Nucleus / केंद्रक"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Mitochondria generates ATP energy for cellular function."
+    },
+    {
+      "id": "e34c96e0",
+      "question": "[Section 4: Science] Metal present in Chlorophyll pigment is: / क्लोरोफिल वर्णक में कौन सी धातु होती है?",
+      "options": [
+        "Magnesium / मैग्नीशियम",
+        "Iron / लोहा",
+        "Calcium / कैल्शियम",
+        "Zinc / जिंक"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Chlorophyll contains Magnesium at its central core."
+    },
+    {
+      "id": "21a1a097",
+      "question": "[Section 4: Science] Hormone responsible for regulating blood sugar levels is: / रक्त शर्करा नियंत्रित करने वाला हार्मोन कौन सा है?",
+      "options": [
+        "Insulin / इंसुलिन",
+        "Thyroxine / थायरोक्सिन",
+        "Adrenaline / एड्रेनालिन",
+        "Estrogen / एस्ट्रोजन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Insulin secreted by Pancreas lowers blood glucose levels."
+    },
+    {
+      "id": "ed6bb60f",
+      "question": "[Section 4: Science] Tissue responsible for water transport in plants is: / पौधों में जल संवहन के लिए कौन सा ऊतक उत्तरदायी है?",
+      "options": [
+        "Xylem / जाइलम",
+        "Phloem / फ्लोएम",
+        "Stomata / रंध्र",
+        "Cortex / वल्कुट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Xylem transports water and minerals from roots to leaves."
+    },
+    {
+      "id": "be20a82b",
+      "question": "[Section 5: EVS & Social Studies] Longest river in India is: / भारत की सबसे लंबी नदी कौन सी है?",
+      "options": [
+        "Ganga / गंगा",
+        "Godavari / गोदावरी",
+        "Yamuna / यमुना",
+        "Narmada / नर्मदा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Ganga is India's longest river (2,525 km)."
+    },
+    {
+      "id": "311d9733",
+      "question": "[Section 5: EVS & Social Studies] Kaziranga National Park in Assam is famous for: / काजीरंगा राष्ट्रीय उद्यान किसके लिए प्रसिद्ध है?",
+      "options": [
+        "One-horned Rhinoceros / एक सींग वाला गैंडा",
+        "Royal Bengal Tiger / बंगाल टाइगर",
+        "Asiatic Lion / एशियाई शेर",
+        "Elephant / हाथी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Kaziranga NP hosts the world's largest population of great one-horned rhinos."
+    },
+    {
+      "id": "b80e1a30",
+      "question": "[Section 5: EVS & Social Studies] Tropic of Cancer passes through how many Indian states? / कर्क रेखा भारत के कितने राज्यों से गुजरती है?",
+      "options": [
+        "8 states / 8 राज्य",
+        "6 states / 6 राज्य",
+        "7 states / 7 राज्य",
+        "9 states / 9 राज्य"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Tropic of Cancer passes through 8 Indian states."
+    },
+    {
+      "id": "ee1f816f",
+      "question": "[Section 5: EVS & Social Studies] Fundamental Concept of 'Ecosystem' was proposed by: / 'पारिस्थितिकी तंत्र' (Ecosystem) शब्द सर्वप्रथम किसने दिया?",
+      "options": [
+        "A.G. Tansley / ए.जी. टांसले",
+        "E.P. Odum / ओडम",
+        "Ernst Haeckel / हैकल",
+        "Charles Elton / एल्टन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. A.G. Tansley introduced the term 'Ecosystem' in 1935."
+    },
+    {
+      "id": "86f8cb4f",
+      "question": "[Section 5: EVS & Social Studies] Which Fundamental Right was removed by the 44th Amendment Act 1978? / 44वें संशोधन द्वारा किस मौलिक अधिकार को हटाया गया?",
+      "options": [
+        "Right to Property / संपत्ति का अधिकार",
+        "Right to Education / शिक्षा का अधिकार",
+        "Right to Freedom / स्वतंत्रता का अधिकार",
+        "Right to Equality / समानता का अधिकार"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Right to Property was made a legal right under Article 300A."
+    },
+    {
+      "id": "10f8ef14",
+      "question": "[Section 5: EVS & Social Studies] Only floating national park in the world (Keibul Lamjao) is in: / विश्व का एकमात्र तैरता राष्ट्रीय उद्यान कहाँ स्थित है?",
+      "options": [
+        "Manipur (Loktak Lake) / मणिपुर",
+        "Assam / असम",
+        "Meghalaya / मेघालय",
+        "Mizoram / मिजोरम"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Keibul Lamjao NP on Loktak Lake in Manipur is the only floating park."
+    },
+    {
+      "id": "feed5727",
+      "question": "[Section 5: EVS & Social Studies] Which district of UP is famous for Glassware and Bangles? / उत्तर प्रदेश का कौन सा शहर कांच की चूड़ियों हेतु प्रसिद्ध है?",
+      "options": [
+        "Firozabad / फिरोजाबाद",
+        "Kannauj / कन्नौज",
+        "Moradabad / मुरादाबाद",
+        "Aligarh / अलीगढ़"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Firozabad is known as the glass city of India."
+    },
+    {
+      "id": "f49bb8bf",
+      "question": "[Section 5: EVS & Social Studies] Project Tiger was launched in India in which year? / भारत में 'प्रोजेक्ट टाइगर' किस वर्ष शुरू किया गया?",
+      "options": [
+        "1973",
+        "1972",
+        "1980",
+        "1992"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Project Tiger was launched in April 1973 from Jim Corbett NP."
+    },
+    {
+      "id": "acb029d7",
+      "question": "[Section 6: Teaching Skills] First step of micro-teaching cycle is: / सूक्ष्म शिक्षण चक्र का प्रथम पद क्या होता है?",
+      "options": [
+        "Planning / पाठ नियोजन",
+        "Teaching / शिक्षण",
+        "Feedback / प्रतिपुष्टि",
+        "Re-planning / पुनः नियोजन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Micro-teaching cycle begins with Planning (पाठ नियोजन)."
+    },
+    {
+      "id": "dcd6c89d",
+      "question": "[Section 6: Teaching Skills] TLM used to teach visually impaired students is: / दृष्टिबाधित बालकों हेतु उपयुक्त TLM है:",
+      "options": [
+        "Braille Script & Tactile Materials / ब्रेल लिपि व स्पर्शनीय सामग्री",
+        "Charts and Posters / चार्ट व पोस्टर",
+        "Silent Movies / मूक चित्र",
+        "Blackboard writing / श्यामपट्ट"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Braille script and tactile models serve visually impaired learners."
+    },
+    {
+      "id": "3108dd49",
+      "question": "[Section 6: Teaching Skills] 'Learning by Doing' principle is emphasized by: / 'करके सीखना' (Learning by Doing) सिद्धांत पर कौन सा दर्शन बल देता है?",
+      "options": [
+        "Pragmatism / प्रयोजनवाद",
+        "Idealism / आदर्शवाद",
+        "Naturalism / प्रकृतिवाद",
+        "Realism / यथार्थवाद"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Pragmatism (John Dewey) advocates experiential learning by doing."
+    },
+    {
+      "id": "f6db99b4",
+      "question": "[Section 6: Teaching Skills] Main objective of Diagnostic Teaching (निदानात्मक शिक्षण) is: / निदानात्मक शिक्षण का मुख्य उद्देश्य है:",
+      "options": [
+        "To identify learning weaknesses & causes / अधिगम कठिनाइयों एवं कारणों की पहचान",
+        "To assign grades / ग्रेड देना",
+        "To conduct annual exam / परीक्षा लेना",
+        "To punish weak students / दंड देना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Diagnostic teaching identifies student learning gaps before remediation."
+    },
+    {
+      "id": "c2970e42",
+      "question": "[Section 6: Teaching Skills] Remedial Teaching (उपचारात्मक शिक्षण) follows: / उपचारात्मक शिक्षण किसके बाद किया जाता है?",
+      "options": [
+        "Diagnostic Evaluation / निदानात्मक परीक्षण के बाद",
+        "Summative Assessment / सत्रांत परीक्षा",
+        "Prognostic Test / पूर्वानुमान परीक्षा",
+        "Aptitude Test / अभिक्षमता परीक्षा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Remedial instruction remedies gaps discovered during diagnostic evaluation."
+    },
+    {
+      "id": "079638ac",
+      "question": "[Section 6: Teaching Skills] Bloom's Taxonomy of Educational Objectives classifies domain into: / ब्लूम के वर्गीकरण के 3 पक्ष कौन से हैं?",
+      "options": [
+        "Cognitive, Affective, Psychomotor / ज्ञानात्मक, भावात्मक, मनोक्रियात्मक",
+        "Mental, Physical, Social / मानसिक, शारीरिक, सामाजिक",
+        "Reading, Writing, Speaking / पठन, लेखन, वाचन",
+        "Knowledge, Memory, Logic / ज्ञान, स्मृति, तर्क"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Benjamin Bloom classified educational objectives into Cognitive, Affective, and Psychomotor domains."
+    },
+    {
+      "id": "5149ffb3",
+      "question": "[Section 6: Teaching Skills] Questioning skill in classroom is best used to: / कक्षा में प्रश्नोत्तर तकनीक का सर्वोत्तम उपयोग है:",
+      "options": [
+        "Arouse curiosity & active engagement / उत्सुकता जगाना व सक्रिय सहभागिता",
+        "Maintain silence / शांति बनाए रखना",
+        "Punish inattentive students / सजा देना",
+        "Test memory only / केवल रटना जांचना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Questioning stimulates critical thinking and active student engagement."
+    },
+    {
+      "id": "ebde072d",
+      "question": "[Section 6: Teaching Skills] Programmed Instruction method was developed by: / 'अभिक्रमित अनुदेशन' (Programmed Instruction) के प्रतिपादक हैं:",
+      "options": [
+        "B.F. Skinner / बी.एफ. स्किनर",
+        "Norman Crowder / नॉर्मन क्राउडर",
+        "E.L. Thorndike / थार्नडाइक",
+        "John Dewey / जॉन डीवी"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. B.F. Skinner developed Linear Programmed Instruction based on Operant Conditioning."
+    },
+    {
+      "id": "fbb6caaa",
+      "question": "[Section 7: Child Psychology] Operant Conditioning theory of learning was propounded by: / 'क्रिया प्रसूत अनुबंधन सिद्धांत' किसने दिया?",
+      "options": [
+        "B.F. Skinner / बी.एफ. स्किनर",
+        "Ivan Pavlov / इवान पावलोव",
+        "E.L. Thorndike / थार्नडाइक",
+        "Albert Bandura / बांडुरा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. B.F. Skinner experimented on rats/pigeons to demonstrate Operant Conditioning."
+    },
+    {
+      "id": "c30d672c",
+      "question": "[Section 7: Child Psychology] Insight Theory of Learning (सूझ का सिद्धांत) was demonstrated using chimpanzee 'Sultan' by: / चिम्पैंजी 'सुल्तान' पर प्रयोग कर सूझ का सिद्धांत किसने दिया?",
+      "options": [
+        "Wolfgang Kohler / वोल्फगैंग कोहलर",
+        "Kurt Koffka / कर्ट कोफ्का",
+        "Max Wertheimer / वर्टाइमर",
+        "Kurt Lewin / लेविन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Gestalt psychologist Wolfgang Kohler demonstrated Insight Learning."
+    },
+    {
+      "id": "6b4bc100",
+      "question": "[Section 7: Child Psychology] Primary Laws of Learning given by Thorndike are: / थार्नडाइक द्वारा दिए गए सीखने के 3 मुख्य नियम हैं:",
+      "options": [
+        "Law of Readiness, Exercise, Effect / तत्परता, अभ्यास, प्रभाव का नियम",
+        "Law of Primacy, Recency, Frequency / नवीनता, पुनरावृत्ति नियम",
+        "Law of Intensity, Association, Duration / तीव्रता, साहचर्य नियम",
+        "Law of Reward, Punishment, Fear / पुरस्कार व दंड नियम"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Thorndike formulated 3 primary laws: Readiness, Exercise, and Effect."
+    },
+    {
+      "id": "37d4ce50",
+      "question": "[Section 7: Child Psychology] First psychological laboratory was established in Leipzig (1879) by: / 1879 में प्रथम मनोवैज्ञानिक प्रयोगशाला की स्थापना किसने की थी?",
+      "options": [
+        "Wilhelm Wundt / विल्हेम वुंट",
+        "William James / विलियम जेम्स",
+        "John Watson / जॉन वाटसन",
+        "G. Stanley Hall / स्टेनली हॉल"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Wilhelm Wundt established the first psychology laboratory in Leipzig, Germany."
+    },
+    {
+      "id": "5207dd69",
+      "question": "[Section 7: Child Psychology] 'Father of Behaviorism' in psychology is: / मनोविज्ञान में 'व्यवहारवाद के जनक' किसे कहा जाता है?",
+      "options": [
+        "John B. Watson / जॉन बी. वाटसन",
+        "B.F. Skinner / स्किनर",
+        "Ivan Pavlov / पावलोव",
+        "William James / जेम्स"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. J.B. Watson established Behaviorism in 1913."
+    },
+    {
+      "id": "f10e6cf6",
+      "question": "[Section 7: Child Psychology] According to Piaget, 'Concrete Operational Stage' spans between ages: / पियाजे अनुसार 'मूर्त-संक्रियात्मक अवस्था' की आयु सीमा है:",
+      "options": [
+        "7 to 11 years / 7 से 11 वर्ष",
+        "2 to 7 years / 2 से 7 वर्ष",
+        "0 to 2 years / 0 से 2 वर्ष",
+        "11 to 15 years / 11 से 15 वर्ष"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Concrete operational stage lasts from 7 to 11 years."
+    },
+    {
+      "id": "ea3efd30",
+      "question": "[Section 7: Child Psychology] Scaffolding concept in learning was highlighted by: / अधिगम में 'पाड़/ढांचा' (Scaffolding) की संकल्पना किससे संबंधित है?",
+      "options": [
+        "Lev Vygotsky & Bruner / वाइगोत्स्की एवं ब्रूनर",
+        "Jean Piaget / जीन पियाजे",
+        "Thorndike / थार्नडाइक",
+        "Skinner / स्किनर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Scaffolding is temporary support provided by MKO (More Knowledgeable Other) in ZPD."
+    },
+    {
+      "id": "631b0d1f",
+      "question": "[Section 7: Child Psychology] Personality classification into Introvert, Extrovert, Ambivert was given by: / अंतर्मुखी, बहिर्मुखी, उभयमुखी व्यक्तित्व वर्गीकरण किसने दिया?",
+      "options": [
+        "Carl Jung / कार्ल युंग",
+        "Gordon Allport / ऑलपोर्ट",
+        "R.B. Cattell / कैटैल",
+        "Sigmund Freud / फ्रायड"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Carl Jung classified personality types into Introvert, Extrovert, and Ambivert."
+    },
+    {
+      "id": "5a9fb2d8",
+      "question": "[Section 8: Life Skills & Management] Right to Education Act 2009 came into force in India on: / भारत में RTE अधिनियम 2009 किस तिथि से लागू हुआ?",
+      "options": [
+        "April 1, 2010 / 1 अप्रैल 2010",
+        "August 27, 2009 / 27 अगस्त 2009",
+        "January 26, 2010 / 26 जनवरी 2010",
+        "October 2, 2009 / 2 अक्टूबर 2009"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RTE Act 2009 came into national effect on April 1, 2010."
+    },
+    {
+      "id": "b1ad7252",
+      "question": "[Section 8: Life Skills & Management] According to NCF 2005, main purpose of assessment is: / NCF 2005 अनुसार आकलन का मुख्य उद्देश्य है:",
+      "options": [
+        "To improve teaching-learning process / शिक्षण-अधिगम प्रक्रिया में सुधार",
+        "To pass or fail students / पास-फेल घोषित करना",
+        "To rank students / रैंक देना",
+        "To compare achievements / तुलना करना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Assessment serves as feedback to enhance learning outcomes."
+    },
+    {
+      "id": "b2959bbe",
+      "question": "[Section 8: Life Skills & Management] Leadership style where leader consults team before deciding is: / लोकतांत्रिक/परामर्शदायी नेतृत्व शैली कहलाती है:",
+      "options": [
+        "Democratic Leadership / लोकतांत्रिक नेतृत्व",
+        "Autocratic Leadership / एकतंत्रवादी नेतृत्व",
+        "Laissez-faire Leadership / अहस्तक्षेपवादी नेतृत्व",
+        "Bureaucratic / नौकरशाही नेतृत्व"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Democratic leadership involves group participation and consensus."
+    },
+    {
+      "id": "a9711ede",
+      "question": "[Section 8: Life Skills & Management] Important life skill needed for resolving conflict constructively is: / द्वंद्व/संघर्ष समाधान हेतु आवश्यक जीवन कौशल है:",
+      "options": [
+        "Effective Communication & Empathy / प्रभावी संचार व सहानुभूति",
+        "Aggression / आक्रामकता",
+        "Avoidance / उपेक्षा करना",
+        "Dominance / प्रभुत्व जमाना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. WHO lists effective communication and interpersonal empathy as core life skills."
+    },
+    {
+      "id": "33546f86",
+      "question": "[Section 8: Life Skills & Management] Main purpose of Providing Mid-Day Meal in schools is: / मध्याह्न भोजन योजना (Mid-Day Meal) का मुख्य उद्देश्य है:",
+      "options": [
+        "To increase enrollment, retention & nutrition / नामांकन, ठहराव व पोषण सुधार",
+        "To reduce teacher workload / शिक्षक का काम घटाना",
+        "To provide employment to cooks / रसोइयों को काम देना",
+        "To replace home food / घर का खाना बदलना"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Mid-Day Meal Scheme enhances school attendance and addresses child hunger."
+    },
+    {
+      "id": "6f3b3485",
+      "question": "[Section 8: Life Skills & Management] Punishment that harms child's body or dignity is called: / बालक को शारीरिक/मानसिक क्षति पहुंचाने वाला दंड कहलाता है:",
+      "options": [
+        "Corporal Punishment / शारीरिक दंड (प्रतिबंधित)",
+        "Positive Reinforcement / सकारात्मक पुनर्वलन",
+        "Vicarious Punishment / परोक्ष दंड",
+        "Extinction / विलोपन"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. RTE Act Section 17 strictly bans Corporal Punishment in educational institutions."
+    },
+    {
+      "id": "2a01d91b",
+      "question": "[Section 8: Life Skills & Management] Ability to understand and manage one's own emotions is: / स्वयं के संवेगों को समझने व नियंत्रित करने की क्षमता कहलाती है:",
+      "options": [
+        "Self-Regulation / आत्म-नियमन (Self-Regulation)",
+        "Self-Esteem / आत्म-सम्मान",
+        "Sympathy / सहानुभूति",
+        "Aptitude / अभिक्षमता"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Self-regulation is a crucial component of Emotional Intelligence."
+    },
+    {
+      "id": "f710c50a",
+      "question": "[Section 8: Life Skills & Management] Formative Assessment (रचनात्मक आकलन) is conducted: / रचनात्मक मूल्यांकन कब किया जाता है?",
+      "options": [
+        "During the instruction process / शिक्षण-अधिगम प्रक्रिया के दौरान",
+        "At the end of the academic year / सत्र के अंत में",
+        "Before starting the school / प्रवेश के समय",
+        "Only during board exams / बोर्ड परीक्षा में"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Formative assessment provides continuous ongoing feedback during learning."
+    },
+    {
+      "id": "b0fd3e3c",
+      "question": "[Section 9: Logical Reasoning] Select the word least like the others in group: / समूह से भिन्न शब्द चुनिए:",
+      "options": [
+        "Cub / शेर का बच्चा (Cub)",
+        "Kitten / बिल्ली का बच्चा",
+        "Puppy / कुत्ता का बच्चा",
+        "Dog / कुत्ता (वयस्क)"
+      ],
+      "answer": 3,
+      "explanation": "+3 Marks / -1 Mark. Dog is an adult animal; Cub, Kitten, and Puppy are young offspring."
+    },
+    {
+      "id": "a67e0f1e",
+      "question": "[Section 9: Logical Reasoning] If 'CLOCK' is coded as '34235' and 'TIME' as '8679', how is 'MOLE' coded? / यदि 'CLOCK' = '34235', 'TIME' = '8679', तो 'MOLE' = ?",
+      "options": [
+        "7249",
+        "7239",
+        "7429",
+        "6249"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Direct letter coding: M=7, O=2, L=4, E=9 -> 7249."
+    },
+    {
+      "id": "b1e91cdd",
+      "question": "[Section 9: Logical Reasoning] A is B's brother. C is A's mother. D is C's father. How is B related to D? / A, B का भाई है। C, A की मां है। D, C का पिता है। B का D से क्या संबंध है?",
+      "options": [
+        "Grandson / Granddaughter (नाती/नातिन)",
+        "Son / पुत्र",
+        "Father / पिता",
+        "Uncle / चाचा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. D is maternal grandfather to A and B. Thus B is Grandson or Granddaughter to D."
+    },
+    {
+      "id": "213d681f",
+      "question": "[Section 9: Logical Reasoning] What was the day of week on 15th August 1947? / 15 अगस्त 1947 को सप्ताह का कौन सा दिन था?",
+      "options": [
+        "Friday / शुक्रवार",
+        "Saturday / शनिवार",
+        "Thursday / गुरुवार",
+        "Sunday / रविवार"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Standard calendar calculation confirms Aug 15, 1947 was a Friday."
+    },
+    {
+      "id": "628b6494",
+      "question": "[Section 9: Logical Reasoning] Complete the series: 3, 5, 9, 17, 33, ? / श्रृंखला पूरी करें: 3, 5, 9, 17, 33, ?",
+      "options": [
+        "65",
+        "49",
+        "55",
+        "60"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Pattern: +2, +4, +8, +16, +32. Next term = 33 + 32 = 65."
+    },
+    {
+      "id": "dd36202a",
+      "question": "[Section 10: IT] Primary non-volatile permanent memory in a computer is: / कंप्यूटर की प्राथमिक स्थायी (Non-volatile) मेमोरी है:",
+      "options": [
+        "ROM / रोम (ROM)",
+        "RAM / रैम",
+        "Cache / कैश",
+        "Register / रजिस्टर"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. ROM (Read Only Memory) retains data permanently even when unpowered."
+    },
+    {
+      "id": "bca7e5a3",
+      "question": "[Section 10: IT] HTML stands for in web design: / वेब डिज़ाइन में HTML का पूर्ण रूप क्या है?",
+      "options": [
+        "HyperText Markup Language / हाइपरटेक्स्ट मार्कअप लैंग्वेज",
+        "HighTech Markup Language / हाईटेक मार्कअप लैंग्वेज",
+        "HyperText Memory Link / हाइपरटेक्स्ट मेमोरी लिंक",
+        "HyperLink Text Language / हाइपरलिंक टेक्स्ट लैंग्वेज"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. HTML = HyperText Markup Language."
+    },
+    {
+      "id": "21ccdf3e",
+      "question": "[Section 10: IT] Which open source operating system is widely used in servers and smartphones (Android)? / एंड्रॉइड में प्रयुक्त ओपन-सोर्स ऑपरेटिंग सिस्टम कौन सा है?",
+      "options": [
+        "Linux Kernel / लिनक्स (Linux)",
+        "Windows / विंडोज",
+        "MS-DOS / एमएस-डॉस",
+        "macOS / मेक ओएस"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. Android OS is built on top of the open-source Linux kernel."
+    },
+    {
+      "id": "f9ab7f08",
+      "question": "[Section 10: IT] Digital platform launched by Ministry of Education for teacher training & school resources is: / शिक्षकों हेतु शिक्षा मंत्रालय का डिजिटल मंच है:",
+      "options": [
+        "DIKSHA / दीक्षा (DIKSHA)",
+        "SWAYAM / स्वयं",
+        "PRAGYATA / प्रज्ञाता",
+        "SHODHGANGA / शोधगंगा"
+      ],
+      "answer": 0,
+      "explanation": "+3 Marks / -1 Mark. DIKSHA is the national digital platform for school education and teacher training."
+    }
+  ]
+}
